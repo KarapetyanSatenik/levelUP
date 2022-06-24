@@ -164,7 +164,8 @@ Except this time, instead of a window object, we have an
 - and then we still have this. 
 And because getUser doesn't have any variables, the JavaScript engine doesn't need to set up any memory space or hoist any of those variable declarations.
 
-```js So once we finish stepping through this, you'll also notice that after getUser is finished
+```js 
+So once we finish stepping through this, you'll also notice that after getUser is finished
 executing, notice it's removed from the UI over here. And this brings us to the topic
 of an execution stack. So the way it works is any time a function is invoked, a new execution
 context is created and added to the execution stack. Whenever a function is finished running
