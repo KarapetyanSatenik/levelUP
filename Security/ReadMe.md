@@ -1,0 +1,2 @@
+## What is a Security Issue?
+A security issue is any unmitigated risk or vulnerability in your system that hackers can use to do damage to systems or data. This includes vulnerabilities in the servers and software connecting your business to customers, as well as your business processes and people. A vulnerability that hasn't been exploited is simply a vulnerability that hasn't been exploited yet. Web security problems should be addressed as soon as they are discovered, and effort should be put into finding them because exploit attempts are inevitable. 
