@@ -6,6 +6,7 @@
 
 - When the TCP segments arrive at the destination, the protocol makes sure that all the segments were received and there is no error in the transmission and all segments are organized back into the correct order.
 
+
 - On the other hand, UDP doesn’t even care that datagrams were received by the receiver.
 
 ## Connection type
