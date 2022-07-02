@@ -1,31 +1,38 @@
+// This file will have to do the following:
+// 1. Massage event data (parse XML and turn into JSON)
+// 2. Send massaged data to Event Ingestion SQS
 
+"use strict";
 
-// functioni depqum chenq karogh ogtagorcel extend, ete uzum enq mer function constructore jarangi,
-// karox enq ogtagorcel proto
+const LAP = require("@tr/lap_javascript_sdk");
+const log = new LAP.Logger("helper");
+const { ingestEvents } = require("./sqs-handler");
+const { scheduleParser } = require("./schedule-parser");
 
-// When we read a property from object, and it’s missing, JavaScript automatically 
-// takes it from the prototype. In programming, this is called “prototypal inheritance”. 
-// classnere karogh en jarangelvel miayn classic qanzi child classing petq e steghci parent 
-// constructore vorn el goyutyun chuni objecti depqum.
-// Base object constructor function
-function Animal(data) {
-    var that = {}; // Create an empty object
-    that.name = data.name; // Add it a "name" property
-    return that; // Return the object
-  };
-  
-  // Create achild object, inheriting from the base Animal
-  function Cat(data) {
-    // Create the Animal object
-    var that = Animal(data);
-    // Extend base object
-    that.sayHello = function() {
-      return 'Hello, I\'m ' + this.name;
-    };
-    return that;
-  };
-  
-  // Usage
-  var myCat = Cat({ name: 'Rufi' });
-  console.log(myCat.sayHello());
-  // Output: "Hello, I'm Rufi"
+async function handleSqsRecords(payload) {
+  try {
+    log.info(payload);
+    const map = {};
+    // Parse schedule file from xml to json with eventTypeCode and events so that we can ingest, content sub, and slug
+    const parsedRecord = await scheduleParser(payload);
+    const { eventTypeCode, events } = parsedRecord;
+    if (!map.hasOwnProperty(eventTypeCode)) {
+      map[eventTypeCode] = [];
+    }
+    map[eventTypeCode].push(...events);
+
+    const history = [];
+    for (const eventTypeCode of Object.keys(map)) {
+      log.info("Dropping events to the Event Calender Service ingestion queue");
+      const summary = await ingestEvents(map[eventTypeCode]);
+      history.push(...summary);
+    }
+    return history;
+  } catch (error) {
+    log.error({ err: error.stack }, "Failed to process records");
+  }
+}
+
+module.exports = {
+  handleSqsRecords,
+};
