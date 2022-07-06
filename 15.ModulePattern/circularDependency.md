@@ -1,4 +1,7 @@
+## Circular Dependency
+
 Assume that we have the project structure looks like this:
+
 ```js
 + clients
   - s3-client.js
@@ -9,7 +12,9 @@ Assume that we have the project structure looks like this:
   - ocr-service.js
   - registration-service.js
 ```
-Document service implementation.
+
+1. Document service implementation.
+
 ```js
 // /services/document-service.js
 const ocrService = require('./ocr-service');
@@ -65,7 +70,7 @@ module.exports = {
   storeIdentityCard,
 };
 ```
-Registration service implementation.
+2. Registration service implementation.
 
 ```js
 // /services/registration.service.js
@@ -99,12 +104,13 @@ module.exports = {
 };
 ```
 When the storeIdentityCard() method is called, it fails with the following error:
+
 ```js
 documentService.store is not a function
 ```
 If we closely look at document-service.js and registration-service.js, they’re both referencing each other causing a circular dependency between them.
 
-We can explain the control flow this way:
+- We can explain the control flow this way:
 
 1. document-service.js is loaded: During the loading process, several modules are imported. One of them is registration-service.js, which then forces the engine to load this module.
 2. registration-service.js is loaded: During the loading process, several modules are imported. One of them is again the document-service.js. At this point, the engine uses the as-yet unfilled exports (think {}) of the document-service.js module here.
