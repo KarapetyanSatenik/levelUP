@@ -1,1 +1,0 @@
-Uncaught Exception is when you throw an error and did not catch anywhere.
