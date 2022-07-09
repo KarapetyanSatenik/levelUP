@@ -1,21 +1,15 @@
-// constant
-const PI = 3.14; 
+class user{
+    constructor(){}
+     foo(params) {
+        
+    }
+}
 
-/**
- * Function to calculate area of a circle with given radius r
- * @param {number} r
- * @returns {number} area of circle 
- */
-const calculateArea = r => PI * r * r;
+let x = new user()
+for (const key in x) {
+    console.log(key);
+}
 
-
-
-/**
- * Function to calculate circumference of a circle with given radius r
- * @param {number} r
- * @returns {number} circumference of circle 
- */
-const calculateCircumference = r => 2 * PI * r;
-
-// logging the contents of module object
-console.log(module);
+for (const key in user) {
+    console.log(key);
+}
