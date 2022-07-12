@@ -120,3 +120,45 @@ let eventCalendarBody = {
     },
   };
   
+
+  const missingProperties = {
+    eventTypeCode: "OWG2022",
+    events: [
+      {
+        publisherId: undefined,
+        clientEventId: "140756822231",
+        eventTypeCode: "CorporateEarnings",
+        eventStatus: {
+          name: undefined,
+          testField: undefined,
+        },
+        eventBody: {
+          briefAvailable: undefined,
+          presentationAvailable: undefined,
+          transcriptAvailable: undefined,
+          guidanceAvailable: undefined,
+          mediaAvailable: undefined,
+          EventData: {
+            Derived: {
+              OrganizationPrimaryRIC: undefined,
+              EventDate: "2020-02-27T11:47:04+0000",
+              LastUpdatedAt: "2020-02-27T12:36:02+0000",
+              EventEndDate: "2020-02-28T11:47:04+0000",
+              OrganizationID: undefined,
+            },
+            Event: {
+              DistinguishingEventName: "Q3 2019 Cisco Inc Earnings Release",
+            },
+            id: undefined,
+          },
+        },
+        eventLocation: {
+          country: undefined,
+          city: undefined,
+        },
+        eventSlug: "TEST-SLUG",
+        startDate: "2020-02-28T13:30:00Z",
+        endDate: "2020-02-28T13:30:00Z",
+      },
+    ],
+  };
