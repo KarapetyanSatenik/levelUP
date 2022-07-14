@@ -1,3 +1,0 @@
-To put it simply, Scrum and Kanban are both a set of principles that help us organize our work. The goal of both is to deliver more value for the business faster and at a stable pace.
-
-In Scrum, there is no priority of individual tasks, the main thing in it is to finish the sprint, that is, to roll out a new feature. This is very useful if you want to make a minimum viable product. Kanban is suitable for when it is important for you to keep track of how busy your team is and to perform very complex tasks that cannot be postponed until later. In life, everyone develops, almost no IT company in the world uses pure Scrum, but works on a national team.
