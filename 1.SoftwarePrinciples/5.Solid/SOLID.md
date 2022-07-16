@@ -81,3 +81,9 @@ It also says that both the Class and the interface should not know how the tool 
 Goal
 
 This principle aims at reducing the dependency of a high-level Class on the low-level Class by introducing an interface.
+
+## Conclusion
+
+SOLID design principles increases maintainability, scalability, reusability and testability. These principles are global and apply everywhere.
+
+Implementing SOLID design principles during development will lead to systems that are more maintainable, scalable, testable, and reusable. In the current environment, these principles are used globally by engineers. We can use these principles to create beautiful projects that are understandable to industry standards.
