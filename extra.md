@@ -65,4 +65,28 @@ Event loop lives in libuvi that processes async events.
 When node executes async functions for example setTimeOut that operation is sent off to be executed in the background. As we know this operation is executed in os or on the thread pool. When that operation is finished and the result is ready node places that cb to queue.
 In case of settimeout when the timer is expired the cb is added in queue to be executed as soon as posable. 
 
-There are tree type of timers` settimeout setinterval, setimediate 
+There are tree type of timers` settimeout setinterval, setimediate.
+
+
+
+
+Process object is an instance of EventEmitter, and has on function which can react to different events that are emited at  different stages of the node process lifecycle. 0- for success operation.
+
+In node require is global object which is not part of vanilla js, this function takes js file executes it and then returns the code from that file.
+
+
+Best practice
+//fs.js
+module.export = {
+    read,
+    write
+}
+
+//send.js
+const {read} = require("./fs")
+
+when we use require, we use common js standard.
+
+Module.js
+
+1. for relative paths like './start.js' or ../config.mjs' the file extension is always necessary for these
