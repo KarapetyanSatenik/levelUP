@@ -2,12 +2,12 @@
 let payload = {
   OdfBody: {
     $: {
-      CompetitionCode: "OWG2022",
-      DocumentCode: "CER-------------------------------",
+      CompetitionCode: "OWG2022-HT", //UNIQUE ID FOR COMPETITION
+      DocumentCode: "CER-------------------------------", 
       DocumentType: "DT_SCHEDULE_UPDATE",
       Version: "2688",
       Language: "ENG",
-      FeedFlag: "P",
+      FeedFlag: "P", //T- test message or P- production message
       Date: "2022-02-17",
       Time: "084527763",
       LogicalDate: "2022-02-17",
