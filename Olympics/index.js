@@ -3,7 +3,7 @@ let payload = {
   OdfBody: {
     $: {
       CompetitionCode: "OWG2022",
-      DocumentCode: "TRU-------------------------------",
+      DocumentCode: "CER-------------------------------",
       DocumentType: "DT_SCHEDULE_UPDATE",
       Version: "2688",
       Language: "ENG",
