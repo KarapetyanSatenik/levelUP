@@ -76,3 +76,59 @@ let payload = {
     ],
   },
 };
+
+
+let unit = {
+    publisherId: 'd90972a3-65a5-447d-ae7b-084b8df9786d',
+    clientEventId: "",
+    eventTypeCode: 'OlympicsUnit',
+    eventStatus: {
+      name: unit['$']['ScheduleStatus'],
+    },
+    eventBody: {
+      code: unit['$']['Code'],
+      sportType: "",
+      phaseType: 'Competition',
+      eventName: "",
+      sessionCode: "",
+      startDateTime: "",
+      eventStatus: {
+        name: unit['$']['ScheduleStatus'],
+      },
+      competition: {
+        competitionCode: "",
+        documentCode: "",
+      },
+    },
+    eventLocation: {
+      venueName: "",
+      LocationName: "",
+    },
+    startDate: "",
+    endDate: "",
+    updateDate: "",
+  };
+
+  let session = {
+    publisherId: 'd90972a3-65a5-447d-ae7b-084b8df9786d',
+    clientEventId: "",
+    eventTypeCode: 'OlympicsSession',
+    eventBody: {
+      code: "",
+      sportType: "",
+      SessionName: "",
+      startDate: "",
+      endDate: "",
+      competition: {
+        competitionCode: "",
+        documentCode: "",
+      },
+    },
+    eventLocation: {
+      venue: "",
+      VenueName: "",
+    },
+    startDate: "",
+    endDate: "",
+    updateDate: "",
+  }
