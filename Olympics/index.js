@@ -16,22 +16,29 @@ let payload = {
     Competition: [
       {
         $: {
-          Gen: "WOG-2022-GEN",
-          Codes: "WOG-2022-3.10",
+          Gen: "SOG-2020-1.10",
+          Sport:"SOG-2020-DDD-1.10",
+          Codes: "SOG-2020-1.20",
         },
         Unit: [
           {
             $: {
               Code: "TRU-IHO-------------------3D------",
               PhaseType: "2",
+              UnitNum:"",
               ScheduleStatus: "SCHEDULED",
               StartDate: "2022-02-17T12:00:00+08:00",
               HideStartDate: "N",
               EndDate: "2022-02-17T13:00:00+08:00",
               HideEndDate: "N",
+              ActualStartDate:"",
+              ActualEndDate:"",
+              Order:"",
+              Medal:"",
               Venue: "NIS",
               Location: "NIS",
               MediaAccess: "OPE",
+              SessionCode:"",
               ModificationIndicator: "U",
             },
             ItemName: [
@@ -70,6 +77,7 @@ let payload = {
                 },
               },
             ],
+             StartList: [],
           },
         ],
       },
