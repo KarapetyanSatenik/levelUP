@@ -1,0 +1,18 @@
+{
+  "Type" : "Notification",
+  "MessageId" : "0440578d-cf29-545d-afd3-0d913935d120",
+  "TopicArn" : "arn:aws:sns:eu-west-1:304853478528:a204394-lap-prod-main-event-calendar-service-topic",
+  "Message" : "{\n  \"isReplay\": false,\n  \"route\": [],\n  \"action\": \"SAVE\",\n  \"event\": {\n    \"id\": \"45a200c6-2363-48ed-9796-ed93579f6d39\",\n    \"publisherId\": \"74e9a2e4-af4b-4bcf-a9fc-491423671749\",\n    \"clientEventId\": \"ALPTA\",\n    \"eventTypeCode\": \"OlympicsSession\",\n    \"eventBody\": {\n      \"code\": \"ALPTA\",\n      \"sportType\": \"Alpine Skiing\",\n      \"SessionName\":\"Session 1\",\n      \"Medal\" : \"Y\",\n      \"startDateTime\": \"2022-02-03T11:15:00+08:00\",\n      \"endDate\": \"2022-02-03T13:45:00+08:00\",\n      \"SessionType\":\"MOR\",\n      \"competition\": {\n        \"code\": \"OWG2022\",\n        \"documentCode\": \"ALP-------------------------------\"\n      }\n    },\n    \"eventLocation\": {\n      \"venue\": \"YAS\",\n      \"VenueName\": \"Yanqing Alpine Skiing Ctr\"\n    },\n    \"eventSlug\": \"OLYMPICS-2022-ALPINESKIING/\", \n    \"startDate\": \"2022-02-05T16:30:00Z\",\n    \"endDate\": \"2022-02-05T16:30:00Z\",\n    \"updateDate\": \"2022-01-19T03:13:31.283Z\",\n    \"statusChecksum\": \"bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f\",\n    \"bodyChecksum\": \"8829d1f84bad738f10082481484bfc6d18d24cd5\",\n    \"locationChecksum\": \"98b452b9b295094c1d176468b235d1c5534341c8\"\n  }\n}\n",
+  "Timestamp" : "2022-01-21T03:13:32.146Z",
+  "SignatureVersion" : "1",
+  "Signature" : "SAg2vXOJhuGAIAvNpuDbrkpSKdozz4HbbtNHypP5eWhPzlvjDEMOYJg3LISbjMJ05hyWH0FldMbVNO7rwzNXsECkTSDWBAwPoMLatbgStZmTaw/pNNwmwD1hnA63s+js7JpjZ4Atj4S3j1FWawDMkEzZ0IwDcnbc80l0V3MnHA0ZNLxI2zIUpvo0I4MlzvdhJAQhTRFHwwB4T0PdbygtxlObRE3aO089GTlKWjohaGSwf8c2Ozxk8BAE8eYKk42WRpQWoeJEPNYdTq3MDqdopQhsn/UXBjevumqspi2wnPyOSepWhrwlcg3eSH4glX5Bp19Znj5ssRksK7xYxzKYtA==",
+  "SigningCertURL" : "https://urldefense.com/v3/__https://sns.eu-west-1.amazonaws.com/SimpleNotificationService-7ff5318490ec183fbaddaa2a969abfda.pem__;!!GF_29dbcQIUBPA!1WrRoYL0kCyDRB2I9a0Y2966jcTVmEdHDk07PLy8eGiQH2EWq3NW6j3OAxtVAucJYDR-Q-UW9UEkxpdUdEq6CVbP5Z674Li1tB-PSDA$ [sns[.]eu-west-1[.]amazonaws[.]com]",
+  "UnsubscribeURL" : "https://urldefense.com/v3/__https://sns.eu-west-1.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:eu-west-1:304853478528:a204394-lap-prod-main-event-calendar-service-topic:99f0d4d7-ce0d-4b3a-9a79-6268486e24cc__;!!GF_29dbcQIUBPA!1WrRoYL0kCyDRB2I9a0Y2966jcTVmEdHDk07PLy8eGiQH2EWq3NW6j3OAxtVAucJYDR-Q-UW9UEkxpdUdEq6CVbP5Z674Li1ZWASOyY$ [sns[.]eu-west-1[.]amazonaws[.]com]",
+  "MessageAttributes" : {
+    "publisherId" : {"Type":"String","Value":"74e9a2e4-af4b-4bcf-a9fc-491423671749"},
+    "eventTypeCode" : {"Type":"String","Value":"OlympicsSession"},
+    "route" : {"Type":"String.Array","Value":"[]"},
+    "isReplay" : {"Type":"String","Value":"false"}
+  }
+}
+
