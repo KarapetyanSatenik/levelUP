@@ -86,49 +86,20 @@ let payload = {
 };
 
 
-let unit = {
-    publisherId: 'd90972a3-65a5-447d-ae7b-084b8df9786d',
-    clientEventId: "",
-    eventTypeCode: 'OlympicsUnit',
-    eventStatus: {
-      name: unit['$']['ScheduleStatus'],
-    },
-    eventBody: {
-      code: unit['$']['Code'],
-      sportType: "",
-      phaseType:unit['$']['PhaseType'],
-      eventName: "",
-      sessionCode: unit['$']['SessionCode'],
-      startDate: unit['$']['StartDate'],
-      eventStatus: {
-        name: unit['$']['ScheduleStatus'],
-      },
-      competition: {
-        competitionCode: competitionCode,
-        documentCode: payload['OdfBody']['$']['DocumentCode'],
-      },
-    },
-    eventLocation: {
-      venueName: unit['VenueDescription'][0]['$']['VenueName'],
-      locationName: "",
-    },
-    startDate: unit['$']['StartDate'],
-    endDate: unit['$']['EndDate'],
-    updateDate: "",
-  };
-
   let session = {
     publisherId: 'd90972a3-65a5-447d-ae7b-084b8df9786d',
     clientEventId: "",
     eventTypeCode: 'OlympicsSession',
     eventBody: {
       code: "",
-      sportType: "",
+     // "sportType": "Alpine Skiing",
+     // "SessionType":"Session 1",
+     // "Medal" : "Y",
       SessionName: session['SessionName'][0]['$']['Value'],
       startDate: session['$']['StartDate'],
       endDate: session['$']['EndDate'],
       competition: {
-        competitionCode: competitionCode,
+        code: competitionCode,
         documentCode: payload['OdfBody']['$']['DocumentCode'],
       },
     },
@@ -140,3 +111,39 @@ let unit = {
     endDate: session['$']['EndDate'],
     updateDate: "",
   }
+
+
+let unit = {
+    publisherId: 'd90972a3-65a5-447d-ae7b-084b8df9786d',
+    clientEventId: "",
+    eventTypeCode: 'OlympicsUnit',
+    eventStatus: {
+      name: unit['$']['ScheduleStatus'],
+    },
+    eventBody: {
+      code: unit['$']['Code'],
+//    sportType: "",
+//    gender:"",
+      phaseType:unit['$']['PhaseType'],
+      eventName: unit['ItemName'][0]['$']['Value'],
+//    eventStage:"",
+//    medal: "",
+//    itemName:"",
+      sessionCode: unit['$']['SessionCode'],
+      startDate: unit['$']['StartDate'],
+      eventStatus: {
+        name: unit['$']['ScheduleStatus'],
+      },
+      competition: {
+        code: competitionCode,
+        documentCode: payload['OdfBody']['$']['DocumentCode'],
+      },
+    },
+    eventLocation: {
+      venueName: unit['VenueDescription'][0]['$']['VenueName'],
+      locationName: "",
+    },
+    startDate: unit['$']['StartDate'],
+    endDate: unit['$']['EndDate'],
+    updateDate: "",
+  };
