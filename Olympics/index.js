@@ -88,10 +88,10 @@ let payload = {
 
   let session = {
     publisherId: 'd90972a3-65a5-447d-ae7b-084b8df9786d',
-    clientEventId: "",
+    clientEventId: session['$']['SessionCode'],
     eventTypeCode: 'OlympicsSession',
     eventBody: {
-      code: "",
+      code: session['$']['SessionCode'],
      // "sportType": "Alpine Skiing",
      // "SessionType":"Session 1",
      // "Medal" : "Y",
