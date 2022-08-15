@@ -99,7 +99,7 @@ let unit = {
       phaseType:unit['$']['PhaseType'],
       eventName: "",
       sessionCode: unit['$']['SessionCode'],
-      startDateTime: "",
+      startDate: unit['$']['StartDate'],
       eventStatus: {
         name: unit['$']['ScheduleStatus'],
       },
@@ -112,8 +112,8 @@ let unit = {
       venueName: unit['VenueDescription'][0]['$']['VenueName'],
       locationName: "",
     },
-    startDate: "",
-    endDate: "",
+    startDate: unit['$']['StartDate'],
+    endDate: unit['$']['EndDate'],
     updateDate: "",
   };
 
@@ -125,8 +125,8 @@ let unit = {
       code: "",
       sportType: "",
       SessionName: session['SessionName'][0]['$']['Value'],
-      startDate: "",
-      endDate: "",
+      startDate: session['$']['StartDate'],
+      endDate: session['$']['EndDate'],
       competition: {
         competitionCode: competitionCode,
         documentCode: payload['OdfBody']['$']['DocumentCode'],
@@ -136,7 +136,7 @@ let unit = {
       venue: session['$']['Venue'],
       venueName: session['$']['VenueName'],
     },
-    startDate: "",
-    endDate: "",
+    startDate: session['$']['StartDate'],
+    endDate: session['$']['EndDate'],
     updateDate: "",
   }
