@@ -12,7 +12,7 @@
     },
     "eventBody": {
       "code": "SSKW3000M-------------FNL-000100--",
-      "sportType": "Speed Skating",
+     // "sportType": "Speed Skating",
       "gender": "Women",
       "phaseType":"Competition",
      // "eventName": "Skating - Women's 3000m - Final",
