@@ -93,7 +93,7 @@ let payload = {
     eventBody: {
       code: session['$']['SessionCode'],
      // "sportType": "Alpine Skiing",
-     // "SessionType":"Session 1",
+     "SessionType":"Session 1",
      // "Medal" : "Y",
       SessionName: session['SessionName'][0]['$']['Value'],
       startDate: session['$']['StartDate'],
