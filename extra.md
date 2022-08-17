@@ -89,4 +89,4 @@ when we use require, we use common js standard.
 
 Module.js
 
-1. for relative paths like './start.js' or ../config.mjs' the file extension is always necessary for these
+1. for relative paths like './start.js' or ../config.mjs' the file extension is always necessary for these.
