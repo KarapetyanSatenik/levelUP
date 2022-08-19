@@ -90,3 +90,14 @@ when we use require, we use common js standard.
 Module.js
 
 1. for relative paths like './start.js' or ../config.mjs' the file extension is always necessary for these.
+
+
+- Modules or API's
+There are multiple APIs available, each with their own advantages and disadvantages. Under the hood, they are all based on the same implementation. 
+- Streams is the recommended approach if you need a maximum of power. It ensures scalability by treating your data as a stream from the source to the destination. 
+
+- web server
+
+when we click for example www.facebook.dom, the request will sent to dns on which the site is leaving and  it will provide us the ip address(usually 8 number 12 32 45 64 and also we can mention the type of server 12 32 45 64:80), and the we will make a http request to the http server. 
+
+req and res are streams

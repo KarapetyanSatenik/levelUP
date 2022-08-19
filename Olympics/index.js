@@ -7,7 +7,7 @@ let payload = {
       DocumentType: "DT_SCHEDULE_UPDATE",
       Version: "2688",
       Language: "ENG",
-      FeedFlag: "P", //T- test message or P- production message
+      FeedFlag: "T", //T- test message or P- production message
       Date: "2022-02-17",
       Time: "084527763",
       LogicalDate: "2022-02-17",
@@ -86,64 +86,74 @@ let payload = {
 };
 
 
-  let session = {
-    publisherId: 'd90972a3-65a5-447d-ae7b-084b8df9786d',
-    clientEventId: session['$']['SessionCode'],
-    eventTypeCode: 'OlympicsSession',
-    eventBody: {
-      code: session['$']['SessionCode'],
-     // "sportType": "Alpine Skiing",
-     "SessionType":"Session 1",
-     // "Medal" : "Y",
-      SessionName: session['SessionName'][0]['$']['Value'],
-      startDate: session['$']['StartDate'],
-      endDate: session['$']['EndDate'],
-      competition: {
-        code: competitionCode,
-        documentCode: payload['OdfBody']['$']['DocumentCode'],
-      },
-    },
-    eventLocation: {
-      venue: session['$']['Venue'],
-      venueName: session['$']['VenueName'],
-    },
-    startDate: session['$']['StartDate'],
-    endDate: session['$']['EndDate'],
-    updateDate: "",
+//   let session = {
+//     publisherId: 'd90972a3-65a5-447d-ae7b-084b8df9786d',
+//     clientEventId: session['$']['SessionCode'],
+//     eventTypeCode: 'OlympicsSession',
+//     eventBody: {
+//       code: session['$']['SessionCode'],
+//      // "sportType": "Alpine Skiing",
+//      "SessionType":"Session 1",
+//      // "Medal" : "Y",
+//       SessionName: session['SessionName'][0]['$']['Value'],
+//       startDate: session['$']['StartDate'],
+//       endDate: session['$']['EndDate'],
+//       competition: {
+//         code: competitionCode,
+//         documentCode: payload['OdfBody']['$']['DocumentCode'],
+//       },
+//     },
+//     eventLocation: {
+//       venue: session['$']['Venue'],
+//       venueName: session['$']['VenueName'],
+//     },
+//     startDate: session['$']['StartDate'],
+//     endDate: session['$']['EndDate'],
+//     updateDate: "",
+//   }
+
+
+// let unit = {
+//     publisherId: 'd90972a3-65a5-447d-ae7b-084b8df9786d',
+//     clientEventId: "",
+//     eventTypeCode: 'OlympicsUnit',
+//     eventStatus: {
+//       name: unit['$']['ScheduleStatus'],
+//     },
+//     eventBody: {
+//       code: unit['$']['Code'],
+// //    sportType: "",
+// //    gender:"",
+//       phaseType:unit['$']['PhaseType'],
+//       eventName: unit['ItemName'][0]['$']['Value'],
+// //    eventStage:"",
+// //    medal: "",
+// //    itemName:"",
+//       sessionCode: unit['$']['SessionCode'],
+//       startDate: unit['$']['StartDate'],
+//       eventStatus: {
+//         name: unit['$']['ScheduleStatus'],
+//       },
+//       competition: {
+//         code: competitionCode,
+//         documentCode: payload['OdfBody']['$']['DocumentCode'],
+//       },
+//     },
+//     eventLocation: {
+//       venueName: unit['VenueDescription'][0]['$']['VenueName'],
+//       locationName: "",
+//     },
+//     startDate: unit['$']['StartDate'],
+//     endDate: unit['$']['EndDate'],
+//     updateDate: "",
+//   };
+
+  function foo(env, flag){
+
+    if(env !== "ci" && flag === "P"){
+     
+    }
+    console.log("work");
   }
 
-
-let unit = {
-    publisherId: 'd90972a3-65a5-447d-ae7b-084b8df9786d',
-    clientEventId: "",
-    eventTypeCode: 'OlympicsUnit',
-    eventStatus: {
-      name: unit['$']['ScheduleStatus'],
-    },
-    eventBody: {
-      code: unit['$']['Code'],
-//    sportType: "",
-//    gender:"",
-      phaseType:unit['$']['PhaseType'],
-      eventName: unit['ItemName'][0]['$']['Value'],
-//    eventStage:"",
-//    medal: "",
-//    itemName:"",
-      sessionCode: unit['$']['SessionCode'],
-      startDate: unit['$']['StartDate'],
-      eventStatus: {
-        name: unit['$']['ScheduleStatus'],
-      },
-      competition: {
-        code: competitionCode,
-        documentCode: payload['OdfBody']['$']['DocumentCode'],
-      },
-    },
-    eventLocation: {
-      venueName: unit['VenueDescription'][0]['$']['VenueName'],
-      locationName: "",
-    },
-    startDate: unit['$']['StartDate'],
-    endDate: unit['$']['EndDate'],
-    updateDate: "",
-  };
+  foo("test", "T")
