@@ -22,10 +22,7 @@ exports.handler = async (event) => {
       const numRows = response.length;
 
       const getTriggerData = async (triggerTypes) => {
-        return triggerTypes.reduce((acc, el) => {
-          acc.push([e.MessageId]);
-          return acc;
-        }, []);
+        return triggerTypes.map(({ MessageId }) => [MessageId]);
       };
 
       const getTriggerId = async () => {
