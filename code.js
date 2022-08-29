@@ -7,7 +7,6 @@ const controller = require("./lib/controller");
 exports.handler = async (event) => {
   try {
     log.info({ event });
-
     const eventRecords = event.Records;
     let eventBody;
     let triggerId;
@@ -22,14 +21,11 @@ exports.handler = async (event) => {
       log.info({ response });
       const numRows = response.length;
 
-      const getTriggerData = async (response) => {
-        return response.reduce((acc, el) => {
-          acc.push([e.MessageId]);
-          return acc;
-        }, []);
+      const getTriggerData = async (triggerTypes) => {
+        return triggerTypes.map(({ MessageId }) => [MessageId]);
       };
 
-      const getTriggerType = async () => {
+      const getTriggerId = async () => {
         if (eventBody.hasOwnProperty("params")) {
           // This incoming event was coming from a on-demand invocation
           triggerId = eventBody.params[0].identifiers;
@@ -52,7 +48,7 @@ exports.handler = async (event) => {
         totalRowsCount: hasTriggerType ? numRows : 1,
         totalColumnsCount: 1,
         headers: [{ fieldName: "MessageId" }],
-        data: hasTriggerType ? getTriggerData(response) : getTriggerType(),
+        data: hasTriggerType ? getTriggerData(response) : getTriggerId(),
       };
     }
   } catch (ex) {
