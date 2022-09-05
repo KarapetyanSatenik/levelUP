@@ -1,59 +1,65 @@
-"use strict";
+'use strict';
 
-const LAP = require("@tr/lap_javascript_sdk");
-const log = new LAP.Logger("index");
-const controller = require("./lib/controller");
-
-exports.handler = async (event) => {
-  try {
-    log.info({ event });
-    const eventRecords = event.Records;
-    let eventBody;
-    let triggerId;
-    let originatorScheduleId;
-
-    for (let i = 0; i < eventRecords.length; i++) {
-      const record = eventRecords[i];
-      eventBody = JSON.parse(record.body);
-
-      const hasTriggerType = eventBody.hasOwnProperty("triggerTypes");
-      const response = await controller.processTriggerTypes({ triggerTypes });
-      log.info({ response });
-      const numRows = response.length;
-
-      const getTriggerData = async (triggerTypes) => {
-        return triggerTypes.map(({ MessageId }) => [MessageId]);
-      };
-
-      const getTriggerId = async () => {
-        if (eventBody.hasOwnProperty("params")) {
-          // This incoming event was coming from a on-demand invocation
-          triggerId = eventBody.params[0].identifiers;
-        } else {
-          // This incoming event was coming from a scheduled invocation
-          triggerId = eventBody.triggerId;
-          const { originatorSchedule } = record.messageAttributes;
-          if (originatorSchedule)
-            originatorScheduleId = originatorSchedule.stringValue;
-        }
-        const response = await controller.processTriggerId({
-          triggerId,
-          originatorScheduleId,
-        });
-        log.info({ response });
-        return [[response.MessageId]];
-      };
-
-      return {
-        totalRowsCount: hasTriggerType ? numRows : 1,
-        totalColumnsCount: 1,
-        headers: [{ fieldName: "MessageId" }],
-        data: hasTriggerType ? getTriggerData(response) : getTriggerId(),
-      };
+export class UserAccount {
+    constructor() {
+        this.paymentDates = [];
+        this.services = [];
     }
-  } catch (ex) {
-    log.error(ex);
-    throw ex;
-  }
-};
 
+    recalculateBalance() {
+        const unitRate = 0.8;
+
+        for (const service of this.services) {
+            const tariffs = service.getTariffs();
+            const historyOfCalculation = this.calculationHistoryService.retrieveHistory(service);
+
+            //find last calculation date
+            let lastCalculationDate = UserAccount.EPOCH_TIMESTAMP;
+            
+            for (const payment of this.paymentDates) {
+                lastCalculationDate = new Date(Math.max(payment.getTime(), lastCalculationDate));
+            }
+
+            let highestTariff = 0;
+            if (tariffs.length) {
+                for (const tariff of tariffs) {
+                    const tariffType = tariff.getType();
+                    highestTariff = Math.max(highestTariff, this.calculateUnapplied(tariff, lastCalculationDate, historyOfCalculation, unitRate, tariffType, service));
+                }
+            }
+
+            h.applyRecalculation(highestTariff, unitRate);
+            this.balance.updateBalance(highestTariff);
+        }
+    }
+
+    calculateUnapplied(tariff, lastCalculationDate, h, unitRate, t, service) {
+        const fees = h.getAllFees(tariff, service);
+        let sum = 0;
+
+        for (const date of fees.keys()) {
+            if (date > lastCalculationDate) {
+                sum += fees.get(date) * ((t.isUnitBased()) ? unitRate : 1) + tariff.getAdditionalFee();
+            }
+        }
+        return sum;
+    }
+
+    setCalculationHistoryService(calculationHistoryService) {
+        this.calculationHistoryService = calculationHistoryService;
+    }
+
+    setServices(newServices) {
+        this.services = newServices;
+    }
+
+    setBalance(newBalance) {
+        this.balance = newBalance;
+    }
+
+    setPaymentDates(newPaymentDates) {
+        this.paymentDates = newPaymentDates;
+    }
+}
+
+UserAccount.EPOCH_TIMESTAMP = 0;
