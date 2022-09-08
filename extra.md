@@ -101,5 +101,6 @@ There are multiple APIs available, each with their own advantages and disadvanta
 when we click for example www.facebook.dom, the request will sent to dns on which the site is leaving and  it will provide us the ip address(usually 8 number 12 32 45 64 and also we can mention the type of server 12 32 45 64:80), and the we will make a http request to the http server. 
 
 req(readable) and res(writeable) are streams
+So it means that when we do post request sending json object, our json object is converted to Buffer, cuz req and res are streams then we need to convert that buffer to stream or json.object
 
 origin is combination of tree things` protocol(https), host(www.google.com), port(443)
