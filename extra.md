@@ -104,3 +104,8 @@ req(readable) and res(writeable) are streams
 So it means that when we do post request sending json object, our json object is converted to Buffer, cuz req and res are streams then we need to convert that buffer to stream or json.object
 
 origin is combination of tree things` protocol(https), host(www.google.com), port(443)
+
+## Express
+
+it's a good practice always return a json object even if it's an error.
+Middleware is a special function that runs between or in the middle low the request coming in and the response coming out of our API
