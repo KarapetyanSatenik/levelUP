@@ -108,4 +108,7 @@ origin is combination of tree things` protocol(https), host(www.google.com), por
 ## Express
 
 it's a good practice always return a json object even if it's an error.
-Middleware is a special function that runs between or in the middle low the request coming in and the response coming out of our API
+Middleware is a special function that runs between or in the middle low the request coming in and the response coming out of our API.
+
+request => 1 middleware => next() => rout handler middleware => res.send() => back to 1 middleware => res send to the client.
+
