@@ -110,5 +110,17 @@ origin is combination of tree things` protocol(https), host(www.google.com), por
 it's a good practice always return a json object even if it's an error.
 Middleware is a special function that runs between or in the middle low the request coming in and the response coming out of our API.
 
-request => 1 middleware => next() => rout handler middleware => res.send() => back to 1 middleware => res send to the client.
+request => 1 middleware => next() => 2 rout handler middleware => res.send() => back to 1 middleware => res send to the client.
 
+
+Post request.
+if the client send us data in for of json object, our server doesn't understand json out of box. In case of http core module, it parse json data for every post request.
+In case of express we have express.json() built-in middleware, which gives us opportunity to write one one line code, and that line will be worked when we have a post request.
+express.json based on body-parser and only parses JSON and only looks at requests where the content-type header matches the type option. 
+
+A new body object containing the parsed data is populated on the request object after the middleware (i.e. req.body), or an empty object ({}) if there was no body to parse, the Content-Type was not matched, or an error occurred.
+
+So when we do validations, we don't need to check the req.body, cuz our express.json() sets empty body object to req.body and it definitely will exist, we can check only properties of body object exist or not.
+
+Arrow function, function declaration.
+If we get error inside of function declaration, node will tell us, that we have an error in that function, but if we get an error in arrow function node will not able to give us that additional information.
