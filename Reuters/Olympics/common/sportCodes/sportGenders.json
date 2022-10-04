@@ -1,0 +1,22 @@
+[
+    {
+        "id": "-",
+        "gender": "Global"
+    },
+    {
+        "id": "M",
+        "gender": "Men"
+    },
+    {
+        "id": "O",
+        "gender": "Open"
+    },
+    {
+        "id": "W",
+        "gender": "Women"
+    },
+    {
+        "id": "X",
+        "gender": "Mixed"
+    }
+]

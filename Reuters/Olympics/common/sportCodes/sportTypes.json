@@ -1,0 +1,102 @@
+[
+    {
+        "sport": "Alpine Skiing",
+        "sportCode": "ALP"
+    },
+    {
+        "sport": "Cultural Olympiad",
+        "sportCode": "ART"
+    },
+    {
+        "sport": "Bobsleigh",
+        "sportCode": "BOB"
+    },
+    {
+        "sport": "Biathlon",
+        "sportCode": "BTH"
+    },
+    {
+        "sport": "Cross-Country Skiing",
+        "sportCode": "CCS"
+    },
+    {
+        "sport": "Ceremonies",
+        "sportCode": "CER"
+    },
+    {
+        "sport": "Curling",
+        "sportCode": "CUR"
+    },
+    {
+        "sport": "Freestyle Skiing",
+        "sportCode": "FRS"
+    },
+    {
+        "sport": "Figure Skating",
+        "sportCode": "FSK"
+    },
+    {
+        "sport": "General",
+        "sportCode": "GEN"
+    },
+    {
+        "sport": "Ice Hockey",
+        "sportCode": "IHO"
+    },
+    {
+        "sport": "Luge",
+        "sportCode": "LUG"
+    },
+    {
+        "sport": "Nordic Combined",
+        "sportCode": "NCB"
+    },
+    {
+        "sport": "Snowboard",
+        "sportCode": "SBD"
+    },
+    {
+        "sport": "Ski Jumping",
+        "sportCode": "SJP"
+    },
+    {
+        "sport": "Skeleton",
+        "sportCode": "SKN"
+    },
+    {
+        "sport": "Speed Skating",
+        "sportCode": "SSK"
+    },
+    {
+        "sport": "Short Track Speed Skating",
+        "sportCode": "STK"
+    },
+    {
+        "sport": "IBSF events",
+        "sportCode": "BSN"
+    },
+    {
+        "sport": "IOC Activities",
+        "sportCode": "IOC"
+    },
+    {
+        "sport": "Medals",
+        "sportCode": "MDL"
+    },
+    {
+        "sport": "Nordic Events",
+        "sportCode": "NEV"
+    },
+    {
+        "sport": "Olympic Villages",
+        "sportCode": "OLV"
+    },
+    {
+        "sport": "Press Conferences",
+        "sportCode": "PCO"
+    },
+    {
+        "sport": "Skating",
+        "sportCode": "SKT"
+    }
+]

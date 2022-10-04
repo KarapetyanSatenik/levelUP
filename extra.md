@@ -1,5 +1,5 @@
 - closure has been added in ES3 in 1999
-- public class has been added in ES4 bur for political reason it died
+- public class has been added in ES4 but for political reason it died
 - we also have E4X. In E4X we could put xml in JS, and it was precursor to the idea of JSX. This also died.
 - in 2009 we have es5 after 10 years ago. We got strict mood, 
 that was the huge change set all of these changes that actually had been building up since es4 finally landed all at once and this one giant change set so this was definitely not a baby step but it was comprised of a bunch of ideas that had been baby steps along the way.
@@ -110,5 +110,36 @@ origin is combination of tree things` protocol(https), host(www.google.com), por
 it's a good practice always return a json object even if it's an error.
 Middleware is a special function that runs between or in the middle low the request coming in and the response coming out of our API.
 
-request => 1 middleware => next() => rout handler middleware => res.send() => back to 1 middleware => res send to the client.
+request => 1 middleware => next() => 2 rout handler middleware => res.send() => back to 1 middleware => res send to the client.
 
+
+Post request.
+if the client send us data in for of json object, our server doesn't understand json out of box. In case of http core module, it parse json data for every post request.
+In case of express we have express.json() built-in middleware, which gives us opportunity to write one one line code, and that line will be worked when we have a post request.
+express.json based on body-parser and only parses JSON and only looks at requests where the content-type header matches the type option. 
+
+A new body object containing the parsed data is populated on the request object after the middleware (i.e. req.body), or an empty object ({}) if there was no body to parse, the Content-Type was not matched, or an error occurred.
+
+So when we do validations, we don't need to check the req.body, cuz our express.json() sets empty body object to req.body and it definitely will exist, we can check only properties of body object exist or not.
+
+Arrow function, function declaration.
+If we get error inside of function declaration, node will tell us, that we have an error in that function, but if we get an error in arrow function node will not able to give us that additional information.
+
+
+let str = "Hello";
+
+str.test = 5; // (*)
+
+alert(str.test);
+Depending on whether you have use strict or not, the result may be:
+
+undefined (no strict mode)
+An error (strict mode).
+Why? Let’s replay what’s happening at line (*):
+
+When a property of str is accessed, a “wrapper object” is created.
+In strict mode, writing into it is an error.
+Otherwise, the operation with the property is carried on, the object gets the test property, but after that the “wrapper object” disappears, so in the last line str has no trace of the property.
+This example clearly shows that primitives are not objects.
+
+They can’t store additional data.

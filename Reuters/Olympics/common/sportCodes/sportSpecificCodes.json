@@ -1,0 +1,107 @@
+[
+    {
+        "code": "8FNL",
+        "sport": "SBD",
+        "description": "1/8 Finals"
+    },
+    {
+        "code": "CNCL",
+        "sport": "ALP",
+        "description": "No Competition"
+    },
+    {
+        "code": "DRAW",
+        "sport": "CUR",
+        "description": "Draw"
+    },
+    {
+        "code": "FNL-",
+        "sport": "ALP",
+        "description": "Final"
+    },
+    {
+        "code": "GPB-",
+        "sport": "IHO",
+        "description": "Preliminary Round - Group B"
+    },
+    {
+        "code": "GPC-",
+        "sport": "IHO",
+        "description": "Preliminary Round - Group C"
+    },
+    {
+        "code": "GPA-",
+        "sport": "IHP",
+        "description": "Preliminary Round - Group A"
+    },
+    {
+        "code": "HEAT",
+        "sport": "STK",
+        "description": "Heats"
+    },
+    {
+        "code": "MEET",
+        "sport": "ALP",
+        "description": "Team Captains' Meeting"
+    },
+    {
+        "code": "PREL",
+        "sport": "CUR",
+        "description": "Round Robin"
+    },
+    {
+        "code": "QFNL",
+        "sport": "FRS",
+        "description": "Quarterfinals"
+    },
+    {
+        "code": "QUAL",
+        "sport": "FRS",
+        "description": "Qualification"
+    },
+    {
+        "code": "TRNO",
+        "sport": "BOB",
+        "description": "Official Training"
+    },
+    {
+        "code": "ZERO",
+        "sport": "BTH",
+        "description": "Zeroing"
+    },
+    {
+        "code": "SEED",
+        "sport": "FRS",
+        "description": "Seeding"
+    },
+    {
+        "code": "SFNL",
+        "sport": "CCS",
+        "description": "Semifinals"
+    },
+    {
+        "code": "VICT",
+        "sport": "STK",
+        "description": "Victory Ceremony"
+    },
+    {
+        "code": "----",
+        "sport": "ALP",
+        "description": "Training"
+    },
+    {
+        "code": "CNCL",
+        "sport": "ALP",
+        "description": "No Competition"
+    },
+    {
+        "code": "TRNU",
+        "sport": "TRU",
+        "description": "Official Training"
+    },
+    {
+        "code": "HEAT",
+        "sport": "STK",
+        "description": "Heats"
+    }
+]

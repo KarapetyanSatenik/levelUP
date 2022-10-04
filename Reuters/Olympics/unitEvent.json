@@ -1,8 +1,8 @@
 {
   "isReplay": false,
   "route": [],
-  "action": "SAVE",
-  "event": { 
+  "action": "SAVE", //(UPDATE/DELETE)
+  "event": {
     "id": "45a200c6-2363-48ed-9796-ed93579f6d38",
     "publisherId": "74e9a2e4-af4b-4bcf-a9fc-491423671749",
     "clientEventId": "SSKW3000M-------------FNL-000100--",
@@ -12,16 +12,15 @@
     },
     "eventBody": {
       "code": "SSKW3000M-------------FNL-000100--",
-     // "sportType": "Speed Skating",
-     // "gender": "Women",
+      "sportType": "Speed Skating",
+      "gender": "Women",
       "phaseType":"Competition",
       "eventName": "Skating - Women's 3000m - Final",
-     // "eventStage": "Final",
-     // "medal":"0",
-     // "itemName":"Women's 3000M",
+      "eventStage": "Final",
+      "medal":"0",
+      "itemName":"Women's 3000M",
       "sessionCode" : "SSK01",
-      "startDate": "2022-02-05T16:30:00+08:00",
-      "endDate": "2022-02-05T16:30:00Z",
+      "startDateTime": "2022-02-05T16:30:00+08:00", //startDateTime might not be avbl if event status is UNSCHEDULED
       "eventStatus": {
         "name": "SCHEDULED"
       },
@@ -43,4 +42,3 @@
     "locationChecksum": "98b452b9b295094c1d176468b235d1c5534341c8"
   }
 }
- 
