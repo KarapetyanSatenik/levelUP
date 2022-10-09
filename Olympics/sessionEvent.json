@@ -9,9 +9,9 @@
     "eventTypeCode": "OlympicsSession",
     "eventBody": {
       "code": "ALPTA",
-     // "sportType": "Alpine Skiing",
+     "sportType": "Alpine Skiing",
      "SessionName":"Session 1",
-     // "Medal" : "Y",
+     "Medal" : "Y",
       "startDateTime": "2022-02-03T11:15:00+08:00",
       "endDate": "2022-02-03T13:45:00+08:00",
       "SessionType":"MOR",

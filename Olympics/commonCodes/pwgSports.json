@@ -1,0 +1,34 @@
+[
+    {
+        "sport": "Para Alpine Skiing",
+        "sportCode": "ALP"
+    },
+    {
+        "sport": "Para Biathlon",
+        "sportCode": "BTH"
+    },
+    {
+        "sport": "Para Cross-Country Skiing",
+        "sportCode": "CCS"
+    },
+    {
+        "sport": "Ceremonies",
+        "sportCode": "CER"
+    },
+    {
+        "sport": "Wheelchair Curling",
+        "sportCode": "CUR"
+    },
+    {
+        "sport": "General",
+        "sportCode": "GEN"
+    },
+    {
+        "sport": "Para Ice Hockey",
+        "sportCode": "IHO"
+    },
+    {
+        "sport": "Para Snowboard",
+        "sportCode": "SBD"
+    }
+]

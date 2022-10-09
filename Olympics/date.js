@@ -26,7 +26,6 @@ let xmlParsedBodyToJson = {
               EndDate: "2022-03-05T15:05:00+08:00",
               Venue: "ZBT",
               VenueName: "Zhangjiakou National Biathlon Centre",
-              Medal: "Y",
             },
             SessionName: [
               {
@@ -135,16 +134,41 @@ let xmlParsedBodyToJson = {
   },
 };
 
-("use strict");
 
-function eventsGenerator(payload) {
+'use strict';
+
+const fs = require('fs');
+const path = require('path');
+
+async function readJSONFile(path) {
+  const response = await fs.readFileSync(path, { encoding: 'utf-8' });
+  return JSON.parse(response);
+}
+
+
+async function eventsGenerator(payload) {
   const today = new Date();
   const events = {
     OlympicsSession: [],
     OlympicsUnit: [],
   };
 
+const owgSports = await readJSONFile(
+    path.resolve(__dirname, './commonCodes/owgSports.json')
+  );
+  const pwgSports = await readJSONFile(
+    path.resolve(__dirname, './commonCodes/pwgSports.json')
+  );
   const competitionCode = payload["OdfBody"]["$"]["CompetitionCode"];
+  
+
+  const sportName =
+    competitionCode === 'OWG2022'
+      ? owgSports.find((sport) => sport.sportCode).sport
+      : pwgSports.find((sport) => sport.sportCode).sport;
+      
+     console.log(sportName);
+
   if (payload["OdfBody"]["Competition"][0]["Session"]) {
     payload["OdfBody"]["Competition"][0]["Session"].forEach((session) => {
       sessionBody = {
@@ -156,6 +180,7 @@ function eventsGenerator(payload) {
           sessionName: session["SessionName"]
             ? session["SessionName"][0]["$"]["Value"]
             : undefined,
+          medal: session["$"]["Medal"],
           startDate: session["$"]["StartDate"],
           endDate: session["$"]["EndDate"],
           sessionType: session["$"]["SessionType"],
@@ -172,8 +197,8 @@ function eventsGenerator(payload) {
         endDate: session["$"]["EndDate"],
         updateDate: today,
       };
+      events.OlympicsSession.push(sessionBody);
     });
-    // events.OlympicsSession.push(sessionBody);
   }
   if (payload["OdfBody"]["Competition"][0]["Unit"]) {
     payload["OdfBody"]["Competition"][0]["Unit"].forEach((unit) => {
@@ -234,10 +259,11 @@ function eventsGenerator(payload) {
       ) {
         unitBody.eventBody.startDate = unit["$"]["StartDate"];
         unitBody.startDate = unit["$"]["StartDate"];
-      }
+      } 
+      events.OlympicsUnit.push(unitBody);
     });
 
-    events.OlympicsUnit.push(unitBody);
+   
   }
   return events;
 }
@@ -246,4 +272,4 @@ function eventsGenerator(payload) {
 
 let eventBody = eventsGenerator(xmlParsedBodyToJson);
 console.log(eventBody.OlympicsSession);
-console.log(eventBody.OlympicsUnit);
+// console.log(eventBody.OlympicsUnit);
