@@ -236,6 +236,9 @@ let xmlParsedBodyToJson = {
   },
 };
 
+const fs = require("fs");
+const path = require("path");
+
 async function eventsGenerator(payload) {
   const events = {
     OlympicsSession: [],
@@ -273,8 +276,9 @@ async function eventsGenerator(payload) {
       events.OlympicsSession.push(sessionEvent);
     });
   }
+
   if (payload["OdfBody"]["Competition"][0]["Unit"]) {
-    payload["OdfBody"]["Competition"][0]["Unit"].forEach((unit) => {
+    payload["OdfBody"]["Competition"][0]["Unit"].forEach(async (unit) => {
       const gender = getValueOfGender(unit);
       const unitEvent = {
         publisherId: "d90972a3-65a5-447d-ae7b-084b8df9786d",
@@ -342,6 +346,11 @@ async function eventsGenerator(payload) {
   return events;
 }
 
+async function readJSONFile(path) {
+  const response = await fs.readFileSync(path, { encoding: "utf-8" });
+  return JSON.parse(response);
+}
+
 function getValueOfGender(unit) {
   try {
     return unit["StartList"][0]["Start"][0]["Competitor"][0]["Composition"][0][
@@ -351,8 +360,33 @@ function getValueOfGender(unit) {
     return undefined;
   }
 }
-// console.log(eventsGenerator(xmlParsedBodyToJson));
+
+async function getSportType(competitionCode, unitCode) {
+  let sportType;
+  const owgSports = await readJSONFile(
+    path.resolve(__dirname, "./commonCodes/owgSports.json")
+  );
+  const pwgSports = await readJSONFile(
+    path.resolve(__dirname, "./commonCodes/pwgSports.json")
+  );
+
+  competitionCode === "OWG2022"
+    ? owgSports.find((sport) => {
+        if (unitCode.includes(sport.sportCode)) {
+          sportType = sport.sport;
+        }
+      })
+    : pwgSports.find((sport) => {
+        if (unitCode.includes(sport.sportCode)) {
+          sportType = sport.sport;
+        }
+      });
+
+  return sportType;
+}
 
 let eventBody = eventsGenerator(xmlParsedBodyToJson);
 
-console.log(eventBody);
+eventBody.then((r) => {
+  console.log(r.OlympicsSession);
+});

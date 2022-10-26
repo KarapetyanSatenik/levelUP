@@ -56,7 +56,7 @@ let xmlParsedBodyToJson = {
         Unit: [
           {
             $: {
-              Code: "TRU-IHO-------------------3D------",
+              Code: "BKBMTEAM5-------------GPA-0001----",
               PhaseType: "2",
               ScheduleStatus: "SCHEDULED",
               StartDate: "2022-02-17T12:00:00+08:00",
@@ -247,12 +247,20 @@ async function eventsGenerator(payload) {
   const pwgSports = await readJSONFile(
     path.resolve(__dirname, "./commonCodes/pwgSports.json")
   );
+  const owgSportsSpecificCodes = await readJSONFile(
+    path.resolve(__dirname, "./commonCodes/owgSportSpecificCodes.json")
+  );
+  const pwgSportsSpecificCodes = await readJSONFile(
+    path.resolve(__dirname, "./commonCodes/pwgSportSpecificCodes.json")
+  );
 
   const commonData = {
     competitionCode: payload["OdfBody"]["$"]["CompetitionCode"],
     documentCode: payload["OdfBody"]["$"]["DocumentCode"],
-    owgSports: owgSports,
-    pwgSports: pwgSports,
+    owgSports,
+    pwgSports,
+    owgSportsSpecificCodes,
+    pwgSportsSpecificCodes,
   };
   if (payload["OdfBody"]["Competition"][0]["Session"]) {
     events.OlympicsSession = generateSessionEvents(
@@ -300,10 +308,61 @@ function getSportType(commonData, eventCode) {
   return sportType;
 }
 
+function getEventStage(commonData, eventCode) {
+  let eventStage;
+  commonData.competitionCode === "OWG2022"
+    ? commonData.owgSportsSpecificCodes.find((sport) => {
+        if (eventCode.includes(sport.sport) && eventCode.includes(sport.code)) {
+          eventStage = sport.code;
+        }
+      })
+    : commonData.pwgSports.find((sport) => {
+        if (eventCode.includes(sport.sport) && eventCode.includes(sport.code)) {
+          eventStage = sport.code;
+        }
+      });
+  return eventStage;
+}
+
+function generateSessionEvents(commonData, session) {
+  const sessionEvents = [];
+  session.forEach((session) => {
+    const sessionEventBody = {
+      publisherId: "d90972a3-65a5-447d-ae7b-084b8df9786d",
+      clientEventId: session["$"]["SessionCode"],
+      eventTypeCode: "OlympicsSession",
+      eventBody: {
+        code: session["$"]["SessionCode"],
+        sessionName: session["SessionName"]
+          ? session["SessionName"][0]["$"]["Value"]
+          : undefined,
+        medal: session["$"]["Medal"],
+        startDate: session["$"]["StartDate"],
+        endDate: session["$"]["EndDate"],
+        sessionType: session["$"]["SessionType"],
+        competition: {
+          code: commonData.competitionCode,
+          documentCode: commonData.documentCode,
+        },
+      },
+      eventLocation: {
+        venue: session["$"]["Venue"],
+        venueName: session["$"]["VenueName"],
+      },
+      startDate: session["$"]["StartDate"],
+      endDate: session["$"]["EndDate"],
+    };
+    sessionEvents.push(sessionEventBody);
+  });
+  return sessionEvents;
+}
+
 function generateUnitEvents(commonData, units) {
   const unitEvents = [];
 
   units.forEach((unit) => {
+    const eventStage = getEventStage(commonData, unit["$"]["Code"])
+    console.log(111,eventStage);
     const gender = getValueOfGender(unit);
     const sportType = getSportType(commonData, unit["$"]["Code"]);
     const unitEventBody = {
@@ -318,6 +377,7 @@ function generateUnitEvents(commonData, units) {
         sportType,
         phaseType: unit["$"]["PhaseType"],
         eventName: "",
+        medal: unit["$"]["Medal"],
         ItemName: unit["ItemName"]
           ? unit["ItemName"][0]["$"]["Value"]
           : undefined,
@@ -372,40 +432,8 @@ function generateUnitEvents(commonData, units) {
   return unitEvents;
 }
 
-function generateSessionEvents(commonData, session) {
-  const sessionEvents = [];
-  session.forEach((session) => {
-    const sessionEventBody = {
-      publisherId: "d90972a3-65a5-447d-ae7b-084b8df9786d",
-      clientEventId: session["$"]["SessionCode"],
-      eventTypeCode: "OlympicsSession",
-      eventBody: {
-        code: session["$"]["SessionCode"],
-        sessionName: session["SessionName"]
-          ? session["SessionName"][0]["$"]["Value"]
-          : undefined,
-        medal: session["$"]["Medal"],
-        startDate: session["$"]["StartDate"],
-        endDate: session["$"]["EndDate"],
-        sessionType: session["$"]["SessionType"],
-        competition: {
-          code: commonData.competitionCode,
-          documentCode: commonData.documentCode,
-        },
-      },
-      eventLocation: {
-        venue: session["$"]["Venue"],
-        venueName: session["$"]["VenueName"],
-      },
-      startDate: session["$"]["StartDate"],
-      endDate: session["$"]["EndDate"],
-    };
-    sessionEvents.push(sessionEventBody);
-  });
-  return sessionEvents;
-}
 let eventBody = eventsGenerator(xmlParsedBodyToJson);
 
 eventBody.then((r) => {
-  console.log(r);
+  console.log(r.OlympicsSession);
 });

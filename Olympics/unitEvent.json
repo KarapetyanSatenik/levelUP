@@ -12,13 +12,13 @@
     },
     "eventBody": {
       "code": "SSKW3000M-------------FNL-000100--",
-    //  "sportType": "Speed Skating",
+     "sportType": "Speed Skating",
      "gender": "Women",
       "phaseType":"Competition",
       // "eventName": "Skating - Women's 3000m - Final",
      // "eventStage": "Final", from the code 
      "medal":"0",
-     // "itemName":"Women's 3000M",
+     "itemName":"Women's 3000M",
       "sessionCode" : "SSK01",
       "startDate": "2022-02-05T16:30:00+08:00",
       "endDate": "2022-02-05T16:30:00Z",
