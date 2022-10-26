@@ -67,7 +67,7 @@ let xmlParsedBodyToJson = {
               Location: "NIS",
               MediaAccess: "OPE",
               ModificationIndicator: "U",
-              SessionCode:"BOB05"
+              SessionCode: "BOB05",
             },
             ItemName: [
               {
@@ -236,9 +236,7 @@ let xmlParsedBodyToJson = {
   },
 };
 
-
- async function eventsGenerator(payload) {
-  const today = new Date();
+async function eventsGenerator(payload) {
   const events = {
     OlympicsSession: [],
     OlympicsUnit: [],
@@ -247,7 +245,7 @@ let xmlParsedBodyToJson = {
   const competitionCode = payload["OdfBody"]["$"]["CompetitionCode"];
   if (payload["OdfBody"]["Competition"][0]["Session"]) {
     payload["OdfBody"]["Competition"][0]["Session"].forEach((session) => {
-      sessionEvent = {
+      const sessionEvent = {
         publisherId: "d90972a3-65a5-447d-ae7b-084b8df9786d",
         clientEventId: session["$"]["SessionCode"],
         eventTypeCode: "OlympicsSession",
@@ -271,7 +269,6 @@ let xmlParsedBodyToJson = {
         },
         startDate: session["$"]["StartDate"],
         endDate: session["$"]["EndDate"],
-        updateDate: today,
       };
       events.OlympicsSession.push(sessionEvent);
     });
@@ -279,7 +276,7 @@ let xmlParsedBodyToJson = {
   if (payload["OdfBody"]["Competition"][0]["Unit"]) {
     payload["OdfBody"]["Competition"][0]["Unit"].forEach((unit) => {
       const gender = getValueOfGender(unit);
-      unitEvent = {
+      const unitEvent = {
         publisherId: "d90972a3-65a5-447d-ae7b-084b8df9786d",
         clientEventId: unit["$"]["Code"],
         eventTypeCode: "OlympicsUnit",
@@ -289,7 +286,8 @@ let xmlParsedBodyToJson = {
         eventBody: {
           code: unit["$"]["Code"],
           phaseType: unit["$"]["PhaseType"],
-          eventName: unit["ItemName"]
+          eventName: "",
+          ItemName: unit["ItemName"]
             ? unit["ItemName"][0]["$"]["Value"]
             : undefined,
           sessionCode: unit["$"]["SessionCode"],
@@ -313,9 +311,8 @@ let xmlParsedBodyToJson = {
         },
         startDate: unit["$"]["StartDate"],
         endDate: unit["$"]["EndDate"],
-        updateDate: today,
       };
-      if(gender){
+      if (gender) {
         unitEvent.eventBody.gender = gender;
       }
       if (unit["$"]["ScheduleStatus"] === "RESCHEDULED") {
@@ -345,15 +342,17 @@ let xmlParsedBodyToJson = {
   return events;
 }
 
-function getValueOfGender(unit){
+function getValueOfGender(unit) {
   try {
-   return unit["StartList"][0]["Start"][0]["Competitor"][0]["Composition"][0]["Athlete"][0]["Description"][0]["$"]["Gender"]
+    return unit["StartList"][0]["Start"][0]["Competitor"][0]["Composition"][0][
+      "Athlete"
+    ][0]["Description"][0]["$"]["Gender"];
   } catch (error) {
-    return undefined
+    return undefined;
   }
 }
 // console.log(eventsGenerator(xmlParsedBodyToJson));
 
 let eventBody = eventsGenerator(xmlParsedBodyToJson);
 
-console.log(eventBody.OlympicsUnit);
+console.log(eventBody);
