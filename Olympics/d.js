@@ -13,8 +13,8 @@ async function foo() {
   const pwgSports = await readJSONFile(
     path.resolve(__dirname, "./commonCodes/pwgSports.json")
   );
-  
-  const competitionCode = payload['OdfBody']['$']['CompetitionCode'];
+
+  const competitionCode = payload["OdfBody"]["$"]["CompetitionCode"];
   const sportName =
     competitionCode === "OWG2022"
       ? owgSports.find((sport) => sport.sportCode).sport
