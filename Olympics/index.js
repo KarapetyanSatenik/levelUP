@@ -2,7 +2,7 @@ let xmlParsedBodyToJson = {
   OdfBody: {
     $: {
       CompetitionCode: "OWG2022",
-      DocumentCode: "HIP-------------------------------",
+      DocumentCode: "ATH-------------------------------",
       DocumentType: "DT_SCHEDULE",
       Version: "3",
       FeedFlag: "P",
@@ -16,7 +16,7 @@ let xmlParsedBodyToJson = {
         Session: [
           {
             $: {
-              SessionCode: "PIH987",
+              SessionCode: "OLV987",
               StartDate: "2022-02-06T20:05:00+08:00",
               EndDate: "2022-03-06T22:05:00+08:00",
               Leadin: "0:00",
@@ -35,7 +35,7 @@ let xmlParsedBodyToJson = {
           },
           {
             $: {
-              SessionCode: "PIH988",
+              SessionCode: "PCO988",
               StartDate: "2022-02-08T09:35:00+08:00",
               EndDate: "2022-03-08T11:35:00+08:00",
               Leadin: "0:00",
@@ -56,7 +56,7 @@ let xmlParsedBodyToJson = {
         Unit: [
           {
             $: {
-              Code: "BKBMTEAM5-------------GPA-0001----",
+              Code: "SSKWMS----------------SFNL000100--",
               PhaseType: "2",
               ScheduleStatus: "SCHEDULED",
               StartDate: "2022-02-17T12:00:00+08:00",
@@ -108,7 +108,7 @@ let xmlParsedBodyToJson = {
           },
           {
             $: {
-              Code: "TENMSINGLES-----------FNL-0001----",
+              Code: "STKXRELAY4------------VICT--------",
               PhaseType: "3",
               UnitNum: "11",
               ScheduleStatus: "SCHEDULED",
@@ -253,12 +253,16 @@ async function eventsGenerator(payload) {
   const pwgSportsSpecificCodes = await readJSONFile(
     path.resolve(__dirname, "./commonCodes/pwgSportSpecificCodes.json")
   );
+  const gender = await readJSONFile(
+    path.resolve(__dirname, "./commonCodes/sportGender.json")
+  );
 
   const commonData = {
     competitionCode: payload["OdfBody"]["$"]["CompetitionCode"],
     documentCode: payload["OdfBody"]["$"]["DocumentCode"],
     owgSports,
     pwgSports,
+    gender,
     owgSportsSpecificCodes,
     pwgSportsSpecificCodes,
   };
@@ -282,44 +286,35 @@ async function readJSONFile(path) {
   return JSON.parse(response);
 }
 
-function getValueOfGender(unit) {
-  try {
-    return unit["StartList"][0]["Start"][0]["Competitor"][0]["Composition"][0][
-      "Athlete"
-    ][0]["Description"][0]["$"]["Gender"];
-  } catch (error) {
-    return undefined;
-  }
+function getValueOfGender(commonData, genderId) {
+  let gender;
+  commonData.gender.find((item) => {
+    if (genderId === item.id) gender = item.gender;
+  });
+  return gender;
 }
 
-function getSportType(commonData, eventCode) {
+function getSportType(commonData, sportCodeId) {
   let sportType;
   commonData.competitionCode === "OWG2022"
     ? commonData.owgSports.find((sport) => {
-        if (eventCode.includes(sport.sportCode)) {
-          sportType = sport.sport;
-        }
+        if (sportCodeId === sport.sportCode) sportType = sport.sport;
       })
     : commonData.pwgSports.find((sport) => {
-        if (eventCode.includes(sport.sportCode)) {
-          sportType = sport.sport;
-        }
+        if (sportCodeId === sport.sportCode) sportType = sport.sport;
       });
+
   return sportType;
 }
 
-function getEventStage(commonData, eventCode) {
+function getEventStage(commonData, stageId) {
   let eventStage;
   commonData.competitionCode === "OWG2022"
     ? commonData.owgSportsSpecificCodes.find((sport) => {
-        if (eventCode.includes(sport.sport) && eventCode.includes(sport.code)) {
-          eventStage = sport.code;
-        }
+        if (stageId === sport.code) eventStage = sport.description;
       })
     : commonData.pwgSports.find((sport) => {
-        if (eventCode.includes(sport.sport) && eventCode.includes(sport.code)) {
-          eventStage = sport.code;
-        }
+        if (stageId === sport.code) eventStage = sport.description;
       });
   return eventStage;
 }
@@ -327,6 +322,10 @@ function getEventStage(commonData, eventCode) {
 function generateSessionEvents(commonData, session) {
   const sessionEvents = [];
   session.forEach((session) => {
+    const sportType = getSportType(
+      commonData,
+      session["$"]["SessionCode"].substr(0, 3)
+    );
     const sessionEventBody = {
       publisherId: "d90972a3-65a5-447d-ae7b-084b8df9786d",
       clientEventId: session["$"]["SessionCode"],
@@ -336,7 +335,6 @@ function generateSessionEvents(commonData, session) {
         sessionName: session["SessionName"]
           ? session["SessionName"][0]["$"]["Value"]
           : undefined,
-        medal: session["$"]["Medal"],
         startDate: session["$"]["StartDate"],
         endDate: session["$"]["EndDate"],
         sessionType: session["$"]["SessionType"],
@@ -352,6 +350,12 @@ function generateSessionEvents(commonData, session) {
       startDate: session["$"]["StartDate"],
       endDate: session["$"]["EndDate"],
     };
+    if (sportType) {
+      sessionEventBody.eventBody.sportType = sportType;
+    }
+    if (session["$"]["Medal"]) {
+      sessionEventBody.eventBody.medal = unit["$"]["Medal"];
+    }
     sessionEvents.push(sessionEventBody);
   });
   return sessionEvents;
@@ -361,10 +365,13 @@ function generateUnitEvents(commonData, units) {
   const unitEvents = [];
 
   units.forEach((unit) => {
-    const eventStage = getEventStage(commonData, unit["$"]["Code"])
-    console.log(111,eventStage);
-    const gender = getValueOfGender(unit);
-    const sportType = getSportType(commonData, unit["$"]["Code"]);
+    const eventStage = getEventStage(
+      commonData,
+      unit["$"]["Code"].substr(22, 4)
+    );
+    const sportType = getSportType(commonData, unit["$"]["Code"].substr(0, 3));
+    const gender = getValueOfGender(commonData, unit["$"]["Code"][3]);
+
     const unitEventBody = {
       publisherId: "d90972a3-65a5-447d-ae7b-084b8df9786d",
       clientEventId: unit["$"]["Code"],
@@ -374,13 +381,7 @@ function generateUnitEvents(commonData, units) {
       },
       eventBody: {
         code: unit["$"]["Code"],
-        sportType,
         phaseType: unit["$"]["PhaseType"],
-        eventName: "",
-        medal: unit["$"]["Medal"],
-        ItemName: unit["ItemName"]
-          ? unit["ItemName"][0]["$"]["Value"]
-          : undefined,
         sessionCode: unit["$"]["SessionCode"],
         startDate: unit["$"]["StartDate"],
         endDate: unit["$"]["EndDate"],
@@ -405,6 +406,21 @@ function generateUnitEvents(commonData, units) {
     };
     if (gender) {
       unitEventBody.eventBody.gender = gender;
+    }
+    if (eventStage) {
+      unitEventBody.eventBody.eventStage = eventStage;
+    }
+    if (sportType) {
+      unitEventBody.eventBody.sportType = sportType;
+    }
+    if (unit["$"]["Medal"]) {
+      unitEventBody.eventBody.medal = unit["$"]["Medal"];
+    }
+    if (unit["ItemName"]) {
+      unitEventBody.eventBody.itemName = unit["ItemName"][0]["$"]["Value"];
+    }
+    if (unit["ItemName"] && eventStage) {
+      unitEventBody.eventBody.eventName = `${unit["ItemName"][0]["$"]["Value"]} - ${eventStage}`;
     }
     if (unit["$"]["ScheduleStatus"] === "RESCHEDULED") {
       unitEventBody.eventBody.endDate = unit["$"]["ActualEndDate"];

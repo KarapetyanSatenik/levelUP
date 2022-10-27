@@ -16,7 +16,7 @@
      "gender": "Women",
       "phaseType":"Competition",
       // "eventName": "Skating - Women's 3000m - Final",
-     // "eventStage": "Final", from the code 
+     "eventStage": "Final", //from the code,
      "medal":"0",
      "itemName":"Women's 3000M",
       "sessionCode" : "SSK01",

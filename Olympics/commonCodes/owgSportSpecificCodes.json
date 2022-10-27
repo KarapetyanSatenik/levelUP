@@ -15940,5 +15940,15 @@
         "sport": "STK",
         "group": "@Infringement",
         "description": "Video Review No Penalty"
+    },
+    {
+        "code": "VICT",
+        "sport": "STK",
+        "description": "Mixed Team Relay - Victory Ceremony"
+    },
+    {
+        "code": "VICT",
+        "sport": "STK",
+        "description": "Mixed Team Relay - Victory Ceremony"
     }
 ]

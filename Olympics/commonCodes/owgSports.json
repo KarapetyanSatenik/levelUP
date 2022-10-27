@@ -4,6 +4,10 @@
         "sportCode": "ALP"
     },
     {
+        "sport": "Cultural Olympiad",
+        "sportCode": "ART"
+    },
+    {
         "sport": "Bobsleigh",
         "sportCode": "BOB"
     },
@@ -66,5 +70,33 @@
     {
         "sport": "Short Track Speed Skating",
         "sportCode": "STK"
+    },
+    {
+        "sport": "IBSF events",
+        "sportCode": "BSN"
+    },
+    {
+        "sport": "IOC Activities",
+        "sportCode": "IOC"
+    },
+    {
+        "sport": "Medals",
+        "sportCode": "MDL"
+    },
+    {
+        "sport": "Nordic Events",
+        "sportCode": "NEV"
+    },
+    {
+        "sport": "Olympic Villages",
+        "sportCode": "OLV"
+    },
+    {
+        "sport": "Press Conferences",
+        "sportCode": "PCO"
+    },
+    {
+        "sport": "Skating",
+        "sportCode": "SKT"
     }
 ]
