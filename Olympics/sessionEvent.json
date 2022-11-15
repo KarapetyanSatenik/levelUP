@@ -1,7 +1,7 @@
 {
   "isReplay": false,
   "route": [],
-  "action": "SAVE",
+  "action": "SAVE", //(UPDATE/DELETE)
   "event": {
     "id": "45a200c6-2363-48ed-9796-ed93579f6d39",
     "publisherId": "74e9a2e4-af4b-4bcf-a9fc-491423671749",
@@ -9,9 +9,9 @@
     "eventTypeCode": "OlympicsSession",
     "eventBody": {
       "code": "ALPTA",
-    //  "sportType": "Alpine Skiing",
-     "SessionName":"Session 1",
-     "Medal" : "Y",
+      "sportType": "Alpine Skiing",
+      "SessionName":"Session 1",
+      "Medal" : "Y",
       "startDateTime": "2022-02-03T11:15:00+08:00",
       "endDate": "2022-02-03T13:45:00+08:00",
       "SessionType":"MOR",
@@ -24,7 +24,7 @@
       "venue": "YAS",
       "VenueName": "Yanqing Alpine Skiing Ctr"
     },
-    "eventSlug": "OLYMPICS-2022-ALPINESKIING/", 
+    "eventSlug": "OLYMPICS-2022-ALPINESKIING/", //slugs for session?
     "startDate": "2022-02-05T16:30:00Z",
     "endDate": "2022-02-05T16:30:00Z",
     "updateDate": "2022-01-19T03:13:31.283Z",
@@ -33,5 +33,3 @@
     "locationChecksum": "98b452b9b295094c1d176468b235d1c5534341c8"
   }
 }
-
-

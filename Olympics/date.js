@@ -240,151 +240,196 @@ const fs = require("fs");
 const path = require("path");
 
 async function eventsGenerator(payload) {
-  const events = {
-    OlympicsSession: [],
-    OlympicsUnit: [],
+  const events = {};
+  const owgSports = await readJSONFile(
+    path.resolve(__dirname, './commonCodes/owgSports.json')
+  );
+  const pwgSports = await readJSONFile(
+    path.resolve(__dirname, './commonCodes/pwgSports.json')
+  );
+  const owgSportsSpecificCodes = await readJSONFile(
+    path.resolve(__dirname, './commonCodes/sportSpecificCodes.json')
+  );
+  const gender = await readJSONFile(
+    path.resolve(__dirname, './commonCodes/sportGenders.json')
+  );
+
+  const commonData = {
+    competitionCode: payload['OdfBody']['$']['CompetitionCode'],
+    documentCode: payload['OdfBody']['$']['DocumentCode'],
+    owgSports,
+    pwgSports,
+    gender,
+    owgSportsSpecificCodes,
   };
-
-  const competitionCode = payload["OdfBody"]["$"]["CompetitionCode"];
-  if (payload["OdfBody"]["Competition"][0]["Session"]) {
-    payload["OdfBody"]["Competition"][0]["Session"].forEach((session) => {
-      const sessionEvent = {
-        publisherId: "d90972a3-65a5-447d-ae7b-084b8df9786d",
-        clientEventId: session["$"]["SessionCode"],
-        eventTypeCode: "OlympicsSession",
-        eventBody: {
-          code: session["$"]["SessionCode"],
-          sessionName: session["SessionName"]
-            ? session["SessionName"][0]["$"]["Value"]
-            : undefined,
-          medal: session["$"]["Medal"],
-          startDate: session["$"]["StartDate"],
-          endDate: session["$"]["EndDate"],
-          sessionType: session["$"]["SessionType"],
-          competition: {
-            code: competitionCode,
-            documentCode: payload["OdfBody"]["$"]["DocumentCode"],
-          },
-        },
-        eventLocation: {
-          venue: session["$"]["Venue"],
-          venueName: session["$"]["VenueName"],
-        },
-        startDate: session["$"]["StartDate"],
-        endDate: session["$"]["EndDate"],
-      };
-      events.OlympicsSession.push(sessionEvent);
-    });
+  if (payload['OdfBody']['Competition'][0]['Session']) {
+    events.OlympicsSession = generateSessionEvents(
+      commonData,
+      payload['OdfBody']['Competition'][0]['Session']
+    );
   }
-
-  if (payload["OdfBody"]["Competition"][0]["Unit"]) {
-    payload["OdfBody"]["Competition"][0]["Unit"].forEach(async (unit) => {
-      const gender = getValueOfGender(unit);
-      const unitEvent = {
-        publisherId: "d90972a3-65a5-447d-ae7b-084b8df9786d",
-        clientEventId: unit["$"]["Code"],
-        eventTypeCode: "OlympicsUnit",
-        eventStatus: {
-          name: unit["$"]["ScheduleStatus"],
-        },
-        eventBody: {
-          code: unit["$"]["Code"],
-          phaseType: unit["$"]["PhaseType"],
-          eventName: "",
-          ItemName: unit["ItemName"]
-            ? unit["ItemName"][0]["$"]["Value"]
-            : undefined,
-          sessionCode: unit["$"]["SessionCode"],
-          startDate: unit["$"]["StartDate"],
-          endDate: unit["$"]["EndDate"],
-          eventStatus: {
-            name: unit["$"]["ScheduleStatus"],
-          },
-          competition: {
-            code: competitionCode,
-            documentCode: payload["OdfBody"]["$"]["DocumentCode"],
-          },
-        },
-        eventLocation: {
-          venueName: unit["VenueDescription"]
-            ? unit["VenueDescription"][0]["$"]["VenueName"]
-            : undefined,
-          locationName: unit["VenueDescription"]
-            ? unit["VenueDescription"][0]["$"]["VenueName"]
-            : undefined,
-        },
-        startDate: unit["$"]["StartDate"],
-        endDate: unit["$"]["EndDate"],
-      };
-      if (gender) {
-        unitEvent.eventBody.gender = gender;
-      }
-      if (unit["$"]["ScheduleStatus"] === "RESCHEDULED") {
-        unitEvent.eventBody.endDate = unit["$"]["ActualEndDate"];
-        unitEvent.endDate = unit["$"]["ActualEndDate"];
-      } else if (
-        unit["$"]["ScheduleStatus"] !== "UNSCHEDULED" &&
-        unit["$"]["ScheduleStatus"] !== "CANCELLED"
-      ) {
-        unitEvent.eventBody.endDate = unit["$"]["EndDate"];
-        unitEvent.endDate = unit["$"]["EndDate"];
-      }
-      if (unit["$"]["ScheduleStatus"] === "RESCHEDULED") {
-        unitEvent.eventBody.startDate = unit["$"]["ActualStartDate"];
-        unitEvent.startDate = unit["$"]["ActualStartDate"];
-      } else if (
-        unit["$"]["ScheduleStatus"] !== "UNSCHEDULED" &&
-        unit["$"]["ScheduleStatus"] !== "CANCELLED" &&
-        unit["$"]["ScheduleStatus"] !== "POSTPONED"
-      ) {
-        unitEvent.eventBody.startDate = unit["$"]["StartDate"];
-        unitEvent.startDate = unit["$"]["StartDate"];
-      }
-      events.OlympicsUnit.push(unitEvent);
-    });
+  if (payload['OdfBody']['Competition'][0]['Unit']) {
+    events.OlympicsUnit = generateUnitEvents(
+      commonData,
+      payload['OdfBody']['Competition'][0]['Unit']
+    );
   }
   return events;
 }
 
 async function readJSONFile(path) {
-  const response = await fs.readFileSync(path, { encoding: "utf-8" });
+  const response = await fs.readFileSync(path, { encoding: 'utf-8' });
   return JSON.parse(response);
 }
 
-function getValueOfGender(unit) {
-  try {
-    return unit["StartList"][0]["Start"][0]["Competitor"][0]["Composition"][0][
-      "Athlete"
-    ][0]["Description"][0]["$"]["Gender"];
-  } catch (error) {
-    return undefined;
-  }
+function getValueOfGender(commonData, genderId) {
+  let gender;
+  commonData.gender.find((item) => {
+    if (genderId === item.id) gender = item.gender;
+  });
+  return gender;
 }
 
-async function getSportType(competitionCode, unitCode) {
+function getSportType(commonData, sportCodeId) {
   let sportType;
-  const owgSports = await readJSONFile(
-    path.resolve(__dirname, "./commonCodes/owgSports.json")
-  );
-  const pwgSports = await readJSONFile(
-    path.resolve(__dirname, "./commonCodes/pwgSports.json")
-  );
-
-  competitionCode === "OWG2022"
-    ? owgSports.find((sport) => {
-        if (unitCode.includes(sport.sportCode)) {
-          sportType = sport.sport;
-        }
-      })
-    : pwgSports.find((sport) => {
-        if (unitCode.includes(sport.sportCode)) {
-          sportType = sport.sport;
-        }
-      });
+  commonData.competitionCode === 'OWG2022'
+    ? commonData.owgSports.find((sport) => {
+      if (sportCodeId === sport.sportCode) sportType = sport.sport;
+    })
+    : commonData.pwgSports.find((sport) => {
+      if (sportCodeId === sport.sportCode) sportType = sport.sport;
+    });
 
   return sportType;
 }
 
+function getEventStage(commonData, stageId) {
+  let eventStage;
+  commonData.owgSportsSpecificCodes.find((sport) => {
+    if (stageId === sport.code) eventStage = sport.description;
+  });
+  return eventStage;
+}
+
+function generateSessionEvents(commonData, session) {
+  const sessionEvents = [];
+  session.forEach((session) => {
+    const sportType = getSportType(
+      commonData,
+      session['$']['SessionCode'].substr(0, 3)
+    );
+    const sessionEventBody = {
+      publisherId: 'd90972a3-65a5-447d-ae7b-084b8df9786d',
+      clientEventId: session['$']['SessionCode'],
+      eventTypeCode: 'OlympicsSession',
+      eventBody: {
+        code: session['$']['SessionCode'],
+        SessionName: session['SessionName']
+          ? session['SessionName'][0]['$']['Value']
+          : undefined,
+        startDateTime: session['$']['StartDate'],
+        endDate: session['$']['EndDate'],
+        SessionType: session['$']['SessionType'],
+        competition: {
+          code: commonData.competitionCode,
+          documentCode: commonData.documentCode,
+        },
+      },
+      eventLocation: {
+        venue: session['$']['Venue'],
+        VenueName: session['$']['VenueName'],
+      },
+      startDate: session['$']['StartDate'],
+      endDate: session['$']['EndDate'],
+    };
+    if (sportType) {
+      sessionEventBody.eventBody.sportType = sportType;
+    }
+    if (session['$']['Medal']) {
+      sessionEventBody.eventBody.Medal = session['$']['Medal'];
+    }
+    sessionEvents.push(sessionEventBody);
+  });
+  return sessionEvents;
+}
+
+function generateUnitEvents(commonData, units) {
+  const unitEvents = [];
+
+  units.forEach((unit) => {
+    const eventStage = getEventStage(
+      commonData,
+      unit['$']['Code'].substr(22, 4)
+    );
+    const sportType = getSportType(commonData, unit['$']['Code'].substr(0, 3));
+    const gender = getValueOfGender(commonData, unit['$']['Code'][3]);
+
+    const unitEventBody = {
+      publisherId: 'd90972a3-65a5-447d-ae7b-084b8df9786d',
+      clientEventId: unit['$']['Code'],
+      eventTypeCode: 'OlympicsUnit',
+      eventStatus: {
+        name: unit['$']['ScheduleStatus'],
+      },
+      eventBody: {
+        code: unit['$']['Code'],
+        phaseType: unit['$']['PhaseType'],
+        sessionCode: unit['$']['SessionCode'],
+        eventStatus: {
+          name: unit['$']['ScheduleStatus'],
+        },
+        competition: {
+          code: commonData.competitionCode,
+          documentCode: commonData.documentCode,
+        },
+      },
+      eventLocation: {
+        VenueName: unit['VenueDescription']
+          ? unit['VenueDescription'][0]['$']['VenueName']
+          : undefined,
+        LocationName: unit['VenueDescription']
+          ? unit['VenueDescription'][0]['$']['VenueName']
+          : undefined,
+      },
+      startDate: unit['$']['StartDate'],
+      endDate: unit['$']['EndDate'],
+    };
+    if (gender) {
+      unitEventBody.eventBody.gender = gender;
+    }
+    if (eventStage) {
+      unitEventBody.eventBody.eventStage = eventStage;
+    }
+    if (sportType) {
+      unitEventBody.eventBody.sportType = sportType;
+    }
+    if (unit['$']['Medal']) {
+      unitEventBody.eventBody.medal = unit['$']['Medal'];
+    }
+    if (unit['ItemName']) {
+      unitEventBody.eventBody.itemName = unit['ItemName'][0]['$']['Value'];
+    }
+    if (unit['ItemName'] && eventStage) {
+      unitEventBody.eventBody.eventName =
+      `${unit['ItemName'][0]['$']['Value']} - ${eventStage}`;
+    }
+    if (
+      unit['$']['ScheduleStatus'] !== 'UNSCHEDULED' &&
+      unit['$']['ScheduleStatus'] !== 'CANCELLED'
+    ) {
+      unitEventBody.eventBody.endDate = unit['$']['EndDate'];
+    }
+   if (
+      unit['$']['ScheduleStatus'] !== 'UNSCHEDULED' &&
+      unit['$']['ScheduleStatus'] !== 'CANCELLED' &&
+      unit['$']['ScheduleStatus'] !== 'POSTPONED'
+    ) {
+      unitEventBody.eventBody.startDateTime = unit['$']['StartDate'];
+    }
+    unitEvents.push(unitEventBody);
+  });
+  return unitEvents;
+}
 let eventBody = eventsGenerator(xmlParsedBodyToJson);
 
 eventBody.then((r) => {
