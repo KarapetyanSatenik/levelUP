@@ -1,0 +1,26 @@
+[
+    {
+        "id": "MOR",
+        "description": "Morning"
+    },
+    {
+        "id": "LAF",
+        "description": "Late Afternoon"
+    },
+    {
+        "id": "EVE",
+        "description": "Evening"
+    },
+    {
+        "id": "EAF",
+        "description": "Early Afternoon"
+    },
+    {
+        "id": "ALL",
+        "description": "All Day"
+    },
+    {
+        "id": "AFT",
+        "description": "Afternoon"
+    }
+]

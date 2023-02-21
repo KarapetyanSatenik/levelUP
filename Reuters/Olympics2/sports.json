@@ -1,0 +1,186 @@
+[
+    {
+        "sport": "BMX Freestyle",
+        "sportCode": "BMX"
+    },
+    {
+        "sport": "Basketball",
+        "sportCode": "BKB"
+    },
+    {
+        "sport": "Basketball 3x3",
+        "sportCode": "BK3"
+    },
+    {
+        "sport": "Badminton",
+        "sportCode": "BDM"
+    },
+    {
+        "sport": "Athletics",
+        "sportCode": "ATH"
+    },
+    {
+        "sport": "Archery",
+        "sportCode": "ARC"
+    },
+    {
+        "sport": "Equestrian",
+        "sportCode": "EQU"
+    },
+    {
+        "sport": "Diving",
+        "sportCode": "DIV"
+    },
+    {
+        "sport": "Track Cycling",
+        "sportCode": "CTR"
+    },
+    {
+        "sport": "Slalom Canoe",
+        "sportCode": "CSL"
+    },
+    {
+        "sport": "Sprint Canoe",
+        "sportCode": "CSP"
+    },
+    {
+        "sport": "Road Cycling",
+        "sportCode": "CRD"
+    },
+    {
+        "sport": "Climbing",
+        "sportCode": "CLB"
+    },
+    {
+        "sport": "Breaking",
+        "sportCode": "BKG"
+    },
+    {
+        "sport": "Boxing",
+        "sportCode": "BOX"
+    },
+    {
+        "sport": "BMX Racing",
+        "sportCode": "BMX"
+    },
+    {
+        "sport": "Trampoline",
+        "sportCode": "GTR"
+    },
+    {
+        "sport": "Rhythmic Gymnastics",
+        "sportCode": "GRY"
+    },
+    {
+        "sport": "Golf",
+        "sportCode": "GLF"
+    },
+    {
+        "sport": "Artistic Gymnastics",
+        "sportCode":"GAR"
+    },
+    {
+        "sport": "General",
+        "sportCode":"GEN"
+    },
+    {
+        "sport": "Fencing",
+        "sportCode":"FEN"
+    },
+    {
+        "sport": "Football",
+        "sportCode":"FBL"
+    },
+    {
+        "sport": "Mountain Bike",
+        "sportCode":"MTB"
+    },
+    {
+        "sport": "Modern Pentathlon",
+        "sportCode":"MPN"
+    },
+    {
+        "sport": "Judo",
+        "sportCode":"JUD"
+    },
+    {
+        "sport": "Hockey",
+        "sportCode":"HOC"
+    },
+    {
+        "sport": "Handball",
+        "sportCode":"HBL"
+    },
+    {
+        "sport": "Swimming",
+        "sportCode":"SWM"
+    },
+    {
+        "sport": "Artistic Swimming",
+        "sportCode":"SWA"
+    },
+    {
+        "sport": "Surfing",
+        "sportCode":"SRF"
+    },
+    {
+        "sport": "Skateboarding",
+        "sportCode":"SKB"
+    },
+    {
+        "sport": "Shooting",
+        "sportCode":"SHO"
+    },
+    {
+        "sport": "Sailing",
+        "sportCode":"SAL"
+    },
+    {
+        "sport": "Rugby",
+        "sportCode":"RU7"
+    },
+    {
+        "sport": "Rowing",
+        "sportCode":"ROW"
+    },
+    {
+        "sport": "Marathon Swimming",
+        "sportCode":"OWS"
+    },
+    {
+        "sport": "Water Polo",
+        "sportCode":"WPO"
+    },
+    {
+        "sport": "Weightlifting",
+        "sportCode":"WLF"
+    },
+    {
+        "sport": "Volleyball",
+        "sportCode":"VVO"
+    },
+    {
+        "sport": "Beach Volleyball",
+        "sportCode":"VBV"
+    },
+    {
+        "sport": "Table Tennis",
+        "sportCode":"TTE"
+    },
+    {
+        "sport": "Triathlon",
+        "sportCode":"TRI"
+    },
+    {
+        "sport": "Taekwondo",
+        "sportCode":"TKW"
+    },
+    {
+        "sport": "Tennis",
+        "sportCode":"TEN"
+    },
+    {
+        "sport": "Wrestling",
+        "sportCode":"WRE"
+    }
+]
