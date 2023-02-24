@@ -27,6 +27,12 @@
 
 ### TCP 3-Way Handshake Process
 
+TCP needs 3 handshakes to establish the connection:
+
+1. The client sends an SYN message
+2. The server replies with an SYN/ACK message
+3. The client responds with an ACK message
+
 - Step 1 (SYN): In the first step, the client wants to establish a connection with a server, so it sends a segment with SYN(Synchronize Sequence Number) which informs the server that the client is likely to start communication and with what sequence number it starts segments with
 
 - Step 2 (SYN + ACK): Server responds to the client request with SYN-ACK signal bits set. Acknowledgement(ACK) signifies the response of the segment it received and SYN signifies with what sequence number it is likely to start the segments with
