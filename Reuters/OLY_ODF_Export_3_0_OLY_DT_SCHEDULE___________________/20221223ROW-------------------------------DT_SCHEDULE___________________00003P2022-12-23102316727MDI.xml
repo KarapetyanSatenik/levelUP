@@ -1,0 +1,1833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="ROW-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="160159421" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="ROW01" StartDate="2024-07-27T09:00:00+02:00" EndDate="2024-07-27T13:10:00+02:00" Venue="VN1" VenueName="Nautical St - Flat water" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="ROW01" Language="ENG" />
+</Session>
+<Session SessionCode="ROW02" StartDate="2024-07-28T09:00:00+02:00" EndDate="2024-07-28T13:10:00+02:00" Venue="VN1" VenueName="Nautical St - Flat water" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="ROW02" Language="ENG" />
+</Session>
+<Session SessionCode="ROW03" StartDate="2024-07-29T09:30:00+02:00" EndDate="2024-07-29T12:20:00+02:00" Venue="VN1" VenueName="Nautical St - Flat water" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="ROW03" Language="ENG" />
+</Session>
+<Session SessionCode="ROW04" StartDate="2024-07-30T09:30:00+02:00" EndDate="2024-07-30T11:50:00+02:00" Venue="VN1" VenueName="Nautical St - Flat water" SessionStatus="SCHEDULED" SessionType="MOR">
+<SessionName Value="ROW04" Language="ENG" />
+</Session>
+<Session SessionCode="ROW05" StartDate="2024-07-31T09:30:00+02:00" EndDate="2024-07-31T13:10:00+02:00" Medal="2" Venue="VN1" VenueName="Nautical St - Flat water" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="ROW05" Language="ENG" />
+</Session>
+<Session SessionCode="ROW06" StartDate="2024-08-01T09:30:00+02:00" EndDate="2024-08-01T12:40:00+02:00" Medal="4" Venue="VN1" VenueName="Nautical St - Flat water" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="ROW06" Language="ENG" />
+</Session>
+<Session SessionCode="ROW07" StartDate="2024-08-02T09:30:00+02:00" EndDate="2024-08-02T12:50:00+02:00" Medal="4" Venue="VN1" VenueName="Nautical St - Flat water" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="ROW07" Language="ENG" />
+</Session>
+<Session SessionCode="ROW08" StartDate="2024-08-03T09:30:00+02:00" EndDate="2024-08-03T11:40:00+02:00" Medal="4" Venue="VN1" VenueName="Nautical St - Flat water" SessionStatus="SCHEDULED" SessionType="MOR">
+<SessionName Value="ROW08" Language="ENG" />
+</Session>
+<Unit Code="ROWMSCULL1------------HEAT--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T09:00:00+02:00" EndDate="2024-07-27T10:12:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW01">
+<ItemName Language="ENG" Value="Men's Single Sculls Heats" />
+<ItemName Language="FRA" Value="Skiff - hommes, séries" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL1------------HEAT--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T10:12:00+02:00" EndDate="2024-07-27T11:30:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW01">
+<ItemName Language="ENG" Value="Women's Single Sculls Heats" />
+<ItemName Language="FRA" Value="Skiff - femmes, séries" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL2------------HEAT--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T11:30:00+02:00" EndDate="2024-07-27T12:00:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW01">
+<ItemName Language="ENG" Value="Men's Double Sculls Heats" />
+<ItemName Language="FRA" Value="Deux de couple - hommes, séries" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL2------------HEAT--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T12:00:00+02:00" EndDate="2024-07-27T12:30:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW01">
+<ItemName Language="ENG" Value="Women's Double Sculls Heats" />
+<ItemName Language="FRA" Value="Deux de couple - femmes, séries" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL4------------HEAT--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T12:30:00+02:00" EndDate="2024-07-27T12:50:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW01">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Heats" />
+<ItemName Language="FRA" Value="Quatre de couple - hommes, séries" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL4------------HEAT--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T12:50:00+02:00" EndDate="2024-07-27T13:10:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW01">
+<ItemName Language="ENG" Value="Women's Quad. Sculls Heats" />
+<ItemName Language="FRA" Value="Quatre de couple - femmes, séries" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL1------------REP---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T09:00:00+02:00" EndDate="2024-07-28T09:36:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW02">
+<ItemName Language="ENG" Value="Women's Single Sculls Repechages" />
+<ItemName Language="FRA" Value="Skiff - femmes, repêchages" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL1------------REP---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T09:36:00+02:00" EndDate="2024-07-28T10:10:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW02">
+<ItemName Language="ENG" Value="Men's Single Sculls Repechages" />
+<ItemName Language="FRA" Value="Skiff - hommes, repêchages" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL2------------REP---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T10:10:00+02:00" EndDate="2024-07-28T10:20:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW02">
+<ItemName Language="ENG" Value="Women's Double Sculls Repechages" />
+<ItemName Language="FRA" Value="Deux de couple - femmes, repêchages" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL2------------REP---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T10:20:00+02:00" EndDate="2024-07-28T10:30:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW02">
+<ItemName Language="ENG" Value="Men's Double Sculls Repechages" />
+<ItemName Language="FRA" Value="Deux de couple - hommes, repêchages" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------HEAT--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T10:30:00+02:00" EndDate="2024-07-28T11:00:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW02">
+<ItemName Language="ENG" Value="Women's Pair Heats" />
+<ItemName Language="FRA" Value="Deux de pointe - femmes, séries" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------HEAT--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T11:00:00+02:00" EndDate="2024-07-28T11:30:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW02">
+<ItemName Language="ENG" Value="Men's Pair Heats" />
+<ItemName Language="FRA" Value="Deux de pointe - hommes, séries" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------HEAT--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T11:30:00+02:00" EndDate="2024-07-28T12:00:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW02">
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Heats" />
+<ItemName Language="FRA" Value="Deux de couple pl - fem., séries" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------HEAT--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T12:00:00+02:00" EndDate="2024-07-28T12:30:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW02">
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Heats" />
+<ItemName Language="FRA" Value="Deux de couple pl - hom., séries" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------HEAT--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T12:30:00+02:00" EndDate="2024-07-28T12:50:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW02">
+<ItemName Language="ENG" Value="Women's Four Heats" />
+<ItemName Language="FRA" Value="Quatre de pointe - femmes, séries" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------HEAT--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T12:50:00+02:00" EndDate="2024-07-28T13:10:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW02">
+<ItemName Language="ENG" Value="Men's Four Heats" />
+<ItemName Language="FRA" Value="Quatre de pointe - hommes, séries" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL1------------SFNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T09:30:00+02:00" EndDate="2024-07-29T09:42:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW03">
+<ItemName Language="ENG" Value="Men's Single Sculls Semifinal E/F 1" />
+<ItemName Language="FRA" Value="Skiff - hommes, demi-finale E/F 1" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL1------------SFNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T09:42:00+02:00" EndDate="2024-07-29T09:54:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW03">
+<ItemName Language="ENG" Value="Men's Single Sculls Semifinal E/F 2" />
+<ItemName Language="FRA" Value="Skiff - hommes, demi-finale E/F 2" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL1------------SFNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T09:54:00+02:00" EndDate="2024-07-29T10:06:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW03">
+<ItemName Language="ENG" Value="Women's Single Sculls Semifinal E/F 1" />
+<ItemName Language="FRA" Value="Skiff - femmes, demi-finale E/F 1" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL1------------SFNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T10:06:00+02:00" EndDate="2024-07-29T10:20:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW03">
+<ItemName Language="ENG" Value="Women's Single Sculls Semifinal E/F 2" />
+<ItemName Language="FRA" Value="Skiff - femmes, demi-finale E/F 2" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------REP---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T10:20:00+02:00" EndDate="2024-07-29T10:30:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW03">
+<ItemName Language="ENG" Value="Men's Pair Repechages" />
+<ItemName Language="FRA" Value="Deux de pointe - hommes, repêchages" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------REP---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T10:30:00+02:00" EndDate="2024-07-29T10:40:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW03">
+<ItemName Language="ENG" Value="Women's Pair Repechages" />
+<ItemName Language="FRA" Value="Deux de pointe - femmes, repêchages" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------REP---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T10:40:00+02:00" EndDate="2024-07-29T11:00:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW03">
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Repechages" />
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, repêchages" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------REP---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T11:00:00+02:00" EndDate="2024-07-29T11:20:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW03">
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Repechages" />
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, repêchages" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL4------------REP---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T11:20:00+02:00" EndDate="2024-07-29T11:30:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW03">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Repechages" />
+<ItemName Language="FRA" Value="Quatre de couple - hommes, repêchages" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL4------------REP---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T11:30:00+02:00" EndDate="2024-07-29T11:40:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW03">
+<ItemName Language="ENG" Value="Women's Quad. Sculls Repechages" />
+<ItemName Language="FRA" Value="Quatre de couple - femmes, repêchages" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMCOXED8------------HEAT--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T11:40:00+02:00" EndDate="2024-07-29T12:00:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW03">
+<ItemName Language="ENG" Value="Men's Eight Heats" />
+<ItemName Language="FRA" Value="Huit de pointe - hommes, séries" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWCOXED8------------HEAT--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T12:00:00+02:00" EndDate="2024-07-29T12:20:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW03">
+<ItemName Language="ENG" Value="Women's Eight Heats" />
+<ItemName Language="FRA" Value="Huit de pointe - femmes, séries" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL1------------QFNL--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T09:30:00+02:00" EndDate="2024-07-30T10:10:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW04">
+<ItemName Language="ENG" Value="Women's Single Sculls Quarterfinals" />
+<ItemName Language="FRA" Value="Skiff - femmes, quarts de finale" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL1------------QFNL--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T10:10:00+02:00" EndDate="2024-07-30T10:50:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW04">
+<ItemName Language="ENG" Value="Men's Single Sculls Quarterfinals" />
+<ItemName Language="FRA" Value="Skiff - hommes, quarts de finale" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL2------------SFNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T10:50:00+02:00" EndDate="2024-07-30T11:00:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW04">
+<ItemName Language="ENG" Value="Women's Double Sculls Semifinal E/F 1" />
+<ItemName Language="FRA" Value="Deux de couple - fem., 1/2 finale E/F 1" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL2------------SFNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T11:00:00+02:00" EndDate="2024-07-30T11:10:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW04">
+<ItemName Language="ENG" Value="Women's Double Sculls Semifinal E/F 2" />
+<ItemName Language="FRA" Value="Deux de couple - fem., 1/2 finale E/F 2" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL2------------SFNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T11:10:00+02:00" EndDate="2024-07-30T11:20:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW04">
+<ItemName Language="ENG" Value="Men's Double Sculls Semifinal E/F 1" />
+<ItemName Language="FRA" Value="Deux de couple - hom., 1/2 finale E/F 1" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL2------------SFNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T11:20:00+02:00" EndDate="2024-07-30T11:30:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW04">
+<ItemName Language="ENG" Value="Men's Double Sculls Semifinal E/F 2" />
+<ItemName Language="FRA" Value="Deux de couple - hom., 1/2 finale E/F 2" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------REP---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T11:30:00+02:00" EndDate="2024-07-30T11:40:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW04">
+<ItemName Language="ENG" Value="Women's Four Repechages" />
+<ItemName Language="FRA" Value="Quatre de pointe - femmes, repêchages" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------REP---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T11:40:00+02:00" EndDate="2024-07-30T11:50:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW04">
+<ItemName Language="ENG" Value="Men's Four Repechages" />
+<ItemName Language="FRA" Value="Quatre de pointe - hommes, repêchages" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------FNL-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T09:30:00+02:00" EndDate="2024-07-31T09:42:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Final C" />
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, finale C" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------FNL-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T09:42:00+02:00" EndDate="2024-07-31T09:54:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Final C" />
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, finale C" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL1------------SFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T09:54:00+02:00" EndDate="2024-07-31T10:04:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="Men's Single Sculls Semifinal C/D 1" />
+<ItemName Language="FRA" Value="Skiff - hommes, demi-finale C/D 1" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL1------------SFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T10:04:00+02:00" EndDate="2024-07-31T10:14:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="Men's Single Sculls Semifinal C/D 2" />
+<ItemName Language="FRA" Value="Skiff - hommes, demi-finale C/D 2" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL1------------SFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T10:14:00+02:00" EndDate="2024-07-31T10:24:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="Women's Single Sculls Semifinal C/D 1" />
+<ItemName Language="FRA" Value="Skiff - femmes, demi-finale C/D 1" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL1------------SFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T10:24:00+02:00" EndDate="2024-07-31T10:34:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="Women's Single Sculls Semifinal C/D 2" />
+<ItemName Language="FRA" Value="Skiff - femmes, demi-finale C/D 2" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------SFNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T10:34:00+02:00" EndDate="2024-07-31T10:44:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="Men's Pair Semifinal E/F 1" />
+<ItemName Language="FRA" Value="Deux de pointe - hom., 1/2 finale E/F 1" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------SFNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T10:44:00+02:00" EndDate="2024-07-31T10:54:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="Men's Pair Semifinal E/F 2" />
+<ItemName Language="FRA" Value="Deux de pointe - hom., 1/2 finale E/F 2" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------SFNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T10:54:00+02:00" EndDate="2024-07-31T11:04:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="Women's Pair Semifinal E/F 1" />
+<ItemName Language="FRA" Value="Deux de pointe - fem., 1/2 finale E/F 1" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------SFNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T11:04:00+02:00" EndDate="2024-07-31T11:14:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="Women's Pair Semifinal E/F 2" />
+<ItemName Language="FRA" Value="Deux de pointe - fem., 1/2 finale E/F 2" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T11:14:00+02:00" EndDate="2024-07-31T11:24:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Semifinal A/B 1" />
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, 1/2f A/B 1" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T11:24:00+02:00" EndDate="2024-07-31T11:34:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Semifinal A/B 2" />
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, 1/2f A/B 2" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T11:34:00+02:00" EndDate="2024-07-31T11:44:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Semi A/B 1" />
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, 1/2f A/B 1" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T11:44:00+02:00" EndDate="2024-07-31T12:02:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Semi A/B 2" />
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, 1/2f A/B 2" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL4------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T12:02:00+02:00" EndDate="2024-07-31T12:14:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Final B" />
+<ItemName Language="FRA" Value="Quatre de couple - hommes, finale B" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL4------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T12:14:00+02:00" EndDate="2024-07-31T12:26:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="Women's Quad. Sculls Final B" />
+<ItemName Language="FRA" Value="Quatre de couple - femmes, finale B" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL4------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T12:26:00+02:00" EndDate="2024-07-31T12:38:00+02:00" Medal="1" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Final A" />
+<ItemName Language="FRA" Value="Quatre de couple - hommes, finale A" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL4------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T12:38:00+02:00" EndDate="2024-07-31T12:50:00+02:00" Medal="1" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="Women's Quad. Sculls Final A" />
+<ItemName Language="FRA" Value="Quatre de couple - femmes, finale A" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL4------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T12:50:00+02:00" EndDate="2024-07-31T12:58:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Victory Ceremony" />
+<ItemName Language="FRA" Value="Quatre de couple - hommes, remise méd." />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL4------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T12:58:00+02:00" EndDate="2024-07-31T13:06:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW05">
+<ItemName Language="ENG" Value="Women's Quad. Sculls Victory Ceremony" />
+<ItemName Language="FRA" Value="Quatre de couple - femmes, remise méd." />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL1------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T09:30:00+02:00" EndDate="2024-08-01T09:40:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Women's Single Sculls Semifinal A/B 1" />
+<ItemName Language="FRA" Value="Skiff - femmes, demi-finale A/B 1" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL1------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T09:40:00+02:00" EndDate="2024-08-01T09:50:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Women's Single Sculls Semifinal A/B 2" />
+<ItemName Language="FRA" Value="Skiff - femmes, demi-finale A/B 2" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL1------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T09:50:00+02:00" EndDate="2024-08-01T10:00:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Men's Single Sculls Semifinal A/B 1" />
+<ItemName Language="FRA" Value="Skiff - hommes, demi-finale A/B 1" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL1------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T10:00:00+02:00" EndDate="2024-08-01T10:10:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Men's Single Sculls Semifinal A/B 2" />
+<ItemName Language="FRA" Value="Skiff - hommes, demi-finale A/B 2" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWCOXED8------------REP---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T10:10:00+02:00" EndDate="2024-08-01T10:20:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Women's Eight Repechages" />
+<ItemName Language="FRA" Value="Huit de pointe - femmes, repêchages" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMCOXED8------------REP---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T10:20:00+02:00" EndDate="2024-08-01T10:30:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Men's Eight Repechages" />
+<ItemName Language="FRA" Value="Huit de pointe - hommes, repêchages" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL2------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T10:30:00+02:00" EndDate="2024-08-01T10:42:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Women's Double Sculls Final B" />
+<ItemName Language="FRA" Value="Deux de couple - femmes, finale B" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL2------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T10:42:00+02:00" EndDate="2024-08-01T10:54:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Men's Double Sculls Final B" />
+<ItemName Language="FRA" Value="Deux de couple - hommes, finale B" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T10:54:00+02:00" EndDate="2024-08-01T11:06:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Women's Four Final B" />
+<ItemName Language="FRA" Value="Quatre de pointe - femmes, finale B" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T11:06:00+02:00" EndDate="2024-08-01T11:18:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Men's Four Final B" />
+<ItemName Language="FRA" Value="Quatre de pointe - hommes, finale B" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL2------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T11:18:00+02:00" EndDate="2024-08-01T11:30:00+02:00" Medal="1" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Women's Double Sculls Final A" />
+<ItemName Language="FRA" Value="Deux de couple - femmes, finale A" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL2------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T11:30:00+02:00" EndDate="2024-08-01T11:42:00+02:00" Medal="1" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Men's Double Sculls Final A" />
+<ItemName Language="FRA" Value="Deux de couple - hommes, finale A" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL2------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T11:42:00+02:00" EndDate="2024-08-01T11:50:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Women's Double Sculls Victory Ceremony" />
+<ItemName Language="FRA" Value="Deux de couple - femmes, remise des méd." />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T11:50:00+02:00" EndDate="2024-08-01T12:02:00+02:00" Medal="1" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Women's Four Final A" />
+<ItemName Language="FRA" Value="Quatre de pointe - femmes, finale A" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL2------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:02:00+02:00" EndDate="2024-08-01T12:10:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Men's Double Sculls Victory Ceremony" />
+<ItemName Language="FRA" Value="Deux de couple - hommes, remise des méd." />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:10:00+02:00" EndDate="2024-08-01T12:22:00+02:00" Medal="1" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Men's Four Final A" />
+<ItemName Language="FRA" Value="Quatre de pointe - hommes, finale A" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:22:00+02:00" EndDate="2024-08-01T12:30:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Women's Four Victory Ceremony" />
+<ItemName Language="FRA" Value="Quatre de pointe - femmes, remise méd." />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:30:00+02:00" EndDate="2024-08-01T12:38:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW06">
+<ItemName Language="ENG" Value="Men's Four Victory Ceremony" />
+<ItemName Language="FRA" Value="Quatre de pointe - hommes, remise méd." />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL1------------FNL-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T09:30:00+02:00" EndDate="2024-08-02T09:42:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="Men's Single Sculls Final F" />
+<ItemName Language="FRA" Value="Skiff - hommes, finale F" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL1------------FNL-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T09:42:00+02:00" EndDate="2024-08-02T09:54:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="Women's Single Sculls Final F" />
+<ItemName Language="FRA" Value="Skiff - femmes, finale F" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL1------------FNL-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T09:54:00+02:00" EndDate="2024-08-02T10:06:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="Men's Single Sculls Final E" />
+<ItemName Language="FRA" Value="Skiff - hommes, finale E" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL1------------FNL-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T10:06:00+02:00" EndDate="2024-08-02T10:18:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="Women's Single Sculls Final E" />
+<ItemName Language="FRA" Value="Skiff - femmes, finale E" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL1------------FNL-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T10:18:00+02:00" EndDate="2024-08-02T10:30:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="Men's Single Sculls Final D" />
+<ItemName Language="FRA" Value="Skiff - hommes, finale D" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL1------------FNL-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T10:30:00+02:00" EndDate="2024-08-02T10:42:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="Women's Single Sculls Final D" />
+<ItemName Language="FRA" Value="Skiff - femmes, finale D" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T10:42:00+02:00" EndDate="2024-08-02T10:54:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="Men's Pair Final B" />
+<ItemName Language="FRA" Value="Deux de pointe - hommes, finale B" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T10:54:00+02:00" EndDate="2024-08-02T11:06:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="Women's Pair Final B" />
+<ItemName Language="FRA" Value="Deux de pointe - femmes, finale B" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T11:06:00+02:00" EndDate="2024-08-02T11:18:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Final B" />
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, finale B" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T11:18:00+02:00" EndDate="2024-08-02T11:30:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Final B" />
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, finale B" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T11:30:00+02:00" EndDate="2024-08-02T11:42:00+02:00" Medal="1" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="Men's Pair Final A" />
+<ItemName Language="FRA" Value="Deux de pointe - hommes, finale A" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T11:42:00+02:00" EndDate="2024-08-02T11:54:00+02:00" Medal="1" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="Women's Pair Final A" />
+<ItemName Language="FRA" Value="Deux de pointe - femmes, finale A" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T11:54:00+02:00" EndDate="2024-08-02T12:02:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="Men's Pair Victory Ceremony" />
+<ItemName Language="FRA" Value="Deux de pointe - hommes, remise des méd." />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T12:02:00+02:00" EndDate="2024-08-02T12:14:00+02:00" Medal="1" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Final A" />
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, finale A" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T12:14:00+02:00" EndDate="2024-08-02T12:22:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="Women's Pair Victory Ceremony" />
+<ItemName Language="FRA" Value="Deux de pointe - femmes, remise des méd." />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T12:22:00+02:00" EndDate="2024-08-02T12:34:00+02:00" Medal="1" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Final A" />
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, finale A" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T12:34:00+02:00" EndDate="2024-08-02T12:42:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Victory Ceremony" />
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, remise méd." />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T12:42:00+02:00" EndDate="2024-08-02T12:50:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW07">
+<ItemName Language="ENG" Value="LWT Women's Dbl Sculls Victory Ceremony" />
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, remise méd." />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL1------------FNL-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T09:30:00+02:00" EndDate="2024-08-03T09:42:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW08">
+<ItemName Language="ENG" Value="Women's Single Sculls Final C" />
+<ItemName Language="FRA" Value="Skiff - femmes, finale C" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL1------------FNL-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T09:42:00+02:00" EndDate="2024-08-03T09:54:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW08">
+<ItemName Language="ENG" Value="Men's Single Sculls Final C" />
+<ItemName Language="FRA" Value="Skiff - hommes, finale C" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL1------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T09:54:00+02:00" EndDate="2024-08-03T10:06:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW08">
+<ItemName Language="ENG" Value="Women's Single Sculls Final B" />
+<ItemName Language="FRA" Value="Skiff - femmes, finale B" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL1------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T10:06:00+02:00" EndDate="2024-08-03T10:18:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW08">
+<ItemName Language="ENG" Value="Men's Single Sculls Final B" />
+<ItemName Language="FRA" Value="Skiff - hommes, finale B" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL1------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T10:18:00+02:00" EndDate="2024-08-03T10:30:00+02:00" Medal="1" Venue="VN1" Location="VN1" SessionCode="ROW08">
+<ItemName Language="ENG" Value="Women's Single Sculls Final A" />
+<ItemName Language="FRA" Value="Skiff - femmes, finale A" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL1------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T10:30:00+02:00" EndDate="2024-08-03T10:42:00+02:00" Medal="1" Venue="VN1" Location="VN1" SessionCode="ROW08">
+<ItemName Language="ENG" Value="Men's Single Sculls Final A" />
+<ItemName Language="FRA" Value="Skiff - hommes, finale A" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWSCULL1------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T10:42:00+02:00" EndDate="2024-08-03T10:50:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW08">
+<ItemName Language="ENG" Value="Women's Single Sculls Victory Ceremony" />
+<ItemName Language="FRA" Value="Skiff - femmes, remise des méd." />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWCOXED8------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T10:50:00+02:00" EndDate="2024-08-03T11:02:00+02:00" Medal="1" Venue="VN1" Location="VN1" SessionCode="ROW08">
+<ItemName Language="ENG" Value="Women's Eight Final A" />
+<ItemName Language="FRA" Value="Huit de pointe - femmes, finale A" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMSCULL1------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T11:02:00+02:00" EndDate="2024-08-03T11:10:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW08">
+<ItemName Language="ENG" Value="Men's Single Sculls Victory Ceremony" />
+<ItemName Language="FRA" Value="Skiff - hommes, remise des méd." />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMCOXED8------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T11:10:00+02:00" EndDate="2024-08-03T11:22:00+02:00" Medal="1" Venue="VN1" Location="VN1" SessionCode="ROW08">
+<ItemName Language="ENG" Value="Men's Eight Final A" />
+<ItemName Language="FRA" Value="Huit de pointe - hommes, finale A" />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWWCOXED8------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T11:22:00+02:00" EndDate="2024-08-03T11:30:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW08">
+<ItemName Language="ENG" Value="Women's Eight Victory Ceremony" />
+<ItemName Language="FRA" Value="Huit de pointe - femmes, remise des méd." />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROWMCOXED8------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T11:30:00+02:00" EndDate="2024-08-03T11:38:00+02:00" Venue="VN1" Location="VN1" SessionCode="ROW08">
+<ItemName Language="ENG" Value="Men's Eight Victory Ceremony" />
+<ItemName Language="FRA" Value="Huit de pointe - hommes, remise des méd." />
+<VenueDescription VenueName="Nautical St - Flat water" LocationName="Vaires-sur-Marne Stadium" />
+</Unit>
+<Unit Code="ROW-------------------DRAW000100--" PhaseType="7" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Aviron, tirage au sort" />
+<ItemName Language="ENG" Value="Rowing Draw" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------FNL-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hommes, finale B" />
+<ItemName Language="ENG" Value="Men's Eight Final B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------FNL-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hommes, finale C" />
+<ItemName Language="ENG" Value="Men's Eight Final C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------FNL-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hommes, finale D" />
+<ItemName Language="ENG" Value="Men's Eight Final D" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------FNL-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hommes, finale E" />
+<ItemName Language="ENG" Value="Men's Eight Final E" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------FNL-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hommes, finale F" />
+<ItemName Language="ENG" Value="Men's Eight Final F" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------HEAT0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hommes, séries - nouv" />
+<ItemName Language="ENG" Value="Men's Eight Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------HEAT0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hommes, séries - nouv" />
+<ItemName Language="ENG" Value="Men's Eight Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------PREL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hom., course élim" />
+<ItemName Language="ENG" Value="Men's Eight Prelim. Race" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------PREL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hom., élim - nouvelle" />
+<ItemName Language="ENG" Value="Men's Eight Heat Prelim. Race - Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------QFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hommes, 1/4 finale rep." />
+<ItemName Language="ENG" Value="Men's Eight Quarterfinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------QFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hommes, 1/4 finale rep." />
+<ItemName Language="ENG" Value="Men's Eight Quarterfinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------REP-0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hommes, repêch. reprise" />
+<ItemName Language="ENG" Value="Men's Eight Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------REP-0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hommes, repêch. reprise" />
+<ItemName Language="ENG" Value="Men's Eight Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------SFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hom., 1/2 finale A/B 1" />
+<ItemName Language="ENG" Value="Men's Eight Semifinal A/B 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------SFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hommes, 1/2 finale rep." />
+<ItemName Language="ENG" Value="Men's Eight Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------SFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hom., 1/2 finale A/B 2" />
+<ItemName Language="ENG" Value="Men's Eight Semifinal A/B 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------SFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hommes, 1/2 finale rep." />
+<ItemName Language="ENG" Value="Men's Eight Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------SFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hom., 1/2 finale C/D 1" />
+<ItemName Language="ENG" Value="Men's Eight Semifinal C/D 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------SFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hom., 1/2 finale C/D 2" />
+<ItemName Language="ENG" Value="Men's Eight Semifinal C/D 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------SFNL000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hom., 1/2 finale E/F 1" />
+<ItemName Language="ENG" Value="Men's Eight Semifinal E/F 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMCOXED8------------SFNL000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - hom., 1/2 finale E/F 2" />
+<ItemName Language="ENG" Value="Men's Eight Semifinal E/F 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROW-------------------MEET000100--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Aviron - réunion des directeurs d'équipe" />
+<ItemName Language="ENG" Value="Rowing Team Managers' Meeting" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROW-------------------MEET000200--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Aviron - réunion des directeurs d'équipe" />
+<ItemName Language="ENG" Value="Rowing Team Managers' Meeting" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROW-------------------MEET000300--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Aviron - réunion des directeurs d'équipe" />
+<ItemName Language="ENG" Value="Rowing Team Managers' Meeting" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROW-------------------MEET000400--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Aviron - réunion des directeurs d'équipe" />
+<ItemName Language="ENG" Value="Rowing Team Managers' Meeting" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROW-------------------MEET000500--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Aviron - réunion des directeurs d'équipe" />
+<ItemName Language="ENG" Value="Rowing Team Managers' Meeting" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROW-------------------MEET000600--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Aviron - réunion des directeurs d'équipe" />
+<ItemName Language="ENG" Value="Rowing Team Managers' Meeting" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROW-------------------MEET000700--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Aviron - réunion des directeurs d'équipe" />
+<ItemName Language="ENG" Value="Rowing Team Managers' Meeting" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------FNL-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hommes, finale C" />
+<ItemName Language="ENG" Value="Men's Pair Final C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------FNL-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hommes, finale D" />
+<ItemName Language="ENG" Value="Men's Pair Final D" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------FNL-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hommes, finale E" />
+<ItemName Language="ENG" Value="Men's Pair Final E" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------FNL-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hommes, finale F" />
+<ItemName Language="ENG" Value="Men's Pair Final F" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------HEAT0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hommes, séries - nouv" />
+<ItemName Language="ENG" Value="Men's Pair Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------HEAT0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hommes, séries - nouv" />
+<ItemName Language="ENG" Value="Men's Pair Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------PREL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hom., course élim" />
+<ItemName Language="ENG" Value="Men's Pair Prelim. Race" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------PREL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hom., élim - nouvelle" />
+<ItemName Language="ENG" Value="Men's Pair Prelim. Race - Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------QFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hommes, 1/4 finale rep." />
+<ItemName Language="ENG" Value="Men's Pair Quarterfinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------QFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hommes, 1/4 finale rep." />
+<ItemName Language="ENG" Value="Men's Pair Quarterfinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------REP-0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hommes, repêch. reprise" />
+<ItemName Language="ENG" Value="Men's Pair Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------REP-0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hommes, repêch. reprise" />
+<ItemName Language="ENG" Value="Men's Pair Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------SFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hom., 1/2 finale A/B 1" />
+<ItemName Language="ENG" Value="Men's Pair Semifinal A/B 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------SFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hommes, 1/2 finale rep." />
+<ItemName Language="ENG" Value="Men's Pair Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------SFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hom., 1/2 finale A/B 2" />
+<ItemName Language="ENG" Value="Men's Pair Semifinal A/B 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------SFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hommes, 1/2 finale rep." />
+<ItemName Language="ENG" Value="Men's Pair Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------SFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hom., 1/2 finale C/D 1" />
+<ItemName Language="ENG" Value="Men's Pair Semifinal C/D 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX2------------SFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - hom., 1/2 finale C/D 2" />
+<ItemName Language="ENG" Value="Men's Pair Semifinal C/D 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------FNL-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Final C" />
+<ItemName Language="FRA" Value="Quatre de pointe - hommes, finale C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------FNL-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Final D" />
+<ItemName Language="FRA" Value="Quatre de pointe - hommes, finale D" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------FNL-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Final E" />
+<ItemName Language="FRA" Value="Quatre de pointe - hommes, finale E" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------FNL-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Final F" />
+<ItemName Language="FRA" Value="Quatre de pointe - hommes, finale F" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------HEAT0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Heat Re-Row" />
+<ItemName Language="FRA" Value="Quatre de pointe - hom., séries - nouv" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------HEAT0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Heat Re-Row" />
+<ItemName Language="FRA" Value="Quatre de pointe - hom., séries - nouv" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------PREL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Prelim. Race" />
+<ItemName Language="FRA" Value="Quatre de pointe - hom., course élim" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------PREL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Prelim. Race - Re-Row" />
+<ItemName Language="FRA" Value="Quatre de pointe - hommes, élim - nouv" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------QFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Quarterfinal Re-Row" />
+<ItemName Language="FRA" Value="Quatre de pointe - hommes, 1/4 fin. rep." />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------QFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Quarterfinal Re-Row" />
+<ItemName Language="FRA" Value="Quatre de pointe - hommes, 1/4 fin. rep." />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------REP-0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Repechage Re-Row" />
+<ItemName Language="FRA" Value="Quatre de pointe - hom., repêch. reprise" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------REP-0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Repechage Re-Row" />
+<ItemName Language="FRA" Value="Quatre de pointe - hom., repêch. reprise" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------SFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Semifinal A/B 1" />
+<ItemName Language="FRA" Value="Quatre de pointe - hom., 1/2 fin. A/B 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------SFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Semifinal Re-Row" />
+<ItemName Language="FRA" Value="Quatre de pointe - hommes, 1/2 fin. rep." />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------SFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Semifinal A/B 2" />
+<ItemName Language="FRA" Value="Quatre de pointe - hom., 1/2 fin. A/B 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------SFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Semifinal Re-Row" />
+<ItemName Language="FRA" Value="Quatre de pointe - hommes, 1/2 fin. rep." />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------SFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Semifinal C/D 1" />
+<ItemName Language="FRA" Value="Quatre de pointe - hom., 1/2 fin. C/D 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------SFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Semifinal C/D 2" />
+<ItemName Language="FRA" Value="Quatre de pointe - hom., 1/2 fin. C/D 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------SFNL000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Semifinal E/F 1" />
+<ItemName Language="FRA" Value="Quatre de pointe - hom., 1/2 fin. E/F 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMNOCOX4------------SFNL000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Four Semifinal E/F 2" />
+<ItemName Language="FRA" Value="Quatre de pointe - hom., 1/2 fin. E/F 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL1------------HEAT0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Single Sculls Heat Re-Row" />
+<ItemName Language="FRA" Value="Skiff - hommes, Séries - nouvelle" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL1------------HEAT0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Single Sculls Heat Re-Row" />
+<ItemName Language="FRA" Value="Skiff - hommes, Séries - nouvelle" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL1------------PREL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Single Sculls Prelim. Race" />
+<ItemName Language="FRA" Value="Skiff - hommes, course élim" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL1------------PREL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Single Sculls Pre. Race - Re-Row" />
+<ItemName Language="FRA" Value="Skiff - hommes, élim - nouvelle" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL1------------QFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Single Sculls Quarterfinal Re-Row" />
+<ItemName Language="FRA" Value="Skiff - hommes, quarts de finale reprise" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL1------------QFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Single Sculls Quarterfinal Re-Row" />
+<ItemName Language="FRA" Value="Skiff - hommes, quarts de finale reprise" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL1------------REP-0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Single Sculls Repechage Re-Row" />
+<ItemName Language="FRA" Value="Skiff - hommes, repêch. reprise" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL1------------REP-0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Single Sculls Repechage Re-Row" />
+<ItemName Language="FRA" Value="Skiff - hommes, repêch. reprise" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL1------------SFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Single Sculls Semifinal Re-Row" />
+<ItemName Language="FRA" Value="Skiff - hommes, demi-finale reprise" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL1------------SFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Single Sculls Semifinal Re-Row" />
+<ItemName Language="FRA" Value="Skiff - hommes, demi-finale reprise" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------FNL-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hommes, finale C" />
+<ItemName Language="ENG" Value="Men's Double Sculls Final C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------FNL-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hommes, finale D" />
+<ItemName Language="ENG" Value="Men's Double Sculls Final D" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------FNL-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hommes, finale E" />
+<ItemName Language="ENG" Value="Men's Double Sculls Final E" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------FNL-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hommes, finale F" />
+<ItemName Language="ENG" Value="Men's Double Sculls Final F" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------HEAT0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hommes, séries - nouv" />
+<ItemName Language="ENG" Value="Men's Double Sculls Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------HEAT0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hommes, séries - nouv" />
+<ItemName Language="ENG" Value="Men's Double Sculls Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------FNL-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, finale D" />
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Final D" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------FNL-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, finale E" />
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Final E" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------FNL-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, finale F" />
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Final F" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------HEAT0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, élimin. rep." />
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------HEAT0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, élimin. rep." />
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------PREL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, course élim" />
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Pre. Race" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------PREL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - hom., élim - nouv" />
+<ItemName Language="ENG" Value="LWT Men's Dbl Sculls Pre. Race - Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------QFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, 1/4f reprise" />
+<ItemName Language="ENG" Value="LWT Men's Double Sculls QF Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------QFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, 1/4f reprise" />
+<ItemName Language="ENG" Value="LWT Men's Double Sculls QF Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------REP-0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, repêch. rep." />
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------REP-0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, repêch. rep." />
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------SFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, 1/2f reprise" />
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------SFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, 1/2f reprise" />
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------SFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, 1/2f C/D 1" />
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Semifinal C/D 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------SFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, 1/2f C/D 2" />
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Semifinal C/D 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------SFNL000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, 1/2f E/F 1" />
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Semifinal E/F 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2-L----------SFNL000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - hommes, 1/2f E/F 2" />
+<ItemName Language="ENG" Value="LWT Men's Double Sculls Semifinal E/F 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------PREL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hom., course élim" />
+<ItemName Language="ENG" Value="Men's Double Sculls Prelim. Race" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------PREL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hom., élim - nouv" />
+<ItemName Language="ENG" Value="Men's Double Sculls Pre. Race - Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------QFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hommes, 1/4 finale rep." />
+<ItemName Language="ENG" Value="Men's Double Sculls Quarterfinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------QFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hommes, 1/4 finale rep." />
+<ItemName Language="ENG" Value="Men's Double Sculls Quarterfinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------REP-0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hommes, repêch. reprise" />
+<ItemName Language="ENG" Value="Men's Double Sculls Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------REP-0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hommes, repêch. reprise" />
+<ItemName Language="ENG" Value="Men's Double Sculls Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------SFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hom., 1/2 finale A/B 1" />
+<ItemName Language="ENG" Value="Men's Double Sculls Semifinal A/B 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------SFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hommes, 1/2 finale rep." />
+<ItemName Language="ENG" Value="Men's Double Sculls Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------SFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hom., 1/2 finale A/B 2" />
+<ItemName Language="ENG" Value="Men's Double Sculls Semifinal A/B 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------SFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hommes, 1/2 finale rep." />
+<ItemName Language="ENG" Value="Men's Double Sculls Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------SFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hom., 1/2 finale C/D 1" />
+<ItemName Language="ENG" Value="Men's Double Sculls Semifinal C/D 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL2------------SFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - hom., 1/2 finale C/D 2" />
+<ItemName Language="ENG" Value="Men's Double Sculls Semifinal C/D 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------FNL-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Final C" />
+<ItemName Language="FRA" Value="Quatre de couple - hommes, finale C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------FNL-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Final D" />
+<ItemName Language="FRA" Value="Quatre de couple - hommes, finale D" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------FNL-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Final E" />
+<ItemName Language="FRA" Value="Quatre de couple - hommes, finale E" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------FNL-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Final F" />
+<ItemName Language="FRA" Value="Quatre de couple - hommes, finale F" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------HEAT0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Heat Re-Row" />
+<ItemName Language="FRA" Value="Quatre de couple - hom., séries - nouv" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------HEAT0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Heat Re-Row" />
+<ItemName Language="FRA" Value="Quatre de couple - hom., séries - nouv" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------PREL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Prelim. Race" />
+<ItemName Language="FRA" Value="Quatre de couple - hom., course élim" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------PREL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Pre. Race - Re-Row" />
+<ItemName Language="FRA" Value="Quatre de couple - hommes, élim - nouv" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------QFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Quarterfinal Re-Row" />
+<ItemName Language="FRA" Value="Quatre de couple - hommes, 1/4 fin. rep." />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------QFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Quarterfinal Re-Row" />
+<ItemName Language="FRA" Value="Quatre de couple - hommes, 1/4 fin. rep." />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------REP-0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Repechage Re-Row" />
+<ItemName Language="FRA" Value="Quatre de couple - hom., repêch. reprise" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------REP-0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Repechage Re-Row" />
+<ItemName Language="FRA" Value="Quatre de couple - hom., repêch. reprise" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------SFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Semifinal A/B 1" />
+<ItemName Language="FRA" Value="Quatre de couple - hom., 1/2 fin. A/B 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------SFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Semifinal Re-Row" />
+<ItemName Language="FRA" Value="Quatre de couple - hom., 1/2 fin. repr." />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------SFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Semifinal A/B 2" />
+<ItemName Language="FRA" Value="Quatre de couple - hom., 1/2 fin. A/B 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------SFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Semifinal Re-Row" />
+<ItemName Language="FRA" Value="Quatre de couple - hom., 1/2 fin. repr." />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------SFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Semifinal C/D 1" />
+<ItemName Language="FRA" Value="Quatre de couple - hom., 1/2 fin. C/D 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------SFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Semifinal C/D 2" />
+<ItemName Language="FRA" Value="Quatre de couple - hom., 1/2 fin. C/D 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------SFNL000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Semifinal E/F 1" />
+<ItemName Language="FRA" Value="Quatre de couple - hom., 1/2 fin. E/F 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWMSCULL4------------SFNL000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Quad. Sculls Semifinal E/F 2" />
+<ItemName Language="FRA" Value="Quatre de couple - hom., 1/2 fin. E/F 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------FNL-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - femmes, finale B" />
+<ItemName Language="ENG" Value="Women's Eight Final B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------FNL-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - femmes, finale C" />
+<ItemName Language="ENG" Value="Women's Eight Final C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------FNL-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - femmes, finale D" />
+<ItemName Language="ENG" Value="Women's Eight Final D" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------FNL-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - femmes, finale E" />
+<ItemName Language="ENG" Value="Women's Eight Final E" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------FNL-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - femmes, finale F" />
+<ItemName Language="ENG" Value="Women's Eight Final F" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------HEAT0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - femmes, séries - nouv" />
+<ItemName Language="ENG" Value="Women's Eight Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------HEAT0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - femmes, séries - nouv" />
+<ItemName Language="ENG" Value="Women's Eight Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------PREL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - fem., course élim" />
+<ItemName Language="ENG" Value="Women's Eight Prelim. Race" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------PREL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - fem., élim - nouvelle" />
+<ItemName Language="ENG" Value="Women's Eight Prelim. Race - Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------QFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - femmes, 1/4 finale rep." />
+<ItemName Language="ENG" Value="Women's Eight Quarterfinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------QFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - femmes, 1/4 finale rep." />
+<ItemName Language="ENG" Value="Women's Eight Quarterfinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------REP-0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - femmes, repêch. reprise" />
+<ItemName Language="ENG" Value="Women's Eight Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------REP-0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - femmes, repêch. reprise" />
+<ItemName Language="ENG" Value="Women's Eight Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------SFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - fem., 1/2 finale A/B 1" />
+<ItemName Language="ENG" Value="Women's Eight Semifinal A/B 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------SFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - femmes, 1/2 finale rep." />
+<ItemName Language="ENG" Value="Women's Eight Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------SFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - fem., 1/2 finale A/B 2" />
+<ItemName Language="ENG" Value="Women's Eight Semifinal A/B 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------SFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - femmes, 1/2 finale rep." />
+<ItemName Language="ENG" Value="Women's Eight Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------SFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - fem., 1/2 finale C/D 1" />
+<ItemName Language="ENG" Value="Women's Eight Semifinal C/D 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------SFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - fem., 1/2 finale C/D 2" />
+<ItemName Language="ENG" Value="Women's Eight Semifinal C/D 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------SFNL000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - fem., 1/2 finale E/F 1" />
+<ItemName Language="ENG" Value="Women's Eight Semifinal E/F 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWCOXED8------------SFNL000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Huit de pointe - fem., 1/2 finale E/F 2" />
+<ItemName Language="ENG" Value="Women's Eight Semifinal E/F 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------FNL-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - femmes, finale C" />
+<ItemName Language="ENG" Value="Women's Pair Final C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------FNL-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - femmes, finale D" />
+<ItemName Language="ENG" Value="Women's Pair Final D" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------FNL-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - femmes, finale E" />
+<ItemName Language="ENG" Value="Women's Pair Final E" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------FNL-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - femmes, finale F" />
+<ItemName Language="ENG" Value="Women's Pair Final F" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------HEAT0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - femmes, séries - nouv" />
+<ItemName Language="ENG" Value="Women's Pair Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------HEAT0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - femmes, séries - nouv" />
+<ItemName Language="ENG" Value="Women's Pair Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------PREL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - fem., course élim" />
+<ItemName Language="ENG" Value="Women's Pair Prelim. Race" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------PREL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - fem., élim - nouvelle" />
+<ItemName Language="ENG" Value="Women's Pair Heat Prelim. Race - Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------QFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - femmes, 1/4 finale rep." />
+<ItemName Language="ENG" Value="Women's Pair Quarterfinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------QFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - femmes, 1/4 finale rep." />
+<ItemName Language="ENG" Value="Women's Pair Quarterfinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------REP-0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - femmes, repêch. reprise" />
+<ItemName Language="ENG" Value="Women's Pair Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------REP-0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - femmes, repêch. reprise" />
+<ItemName Language="ENG" Value="Women's Pair Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------SFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - fem., 1/2 finale A/B 1" />
+<ItemName Language="ENG" Value="Women's Pair Semifinal A/B 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------SFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - femmes, 1/2 finale rep." />
+<ItemName Language="ENG" Value="Women's Pair Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------SFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - fem., 1/2 finale A/B 2" />
+<ItemName Language="ENG" Value="Women's Pair Semifinal A/B 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------SFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - femmes, 1/2 finale rep." />
+<ItemName Language="ENG" Value="Women's Pair Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------SFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - fem., 1/2 finale C/D 1" />
+<ItemName Language="ENG" Value="Women's Pair Semifinal C/D 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX2------------SFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de pointe - fem., 1/2 finale C/D 2" />
+<ItemName Language="ENG" Value="Women's Pair Semifinal C/D 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------FNL-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - femmes, finale C" />
+<ItemName Language="ENG" Value="Women's Four Final C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------FNL-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - femmes, finale D" />
+<ItemName Language="ENG" Value="Women's Four Final D" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------FNL-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - femmes, finale E" />
+<ItemName Language="ENG" Value="Women's Four Final E" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------FNL-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - femmes, finale F" />
+<ItemName Language="ENG" Value="Women's Four Final F" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------HEAT0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - fem., séries - nouv" />
+<ItemName Language="ENG" Value="Women's Four Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------HEAT0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - fem., séries - nouv" />
+<ItemName Language="ENG" Value="Women's Four Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------PREL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - fem., course élim" />
+<ItemName Language="ENG" Value="Women's Four Prelim. Race" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------PREL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - femmes, élim - nouv" />
+<ItemName Language="ENG" Value="Women's Four Prelim. Race - Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------QFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - femmes, 1/4 fin. rep." />
+<ItemName Language="ENG" Value="Women's Four Quarterfinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------QFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - femmes, 1/4 fin. rep." />
+<ItemName Language="ENG" Value="Women's Four Quarterfinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------REP-0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - fem., repêch. reprise" />
+<ItemName Language="ENG" Value="Women's Four Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------REP-0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - fem., repêch. reprise" />
+<ItemName Language="ENG" Value="Women's Four Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------SFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - fem., 1/2 fin. A/B 1" />
+<ItemName Language="ENG" Value="Women's Four Semifinal A/B 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------SFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - femmes, 1/2 fin. rep." />
+<ItemName Language="ENG" Value="Women's Four Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------SFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - fem., 1/2 fin. A/B 2" />
+<ItemName Language="ENG" Value="Women's Four Semifinal A/B 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------SFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - femmes, 1/2 fin. rep." />
+<ItemName Language="ENG" Value="Women's Four Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------SFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - fem., 1/2 fin. C/D 1" />
+<ItemName Language="ENG" Value="Women's Four Semifinal C/D 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------SFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - fem., 1/2 fin. C/D 2" />
+<ItemName Language="ENG" Value="Women's Four Semifinal C/D 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------SFNL000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - fem., 1/2 fin. E/F 1" />
+<ItemName Language="ENG" Value="Women's Four Semifinal E/F 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWNOCOX4------------SFNL000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de pointe - fem., 1/2 fin. E/F 2" />
+<ItemName Language="ENG" Value="Women's Four Semifinal E/F 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL1------------HEAT0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Skiff - femmes, séries - nouvelle" />
+<ItemName Language="ENG" Value="Women's Single Sculls Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL1------------HEAT0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Skiff - femmes, séries - nouvelle" />
+<ItemName Language="ENG" Value="Women's Single Sculls Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL1------------PREL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Skiff - femmes, course élim" />
+<ItemName Language="ENG" Value="Women's Single Sculls Pre. Race" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL1------------PREL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Skiff - femmes, élim - nouvelle" />
+<ItemName Language="ENG" Value="W Single Sculls Pre. Race - Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL1------------QFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Skiff - femmes, quarts de finale reprise" />
+<ItemName Language="ENG" Value="Women's Single Sculls Quarterfinal RR" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL1------------QFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Skiff - femmes, quarts de finale reprise" />
+<ItemName Language="ENG" Value="Women's Single Sculls Quarterfinal RR" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL1------------REP-0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Skiff - femmes, repêch. reprise" />
+<ItemName Language="ENG" Value="Women's Single Sculls Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL1------------REP-0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Skiff - femmes, repêch. reprise" />
+<ItemName Language="ENG" Value="Women's Single Sculls Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL1------------SFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Skiff - femmes, demi-finale reprise" />
+<ItemName Language="ENG" Value="Women's Single Sculls Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL1------------SFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Skiff - femmes, demi-finale reprise" />
+<ItemName Language="ENG" Value="Women's Single Sculls Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------FNL-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - femmes, finale C" />
+<ItemName Language="ENG" Value="Women's Double Sculls Final C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------FNL-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - femmes, finale D" />
+<ItemName Language="ENG" Value="Women's Double Sculls Final D" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------FNL-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - femmes, finale E" />
+<ItemName Language="ENG" Value="Women's Double Sculls Final E" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------FNL-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - femmes, finale F" />
+<ItemName Language="ENG" Value="Women's Double Sculls Final F" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------HEAT0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - femmes, séries - nouv" />
+<ItemName Language="ENG" Value="Women's Double Sculls Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------HEAT0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - femmes, séries - nouv" />
+<ItemName Language="ENG" Value="Women's Double Sculls Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------FNL-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, finale D" />
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Final D" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------FNL-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, finale E" />
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Final E" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------FNL-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, finale F" />
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Final F" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------HEAT0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, élimin. rep." />
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------HEAT0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, élimin. rep." />
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------PREL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, course élim" />
+<ItemName Language="ENG" Value="LWT Women's Dbl Sculls Pre. Race" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------PREL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - fem., élim - nouv" />
+<ItemName Language="ENG" Value="LWT W Dbl Sculls Pre. Race - Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------QFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, 1/4f reprise" />
+<ItemName Language="ENG" Value="LWT Women's Double Sculls QF Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------QFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, 1/4f reprise" />
+<ItemName Language="ENG" Value="LWT Women's Double Sculls QF Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------REP-0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, repêch. rep." />
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Rep Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------REP-0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, repêch. rep." />
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Rep Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------SFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, 1/2f reprise" />
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Semi Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------SFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, 1/2f reprise" />
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Semi Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------SFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, 1/2f C/D 1" />
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Semi C/D 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------SFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, 1/2f C/D 2" />
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Semi C/D 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------SFNL000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, 1/2f E/F 1" />
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Semi E/F 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2-L----------SFNL000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple pl - femmes, 1/2f E/F 2" />
+<ItemName Language="ENG" Value="LWT Women's Double Sculls Semi E/F 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------PREL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - fem., course élim" />
+<ItemName Language="ENG" Value="Women's Double Sculls Pre. Race" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------PREL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - fem., élim - nouv" />
+<ItemName Language="ENG" Value="Women's Dbl Sculls Pre. Race - Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------QFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - femmes, 1/4 finale rep." />
+<ItemName Language="ENG" Value="Women's Double Sculls Quarterfinal RR" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------QFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - femmes, 1/4 finale rep." />
+<ItemName Language="ENG" Value="Women's Double Sculls Quarterfinal RR" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------REP-0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - femmes, repêch. reprise" />
+<ItemName Language="ENG" Value="Women's Double Sculls Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------REP-0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - femmes, repêch. reprise" />
+<ItemName Language="ENG" Value="Women's Double Sculls Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------SFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - fem., 1/2 finale A/B 1" />
+<ItemName Language="ENG" Value="Women's Double Sculls Semifinal A/B 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------SFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - femmes, 1/2 finale rep." />
+<ItemName Language="ENG" Value="Women's Double Sculls Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------SFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - fem., 1/2 finale A/B 2" />
+<ItemName Language="ENG" Value="Women's Double Sculls Semifinal A/B 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------SFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - femmes, 1/2 finale rep." />
+<ItemName Language="ENG" Value="Women's Double Sculls Semifinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------SFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - fem., 1/2 finale C/D 1" />
+<ItemName Language="ENG" Value="Women's Double Sculls Semifinal C/D 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL2------------SFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Deux de couple - fem., 1/2 finale C/D 2" />
+<ItemName Language="ENG" Value="Women's Double Sculls Semifinal C/D 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------FNL-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - femmes, finale C" />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Final C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------FNL-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - femmes, finale D" />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Final D" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------FNL-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - femmes, finale E" />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Final E" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------FNL-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - femmes, finale F" />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Final F" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------HEAT0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - fem., séries - nouv" />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------HEAT0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - fem., séries - nouv" />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Heat Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------PREL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - fem, course élim" />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Pre. Race" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------PREL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - femmes, élim - nouv" />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Pre. Race - Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------QFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - femmes, 1/4 fin. rep." />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Quarterfinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------QFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - femmes, 1/4 fin. rep." />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Quarterfinal Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------REP-0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - fem., repêch. reprise" />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------REP-0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - fem., repêch. reprise" />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Repechage Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------SFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - fem., 1/2 fin. A/B 1" />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Semifinal A/B 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------SFNL0001RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - fem., 1/2 fin. repr." />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Semi Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------SFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - fem., 1/2 fin. A/B 2" />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Semifinal A/B 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------SFNL0002RR--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - fem., 1/2 fin. repr." />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Semi Re-Row" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------SFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - fem., 1/2 fin. C/D 1" />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Semifinal C/D 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------SFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - fem., 1/2 fin. C/D 2" />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Semifinal C/D 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------SFNL000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - fem., 1/2 fin. E/F 1" />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Semifinal E/F 1" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ROWWSCULL4------------SFNL000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Quatre de couple - fem., 1/2 fin. E/F 2" />
+<ItemName Language="ENG" Value="Women's Quad. Sculls Semifinal E/F 2" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

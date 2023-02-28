@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="FBL-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="160034560" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="FBL01" StartDate="2024-07-24T15:00:00+02:00" EndDate="2024-07-24T17:00:00+02:00" Venue="PDP" VenueName="Parc des Princes" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="FBL01" Language="ENG" />
+</Session>
+<Session SessionCode="FBL02" StartDate="2024-07-24T15:00:00+02:00" EndDate="2024-07-24T17:00:00+02:00" Venue="STE" VenueName="Saint-Etienne Stadium" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="FBL02" Language="ENG" />
+</Session>
+<Session SessionCode="FBL03" StartDate="2024-07-24T17:00:00+02:00" EndDate="2024-07-24T19:00:00+02:00" Venue="NAN" VenueName="Nantes Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL03" Language="ENG" />
+</Session>
+<Session SessionCode="FBL04" StartDate="2024-07-24T17:00:00+02:00" EndDate="2024-07-24T19:00:00+02:00" Leadin="2:0" Venue="NIC" VenueName="Nice Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL04" Language="ENG" />
+</Session>
+<Session SessionCode="FBL05" StartDate="2024-07-24T19:00:00+02:00" EndDate="2024-07-24T21:00:00+02:00" Leadin="2:0" Venue="BOR" VenueName="Bordeaux Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL05" Language="ENG" />
+</Session>
+<Session SessionCode="FBL06" StartDate="2024-07-24T19:00:00+02:00" EndDate="2024-07-24T21:00:00+02:00" Leadin="2:0" Venue="LYO" VenueName="Lyon Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL06" Language="ENG" />
+</Session>
+<Session SessionCode="FBL07" StartDate="2024-07-24T21:00:00+02:00" EndDate="2024-07-24T23:00:00+02:00" Venue="PDP" VenueName="Parc des Princes" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL07" Language="ENG" />
+</Session>
+<Session SessionCode="FBL08" StartDate="2024-07-24T21:00:00+02:00" EndDate="2024-07-24T23:00:00+02:00" Venue="MRS" VenueName="Marseille Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL08" Language="ENG" />
+</Session>
+<Session SessionCode="FBL09" StartDate="2024-07-25T17:00:00+02:00" EndDate="2024-07-25T19:00:00+02:00" Leadin="2:0" Venue="NAN" VenueName="Nantes Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL09" Language="ENG" />
+</Session>
+<Session SessionCode="FBL10" StartDate="2024-07-25T17:00:00+02:00" EndDate="2024-07-25T19:00:00+02:00" Leadin="2:0" Venue="STE" VenueName="Saint-Etienne Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL10" Language="ENG" />
+</Session>
+<Session SessionCode="FBL11" StartDate="2024-07-25T19:00:00+02:00" EndDate="2024-07-25T21:00:00+02:00" Leadin="-2:0" Venue="BOR" VenueName="Bordeaux Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL11" Language="ENG" />
+</Session>
+<Session SessionCode="FBL12" StartDate="2024-07-25T19:00:00+02:00" EndDate="2024-07-25T21:00:00+02:00" Leadin="2:0" Venue="MRS" VenueName="Marseille Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL12" Language="ENG" />
+</Session>
+<Session SessionCode="FBL13" StartDate="2024-07-25T21:00:00+02:00" EndDate="2024-07-25T23:00:00+02:00" Venue="LYO" VenueName="Lyon Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL13" Language="ENG" />
+</Session>
+<Session SessionCode="FBL14" StartDate="2024-07-25T21:00:00+02:00" EndDate="2024-07-25T23:00:00+02:00" Venue="NIC" VenueName="Nice Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL14" Language="ENG" />
+</Session>
+<Session SessionCode="FBL15" StartDate="2024-07-27T15:00:00+02:00" EndDate="2024-07-27T17:00:00+02:00" Venue="BOR" VenueName="Bordeaux Stadium" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="FBL15" Language="ENG" />
+</Session>
+<Session SessionCode="FBL16" StartDate="2024-07-27T15:00:00+02:00" EndDate="2024-07-27T17:00:00+02:00" Venue="LYO" VenueName="Lyon Stadium" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="FBL16" Language="ENG" />
+</Session>
+<Session SessionCode="FBL17" StartDate="2024-07-27T17:00:00+02:00" EndDate="2024-07-27T19:00:00+02:00" Leadin="2:0" Venue="NAN" VenueName="Nantes Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL17" Language="ENG" />
+</Session>
+<Session SessionCode="FBL18" StartDate="2024-07-27T17:00:00+02:00" EndDate="2024-07-27T19:00:00+02:00" Leadin="2:0" Venue="MRS" VenueName="Marseille Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL18" Language="ENG" />
+</Session>
+<Session SessionCode="FBL19" StartDate="2024-07-27T19:00:00+02:00" EndDate="2024-07-27T21:00:00+02:00" Leadin="-2:0" Venue="PDP" VenueName="Parc des Princes" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL19" Language="ENG" />
+</Session>
+<Session SessionCode="FBL20" StartDate="2024-07-27T19:00:00+02:00" EndDate="2024-07-27T21:00:00+02:00" Leadin="2:0" Venue="STE" VenueName="Saint-Etienne Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL20" Language="ENG" />
+</Session>
+<Session SessionCode="FBL21" StartDate="2024-07-27T21:00:00+02:00" EndDate="2024-07-27T23:00:00+02:00" Venue="BOR" VenueName="Bordeaux Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL21" Language="ENG" />
+</Session>
+<Session SessionCode="FBL22" StartDate="2024-07-27T21:00:00+02:00" EndDate="2024-07-27T23:00:00+02:00" Venue="NIC" VenueName="Nice Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL22" Language="ENG" />
+</Session>
+<Session SessionCode="FBL23" StartDate="2024-07-28T17:00:00+02:00" EndDate="2024-07-28T19:00:00+02:00" Venue="PDP" VenueName="Parc des Princes" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL23" Language="ENG" />
+</Session>
+<Session SessionCode="FBL24" StartDate="2024-07-28T17:00:00+02:00" EndDate="2024-07-28T19:00:00+02:00" Leadin="2:0" Venue="LYO" VenueName="Lyon Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL24" Language="ENG" />
+</Session>
+<Session SessionCode="FBL25" StartDate="2024-07-28T19:00:00+02:00" EndDate="2024-07-28T21:00:00+02:00" Venue="NAN" VenueName="Nantes Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL25" Language="ENG" />
+</Session>
+<Session SessionCode="FBL26" StartDate="2024-07-28T19:00:00+02:00" EndDate="2024-07-28T21:00:00+02:00" Leadin="2:0" Venue="NIC" VenueName="Nice Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL26" Language="ENG" />
+</Session>
+<Session SessionCode="FBL27" StartDate="2024-07-28T21:00:00+02:00" EndDate="2024-07-28T23:00:00+02:00" Venue="STE" VenueName="Saint-Etienne Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL27" Language="ENG" />
+</Session>
+<Session SessionCode="FBL28" StartDate="2024-07-28T21:00:00+02:00" EndDate="2024-07-28T23:00:00+02:00" Venue="MRS" VenueName="Marseille Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL28" Language="ENG" />
+</Session>
+<Session SessionCode="FBL29" StartDate="2024-07-30T15:00:00+02:00" EndDate="2024-07-30T17:00:00+02:00" Venue="PDP" VenueName="Parc des Princes" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="FBL29" Language="ENG" />
+</Session>
+<Session SessionCode="FBL30" StartDate="2024-07-30T15:00:00+02:00" EndDate="2024-07-30T17:00:00+02:00" Venue="BOR" VenueName="Bordeaux Stadium" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="FBL30" Language="ENG" />
+</Session>
+<Session SessionCode="FBL31" StartDate="2024-07-30T17:00:00+02:00" EndDate="2024-07-30T19:00:00+02:00" Leadin="2:0" Venue="LYO" VenueName="Lyon Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL31" Language="ENG" />
+</Session>
+<Session SessionCode="FBL32" StartDate="2024-07-30T17:00:00+02:00" EndDate="2024-07-30T19:00:00+02:00" Leadin="-2:0" Venue="NIC" VenueName="Nice Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL32" Language="ENG" />
+</Session>
+<Session SessionCode="FBL33" StartDate="2024-07-30T19:00:00+02:00" EndDate="2024-07-30T21:00:00+02:00" Leadin="2:0" Venue="STE" VenueName="Saint-Etienne Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL33" Language="ENG" />
+</Session>
+<Session SessionCode="FBL34" StartDate="2024-07-30T19:00:00+02:00" EndDate="2024-07-30T21:00:00+02:00" Venue="MRS" VenueName="Marseille Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL34" Language="ENG" />
+</Session>
+<Session SessionCode="FBL35" StartDate="2024-07-30T21:00:00+02:00" EndDate="2024-07-30T23:00:00+02:00" Venue="PDP" VenueName="Parc des Princes" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL35" Language="ENG" />
+</Session>
+<Session SessionCode="FBL36" StartDate="2024-07-30T21:00:00+02:00" EndDate="2024-07-30T23:00:00+02:00" Venue="NAN" VenueName="Nantes Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL36" Language="ENG" />
+</Session>
+<Session SessionCode="FBL37" StartDate="2024-07-31T17:00:00+02:00" EndDate="2024-07-31T19:00:00+02:00" Venue="NAN" VenueName="Nantes Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL37" Language="ENG" />
+</Session>
+<Session SessionCode="FBL38" StartDate="2024-07-31T17:00:00+02:00" EndDate="2024-07-31T19:00:00+02:00" Leadin="4:0" Venue="BOR" VenueName="Bordeaux Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL38" Language="ENG" />
+</Session>
+<Session SessionCode="FBL39" StartDate="2024-07-31T19:00:00+02:00" EndDate="2024-07-31T21:00:00+02:00" Venue="STE" VenueName="Saint-Etienne Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL39" Language="ENG" />
+</Session>
+<Session SessionCode="FBL40" StartDate="2024-07-31T19:00:00+02:00" EndDate="2024-07-31T21:00:00+02:00" Leadin="2:0" Venue="MRS" VenueName="Marseille Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL40" Language="ENG" />
+</Session>
+<Session SessionCode="FBL41" StartDate="2024-07-31T21:00:00+02:00" EndDate="2024-07-31T23:00:00+02:00" Leadin="-2:0" Venue="LYO" VenueName="Lyon Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL41" Language="ENG" />
+</Session>
+<Session SessionCode="FBL42" StartDate="2024-07-31T21:00:00+02:00" EndDate="2024-07-31T23:00:00+02:00" Venue="NIC" VenueName="Nice Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL42" Language="ENG" />
+</Session>
+<Session SessionCode="FBL43" StartDate="2024-08-02T15:00:00+02:00" EndDate="2024-08-02T18:00:00+02:00" Venue="PDP" VenueName="Parc des Princes" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL43" Language="ENG" />
+</Session>
+<Session SessionCode="FBL44" StartDate="2024-08-02T17:00:00+02:00" EndDate="2024-08-02T20:00:00+02:00" Venue="MRS" VenueName="Marseille Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL44" Language="ENG" />
+</Session>
+<Session SessionCode="FBL45" StartDate="2024-08-02T19:00:00+02:00" EndDate="2024-08-02T22:00:00+02:00" Venue="LYO" VenueName="Lyon Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL45" Language="ENG" />
+</Session>
+<Session SessionCode="FBL46" StartDate="2024-08-02T21:00:00+02:00" EndDate="2024-08-03T00:00:00+02:00" Venue="BOR" VenueName="Bordeaux Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL46" Language="ENG" />
+</Session>
+<Session SessionCode="FBL47" StartDate="2024-08-03T15:00:00+02:00" EndDate="2024-08-03T18:00:00+02:00" Leadin="6:0" Venue="PDP" VenueName="Parc des Princes" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL47" Language="ENG" />
+</Session>
+<Session SessionCode="FBL48" StartDate="2024-08-03T17:00:00+02:00" EndDate="2024-08-03T20:00:00+02:00" Leadin="2:0" Venue="LYO" VenueName="Lyon Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL48" Language="ENG" />
+</Session>
+<Session SessionCode="FBL49" StartDate="2024-08-03T19:00:00+02:00" EndDate="2024-08-03T22:00:00+02:00" Venue="MRS" VenueName="Marseille Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL49" Language="ENG" />
+</Session>
+<Session SessionCode="FBL50" StartDate="2024-08-03T21:00:00+02:00" EndDate="2024-08-04T00:00:00+02:00" Leadin="-4:0" Venue="NAN" VenueName="Nantes Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL50" Language="ENG" />
+</Session>
+<Session SessionCode="FBL51" StartDate="2024-08-05T18:00:00+02:00" EndDate="2024-08-05T21:00:00+02:00" Leadin="3:0" Venue="MRS" VenueName="Marseille Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL51" Language="ENG" />
+</Session>
+<Session SessionCode="FBL52" StartDate="2024-08-05T21:00:00+02:00" EndDate="2024-08-06T00:00:00+02:00" Venue="LYO" VenueName="Lyon Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL52" Language="ENG" />
+</Session>
+<Session SessionCode="FBL53" StartDate="2024-08-06T18:00:00+02:00" EndDate="2024-08-06T21:00:00+02:00" Leadin="3:0" Venue="LYO" VenueName="Lyon Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL53" Language="ENG" />
+</Session>
+<Session SessionCode="FBL54" StartDate="2024-08-06T21:00:00+02:00" EndDate="2024-08-07T00:00:00+02:00" Venue="MRS" VenueName="Marseille Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="FBL54" Language="ENG" />
+</Session>
+<Session SessionCode="FBL55" StartDate="2024-08-08T17:00:00+02:00" EndDate="2024-08-08T20:00:00+02:00" Venue="NAN" VenueName="Nantes Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL55" Language="ENG" />
+</Session>
+<Session SessionCode="FBL56" StartDate="2024-08-09T15:00:00+02:00" EndDate="2024-08-09T18:00:00+02:00" Leadin="3:0" Venue="LYO" VenueName="Lyon Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL56" Language="ENG" />
+</Session>
+<Session SessionCode="FBL57" StartDate="2024-08-09T18:00:00+02:00" EndDate="2024-08-09T21:30:00+02:00" Medal="1" Venue="PDP" VenueName="Parc des Princes" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL57" Language="ENG" />
+</Session>
+<Session SessionCode="FBL58" StartDate="2024-08-10T17:00:00+02:00" EndDate="2024-08-10T20:30:00+02:00" Medal="1" Venue="PDP" VenueName="Parc des Princes" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="FBL58" Language="ENG" />
+</Session>
+<Unit Code="FBLMTEAM11------------GPC-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T15:00:00+02:00" EndDate="2024-07-24T17:00:00+02:00" Venue="PDP" Location="PDP" SessionCode="FBL01">
+<ItemName Language="ENG" Value="Men's Group C" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe C" />
+<VenueDescription VenueName="Parc des Princes" LocationName="Parc des Princes" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPB-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T15:00:00+02:00" EndDate="2024-07-24T17:00:00+02:00" Venue="STE" Location="STE" SessionCode="FBL02">
+<ItemName Language="ENG" Value="Men's Group B" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<VenueDescription VenueName="Saint-Etienne Stadium" LocationName="Saint-Etienne Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPC-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T17:00:00+02:00" EndDate="2024-07-24T19:00:00+02:00" Venue="NAN" Location="NAN" SessionCode="FBL03">
+<ItemName Language="ENG" Value="Men's Group C" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe C" />
+<VenueDescription VenueName="Nantes Stadium" LocationName="Nantes Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPA-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T19:00:00+02:00" EndDate="2024-07-24T21:00:00+02:00" Venue="NIC" Location="NIC" SessionCode="FBL04">
+<ItemName Language="ENG" Value="Men's Group A" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<VenueDescription VenueName="Nice Stadium" LocationName="Nice Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPD-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T21:00:00+02:00" EndDate="2024-07-24T23:00:00+02:00" Venue="BOR" Location="BOR" SessionCode="FBL05">
+<ItemName Language="ENG" Value="Men's Group D" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe D" />
+<VenueDescription VenueName="Bordeaux Stadium" LocationName="Bordeaux Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPB-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T21:00:00+02:00" EndDate="2024-07-24T23:00:00+02:00" Venue="LYO" Location="LYO" SessionCode="FBL06">
+<ItemName Language="ENG" Value="Men's Group B" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<VenueDescription VenueName="Lyon Stadium" LocationName="Lyon Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPD-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T21:00:00+02:00" EndDate="2024-07-24T23:00:00+02:00" Venue="PDP" Location="PDP" SessionCode="FBL07">
+<ItemName Language="ENG" Value="Men's Group D" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe D" />
+<VenueDescription VenueName="Parc des Princes" LocationName="Parc des Princes" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPA-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T21:00:00+02:00" EndDate="2024-07-24T23:00:00+02:00" Venue="MRS" Location="MRS" SessionCode="FBL08">
+<ItemName Language="ENG" Value="Men's Group A" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<VenueDescription VenueName="Marseille Stadium" LocationName="Marseille Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPC-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T19:00:00+02:00" EndDate="2024-07-25T21:00:00+02:00" Venue="NAN" Location="NAN" SessionCode="FBL09">
+<ItemName Language="ENG" Value="Women's Group C" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe C" />
+<VenueDescription VenueName="Nantes Stadium" LocationName="Nantes Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPA-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T19:00:00+02:00" EndDate="2024-07-25T21:00:00+02:00" Venue="STE" Location="STE" SessionCode="FBL10">
+<ItemName Language="ENG" Value="Women's Group A" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<VenueDescription VenueName="Saint-Etienne Stadium" LocationName="Saint-Etienne Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPC-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T17:00:00+02:00" EndDate="2024-07-25T19:00:00+02:00" Venue="BOR" Location="BOR" SessionCode="FBL11">
+<ItemName Language="ENG" Value="Women's Group C" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe C" />
+<VenueDescription VenueName="Bordeaux Stadium" LocationName="Bordeaux Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPB-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T21:00:00+02:00" EndDate="2024-07-25T23:00:00+02:00" Venue="MRS" Location="MRS" SessionCode="FBL12">
+<ItemName Language="ENG" Value="Women's Group B" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<VenueDescription VenueName="Marseille Stadium" LocationName="Marseille Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPA-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T21:00:00+02:00" EndDate="2024-07-25T23:00:00+02:00" Venue="LYO" Location="LYO" SessionCode="FBL13">
+<ItemName Language="ENG" Value="Women's Group A" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<VenueDescription VenueName="Lyon Stadium" LocationName="Lyon Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPB-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T21:00:00+02:00" EndDate="2024-07-25T23:00:00+02:00" Venue="NIC" Location="NIC" SessionCode="FBL14">
+<ItemName Language="ENG" Value="Women's Group B" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<VenueDescription VenueName="Nice Stadium" LocationName="Nice Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPC-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T15:00:00+02:00" EndDate="2024-07-27T17:00:00+02:00" Venue="BOR" Location="BOR" SessionCode="FBL15">
+<ItemName Language="ENG" Value="Men's Group C" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe C" />
+<VenueDescription VenueName="Bordeaux Stadium" LocationName="Bordeaux Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPB-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T15:00:00+02:00" EndDate="2024-07-27T17:00:00+02:00" Venue="LYO" Location="LYO" SessionCode="FBL16">
+<ItemName Language="ENG" Value="Men's Group B" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<VenueDescription VenueName="Lyon Stadium" LocationName="Lyon Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPC-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T19:00:00+02:00" EndDate="2024-07-27T21:00:00+02:00" Venue="NAN" Location="NAN" SessionCode="FBL17">
+<ItemName Language="ENG" Value="Men's Group C" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe C" />
+<VenueDescription VenueName="Nantes Stadium" LocationName="Nantes Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPA-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T19:00:00+02:00" EndDate="2024-07-27T21:00:00+02:00" Venue="MRS" Location="MRS" SessionCode="FBL18">
+<ItemName Language="ENG" Value="Men's Group A" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<VenueDescription VenueName="Marseille Stadium" LocationName="Marseille Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPD-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T17:00:00+02:00" EndDate="2024-07-27T19:00:00+02:00" Venue="PDP" Location="PDP" SessionCode="FBL19">
+<ItemName Language="ENG" Value="Men's Group D" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe D" />
+<VenueDescription VenueName="Parc des Princes" LocationName="Parc des Princes" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPB-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T21:00:00+02:00" EndDate="2024-07-27T23:00:00+02:00" Venue="STE" Location="STE" SessionCode="FBL20">
+<ItemName Language="ENG" Value="Men's Group B" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<VenueDescription VenueName="Saint-Etienne Stadium" LocationName="Saint-Etienne Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPD-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T21:00:00+02:00" EndDate="2024-07-27T21:00:00+02:00" Venue="BOR" Location="BOR" SessionCode="FBL21">
+<ItemName Language="ENG" Value="Men's Group D" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe D" />
+<VenueDescription VenueName="Bordeaux Stadium" LocationName="Bordeaux Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPA-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T21:00:00+02:00" EndDate="2024-07-27T21:00:00+02:00" Venue="NIC" Location="NIC" SessionCode="FBL22">
+<ItemName Language="ENG" Value="Men's Group A" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<VenueDescription VenueName="Nice Stadium" LocationName="Nice Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPC-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T17:00:00+02:00" EndDate="2024-07-28T19:00:00+02:00" Venue="PDP" Location="PDP" SessionCode="FBL23">
+<ItemName Language="ENG" Value="Women's Group C" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe C" />
+<VenueDescription VenueName="Parc des Princes" LocationName="Parc des Princes" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPA-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T19:00:00+02:00" EndDate="2024-07-28T21:00:00+02:00" Venue="LYO" Location="LYO" SessionCode="FBL24">
+<ItemName Language="ENG" Value="Women's Group A" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<VenueDescription VenueName="Lyon Stadium" LocationName="Lyon Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPC-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T19:00:00+02:00" EndDate="2024-07-28T21:00:00+02:00" Venue="NAN" Location="NAN" SessionCode="FBL25">
+<ItemName Language="ENG" Value="Women's Group C" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe C" />
+<VenueDescription VenueName="Nantes Stadium" LocationName="Nantes Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPB-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T21:00:00+02:00" EndDate="2024-07-28T23:00:00+02:00" Venue="NIC" Location="NIC" SessionCode="FBL26">
+<ItemName Language="ENG" Value="Women's Group B" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<VenueDescription VenueName="Nice Stadium" LocationName="Nice Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPA-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T21:00:00+02:00" EndDate="2024-07-28T23:00:00+02:00" Venue="STE" Location="STE" SessionCode="FBL27">
+<ItemName Language="ENG" Value="Women's Group A" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<VenueDescription VenueName="Saint-Etienne Stadium" LocationName="Saint-Etienne Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPB-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T21:00:00+02:00" EndDate="2024-07-28T23:00:00+02:00" Venue="MRS" Location="MRS" SessionCode="FBL28">
+<ItemName Language="ENG" Value="Women's Group B" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<VenueDescription VenueName="Marseille Stadium" LocationName="Marseille Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPC-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T15:00:00+02:00" EndDate="2024-07-30T17:00:00+02:00" Venue="PDP" Location="PDP" SessionCode="FBL29">
+<ItemName Language="ENG" Value="Men's Group C" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe C" />
+<VenueDescription VenueName="Parc des Princes" LocationName="Parc des Princes" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPC-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T15:00:00+02:00" EndDate="2024-07-30T17:00:00+02:00" Venue="BOR" Location="BOR" SessionCode="FBL30">
+<ItemName Language="ENG" Value="Men's Group C" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe C" />
+<VenueDescription VenueName="Bordeaux Stadium" LocationName="Bordeaux Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPB-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T19:00:00+02:00" EndDate="2024-07-30T21:00:00+02:00" Venue="LYO" Location="LYO" SessionCode="FBL31">
+<ItemName Language="ENG" Value="Men's Group B" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<VenueDescription VenueName="Lyon Stadium" LocationName="Lyon Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPB-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T15:00:00+02:00" EndDate="2024-07-30T17:00:00+02:00" Venue="NIC" Location="NIC" SessionCode="FBL32">
+<ItemName Language="ENG" Value="Men's Group B" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<VenueDescription VenueName="Nice Stadium" LocationName="Nice Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPA-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T21:00:00+02:00" EndDate="2024-07-30T23:00:00+02:00" Venue="STE" Location="STE" SessionCode="FBL33">
+<ItemName Language="ENG" Value="Men's Group A" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<VenueDescription VenueName="Saint-Etienne Stadium" LocationName="Saint-Etienne Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPA-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T19:00:00+02:00" EndDate="2024-07-30T21:00:00+02:00" Venue="MRS" Location="MRS" SessionCode="FBL34">
+<ItemName Language="ENG" Value="Men's Group A" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<VenueDescription VenueName="Marseille Stadium" LocationName="Marseille Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPD-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T21:00:00+02:00" EndDate="2024-07-30T23:00:00+02:00" Venue="PDP" Location="PDP" SessionCode="FBL35">
+<ItemName Language="ENG" Value="Men's Group D" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe D" />
+<VenueDescription VenueName="Parc des Princes" LocationName="Parc des Princes" />
+</Unit>
+<Unit Code="FBLMTEAM11------------GPD-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T21:00:00+02:00" EndDate="2024-07-30T23:00:00+02:00" Venue="NAN" Location="NAN" SessionCode="FBL36">
+<ItemName Language="ENG" Value="Men's Group D" />
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe D" />
+<VenueDescription VenueName="Nantes Stadium" LocationName="Nantes Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPC-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T17:00:00+02:00" EndDate="2024-07-31T19:00:00+02:00" Venue="NAN" Location="NAN" SessionCode="FBL37">
+<ItemName Language="ENG" Value="Women's Group C" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe C" />
+<VenueDescription VenueName="Nantes Stadium" LocationName="Nantes Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPC-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:00:00+02:00" EndDate="2024-07-31T23:00:00+02:00" Venue="BOR" Location="BOR" SessionCode="FBL38">
+<ItemName Language="ENG" Value="Women's Group C" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe C" />
+<VenueDescription VenueName="Bordeaux Stadium" LocationName="Bordeaux Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPB-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T19:00:00+02:00" EndDate="2024-07-31T21:00:00+02:00" Venue="STE" Location="STE" SessionCode="FBL39">
+<ItemName Language="ENG" Value="Women's Group B" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<VenueDescription VenueName="Saint-Etienne Stadium" LocationName="Saint-Etienne Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPB-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:00:00+02:00" EndDate="2024-07-31T23:00:00+02:00" Venue="MRS" Location="MRS" SessionCode="FBL40">
+<ItemName Language="ENG" Value="Women's Group B" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<VenueDescription VenueName="Marseille Stadium" LocationName="Marseille Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPA-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T19:00:00+02:00" EndDate="2024-07-31T21:00:00+02:00" Venue="LYO" Location="LYO" SessionCode="FBL41">
+<ItemName Language="ENG" Value="Women's Group A" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<VenueDescription VenueName="Lyon Stadium" LocationName="Lyon Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------GPA-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:00:00+02:00" EndDate="2024-07-31T23:00:00+02:00" Venue="NIC" Location="NIC" SessionCode="FBL42">
+<ItemName Language="ENG" Value="Women's Group A" />
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<VenueDescription VenueName="Nice Stadium" LocationName="Nice Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T15:00:00+02:00" EndDate="2024-08-02T18:00:00+02:00" Venue="PDP" Location="PDP" SessionCode="FBL43">
+<ItemName Language="ENG" Value="Men's Quarter-final" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Parc des Princes" LocationName="Parc des Princes" />
+</Unit>
+<Unit Code="FBLMTEAM11------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T17:00:00+02:00" EndDate="2024-08-02T20:00:00+02:00" Venue="MRS" Location="MRS" SessionCode="FBL44">
+<ItemName Language="ENG" Value="Men's Quarter-final" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Marseille Stadium" LocationName="Marseille Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T19:00:00+02:00" EndDate="2024-08-02T22:00:00+02:00" Venue="LYO" Location="LYO" SessionCode="FBL45">
+<ItemName Language="ENG" Value="Men's Quarter-final" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Lyon Stadium" LocationName="Lyon Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T21:00:00+02:00" EndDate="2024-08-03T00:00:00+02:00" Venue="BOR" Location="BOR" SessionCode="FBL46">
+<ItemName Language="ENG" Value="Men's Quarter-final" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Bordeaux Stadium" LocationName="Bordeaux Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T21:00:00+02:00" EndDate="2024-08-04T00:00:00+02:00" Venue="PDP" Location="PDP" SessionCode="FBL47">
+<ItemName Language="ENG" Value="Women's Quarter-final" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Parc des Princes" LocationName="Parc des Princes" />
+</Unit>
+<Unit Code="FBLWTEAM11------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T19:00:00+02:00" EndDate="2024-08-03T22:00:00+02:00" Venue="LYO" Location="LYO" SessionCode="FBL48">
+<ItemName Language="ENG" Value="Women's Quarter-final" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Lyon Stadium" LocationName="Lyon Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T19:00:00+02:00" EndDate="2024-08-03T22:00:00+02:00" Venue="MRS" Location="MRS" SessionCode="FBL49">
+<ItemName Language="ENG" Value="Women's Quarter-final" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Marseille Stadium" LocationName="Marseille Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T17:00:00+02:00" EndDate="2024-08-03T20:00:00+02:00" Venue="NAN" Location="NAN" SessionCode="FBL50">
+<ItemName Language="ENG" Value="Women's Quarter-final" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Nantes Stadium" LocationName="Nantes Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T21:00:00+02:00" EndDate="2024-08-06T00:00:00+02:00" Venue="MRS" Location="MRS" SessionCode="FBL51">
+<ItemName Language="ENG" Value="Men's Semi-final" />
+<ItemName Language="FRA" Value="Hommes, demi-finale" />
+<VenueDescription VenueName="Marseille Stadium" LocationName="Marseille Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T21:00:00+02:00" EndDate="2024-08-06T00:00:00+02:00" Venue="LYO" Location="LYO" SessionCode="FBL52">
+<ItemName Language="ENG" Value="Men's Semi-final" />
+<ItemName Language="FRA" Value="Hommes, demi-finale" />
+<VenueDescription VenueName="Lyon Stadium" LocationName="Lyon Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T21:00:00+02:00" EndDate="2024-08-07T00:00:00+02:00" Venue="LYO" Location="LYO" SessionCode="FBL53">
+<ItemName Language="ENG" Value="Women's Semi-final" />
+<ItemName Language="FRA" Value="Femmes, demi-finale" />
+<VenueDescription VenueName="Lyon Stadium" LocationName="Lyon Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T21:00:00+02:00" EndDate="2024-08-07T00:00:00+02:00" Venue="MRS" Location="MRS" SessionCode="FBL54">
+<ItemName Language="ENG" Value="Women's Semi-final" />
+<ItemName Language="FRA" Value="Femmes, demi-finale" />
+<VenueDescription VenueName="Marseille Stadium" LocationName="Marseille Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T17:00:00+02:00" EndDate="2024-08-08T20:00:00+02:00" Medal="3" Venue="NAN" Location="NAN" SessionCode="FBL55">
+<ItemName Language="ENG" Value="Men's Bronze Medal Match" />
+<ItemName Language="FRA" Value="Hommes, médaille de bronze" />
+<VenueDescription VenueName="Nantes Stadium" LocationName="Nantes Stadium" />
+</Unit>
+<Unit Code="FBLWTEAM11------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T18:00:00+02:00" EndDate="2024-08-09T21:00:00+02:00" Medal="3" Venue="LYO" Location="LYO" SessionCode="FBL56">
+<ItemName Language="ENG" Value="Women's Bronze Medal Match" />
+<ItemName Language="FRA" Value="Femmes, médaille de bronze" />
+<VenueDescription VenueName="Lyon Stadium" LocationName="Lyon Stadium" />
+</Unit>
+<Unit Code="FBLMTEAM11------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T18:00:00+02:00" EndDate="2024-08-09T21:00:00+02:00" Medal="1" Venue="PDP" Location="PDP" SessionCode="FBL57">
+<ItemName Language="ENG" Value="Men's Gold Medal Match" />
+<ItemName Language="FRA" Value="Hommes, médaille d'or" />
+<VenueDescription VenueName="Parc des Princes" LocationName="Parc des Princes" />
+</Unit>
+<Unit Code="FBLMTEAM11------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T21:00:00+02:00" EndDate="2024-08-09T21:30:00+02:00" Venue="PDP" Location="PDP" SessionCode="FBL57">
+<ItemName Language="ENG" Value="Men's Victory Ceremony" />
+<ItemName Language="FRA" Value="Hommes, remise des médailles" />
+<VenueDescription VenueName="Parc des Princes" LocationName="Parc des Princes" />
+</Unit>
+<Unit Code="FBLWTEAM11------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T17:00:00+02:00" EndDate="2024-08-10T20:00:00+02:00" Medal="1" Venue="PDP" Location="PDP" SessionCode="FBL58">
+<ItemName Language="ENG" Value="Women's Gold Medal Match" />
+<ItemName Language="FRA" Value="Femmes, médaille d'or" />
+<VenueDescription VenueName="Parc des Princes" LocationName="Parc des Princes" />
+</Unit>
+<Unit Code="FBLWTEAM11------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:00:00+02:00" EndDate="2024-08-10T20:30:00+02:00" Venue="PDP" Location="PDP" SessionCode="FBL58">
+<ItemName Language="ENG" Value="Women's Victory Ceremony" />
+<ItemName Language="FRA" Value="Femmes, remise des médailles" />
+<VenueDescription VenueName="Parc des Princes" LocationName="Parc des Princes" />
+</Unit>
+<Unit Code="FBLMTEAM11------------VICTBRONZE--" PhaseType="6" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, remise des médailles de bronze" />
+<ItemName Language="ENG" Value="Men's Bronze Ceremony" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="FBLWTEAM11------------VICTBRONZE--" PhaseType="6" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, remise des médailles de bronze" />
+<ItemName Language="ENG" Value="Women's Bronze Ceremony" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

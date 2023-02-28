@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="GTR-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="160110306" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="GTR01" StartDate="2024-08-02T12:00:00+02:00" EndDate="2024-08-02T14:30:00+02:00" Medal="1" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="GTR01" Language="ENG" />
+</Session>
+<Session SessionCode="GTR02" StartDate="2024-08-02T18:00:00+02:00" EndDate="2024-08-02T20:30:00+02:00" Medal="1" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="GTR02" Language="ENG" />
+</Session>
+<Unit Code="GTRW1TRA--------------QUAL000001--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T12:00:00+02:00" EndDate="2024-08-02T13:29:00+02:00" Venue="BCY" Location="BCY" SessionCode="GTR01">
+<ItemName Language="ENG" Value="Women's Qualification" />
+<ItemName Language="FRA" Value="Femmes, qualifications" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="GTRW1TRA--------------FNL-000001--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T13:44:00+02:00" EndDate="2024-08-02T14:14:00+02:00" Medal="1" Venue="BCY" Location="BCY" SessionCode="GTR01">
+<ItemName Language="ENG" Value="Women's Final" />
+<ItemName Language="FRA" Value="Femmes, finale" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="GTRW1TRA--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T14:14:00+02:00" EndDate="2024-08-02T14:24:00+02:00" Venue="BCY" Location="BCY" SessionCode="GTR01">
+<ItemName Language="ENG" Value="Women's Victory Ceremony" />
+<ItemName Language="FRA" Value="Femmes, remise des médailles" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="GTRM1TRA--------------QUAL000001--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T18:00:00+02:00" EndDate="2024-08-02T19:30:00+02:00" Venue="BCY" Location="BCY" SessionCode="GTR02">
+<ItemName Language="ENG" Value="Men's Qualification" />
+<ItemName Language="FRA" Value="Hommes, qualifications" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="GTRM1TRA--------------FNL-000001--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T19:45:00+02:00" EndDate="2024-08-02T20:15:00+02:00" Medal="1" Venue="BCY" Location="BCY" SessionCode="GTR02">
+<ItemName Language="ENG" Value="Men's Final" />
+<ItemName Language="FRA" Value="Hommes, finale" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="GTRM1TRA--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T20:15:00+02:00" EndDate="2024-08-02T20:25:00+02:00" Venue="BCY" Location="BCY" SessionCode="GTR02">
+<ItemName Language="ENG" Value="Men's Victory Ceremony" />
+<ItemName Language="FRA" Value="Hommes, remise des médailles" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="GTR-------------------MEET000001--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Orientation et tirage au sort juges" />
+<ItemName Language="ENG" Value="Orientation Meeting and Judge's Draw" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="GTR-------------------TRNO000001--" PhaseType="1" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Entraînement au podium" />
+<ItemName Language="ENG" Value="Podium Training" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

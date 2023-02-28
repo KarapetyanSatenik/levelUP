@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="BKG-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="155858330" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="BKG01" StartDate="2024-08-09T16:00:00+02:00" EndDate="2024-08-09T18:00:00+02:00" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKG01" Language="ENG" />
+</Session>
+<Session SessionCode="BKG02" StartDate="2024-08-09T20:00:00+02:00" EndDate="2024-08-09T22:00:00+02:00" Medal="1" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BKG02" Language="ENG" />
+</Session>
+<Session SessionCode="BKG03" StartDate="2024-08-10T16:00:00+02:00" EndDate="2024-08-10T18:00:00+02:00" Leadin="4:0" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKG03" Language="ENG" />
+</Session>
+<Session SessionCode="BKG04" StartDate="2024-08-10T20:00:00+02:00" EndDate="2024-08-10T22:00:00+02:00" Medal="1" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BKG04" Language="ENG" />
+</Session>
+<Unit Code="BKGWINDIVID-----------GPA-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:00:00+02:00" EndDate="2024-08-09T16:04:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group A" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group A" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPA-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:04:00+02:00" EndDate="2024-08-09T16:08:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group A" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group A" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPB-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:08:00+02:00" EndDate="2024-08-09T16:12:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group B" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group B" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPB-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:12:00+02:00" EndDate="2024-08-09T16:16:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group B" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group B" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPC-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:16:00+02:00" EndDate="2024-08-09T16:20:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group C" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group C" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPC-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:20:00+02:00" EndDate="2024-08-09T16:24:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group C" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group C" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPD-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:24:00+02:00" EndDate="2024-08-09T16:28:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group D" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group D" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPD-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:28:00+02:00" EndDate="2024-08-09T16:32:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group D" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group D" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPA-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:32:00+02:00" EndDate="2024-08-09T16:36:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group A" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group A" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPA-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:36:00+02:00" EndDate="2024-08-09T16:40:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group A" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group A" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPB-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:40:00+02:00" EndDate="2024-08-09T16:44:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group B" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group B" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPB-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:44:00+02:00" EndDate="2024-08-09T16:48:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group B" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group B" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPC-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:48:00+02:00" EndDate="2024-08-09T16:52:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group C" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group C" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPC-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:52:00+02:00" EndDate="2024-08-09T16:56:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group C" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group C" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPD-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:56:00+02:00" EndDate="2024-08-09T17:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group D" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group D" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPD-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T17:00:00+02:00" EndDate="2024-08-09T17:04:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group D" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group D" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPA-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T17:04:00+02:00" EndDate="2024-08-09T17:08:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group A" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group A" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPA-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T17:08:00+02:00" EndDate="2024-08-09T17:12:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group A" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group A" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPB-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T17:12:00+02:00" EndDate="2024-08-09T17:16:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group B" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group B" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPB-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T17:16:00+02:00" EndDate="2024-08-09T17:20:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group B" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group B" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPC-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T17:20:00+02:00" EndDate="2024-08-09T17:24:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group C" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group C" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPC-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T17:24:00+02:00" EndDate="2024-08-09T17:28:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group C" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group C" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPD-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T17:28:00+02:00" EndDate="2024-08-09T17:32:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group D" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group D" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------GPD-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T17:32:00+02:00" EndDate="2024-08-09T17:36:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG01">
+<ItemName Language="ENG" Value="B-Girls Round Robin - Group D" />
+<ItemName Language="FRA" Value="B-Girls Round Robin - Group D" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T20:00:00+02:00" EndDate="2024-08-09T20:06:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG02">
+<ItemName Language="ENG" Value="B-Girls Quarterfinal" />
+<ItemName Language="FRA" Value="B-Girls Quarterfinal" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T20:06:00+02:00" EndDate="2024-08-09T20:12:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG02">
+<ItemName Language="ENG" Value="B-Girls Quarterfinal" />
+<ItemName Language="FRA" Value="B-Girls Quarterfinal" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T20:12:00+02:00" EndDate="2024-08-09T20:18:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG02">
+<ItemName Language="ENG" Value="B-Girls Quarterfinal" />
+<ItemName Language="FRA" Value="B-Girls Quarterfinal" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T20:18:00+02:00" EndDate="2024-08-09T20:24:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG02">
+<ItemName Language="ENG" Value="B-Girls Quarterfinal" />
+<ItemName Language="FRA" Value="B-Girls Quarterfinal" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T20:29:00+02:00" EndDate="2024-08-09T20:35:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG02">
+<ItemName Language="ENG" Value="B-Girls Semi-final" />
+<ItemName Language="FRA" Value="B-Girls Semi-final" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T20:35:00+02:00" EndDate="2024-08-09T20:41:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG02">
+<ItemName Language="ENG" Value="B-Girls Semi-final" />
+<ItemName Language="FRA" Value="B-Girls Semi-final" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T20:46:00+02:00" EndDate="2024-08-09T20:52:00+02:00" Medal="3" Venue="LC1" Location="LC1" SessionCode="BKG02">
+<ItemName Language="ENG" Value="B-Girls Bronze Medal Battle" />
+<ItemName Language="FRA" Value="B-Girls Bronze Medal Battle" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T20:52:00+02:00" EndDate="2024-08-09T20:58:00+02:00" Medal="1" Venue="LC1" Location="LC1" SessionCode="BKG02">
+<ItemName Language="ENG" Value="B-Girls Gold Medal Battle" />
+<ItemName Language="FRA" Value="B-Girls Gold Medal Battle" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T20:58:00+02:00" EndDate="2024-08-09T21:08:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG02">
+<ItemName Language="ENG" Value="B-Girls Victory Ceremony" />
+<ItemName Language="FRA" Value="B-Girls, remise médailles" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPA-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:00:00+02:00" EndDate="2024-08-10T20:04:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group A" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group A" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPA-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:04:00+02:00" EndDate="2024-08-10T20:08:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group A" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group A" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPB-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:08:00+02:00" EndDate="2024-08-10T20:12:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group B" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group B" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPB-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:12:00+02:00" EndDate="2024-08-10T20:16:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group B" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group B" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPC-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:16:00+02:00" EndDate="2024-08-10T20:20:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group C" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group C" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPC-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:20:00+02:00" EndDate="2024-08-10T20:24:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group C" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group C" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPD-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:24:00+02:00" EndDate="2024-08-10T20:28:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group D" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group D" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPD-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:28:00+02:00" EndDate="2024-08-10T20:32:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group D" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group D" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPA-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:32:00+02:00" EndDate="2024-08-10T20:36:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group A" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group A" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPA-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:36:00+02:00" EndDate="2024-08-10T20:40:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group A" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group A" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPB-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:40:00+02:00" EndDate="2024-08-10T20:44:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group B" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group B" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPB-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:44:00+02:00" EndDate="2024-08-10T20:48:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group B" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group B" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPC-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:48:00+02:00" EndDate="2024-08-10T20:52:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group C" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group C" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPC-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:52:00+02:00" EndDate="2024-08-10T20:56:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group C" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group C" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPD-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:56:00+02:00" EndDate="2024-08-10T21:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group D" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group D" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPD-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T21:00:00+02:00" EndDate="2024-08-10T21:04:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group D" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group D" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPA-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T21:04:00+02:00" EndDate="2024-08-10T21:08:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group A" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group A" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPA-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T21:08:00+02:00" EndDate="2024-08-10T21:12:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group A" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group A" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPB-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T21:12:00+02:00" EndDate="2024-08-10T21:16:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group B" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group B" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPB-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T21:16:00+02:00" EndDate="2024-08-10T21:20:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group B" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group B" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPC-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T21:20:00+02:00" EndDate="2024-08-10T21:24:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group C" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group C" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPC-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T21:24:00+02:00" EndDate="2024-08-10T21:28:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group C" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group C" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPD-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T21:28:00+02:00" EndDate="2024-08-10T21:32:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group D" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group D" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------GPD-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T21:32:00+02:00" EndDate="2024-08-10T21:36:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG03">
+<ItemName Language="ENG" Value="B-Boys Round Robin - Group D" />
+<ItemName Language="FRA" Value="B-Boys Round Robin - Group D" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:00:00+02:00" EndDate="2024-08-10T20:04:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG04">
+<ItemName Language="ENG" Value="B-Boys Quarterfinal" />
+<ItemName Language="FRA" Value="B-Boys Quarterfinal" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:04:00+02:00" EndDate="2024-08-10T20:08:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG04">
+<ItemName Language="ENG" Value="B-Boys Quarterfinal" />
+<ItemName Language="FRA" Value="B-Boys Quarterfinal" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:08:00+02:00" EndDate="2024-08-10T20:12:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG04">
+<ItemName Language="ENG" Value="B-Boys Quarterfinal" />
+<ItemName Language="FRA" Value="B-Boys Quarterfinal" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:12:00+02:00" EndDate="2024-08-10T20:16:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG04">
+<ItemName Language="ENG" Value="B-Boys Quarterfinal" />
+<ItemName Language="FRA" Value="B-Boys Quarterfinal" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:21:00+02:00" EndDate="2024-08-10T20:27:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG04">
+<ItemName Language="ENG" Value="B-Boys Semi-final" />
+<ItemName Language="FRA" Value="B-Boys Semi-final" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:27:00+02:00" EndDate="2024-08-10T20:33:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG04">
+<ItemName Language="ENG" Value="B-Boys Semi-final" />
+<ItemName Language="FRA" Value="B-Boys Semi-final" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:38:00+02:00" EndDate="2024-08-10T20:44:00+02:00" Medal="3" Venue="LC1" Location="LC1" SessionCode="BKG04">
+<ItemName Language="ENG" Value="B-Boys Bronze Medal Battle" />
+<ItemName Language="FRA" Value="B-Boys Bronze Medal Battle" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:44:00+02:00" EndDate="2024-08-10T20:50:00+02:00" Medal="1" Venue="LC1" Location="LC1" SessionCode="BKG04">
+<ItemName Language="ENG" Value="B-Boys Gold Medal Battle" />
+<ItemName Language="FRA" Value="B-Boys Gold Medal Battle" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:50:00+02:00" EndDate="2024-08-10T21:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BKG04">
+<ItemName Language="ENG" Value="B-Boys Victory Ceremony" />
+<ItemName Language="FRA" Value="B-boys, remise médailles" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BKG-------------------MEET000100--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Technical meeting" />
+<ItemName Language="FRA" Value="Technical meeting" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKG-------------------MEET000200--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Réunion des directeurs d'équipe" />
+<ItemName Language="ENG" Value="Team Managers' meeting" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKG-------------------MEET000300--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Réunion des directeurs d'équipe" />
+<ItemName Language="ENG" Value="Team Managers' meeting" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKGMINDIVID-----------TMRY000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="B-Boys Round Robin" />
+<ItemName Language="FRA" Value="B-Boys Round Robin" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKGWINDIVID-----------TMRY000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="B-Girls Round Robin" />
+<ItemName Language="FRA" Value="B-Girls Round Robin" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

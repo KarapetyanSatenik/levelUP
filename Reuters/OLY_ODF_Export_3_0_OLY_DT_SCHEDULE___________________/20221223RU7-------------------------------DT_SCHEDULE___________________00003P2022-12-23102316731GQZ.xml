@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="RU7-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="160204577" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="RU701" StartDate="2024-07-24T15:30:00+02:00" EndDate="2024-07-24T22:00:00+02:00" Venue="STA" VenueName="Stade de France" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="RU701" Language="ENG" />
+</Session>
+<Session SessionCode="RU702" StartDate="2024-07-25T14:00:00+02:00" EndDate="2024-07-25T17:00:00+02:00" Venue="STA" VenueName="Stade de France" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="RU702" Language="ENG" />
+</Session>
+<Session SessionCode="RU703" StartDate="2024-07-25T20:00:00+02:00" EndDate="2024-07-25T23:00:00+02:00" Venue="STA" VenueName="Stade de France" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="RU703" Language="ENG" />
+</Session>
+<Session SessionCode="RU704" StartDate="2024-07-27T14:30:00+02:00" EndDate="2024-07-27T20:45:00+02:00" Medal="1" Venue="STA" VenueName="Stade de France" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="RU704" Language="ENG" />
+</Session>
+<Session SessionCode="RU705" StartDate="2024-07-28T15:30:00+02:00" EndDate="2024-07-28T22:00:00+02:00" Venue="STA" VenueName="Stade de France" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="RU705" Language="ENG" />
+</Session>
+<Session SessionCode="RU706" StartDate="2024-07-29T14:00:00+02:00" EndDate="2024-07-29T17:00:00+02:00" Venue="STA" VenueName="Stade de France" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="RU706" Language="ENG" />
+</Session>
+<Session SessionCode="RU707" StartDate="2024-07-29T20:00:00+02:00" EndDate="2024-07-29T23:00:00+02:00" Venue="STA" VenueName="Stade de France" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="RU707" Language="ENG" />
+</Session>
+<Session SessionCode="RU708" StartDate="2024-07-30T14:30:00+02:00" EndDate="2024-07-30T20:45:00+02:00" Medal="1" Venue="STA" VenueName="Stade de France" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="RU708" Language="ENG" />
+</Session>
+<Unit Code="RU7-------------------TMRY000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T15:30:00+02:00" EndDate="2024-07-24T16:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU701">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T16:00:00+02:00" EndDate="2024-07-24T16:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU701">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T16:30:00+02:00" EndDate="2024-07-24T17:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU701">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T17:00:00+02:00" EndDate="2024-07-24T17:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU701">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T17:30:00+02:00" EndDate="2024-07-24T18:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU701">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T18:00:00+02:00" EndDate="2024-07-24T18:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU701">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T19:00:00+02:00" EndDate="2024-07-24T19:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU701">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T19:30:00+02:00" EndDate="2024-07-24T20:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU701">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY000900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T20:00:00+02:00" EndDate="2024-07-24T20:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU701">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY001000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T20:30:00+02:00" EndDate="2024-07-24T21:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU701">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY001100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T21:00:00+02:00" EndDate="2024-07-24T21:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU701">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY001200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-24T21:30:00+02:00" EndDate="2024-07-24T22:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU701">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY001300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T14:00:00+02:00" EndDate="2024-07-25T14:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU702">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY001400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T14:30:00+02:00" EndDate="2024-07-25T15:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU702">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY001500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T15:00:00+02:00" EndDate="2024-07-25T15:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU702">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY001600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T15:30:00+02:00" EndDate="2024-07-25T16:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU702">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY001700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T16:00:00+02:00" EndDate="2024-07-25T16:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU702">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY001900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T16:30:00+02:00" EndDate="2024-07-25T17:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU702">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------SF9-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T20:00:00+02:00" EndDate="2024-07-25T20:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU703">
+<ItemName Language="ENG" Value="Men's Placing 9-12" />
+<ItemName Language="FRA" Value="Hommes, places 9-12" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------SF9-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T20:30:00+02:00" EndDate="2024-07-25T21:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU703">
+<ItemName Language="ENG" Value="Men's Placing 9-12" />
+<ItemName Language="FRA" Value="Hommes, places 9-12" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T21:00:00+02:00" EndDate="2024-07-25T21:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU703">
+<ItemName Language="ENG" Value="Men's Quarter-final" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T21:30:00+02:00" EndDate="2024-07-25T22:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU703">
+<ItemName Language="ENG" Value="Men's Quarter-final" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T22:00:00+02:00" EndDate="2024-07-25T22:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU703">
+<ItemName Language="ENG" Value="Men's Quarter-final" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T22:30:00+02:00" EndDate="2024-07-25T23:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU703">
+<ItemName Language="ENG" Value="Men's Quarter-final" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------SF5-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T14:30:00+02:00" EndDate="2024-07-27T15:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU704">
+<ItemName Language="ENG" Value="Men's Placing 5-8" />
+<ItemName Language="FRA" Value="Hommes, places 5-8" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------SF5-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T15:00:00+02:00" EndDate="2024-07-27T15:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU704">
+<ItemName Language="ENG" Value="Men's Placing 5-8" />
+<ItemName Language="FRA" Value="Hommes, places 5-8" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T15:30:00+02:00" EndDate="2024-07-27T16:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU704">
+<ItemName Language="ENG" Value="Men's Semi-final" />
+<ItemName Language="FRA" Value="Hommes, demi-finale" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T16:00:00+02:00" EndDate="2024-07-27T16:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU704">
+<ItemName Language="ENG" Value="Men's Semi-final" />
+<ItemName Language="FRA" Value="Hommes, demi-finale" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------FNL-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T16:30:00+02:00" EndDate="2024-07-27T17:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU704">
+<ItemName Language="ENG" Value="Men's Placing 11-12" />
+<ItemName Language="FRA" Value="Hommes, places 11-12" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------FNL-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T17:00:00+02:00" EndDate="2024-07-27T17:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU704">
+<ItemName Language="ENG" Value="Men's Placing 9-10" />
+<ItemName Language="FRA" Value="Hommes, places 9-10" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------FNL-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T18:00:00+02:00" EndDate="2024-07-27T18:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU704">
+<ItemName Language="ENG" Value="Men's Placing 7-8" />
+<ItemName Language="FRA" Value="Hommes, places 7-8" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------FNL-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T18:30:00+02:00" EndDate="2024-07-27T19:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU704">
+<ItemName Language="ENG" Value="Men's Placing 5-6" />
+<ItemName Language="FRA" Value="Hommes, places 5-6" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T19:00:00+02:00" EndDate="2024-07-27T19:30:00+02:00" Medal="3" Venue="STA" Location="STA" SessionCode="RU704">
+<ItemName Language="ENG" Value="Men's Bronze Medal Match" />
+<ItemName Language="FRA" Value="Hommes, médaille de bronze" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T19:45:00+02:00" EndDate="2024-07-27T20:15:00+02:00" Medal="1" Venue="STA" Location="STA" SessionCode="RU704">
+<ItemName Language="ENG" Value="Men's Gold Medal Match" />
+<ItemName Language="FRA" Value="Hommes, médaille d'or" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T20:15:00+02:00" EndDate="2024-07-27T20:45:00+02:00" Venue="STA" Location="STA" SessionCode="RU704">
+<ItemName Language="ENG" Value="Men's Victory Ceremony" />
+<ItemName Language="FRA" Value="Hommes, remise des médailles" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY001800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T15:30:00+02:00" EndDate="2024-07-28T16:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU705">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY002000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T16:00:00+02:00" EndDate="2024-07-28T16:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU705">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY002100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T16:30:00+02:00" EndDate="2024-07-28T17:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU705">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY002200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T17:00:00+02:00" EndDate="2024-07-28T17:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU705">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY002300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T17:30:00+02:00" EndDate="2024-07-28T18:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU705">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY002400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T18:00:00+02:00" EndDate="2024-07-28T18:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU705">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY002500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T19:00:00+02:00" EndDate="2024-07-28T19:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU705">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY002600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T19:30:00+02:00" EndDate="2024-07-28T20:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU705">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY002700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T20:00:00+02:00" EndDate="2024-07-28T20:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU705">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY002800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T20:30:00+02:00" EndDate="2024-07-28T21:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU705">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY002900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T21:00:00+02:00" EndDate="2024-07-28T21:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU705">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY003000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T21:30:00+02:00" EndDate="2024-07-28T22:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU705">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY003100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T14:00:00+02:00" EndDate="2024-07-29T14:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU706">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY003200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T14:30:00+02:00" EndDate="2024-07-29T15:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU706">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY003300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T15:00:00+02:00" EndDate="2024-07-29T15:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU706">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY003400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T15:30:00+02:00" EndDate="2024-07-29T16:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU706">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY003500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T16:00:00+02:00" EndDate="2024-07-29T16:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU706">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7-------------------TMRY003600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T16:30:00+02:00" EndDate="2024-07-29T17:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU706">
+<ItemName Language="ENG" Value="Preliminary Phase" />
+<ItemName Language="FRA" Value="Preliminary Phase" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------SF9-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T20:00:00+02:00" EndDate="2024-07-29T20:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU707">
+<ItemName Language="ENG" Value="Women's Placing 9-12" />
+<ItemName Language="FRA" Value="Femmes, places 9-12" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------SF9-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T20:30:00+02:00" EndDate="2024-07-29T21:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU707">
+<ItemName Language="ENG" Value="Women's Placing 9-12" />
+<ItemName Language="FRA" Value="Femmes, places 9-12" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T21:00:00+02:00" EndDate="2024-07-29T21:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU707">
+<ItemName Language="ENG" Value="Women's Quarter-final" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T21:30:00+02:00" EndDate="2024-07-29T22:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU707">
+<ItemName Language="ENG" Value="Women's Quarter-final" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T22:00:00+02:00" EndDate="2024-07-29T22:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU707">
+<ItemName Language="ENG" Value="Women's Quarter-final" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T22:30:00+02:00" EndDate="2024-07-29T23:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU707">
+<ItemName Language="ENG" Value="Women's Quarter-final" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------SF5-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T14:30:00+02:00" EndDate="2024-07-30T15:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU708">
+<ItemName Language="ENG" Value="Women's Placing 5-8" />
+<ItemName Language="FRA" Value="Femmes, places 5-8" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------SF5-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T15:00:00+02:00" EndDate="2024-07-30T15:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU708">
+<ItemName Language="ENG" Value="Women's Placing 5-8" />
+<ItemName Language="FRA" Value="Femmes, places 5-8" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T15:30:00+02:00" EndDate="2024-07-30T16:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU708">
+<ItemName Language="ENG" Value="Women's Semi-final" />
+<ItemName Language="FRA" Value="Femmes, demi-finale" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T16:00:00+02:00" EndDate="2024-07-30T16:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU708">
+<ItemName Language="ENG" Value="Women's Semi-final" />
+<ItemName Language="FRA" Value="Femmes, demi-finale" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------FNL-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T16:30:00+02:00" EndDate="2024-07-30T17:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU708">
+<ItemName Language="ENG" Value="Women's Placing 11-12" />
+<ItemName Language="FRA" Value="Femmes, places 11-12" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------FNL-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T17:00:00+02:00" EndDate="2024-07-30T17:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU708">
+<ItemName Language="ENG" Value="Women's Placing 9-10" />
+<ItemName Language="FRA" Value="Femmes, places 9-10" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------FNL-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T18:00:00+02:00" EndDate="2024-07-30T18:30:00+02:00" Venue="STA" Location="STA" SessionCode="RU708">
+<ItemName Language="ENG" Value="Women's Placing 7-8" />
+<ItemName Language="FRA" Value="Femmes, places 7-8" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------FNL-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T18:30:00+02:00" EndDate="2024-07-30T19:00:00+02:00" Venue="STA" Location="STA" SessionCode="RU708">
+<ItemName Language="ENG" Value="Women's Placing 5-6" />
+<ItemName Language="FRA" Value="Femmes, places 5-6" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T19:00:00+02:00" EndDate="2024-07-30T19:30:00+02:00" Medal="3" Venue="STA" Location="STA" SessionCode="RU708">
+<ItemName Language="ENG" Value="Women's Bronze Medal Match" />
+<ItemName Language="FRA" Value="Femmes, médaille de bronze" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T20:00:00+02:00" EndDate="2024-07-30T20:30:00+02:00" Medal="1" Venue="STA" Location="STA" SessionCode="RU708">
+<ItemName Language="ENG" Value="Women's Gold Medal Match" />
+<ItemName Language="FRA" Value="Femmes, médaille d'or" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T20:30:00+02:00" EndDate="2024-07-30T20:45:00+02:00" Venue="STA" Location="STA" SessionCode="RU708">
+<ItemName Language="ENG" Value="Women's Victory Ceremony" />
+<ItemName Language="FRA" Value="Femmes, remise des médailles" />
+<VenueDescription VenueName="Stade de France" LocationName="Stade de France" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPA-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPA-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPA-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPA-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPA-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPA-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPB-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPB-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPB-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPB-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPB-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPB-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPC-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule C" />
+<ItemName Language="ENG" Value="Men's Pool C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPC-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule C" />
+<ItemName Language="ENG" Value="Men's Pool C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPC-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule C" />
+<ItemName Language="ENG" Value="Men's Pool C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPC-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule C" />
+<ItemName Language="ENG" Value="Men's Pool C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPC-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule C" />
+<ItemName Language="ENG" Value="Men's Pool C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7MTEAM7-------------GPC-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, poule C" />
+<ItemName Language="ENG" Value="Men's Pool C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPA-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPA-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPA-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPA-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPA-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPA-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPB-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPB-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPB-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPB-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPB-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPB-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPC-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule C" />
+<ItemName Language="ENG" Value="Women's Pool C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPC-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule C" />
+<ItemName Language="ENG" Value="Women's Pool C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPC-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule C" />
+<ItemName Language="ENG" Value="Women's Pool C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPC-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule C" />
+<ItemName Language="ENG" Value="Women's Pool C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPC-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule C" />
+<ItemName Language="ENG" Value="Women's Pool C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="RU7WTEAM7-------------GPC-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, poule C" />
+<ItemName Language="ENG" Value="Women's Pool C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

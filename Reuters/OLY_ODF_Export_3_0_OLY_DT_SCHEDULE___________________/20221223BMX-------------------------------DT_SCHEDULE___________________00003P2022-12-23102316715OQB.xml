@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="BMX-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="155916952" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="BMX01" StartDate="2024-08-01T20:00:00+02:00" EndDate="2024-08-01T22:20:00+02:00" Venue="VE2" VenueName="BMX Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BMX01" Language="ENG" />
+</Session>
+<Session SessionCode="BMX02" StartDate="2024-08-02T20:00:00+02:00" EndDate="2024-08-02T22:30:00+02:00" Medal="2" Venue="VE2" VenueName="BMX Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BMX02" Language="ENG" />
+</Session>
+<Unit Code="BMXMINDVRACE----------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T20:00:00+02:00" EndDate="2024-08-01T20:15:00+02:00" Venue="VE2" Location="VE2" SessionCode="BMX01">
+<ItemName Language="ENG" Value="Men, Quarterfinals Run 1" />
+<ItemName Language="FRA" Value="Hommes, quarts de finale - 1re manche" />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMXWINDVRACE----------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T20:20:00+02:00" EndDate="2024-08-01T20:35:00+02:00" Venue="VE2" Location="VE2" SessionCode="BMX01">
+<ItemName Language="ENG" Value="Women, Quarterfinals Run 1" />
+<ItemName Language="FRA" Value="Femmes, quarts de finale - 1re manche" />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMXMINDVRACE----------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T20:40:00+02:00" EndDate="2024-08-01T20:55:00+02:00" Venue="VE2" Location="VE2" SessionCode="BMX01">
+<ItemName Language="ENG" Value="Men, Quarterfinals Run 2" />
+<ItemName Language="FRA" Value="Hommes, quarts de finale - 2e manche" />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMXWINDVRACE----------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T21:00:00+02:00" EndDate="2024-08-01T21:15:00+02:00" Venue="VE2" Location="VE2" SessionCode="BMX01">
+<ItemName Language="ENG" Value="Women, Quarterfinals Run 2" />
+<ItemName Language="FRA" Value="Femmes, quarts de finale - 2e manche" />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMXMINDVRACE----------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T21:20:00+02:00" EndDate="2024-08-01T21:35:00+02:00" Venue="VE2" Location="VE2" SessionCode="BMX01">
+<ItemName Language="ENG" Value="Men, Quarterfinals Run 3" />
+<ItemName Language="FRA" Value="Hommes, quarts de finale - 3e manche" />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMXWINDVRACE----------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T21:40:00+02:00" EndDate="2024-08-01T21:55:00+02:00" Venue="VE2" Location="VE2" SessionCode="BMX01">
+<ItemName Language="ENG" Value="Women, Quarterfinals Run 3" />
+<ItemName Language="FRA" Value="Femmes, quarts de finale - 3e manche" />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMXMINDVRACE----------REP-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T22:05:00+02:00" EndDate="2024-08-01T22:10:00+02:00" Venue="VE2" Location="VE2" SessionCode="BMX01">
+<ItemName Language="ENG" Value="Men, Last Chance Run" />
+<ItemName Language="FRA" Value="Men, Last Chance Run" />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMXWINDVRACE----------REP-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T22:15:00+02:00" EndDate="2024-08-01T22:20:00+02:00" Venue="VE2" Location="VE2" SessionCode="BMX01">
+<ItemName Language="ENG" Value="Women, Last Chance Run" />
+<ItemName Language="FRA" Value="Women, Last Chance Run" />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMXMINDVRACE----------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T20:00:00+02:00" EndDate="2024-08-02T20:10:00+02:00" Venue="VE2" Location="VE2" SessionCode="BMX02">
+<ItemName Language="ENG" Value="Men, Semifinals Run 1" />
+<ItemName Language="FRA" Value="Hommes, demi-finales - 1re manche" />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMXWINDVRACE----------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T20:15:00+02:00" EndDate="2024-08-02T20:25:00+02:00" Venue="VE2" Location="VE2" SessionCode="BMX02">
+<ItemName Language="ENG" Value="Women, Semifinals Run 1" />
+<ItemName Language="FRA" Value="Femmes, demi-finales - 1re manche" />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMXMINDVRACE----------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T20:30:00+02:00" EndDate="2024-08-02T20:40:00+02:00" Venue="VE2" Location="VE2" SessionCode="BMX02">
+<ItemName Language="ENG" Value="Men, Semifinals Run 2" />
+<ItemName Language="FRA" Value="Hommes, demi-finales - 2e manche" />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMXWINDVRACE----------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T20:45:00+02:00" EndDate="2024-08-02T20:55:00+02:00" Venue="VE2" Location="VE2" SessionCode="BMX02">
+<ItemName Language="ENG" Value="Women, Semifinals Run 2" />
+<ItemName Language="FRA" Value="Femmes, demi-finales - 2e manche" />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMXMINDVRACE----------SFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T21:00:00+02:00" EndDate="2024-08-02T21:10:00+02:00" Venue="VE2" Location="VE2" SessionCode="BMX02">
+<ItemName Language="ENG" Value="Men, Semifinals Run 3" />
+<ItemName Language="FRA" Value="Hommes, demi-finales - 3e manche" />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMXWINDVRACE----------SFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T21:15:00+02:00" EndDate="2024-08-02T21:25:00+02:00" Venue="VE2" Location="VE2" SessionCode="BMX02">
+<ItemName Language="ENG" Value="Women, Semifinals Run 3" />
+<ItemName Language="FRA" Value="Femmes, demi-finales - 3e manche" />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMXMINDVRACE----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T21:35:00+02:00" EndDate="2024-08-02T21:45:00+02:00" Medal="1" Venue="VE2" Location="VE2" SessionCode="BMX02">
+<ItemName Language="ENG" Value="Men, Final" />
+<ItemName Language="FRA" Value="Hommes, finale" />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMXWINDVRACE----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T21:50:00+02:00" EndDate="2024-08-02T22:00:00+02:00" Medal="1" Venue="VE2" Location="VE2" SessionCode="BMX02">
+<ItemName Language="ENG" Value="Women, Final" />
+<ItemName Language="FRA" Value="Femmes, finale" />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMXMINDVRACE----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T22:10:00+02:00" EndDate="2024-08-02T22:20:00+02:00" Venue="VE2" Location="VE2" SessionCode="BMX02">
+<ItemName Language="ENG" Value="Men, Victory Ceremony" />
+<ItemName Language="FRA" Value="Hommes, remise méd." />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMXWINDVRACE----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T22:20:00+02:00" EndDate="2024-08-02T22:30:00+02:00" Venue="VE2" Location="VE2" SessionCode="BMX02">
+<ItemName Language="ENG" Value="Women, Victory Ceremony" />
+<ItemName Language="FRA" Value="Femmes, remise méd." />
+<VenueDescription VenueName="BMX Stadium" LocationName="BMX Stadium" />
+</Unit>
+<Unit Code="BMX-------------------MEET000100--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Cyclisme BMX Racing TMM" />
+<ItemName Language="ENG" Value="Team Managers' meeting" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BMX-------------------MEET000200--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Cyclisme BMX Racing TMM" />
+<ItemName Language="ENG" Value="Team Managers' meeting" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BMXM------------------TRNO000100--" PhaseType="1" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Entraînement officiel - femmes" />
+<ItemName Language="ENG" Value="Men, Official Training" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BMXM------------------TRNO000200--" PhaseType="1" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Entraînement officiel - femmes" />
+<ItemName Language="ENG" Value="Men, Official Training" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BMXM------------------TRNO000300--" PhaseType="1" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Entraînement officiel - femmes" />
+<ItemName Language="ENG" Value="Men, Official Training" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BMXW------------------TRNO000100--" PhaseType="1" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Entraînement officiel - femmes" />
+<ItemName Language="ENG" Value="Women, Official Training" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BMXW------------------TRNO000200--" PhaseType="1" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Entraînement officiel - femmes" />
+<ItemName Language="ENG" Value="Women, Official Training" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BMXW------------------TRNO000300--" PhaseType="1" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Entraînement officiel - femmes" />
+<ItemName Language="ENG" Value="Women, Official Training" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

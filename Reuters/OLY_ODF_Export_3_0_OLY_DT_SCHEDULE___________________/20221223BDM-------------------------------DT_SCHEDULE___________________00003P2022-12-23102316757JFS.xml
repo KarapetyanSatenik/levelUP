@@ -1,0 +1,2162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="BDM-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="155556763" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="BDM01" StartDate="2024-07-27T08:30:00+02:00" EndDate="2024-07-27T12:00:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BDM01" Language="ENG" />
+</Session>
+<Session SessionCode="BDM02" StartDate="2024-07-27T14:00:00+02:00" EndDate="2024-07-27T17:30:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="BDM02" Language="ENG" />
+</Session>
+<Session SessionCode="BDM03" StartDate="2024-07-27T19:30:00+02:00" EndDate="2024-07-27T23:00:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BDM03" Language="ENG" />
+</Session>
+<Session SessionCode="BDM04" StartDate="2024-07-28T08:30:00+02:00" EndDate="2024-07-28T12:00:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BDM04" Language="ENG" />
+</Session>
+<Session SessionCode="BDM05" StartDate="2024-07-28T14:00:00+02:00" EndDate="2024-07-28T17:30:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="BDM05" Language="ENG" />
+</Session>
+<Session SessionCode="BDM06" StartDate="2024-07-28T19:30:00+02:00" EndDate="2024-07-28T23:00:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BDM06" Language="ENG" />
+</Session>
+<Session SessionCode="BDM07" StartDate="2024-07-29T08:30:00+02:00" EndDate="2024-07-29T12:00:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BDM07" Language="ENG" />
+</Session>
+<Session SessionCode="BDM08" StartDate="2024-07-29T14:00:00+02:00" EndDate="2024-07-29T17:30:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="BDM08" Language="ENG" />
+</Session>
+<Session SessionCode="BDM09" StartDate="2024-07-29T19:30:00+02:00" EndDate="2024-07-29T23:00:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BDM09" Language="ENG" />
+</Session>
+<Session SessionCode="BDM10" StartDate="2024-07-30T08:30:00+02:00" EndDate="2024-07-30T12:00:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BDM10" Language="ENG" />
+</Session>
+<Session SessionCode="BDM11" StartDate="2024-07-30T14:00:00+02:00" EndDate="2024-07-30T17:30:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="BDM11" Language="ENG" />
+</Session>
+<Session SessionCode="BDM12" StartDate="2024-07-30T19:30:00+02:00" EndDate="2024-07-30T23:00:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BDM12" Language="ENG" />
+</Session>
+<Session SessionCode="BDM13" StartDate="2024-07-31T08:30:00+02:00" EndDate="2024-07-31T12:00:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BDM13" Language="ENG" />
+</Session>
+<Session SessionCode="BDM14" StartDate="2024-07-31T14:00:00+02:00" EndDate="2024-07-31T17:30:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="BDM14" Language="ENG" />
+</Session>
+<Session SessionCode="BDM15" StartDate="2024-07-31T19:30:00+02:00" EndDate="2024-07-31T23:00:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BDM15" Language="ENG" />
+</Session>
+<Session SessionCode="BDM16" StartDate="2024-08-01T08:30:00+02:00" EndDate="2024-08-01T11:00:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="MOR">
+<SessionName Value="BDM16" Language="ENG" />
+</Session>
+<Session SessionCode="BDM17" StartDate="2024-08-01T13:00:00+02:00" EndDate="2024-08-01T16:30:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="BDM17" Language="ENG" />
+</Session>
+<Session SessionCode="BDM18" StartDate="2024-08-01T18:30:00+02:00" EndDate="2024-08-01T22:00:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BDM18" Language="ENG" />
+</Session>
+<Session SessionCode="BDM19" StartDate="2024-08-02T08:30:00+02:00" EndDate="2024-08-02T13:00:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BDM19" Language="ENG" />
+</Session>
+<Session SessionCode="BDM20" StartDate="2024-08-02T15:00:00+02:00" EndDate="2024-08-02T22:30:00+02:00" Medal="4" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BDM20" Language="ENG" />
+</Session>
+<Session SessionCode="BDM21" StartDate="2024-08-03T08:30:00+02:00" EndDate="2024-08-03T13:00:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BDM21" Language="ENG" />
+</Session>
+<Session SessionCode="BDM22" StartDate="2024-08-03T15:00:00+02:00" EndDate="2024-08-03T17:30:00+02:00" Medal="4" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="BDM22" Language="ENG" />
+</Session>
+<Session SessionCode="BDM23" StartDate="2024-08-04T08:30:00+02:00" EndDate="2024-08-04T13:00:00+02:00" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BDM23" Language="ENG" />
+</Session>
+<Session SessionCode="BDM24" StartDate="2024-08-04T15:00:00+02:00" EndDate="2024-08-04T17:30:00+02:00" Medal="4" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="BDM24" Language="ENG" />
+</Session>
+<Session SessionCode="BDM25" StartDate="2024-08-05T09:45:00+02:00" EndDate="2024-08-05T12:30:00+02:00" Medal="4" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BDM25" Language="ENG" />
+</Session>
+<Session SessionCode="BDM26" StartDate="2024-08-05T14:30:00+02:00" EndDate="2024-08-05T17:30:00+02:00" Medal="4" Venue="CPL" VenueName="La Chapelle Arena" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="BDM26" Language="ENG" />
+</Session>
+<Unit Code="BDMXDOUBLES-----------GPA-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T08:30:00+02:00" EndDate="2024-07-27T09:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM01">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPA-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T09:20:00+02:00" EndDate="2024-07-27T10:00:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM01">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPA-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T10:10:00+02:00" EndDate="2024-07-27T10:50:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM01">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPA-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T11:00:00+02:00" EndDate="2024-07-27T11:40:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM01">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPB-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T08:30:00+02:00" EndDate="2024-07-27T09:10:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM01">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPA-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T09:20:00+02:00" EndDate="2024-07-27T10:00:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM01">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPA-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T10:10:00+02:00" EndDate="2024-07-27T10:50:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM01">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPA-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T11:00:00+02:00" EndDate="2024-07-27T11:40:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM01">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPA-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T08:30:00+02:00" EndDate="2024-07-27T09:10:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM01">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPA-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T09:20:00+02:00" EndDate="2024-07-27T10:00:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM01">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPA-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T10:10:00+02:00" EndDate="2024-07-27T10:50:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM01">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPA-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T11:00:00+02:00" EndDate="2024-07-27T11:40:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM01">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPA-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T14:00:00+02:00" EndDate="2024-07-27T14:40:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM02">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPB-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T14:50:00+02:00" EndDate="2024-07-27T15:30:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM02">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPC-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T15:40:00+02:00" EndDate="2024-07-27T16:20:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM02">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPA-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T16:30:00+02:00" EndDate="2024-07-27T17:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM02">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPA-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T14:00:00+02:00" EndDate="2024-07-27T14:40:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM02">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPA-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T14:50:00+02:00" EndDate="2024-07-27T15:30:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM02">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPB-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T15:40:00+02:00" EndDate="2024-07-27T16:20:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM02">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPA-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T16:30:00+02:00" EndDate="2024-07-27T17:10:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM02">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPB-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T14:00:00+02:00" EndDate="2024-07-27T14:40:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM02">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPA-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T14:50:00+02:00" EndDate="2024-07-27T15:30:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM02">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPB-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T15:40:00+02:00" EndDate="2024-07-27T16:20:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM02">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPA-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T16:30:00+02:00" EndDate="2024-07-27T17:10:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM02">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPA-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T19:30:00+02:00" EndDate="2024-07-27T20:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM03">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPA-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T20:20:00+02:00" EndDate="2024-07-27T21:00:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM03">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPB-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T21:00:00+02:00" EndDate="2024-07-27T21:40:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM03">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPC-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T21:40:00+02:00" EndDate="2024-07-27T22:20:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM03">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPB-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T19:30:00+02:00" EndDate="2024-07-27T20:10:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM03">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPB-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T20:20:00+02:00" EndDate="2024-07-27T21:00:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM03">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPB-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T21:10:00+02:00" EndDate="2024-07-27T21:50:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM03">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPB-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T22:00:00+02:00" EndDate="2024-07-27T22:40:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM03">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPC-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T19:30:00+02:00" EndDate="2024-07-27T20:10:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM03">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPC-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T20:20:00+02:00" EndDate="2024-07-27T21:00:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM03">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPC-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T21:10:00+02:00" EndDate="2024-07-27T21:50:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM03">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPC-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T22:00:00+02:00" EndDate="2024-07-27T22:40:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM03">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPC-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T08:30:00+02:00" EndDate="2024-07-28T09:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM04">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPD-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T09:20:00+02:00" EndDate="2024-07-28T10:00:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM04">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPA-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T10:10:00+02:00" EndDate="2024-07-28T10:50:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM04">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPC-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T11:00:00+02:00" EndDate="2024-07-28T11:40:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM04">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPD-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T08:30:00+02:00" EndDate="2024-07-28T09:10:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM04">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPC-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T09:20:00+02:00" EndDate="2024-07-28T10:00:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM04">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPA-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T10:10:00+02:00" EndDate="2024-07-28T10:50:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM04">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPC-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T11:00:00+02:00" EndDate="2024-07-28T11:40:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM04">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPD-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T08:30:00+02:00" EndDate="2024-07-28T09:10:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM04">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPA-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T09:20:00+02:00" EndDate="2024-07-28T10:00:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM04">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPA-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T10:10:00+02:00" EndDate="2024-07-28T10:50:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM04">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPD-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T11:00:00+02:00" EndDate="2024-07-28T11:40:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM04">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPA-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T19:30:00+02:00" EndDate="2024-07-28T20:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM05">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPA-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T20:20:00+02:00" EndDate="2024-07-28T21:00:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM05">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPD-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T21:10:00+02:00" EndDate="2024-07-28T21:50:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM05">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPE-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T22:00:00+02:00" EndDate="2024-07-28T22:40:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM05">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp E" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule E" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPB-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T14:00:00+02:00" EndDate="2024-07-28T14:40:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM05">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPD-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T14:50:00+02:00" EndDate="2024-07-28T15:30:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM05">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPE-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T15:40:00+02:00" EndDate="2024-07-28T16:20:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM05">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp E" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule E" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPE-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T16:30:00+02:00" EndDate="2024-07-28T17:10:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM05">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp E" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule E" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPB-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T14:00:00+02:00" EndDate="2024-07-28T14:40:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM05">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPD-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T14:50:00+02:00" EndDate="2024-07-28T15:30:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM05">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPE-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T15:40:00+02:00" EndDate="2024-07-28T16:20:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM05">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp E" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule E" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPE-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T16:30:00+02:00" EndDate="2024-07-28T17:10:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM05">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp E" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule E" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPB-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T19:30:00+02:00" EndDate="2024-07-28T20:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM06">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPC-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T20:20:00+02:00" EndDate="2024-07-28T21:00:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM06">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPE-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T21:10:00+02:00" EndDate="2024-07-28T21:50:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM06">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp E" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule E" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPE-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T22:00:00+02:00" EndDate="2024-07-28T22:40:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM06">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp E" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule E" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPC-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T19:30:00+02:00" EndDate="2024-07-28T20:10:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM06">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPB-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T20:20:00+02:00" EndDate="2024-07-28T21:00:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM06">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPB-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T21:10:00+02:00" EndDate="2024-07-28T21:50:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM06">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPC-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T19:30:00+02:00" EndDate="2024-07-28T20:10:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM06">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPE-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T20:20:00+02:00" EndDate="2024-07-28T21:00:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM06">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp E" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule E" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPD-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T21:10:00+02:00" EndDate="2024-07-28T21:50:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM06">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPC-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T08:30:00+02:00" EndDate="2024-07-29T09:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM07">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPD-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T09:20:00+02:00" EndDate="2024-07-29T10:00:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM07">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPE-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T10:10:00+02:00" EndDate="2024-07-29T10:50:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM07">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp E" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule E" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPB-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T11:00:00+02:00" EndDate="2024-07-29T11:40:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM07">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPC-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T08:30:00+02:00" EndDate="2024-07-29T09:10:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM07">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPA-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T09:20:00+02:00" EndDate="2024-07-29T10:00:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM07">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPF-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T10:10:00+02:00" EndDate="2024-07-29T10:50:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM07">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp F" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule F" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPF-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T11:00:00+02:00" EndDate="2024-07-29T11:40:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM07">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp F" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule F" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPD-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T08:30:00+02:00" EndDate="2024-07-29T09:10:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM07">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPB-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T09:20:00+02:00" EndDate="2024-07-29T10:00:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM07">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPB-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T10:10:00+02:00" EndDate="2024-07-29T10:50:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM07">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPG-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T11:00:00+02:00" EndDate="2024-07-29T11:40:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM07">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp G" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule G" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------TMRY000100--" PhaseType="8" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T14:00:00+02:00" EndDate="2024-07-29T14:40:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM08">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage" />
+<ItemName Language="FRA" Value="Double mixte, poules préliminaires" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPC-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T14:50:00+02:00" EndDate="2024-07-29T15:30:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM08">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPG-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T15:40:00+02:00" EndDate="2024-07-29T16:20:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM08">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp G" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule G" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPH-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T16:30:00+02:00" EndDate="2024-07-29T17:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM08">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp H" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule H" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------TMRY000200--" PhaseType="8" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T14:00:00+02:00" EndDate="2024-07-29T14:40:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM08">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage" />
+<ItemName Language="FRA" Value="Double mixte, poules préliminaires" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPE-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T14:50:00+02:00" EndDate="2024-07-29T15:30:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM08">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp E" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule E" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPF-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T15:40:00+02:00" EndDate="2024-07-29T16:20:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM08">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp F" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule F" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPB-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T14:00:00+02:00" EndDate="2024-07-29T14:40:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM08">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPF-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T14:50:00+02:00" EndDate="2024-07-29T15:30:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM08">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp F" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule F" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPG-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T15:40:00+02:00" EndDate="2024-07-29T16:20:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM08">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp G" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule G" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPD-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T19:30:00+02:00" EndDate="2024-07-29T20:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM09">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPE-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T20:20:00+02:00" EndDate="2024-07-29T21:00:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM09">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp E" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule E" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPD-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T21:10:00+02:00" EndDate="2024-07-29T21:50:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM09">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPF-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T22:00:00+02:00" EndDate="2024-07-29T22:40:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM09">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp F" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule F" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPD-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T19:30:00+02:00" EndDate="2024-07-29T20:10:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM09">
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Double mixte, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPG-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T20:20:00+02:00" EndDate="2024-07-29T21:00:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM09">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp G" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule G" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPF-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T21:10:00+02:00" EndDate="2024-07-29T21:50:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM09">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp F" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule F" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPF-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T19:30:00+02:00" EndDate="2024-07-29T20:10:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM09">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp F" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule F" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPD-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T20:20:00+02:00" EndDate="2024-07-29T21:00:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM09">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPG-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T21:10:00+02:00" EndDate="2024-07-29T21:50:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM09">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp G" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule G" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPF-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T08:30:00+02:00" EndDate="2024-07-30T08:30:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM10">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp F" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule F" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPI-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T08:30:00+02:00" EndDate="2024-07-30T08:30:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM10">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp I" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule I" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPC-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T08:30:00+02:00" EndDate="2024-07-30T08:30:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM10">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPC-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T08:30:00+02:00" EndDate="2024-07-30T08:30:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM10">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPG-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T08:30:00+02:00" EndDate="2024-07-30T08:30:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM10">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp G" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule G" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPB-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T08:30:00+02:00" EndDate="2024-07-30T08:30:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM10">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPD-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T08:30:00+02:00" EndDate="2024-07-30T08:30:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM10">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPF-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T08:30:00+02:00" EndDate="2024-07-30T08:30:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM10">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp F" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule F" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPH-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T08:30:00+02:00" EndDate="2024-07-30T09:10:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM10">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp H" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule H" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPC-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T09:20:00+02:00" EndDate="2024-07-30T10:00:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM10">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPD-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T10:10:00+02:00" EndDate="2024-07-30T10:50:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM10">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPH-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T11:00:00+02:00" EndDate="2024-07-30T11:40:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM10">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp H" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule H" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPC-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T14:00:00+02:00" EndDate="2024-07-30T14:40:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM11">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPD-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T14:50:00+02:00" EndDate="2024-07-30T15:30:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM11">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPF-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T15:40:00+02:00" EndDate="2024-07-30T16:20:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM11">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp F" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule F" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPI-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T16:30:00+02:00" EndDate="2024-07-30T17:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM11">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp I" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule I" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPC-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T14:00:00+02:00" EndDate="2024-07-30T14:40:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM11">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPC-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T14:50:00+02:00" EndDate="2024-07-30T15:30:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM11">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPG-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T15:40:00+02:00" EndDate="2024-07-30T16:20:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM11">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp G" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule G" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPJ-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T16:30:00+02:00" EndDate="2024-07-30T17:10:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM11">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp J" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule J" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPD-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T14:00:00+02:00" EndDate="2024-07-30T14:40:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM11">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPD-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T14:50:00+02:00" EndDate="2024-07-30T15:30:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM11">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPI-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T15:40:00+02:00" EndDate="2024-07-30T16:20:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM11">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp I" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule I" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPF-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T19:30:00+02:00" EndDate="2024-07-30T20:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM12">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp F" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule F" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPD-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T20:20:00+02:00" EndDate="2024-07-30T21:00:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM12">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPD-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T21:10:00+02:00" EndDate="2024-07-30T21:50:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM12">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPF-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T22:00:00+02:00" EndDate="2024-07-30T22:40:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM12">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp F" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule F" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPG-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T19:30:00+02:00" EndDate="2024-07-30T20:10:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM12">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp G" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule G" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPD-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T20:20:00+02:00" EndDate="2024-07-30T21:00:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM12">
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Double hommes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPG-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T21:10:00+02:00" EndDate="2024-07-30T21:50:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM12">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp G" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule G" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPH-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T19:30:00+02:00" EndDate="2024-07-30T20:10:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM12">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp H" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule H" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------GPD-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T20:20:00+02:00" EndDate="2024-07-30T21:00:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM12">
+<ItemName Language="ENG" Value="Women's Doubles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Double femmes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPI-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T21:10:00+02:00" EndDate="2024-07-30T21:50:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM12">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp I" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule I" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPA-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T08:30:00+02:00" EndDate="2024-07-31T09:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM13">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPB-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T09:20:00+02:00" EndDate="2024-07-31T10:00:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM13">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPB-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T10:10:00+02:00" EndDate="2024-07-31T10:50:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM13">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPD-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T11:00:00+02:00" EndDate="2024-07-31T11:40:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM13">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPC-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T08:30:00+02:00" EndDate="2024-07-31T09:10:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM13">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPB-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T09:20:00+02:00" EndDate="2024-07-31T10:00:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM13">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPC-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T10:10:00+02:00" EndDate="2024-07-31T10:50:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM13">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPA-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T11:00:00+02:00" EndDate="2024-07-31T11:40:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM13">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPD-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T08:30:00+02:00" EndDate="2024-07-31T09:10:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM13">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPA-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T09:20:00+02:00" EndDate="2024-07-31T10:00:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM13">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp A" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule A" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPB-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T10:10:00+02:00" EndDate="2024-07-31T10:50:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM13">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPB-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T14:00:00+02:00" EndDate="2024-07-31T14:40:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM14">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPC-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T14:50:00+02:00" EndDate="2024-07-31T15:30:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM14">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPB-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T15:40:00+02:00" EndDate="2024-07-31T16:20:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM14">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPC-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T16:30:00+02:00" EndDate="2024-07-31T17:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM14">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPB-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T14:00:00+02:00" EndDate="2024-07-31T14:40:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM14">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPC-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T14:50:00+02:00" EndDate="2024-07-31T15:30:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM14">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPC-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T15:40:00+02:00" EndDate="2024-07-31T16:20:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM14">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPD-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T16:30:00+02:00" EndDate="2024-07-31T17:10:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM14">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPB-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T14:00:00+02:00" EndDate="2024-07-31T14:40:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM14">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPD-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T14:50:00+02:00" EndDate="2024-07-31T15:30:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM14">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPE-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T15:40:00+02:00" EndDate="2024-07-31T16:20:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM14">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp E" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule E" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPC-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T19:30:00+02:00" EndDate="2024-07-31T20:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM15">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPB-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T20:20:00+02:00" EndDate="2024-07-31T21:00:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM15">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:10:00+02:00" EndDate="2024-07-31T22:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM15">
+<ItemName Language="ENG" Value="Mixed Doubles Quarterfinal" />
+<ItemName Language="FRA" Value="Double mixte, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPC-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T19:30:00+02:00" EndDate="2024-07-31T20:10:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM15">
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp C" />
+<ItemName Language="FRA" Value="Simple femmes, poules - poule C" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPB-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T20:20:00+02:00" EndDate="2024-07-31T21:00:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM15">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp B" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule B" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:10:00+02:00" EndDate="2024-07-31T22:10:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM15">
+<ItemName Language="ENG" Value="Mixed Doubles Quarterfinal" />
+<ItemName Language="FRA" Value="Double mixte, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPD-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T19:30:00+02:00" EndDate="2024-07-31T20:10:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM15">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp D" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule D" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T20:20:00+02:00" EndDate="2024-07-31T21:20:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM15">
+<ItemName Language="ENG" Value="Mixed Doubles Quarterfinal" />
+<ItemName Language="FRA" Value="Double mixte, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:30:00+02:00" EndDate="2024-07-31T22:30:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM15">
+<ItemName Language="ENG" Value="Mixed Doubles Quarterfinal" />
+<ItemName Language="FRA" Value="Double mixte, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T08:30:00+02:00" EndDate="2024-08-01T09:30:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM16">
+<ItemName Language="ENG" Value="Women's Doubles Quarterfinal" />
+<ItemName Language="FRA" Value="Double femmes, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T09:40:00+02:00" EndDate="2024-08-01T10:40:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM16">
+<ItemName Language="ENG" Value="Women's Doubles Quarterfinal" />
+<ItemName Language="FRA" Value="Double femmes, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T08:30:00+02:00" EndDate="2024-08-01T09:30:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM16">
+<ItemName Language="ENG" Value="Women's Doubles Quarterfinal" />
+<ItemName Language="FRA" Value="Double femmes, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T09:40:00+02:00" EndDate="2024-08-01T10:30:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM16">
+<ItemName Language="ENG" Value="Men's Singles Round of 16" />
+<ItemName Language="FRA" Value="Simple hommes, 8èmes de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T08:30:00+02:00" EndDate="2024-08-01T09:30:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM16">
+<ItemName Language="ENG" Value="Women's Doubles Quarterfinal" />
+<ItemName Language="FRA" Value="Double femmes, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T09:40:00+02:00" EndDate="2024-08-01T10:30:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM16">
+<ItemName Language="ENG" Value="Men's Singles Round of 16" />
+<ItemName Language="FRA" Value="Simple hommes, 8èmes de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T13:00:00+02:00" EndDate="2024-08-01T14:00:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM17">
+<ItemName Language="ENG" Value="Men's Doubles Quarterfinal" />
+<ItemName Language="FRA" Value="Double hommes, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T14:10:00+02:00" EndDate="2024-08-01T15:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM17">
+<ItemName Language="ENG" Value="Men's Doubles Quarterfinal" />
+<ItemName Language="FRA" Value="Double hommes, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T15:20:00+02:00" EndDate="2024-08-01T16:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM17">
+<ItemName Language="ENG" Value="Men's Singles Round of 16" />
+<ItemName Language="FRA" Value="Simple hommes, 8èmes de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T13:00:00+02:00" EndDate="2024-08-01T14:00:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM17">
+<ItemName Language="ENG" Value="Men's Doubles Quarterfinal" />
+<ItemName Language="FRA" Value="Double hommes, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T14:10:00+02:00" EndDate="2024-08-01T15:00:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM17">
+<ItemName Language="ENG" Value="Men's Singles Round of 16" />
+<ItemName Language="FRA" Value="Simple hommes, 8èmes de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T13:00:00+02:00" EndDate="2024-08-01T14:00:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM17">
+<ItemName Language="ENG" Value="Men's Doubles Quarterfinal" />
+<ItemName Language="FRA" Value="Double hommes, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T14:10:00+02:00" EndDate="2024-08-01T15:00:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM17">
+<ItemName Language="ENG" Value="Men's Singles Round of 16" />
+<ItemName Language="FRA" Value="Simple hommes, 8èmes de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T18:30:00+02:00" EndDate="2024-08-01T19:20:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM18">
+<ItemName Language="ENG" Value="Women's Singles Round of 16" />
+<ItemName Language="FRA" Value="Simple femmes, 8èmes de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T19:30:00+02:00" EndDate="2024-08-01T20:20:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM18">
+<ItemName Language="ENG" Value="Women's Singles Round of 16" />
+<ItemName Language="FRA" Value="Simple femmes, 8èmes de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T20:30:00+02:00" EndDate="2024-08-01T21:30:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM18">
+<ItemName Language="ENG" Value="Mixed Doubles Semifinal" />
+<ItemName Language="FRA" Value="Double mixte, demi-finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T18:30:00+02:00" EndDate="2024-08-01T19:20:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM18">
+<ItemName Language="ENG" Value="Women's Singles Round of 16" />
+<ItemName Language="FRA" Value="Simple femmes, 8èmes de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T19:30:00+02:00" EndDate="2024-08-01T20:20:00+02:00" Venue="CPL" Location="BD2" SessionCode="BDM18">
+<ItemName Language="ENG" Value="Women's Singles Round of 16" />
+<ItemName Language="FRA" Value="Simple femmes, 8èmes de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 2" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T18:30:00+02:00" EndDate="2024-08-01T19:20:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM18">
+<ItemName Language="ENG" Value="Women's Singles Round of 16" />
+<ItemName Language="FRA" Value="Simple femmes, 8èmes de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T19:30:00+02:00" EndDate="2024-08-01T20:30:00+02:00" Venue="CPL" Location="BD3" SessionCode="BDM18">
+<ItemName Language="ENG" Value="Mixed Doubles Semifinal" />
+<ItemName Language="FRA" Value="Double mixte, demi-finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 3" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T08:30:00+02:00" EndDate="2024-08-02T09:30:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM19">
+<ItemName Language="ENG" Value="Women's Doubles Semifinal" />
+<ItemName Language="FRA" Value="Double femmes, demi-finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T09:40:00+02:00" EndDate="2024-08-02T10:40:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM19">
+<ItemName Language="ENG" Value="Women's Doubles Semifinal" />
+<ItemName Language="FRA" Value="Double femmes, demi-finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T10:50:00+02:00" EndDate="2024-08-02T11:50:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM19">
+<ItemName Language="ENG" Value="Men's Doubles Semifinal" />
+<ItemName Language="FRA" Value="Double hommes, demi-finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T12:00:00+02:00" EndDate="2024-08-02T13:00:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM19">
+<ItemName Language="ENG" Value="Men's Doubles Semifinal" />
+<ItemName Language="FRA" Value="Double hommes, demi-finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T15:00:00+02:00" EndDate="2024-08-02T16:00:00+02:00" Medal="3" Venue="CPL" Location="BD1" SessionCode="BDM20">
+<ItemName Language="ENG" Value="Mixed Doubles Bronze medal match" />
+<ItemName Language="FRA" Value="Double mixte, match bronze" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------TMRY001600--" PhaseType="8" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T16:10:00+02:00" EndDate="2024-08-02T17:10:00+02:00" Medal="1" Venue="CPL" Location="BD1" SessionCode="BDM20">
+<ItemName Language="ENG" Value="Mixed Doubles Finals" />
+<ItemName Language="FRA" Value="Double mixte, finales" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T17:15:00+02:00" EndDate="2024-08-02T17:35:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM20">
+<ItemName Language="ENG" Value="Mixed Doubles Victory Ceremony" />
+<ItemName Language="FRA" Value="Double mixte, remise des médailles" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T17:40:00+02:00" EndDate="2024-08-02T18:40:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM20">
+<ItemName Language="ENG" Value="Men's Singles Quarterfinal" />
+<ItemName Language="FRA" Value="Simple hommes, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T18:50:00+02:00" EndDate="2024-08-02T19:50:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM20">
+<ItemName Language="ENG" Value="Men's Singles Quarterfinal" />
+<ItemName Language="FRA" Value="Simple hommes, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T20:00:00+02:00" EndDate="2024-08-02T21:00:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM20">
+<ItemName Language="ENG" Value="Men's Singles Quarterfinal" />
+<ItemName Language="FRA" Value="Simple hommes, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T21:10:00+02:00" EndDate="2024-08-02T22:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM20">
+<ItemName Language="ENG" Value="Men's Singles Quarterfinal" />
+<ItemName Language="FRA" Value="Simple hommes, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T15:00:00+02:00" EndDate="2024-08-03T16:00:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM21">
+<ItemName Language="ENG" Value="Women's Singles Quarterfinal" />
+<ItemName Language="FRA" Value="Simple femmes, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T16:10:00+02:00" EndDate="2024-08-03T17:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM21">
+<ItemName Language="ENG" Value="Women's Singles Quarterfinal" />
+<ItemName Language="FRA" Value="Simple femmes, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T17:20:00+02:00" EndDate="2024-08-03T18:20:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM21">
+<ItemName Language="ENG" Value="Women's Singles Quarterfinal" />
+<ItemName Language="FRA" Value="Simple femmes, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T18:30:00+02:00" EndDate="2024-08-03T19:30:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM21">
+<ItemName Language="ENG" Value="Women's Singles Quarterfinal" />
+<ItemName Language="FRA" Value="Simple femmes, quart de finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T15:00:00+02:00" EndDate="2024-08-03T16:00:00+02:00" Medal="3" Venue="CPL" Location="BD1" SessionCode="BDM22">
+<ItemName Language="ENG" Value="Women's Doubles Bronze medal match" />
+<ItemName Language="FRA" Value="Double femmes, match bronze" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T16:10:00+02:00" EndDate="2024-08-03T17:10:00+02:00" Medal="1" Venue="CPL" Location="BD1" SessionCode="BDM22">
+<ItemName Language="ENG" Value="Women's Doubles Gold medal match" />
+<ItemName Language="FRA" Value="Double femmes, match or" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T17:10:00+02:00" EndDate="2024-08-03T17:30:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM22">
+<ItemName Language="ENG" Value="Women's Doubles Victory Ceremony" />
+<ItemName Language="FRA" Value="Double femmes, remise des médailles" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T08:30:00+02:00" EndDate="2024-08-04T09:30:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM23">
+<ItemName Language="ENG" Value="Women's Singles Semifinal" />
+<ItemName Language="FRA" Value="Simple femmes, demi-finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T09:40:00+02:00" EndDate="2024-08-04T10:40:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM23">
+<ItemName Language="ENG" Value="Women's Singles Semifinal" />
+<ItemName Language="FRA" Value="Simple femmes, demi-finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T10:50:00+02:00" EndDate="2024-08-04T11:50:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM23">
+<ItemName Language="ENG" Value="Men's Singles Semifinal" />
+<ItemName Language="FRA" Value="Simple hommes, demi-finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T12:00:00+02:00" EndDate="2024-08-04T13:00:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM23">
+<ItemName Language="ENG" Value="Men's Singles Semifinal" />
+<ItemName Language="FRA" Value="Simple hommes, demi-finale" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T15:00:00+02:00" EndDate="2024-08-04T16:00:00+02:00" Medal="3" Venue="CPL" Location="BD1" SessionCode="BDM24">
+<ItemName Language="ENG" Value="Men's Doubles Bronze medal match" />
+<ItemName Language="FRA" Value="Double hommes, match bronze" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T16:10:00+02:00" EndDate="2024-08-04T17:10:00+02:00" Medal="1" Venue="CPL" Location="BD1" SessionCode="BDM24">
+<ItemName Language="ENG" Value="Men's Doubles Gold medal match" />
+<ItemName Language="FRA" Value="Double hommes, match or" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T17:10:00+02:00" EndDate="2024-08-04T17:30:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM24">
+<ItemName Language="ENG" Value="Men's Doubles Victory Ceremony" />
+<ItemName Language="FRA" Value="Double hommes, remise des médailles" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T09:45:00+02:00" EndDate="2024-08-05T10:45:00+02:00" Medal="3" Venue="CPL" Location="BD1" SessionCode="BDM25">
+<ItemName Language="ENG" Value="Women's Singles Bronze medal match" />
+<ItemName Language="FRA" Value="Simple femmes, match bronze" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T10:55:00+02:00" EndDate="2024-08-05T11:55:00+02:00" Medal="1" Venue="CPL" Location="BD1" SessionCode="BDM25">
+<ItemName Language="ENG" Value="Women's Singles Gold medal match" />
+<ItemName Language="FRA" Value="Simple femmes, match or" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T12:00:00+02:00" EndDate="2024-08-05T12:20:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM25">
+<ItemName Language="ENG" Value="Women's Singles Victory Ceremony" />
+<ItemName Language="FRA" Value="Simple femmes, remise des médailles" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T14:30:00+02:00" EndDate="2024-08-05T15:30:00+02:00" Medal="3" Venue="CPL" Location="BD1" SessionCode="BDM26">
+<ItemName Language="ENG" Value="Men's Singles Bronze medal match" />
+<ItemName Language="FRA" Value="Simple hommes, match bronze" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T15:40:00+02:00" EndDate="2024-08-05T16:40:00+02:00" Medal="1" Venue="CPL" Location="BD1" SessionCode="BDM26">
+<ItemName Language="ENG" Value="Men's Singles Gold medal match" />
+<ItemName Language="FRA" Value="Simple hommes, match or" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T16:50:00+02:00" EndDate="2024-08-05T17:10:00+02:00" Venue="CPL" Location="BD1" SessionCode="BDM26">
+<ItemName Language="ENG" Value="Men's Singles Victory Ceremony" />
+<ItemName Language="FRA" Value="Simple hommes, remise des médailles" />
+<VenueDescription VenueName="La Chapelle Arena" LocationName="La Chapelle Arena Court 1" />
+</Unit>
+<Unit Code="BDM-------------------DRAW000100--" PhaseType="7" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Badminton Draw" />
+<ItemName Language="FRA" Value="Badminton, tirage au sort" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------GPD-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, poules - poule D" />
+<ItemName Language="ENG" Value="Men's Doubles Group play stage - Grp D" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------TMRY000100--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, poules préliminaires" />
+<ItemName Language="ENG" Value="Men's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------TMRY000200--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, poules préliminaires" />
+<ItemName Language="ENG" Value="Men's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------TMRY000300--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, poules préliminaires" />
+<ItemName Language="ENG" Value="Men's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------TMRY000400--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, poules préliminaires" />
+<ItemName Language="ENG" Value="Men's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------TMRY000500--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, poules préliminaires" />
+<ItemName Language="ENG" Value="Men's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------TMRY000600--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, poules préliminaires" />
+<ItemName Language="ENG" Value="Men's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------TMRY000700--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, poules préliminaires" />
+<ItemName Language="ENG" Value="Men's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------TMRY000800--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, poules préliminaires" />
+<ItemName Language="ENG" Value="Men's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------TMRY000900--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, poules préliminaires" />
+<ItemName Language="ENG" Value="Men's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------TMRY001000--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, poules préliminaires" />
+<ItemName Language="ENG" Value="Men's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------TMRY001100--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, poules préliminaires" />
+<ItemName Language="ENG" Value="Men's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------TMRY001200--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, poules préliminaires" />
+<ItemName Language="ENG" Value="Men's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------TMRY001300--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, quarts de finale" />
+<ItemName Language="ENG" Value="Men's Doubles Quarterfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------TMRY001400--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, quarts de finale" />
+<ItemName Language="ENG" Value="Men's Doubles Quarterfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------TMRY001500--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, demi-finales" />
+<ItemName Language="ENG" Value="Men's Doubles Semifinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMDOUBLES-----------TMRY001600--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, finales" />
+<ItemName Language="ENG" Value="Men's Doubles Finals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDM-------------------MEET000100--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Badminton - réunion directeurs d'équipe" />
+<ItemName Language="ENG" Value="Badminton Team Managers' Meetings" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------8FNL000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Round of 16" />
+<ItemName Language="FRA" Value="Simple hommes, 8èmes de finale" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------8FNL000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Round of 16" />
+<ItemName Language="FRA" Value="Simple hommes, 8èmes de finale" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------8FNL000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Round of 16" />
+<ItemName Language="FRA" Value="Simple hommes, 8èmes de finale" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPG-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp G" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule G" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPG-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp G" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule G" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPH-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp H" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule H" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPH-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp H" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule H" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPH-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp H" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule H" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPH-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp H" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule H" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPI-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp I" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule I" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPI-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp I" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule I" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPI-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp I" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule I" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPI-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp I" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule I" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPJ-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp J" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule J" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPJ-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp J" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule J" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPJ-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp J" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule J" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPJ-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp J" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule J" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPJ-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp J" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule J" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPK-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp K" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule K" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPK-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp K" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule K" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPK-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp K" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule K" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPK-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp K" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule K" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPK-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp K" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule K" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPK-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp K" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule K" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPL-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp L" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule L" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPL-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp L" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule L" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPL-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp L" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule L" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPL-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp L" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule L" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPL-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp L" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule L" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPL-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp L" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule L" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPM-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp M" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule M" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPM-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp M" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule M" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPM-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp M" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule M" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPM-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp M" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule M" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPM-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp M" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule M" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPM-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp M" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule M" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPN-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp N" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule N" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPN-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp N" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule N" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPN-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp N" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule N" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPN-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp N" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule N" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPN-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp N" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule N" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPN-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp N" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule N" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPO-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp O" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule O" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPO-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp O" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule O" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPO-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp O" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule O" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPO-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp O" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule O" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPO-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp O" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule O" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPO-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp O" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule O" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPP-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp P" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule P" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPP-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp P" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule P" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPP-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp P" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule P" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPP-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp P" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule P" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPP-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp P" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule P" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------GPP-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage - Grp P" />
+<ItemName Language="FRA" Value="Simple hommes, poules - poule P" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY000100--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage" />
+<ItemName Language="FRA" Value="Simple hommes, poules préliminaires" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY000200--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage" />
+<ItemName Language="FRA" Value="Simple hommes, poules préliminaires" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY000300--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage" />
+<ItemName Language="FRA" Value="Simple hommes, poules préliminaires" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY000400--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage" />
+<ItemName Language="FRA" Value="Simple hommes, poules préliminaires" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY000500--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage" />
+<ItemName Language="FRA" Value="Simple hommes, poules préliminaires" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY000600--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage" />
+<ItemName Language="FRA" Value="Simple hommes, poules préliminaires" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY000700--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage" />
+<ItemName Language="FRA" Value="Simple hommes, poules préliminaires" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY000800--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage" />
+<ItemName Language="FRA" Value="Simple hommes, poules préliminaires" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY000900--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage" />
+<ItemName Language="FRA" Value="Simple hommes, poules préliminaires" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY001000--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage" />
+<ItemName Language="FRA" Value="Simple hommes, poules préliminaires" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY001100--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage" />
+<ItemName Language="FRA" Value="Simple hommes, poules préliminaires" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY001200--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage" />
+<ItemName Language="FRA" Value="Simple hommes, poules préliminaires" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY001300--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage" />
+<ItemName Language="FRA" Value="Simple hommes, poules préliminaires" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY001400--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage" />
+<ItemName Language="FRA" Value="Simple hommes, poules préliminaires" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY001500--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Group play stage" />
+<ItemName Language="FRA" Value="Simple hommes, poules préliminaires" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY002100--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Round of 16" />
+<ItemName Language="FRA" Value="Simple hommes, 8èmes de finale" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY002200--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Round of 16" />
+<ItemName Language="FRA" Value="Simple hommes, 8èmes de finale" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY002300--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Quarterfinals" />
+<ItemName Language="FRA" Value="Simple hommes, quarts de finale" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY002400--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Quarterfinals" />
+<ItemName Language="FRA" Value="Simple hommes, quarts de finale" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY002500--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Semifinals" />
+<ItemName Language="FRA" Value="Simple hommes, demi-finales" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMMSINGLES-----------TMRY002600--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Finals" />
+<ItemName Language="FRA" Value="Simple hommes, finales" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------TMRY000100--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------TMRY000200--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------TMRY000300--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------TMRY000400--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------TMRY000500--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------TMRY000600--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------TMRY000700--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------TMRY000800--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------TMRY000900--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------TMRY001000--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------TMRY001100--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------TMRY001200--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------TMRY001300--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, quarts de finale" />
+<ItemName Language="ENG" Value="Women's Doubles Quarterfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------TMRY001400--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, quarts de finale" />
+<ItemName Language="ENG" Value="Women's Doubles Quarterfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------TMRY001500--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, demi-finales" />
+<ItemName Language="ENG" Value="Women's Doubles Semifinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWDOUBLES-----------TMRY001600--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, finales" />
+<ItemName Language="ENG" Value="Women's Doubles Finals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------8FNL000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 8èmes de finale" />
+<ItemName Language="ENG" Value="Women's Singles Round of 16" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------8FNL000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 8èmes de finale" />
+<ItemName Language="ENG" Value="Women's Singles Round of 16" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------8FNL000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 8èmes de finale" />
+<ItemName Language="ENG" Value="Women's Singles Round of 16" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPG-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule G" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp G" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPH-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule H" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp H" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPH-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule H" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp H" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPH-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule H" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp H" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPH-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule H" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp H" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPI-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule I" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp I" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPI-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule I" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp I" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPI-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule I" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp I" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPI-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule I" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp I" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPJ-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule J" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp J" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPJ-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule J" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp J" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPJ-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule J" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp J" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPJ-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule J" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp J" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPJ-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule J" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp J" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPJ-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule J" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp J" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPK-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule K" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp K" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPK-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule K" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp K" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPK-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule K" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp K" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPK-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule K" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp K" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPK-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule K" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp K" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPK-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule K" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp K" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPL-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule L" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp L" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPL-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule L" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp L" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPL-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule L" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp L" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPL-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule L" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp L" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPL-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule L" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp L" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPL-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule L" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp L" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPM-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule M" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp M" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPM-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule M" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp M" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPM-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule M" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp M" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPM-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule M" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp M" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPM-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule M" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp M" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPM-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule M" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp M" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPN-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule N" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp N" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPN-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule N" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp N" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPN-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule N" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp N" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPN-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule N" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp N" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPN-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule N" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp N" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPN-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule N" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp N" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPO-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule O" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp O" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPO-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule O" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp O" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPO-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule O" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp O" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPO-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule O" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp O" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPO-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule O" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp O" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPO-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule O" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp O" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPP-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule P" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp P" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPP-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule P" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp P" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPP-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule P" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp P" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPP-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule P" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp P" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPP-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule P" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp P" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------GPP-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules - poule P" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage - Grp P" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY000100--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY000200--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY000300--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY000400--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY000500--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY000600--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY000700--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY000800--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY000900--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY001000--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY001100--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY001200--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY001300--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY001400--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY001500--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, poules préliminaires" />
+<ItemName Language="ENG" Value="Women's Singles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY002100--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 8èmes de finale" />
+<ItemName Language="ENG" Value="Women's Singles Round of 16" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY002200--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 8èmes de finale" />
+<ItemName Language="ENG" Value="Women's Singles Round of 16" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY002300--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, quarts de finale" />
+<ItemName Language="ENG" Value="Women's Singles Quarterfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY002400--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, quarts de finale" />
+<ItemName Language="ENG" Value="Women's Singles Quarterfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY002500--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, demi-finales" />
+<ItemName Language="ENG" Value="Women's Singles Semifinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMWSINGLES-----------TMRY002600--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, finales" />
+<ItemName Language="ENG" Value="Women's Singles Finals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------FNL-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, match or" />
+<ItemName Language="ENG" Value="Mixed Doubles Gold medal match" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------GPD-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, poules - poule D" />
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage - Grp D" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------TMRY000300--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, poules préliminaires" />
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------TMRY000400--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, poules préliminaires" />
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------TMRY000500--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, poules préliminaires" />
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------TMRY000600--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, poules préliminaires" />
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------TMRY000700--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, poules préliminaires" />
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------TMRY000800--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, poules préliminaires" />
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------TMRY000900--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, poules préliminaires" />
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------TMRY001000--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, poules préliminaires" />
+<ItemName Language="ENG" Value="Mixed Doubles Group play stage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------TMRY001300--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, quarts de finale" />
+<ItemName Language="ENG" Value="Mixed Doubles Quarterfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------TMRY001400--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, quarts de finale" />
+<ItemName Language="ENG" Value="Mixed Doubles Quarterfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BDMXDOUBLES-----------TMRY001500--" PhaseType="8" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, demi-finales" />
+<ItemName Language="ENG" Value="Mixed Doubles Semifinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

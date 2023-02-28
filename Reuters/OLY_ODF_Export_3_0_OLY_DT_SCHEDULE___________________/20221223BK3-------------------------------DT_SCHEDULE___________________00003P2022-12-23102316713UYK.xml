@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="BK3-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="155804862" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="BK301" StartDate="2024-07-30T17:30:00+02:00" EndDate="2024-07-30T19:30:00+02:00" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BK301" Language="ENG" />
+</Session>
+<Session SessionCode="BK302" StartDate="2024-07-30T21:00:00+02:00" EndDate="2024-07-30T23:00:00+02:00" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BK302" Language="ENG" />
+</Session>
+<Session SessionCode="BK303" StartDate="2024-07-31T17:30:00+02:00" EndDate="2024-07-31T19:30:00+02:00" Leadin="3:30" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BK303" Language="ENG" />
+</Session>
+<Session SessionCode="BK304" StartDate="2024-07-31T21:00:00+02:00" EndDate="2024-07-31T23:00:00+02:00" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BK304" Language="ENG" />
+</Session>
+<Session SessionCode="BK305" StartDate="2024-08-01T09:00:00+02:00" EndDate="2024-08-01T11:00:00+02:00" Leadin="3:30" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="MOR">
+<SessionName Value="BK305" Language="ENG" />
+</Session>
+<Session SessionCode="BK306" StartDate="2024-08-01T12:30:00+02:00" EndDate="2024-08-01T14:30:00+02:00" Leadin="5:30" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="EAF">
+<SessionName Value="BK306" Language="ENG" />
+</Session>
+<Session SessionCode="BK307" StartDate="2024-08-01T18:00:00+02:00" EndDate="2024-08-01T20:00:00+02:00" Leadin="3:30" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BK307" Language="ENG" />
+</Session>
+<Session SessionCode="BK308" StartDate="2024-08-01T21:30:00+02:00" EndDate="2024-08-01T23:30:00+02:00" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BK308" Language="ENG" />
+</Session>
+<Session SessionCode="BK309" StartDate="2024-08-02T09:00:00+02:00" EndDate="2024-08-02T11:00:00+02:00" Leadin="3:30" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="MOR">
+<SessionName Value="BK309" Language="ENG" />
+</Session>
+<Session SessionCode="BK310" StartDate="2024-08-02T12:30:00+02:00" EndDate="2024-08-02T14:30:00+02:00" Leadin="5:0" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="EAF">
+<SessionName Value="BK310" Language="ENG" />
+</Session>
+<Session SessionCode="BK311" StartDate="2024-08-02T17:30:00+02:00" EndDate="2024-08-02T19:30:00+02:00" Leadin="3:30" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BK311" Language="ENG" />
+</Session>
+<Session SessionCode="BK312" StartDate="2024-08-02T21:00:00+02:00" EndDate="2024-08-02T23:00:00+02:00" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BK312" Language="ENG" />
+</Session>
+<Session SessionCode="BK313" StartDate="2024-08-03T17:30:00+02:00" EndDate="2024-08-03T19:30:00+02:00" Leadin="4:0" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BK313" Language="ENG" />
+</Session>
+<Session SessionCode="BK314" StartDate="2024-08-03T21:30:00+02:00" EndDate="2024-08-03T22:30:00+02:00" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BK314" Language="ENG" />
+</Session>
+<Session SessionCode="BK315" StartDate="2024-08-04T17:30:00+02:00" EndDate="2024-08-04T19:30:00+02:00" Leadin="4:0" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BK315" Language="ENG" />
+</Session>
+<Session SessionCode="BK316" StartDate="2024-08-04T21:30:00+02:00" EndDate="2024-08-04T22:30:00+02:00" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BK316" Language="ENG" />
+</Session>
+<Session SessionCode="BK317" StartDate="2024-08-05T17:30:00+02:00" EndDate="2024-08-05T19:30:00+02:00" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BK317" Language="ENG" />
+</Session>
+<Session SessionCode="BK318" StartDate="2024-08-05T21:00:00+02:00" EndDate="2024-08-05T23:20:00+02:00" Medal="2" Venue="LC1" VenueName="La Concorde 1" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BK318" Language="ENG" />
+</Session>
+<Unit Code="BK3WTEAM3-------------GPA-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T17:30:00+02:00" EndDate="2024-07-30T17:55:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK301">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T18:00:00+02:00" EndDate="2024-07-30T18:25:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK301">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T18:35:00+02:00" EndDate="2024-07-30T19:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK301">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T19:05:00+02:00" EndDate="2024-07-30T19:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK301">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T21:00:00+02:00" EndDate="2024-07-30T21:25:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK302">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T21:30:00+02:00" EndDate="2024-07-30T21:55:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK302">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-001900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T22:05:00+02:00" EndDate="2024-07-30T22:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK302">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-001000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T22:35:00+02:00" EndDate="2024-07-30T23:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK302">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:00:00+02:00" EndDate="2024-07-31T21:25:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK303">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:30:00+02:00" EndDate="2024-07-31T21:55:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK303">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T22:05:00+02:00" EndDate="2024-07-31T22:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK303">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T22:35:00+02:00" EndDate="2024-07-31T23:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK303">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:00:00+02:00" EndDate="2024-07-31T21:25:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK304">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:30:00+02:00" EndDate="2024-07-31T21:55:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK304">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-002600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T22:05:00+02:00" EndDate="2024-07-31T22:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK304">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T22:35:00+02:00" EndDate="2024-07-31T23:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK304">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-000900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:30:00+02:00" EndDate="2024-08-01T12:55:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK305">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-001000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T13:00:00+02:00" EndDate="2024-08-01T13:25:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK305">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T13:35:00+02:00" EndDate="2024-08-01T14:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK305">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T14:05:00+02:00" EndDate="2024-08-01T14:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK305">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-001100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T18:00:00+02:00" EndDate="2024-08-01T18:25:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK306">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-001200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T18:30:00+02:00" EndDate="2024-08-01T18:55:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK306">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-000900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T19:05:00+02:00" EndDate="2024-08-01T19:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK306">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T19:35:00+02:00" EndDate="2024-08-01T20:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK306">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-001300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T21:30:00+02:00" EndDate="2024-08-01T21:55:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK307">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-001400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T22:00:00+02:00" EndDate="2024-08-01T22:25:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK307">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-001100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T22:35:00+02:00" EndDate="2024-08-01T23:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK307">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-001200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T23:05:00+02:00" EndDate="2024-08-01T23:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK307">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-001500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T21:30:00+02:00" EndDate="2024-08-01T21:55:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK308">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-001600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T22:00:00+02:00" EndDate="2024-08-01T22:25:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK308">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-002800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T22:35:00+02:00" EndDate="2024-08-01T23:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK308">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-002300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T23:05:00+02:00" EndDate="2024-08-01T23:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK308">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-001700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T12:30:00+02:00" EndDate="2024-08-02T12:55:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK309">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-001800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T13:00:00+02:00" EndDate="2024-08-02T13:25:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK309">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-001300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T13:35:00+02:00" EndDate="2024-08-02T14:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK309">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-001400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T14:05:00+02:00" EndDate="2024-08-02T14:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK309">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-001900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T17:30:00+02:00" EndDate="2024-08-02T17:55:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK310">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-002000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T18:00:00+02:00" EndDate="2024-08-02T18:25:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK310">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-001500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T18:35:00+02:00" EndDate="2024-08-02T19:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK310">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-001600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T19:05:00+02:00" EndDate="2024-08-02T19:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK310">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-002100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T21:00:00+02:00" EndDate="2024-08-02T21:25:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK311">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-002200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T21:30:00+02:00" EndDate="2024-08-02T21:55:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK311">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-001700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T22:05:00+02:00" EndDate="2024-08-02T22:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK311">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-001800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T22:35:00+02:00" EndDate="2024-08-02T23:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK311">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-002300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T21:00:00+02:00" EndDate="2024-08-02T21:25:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK312">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-002400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T21:30:00+02:00" EndDate="2024-08-02T21:55:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK312">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-002100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T22:05:00+02:00" EndDate="2024-08-02T22:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK312">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-002000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T22:35:00+02:00" EndDate="2024-08-02T23:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK312">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-002500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T21:30:00+02:00" EndDate="2024-08-03T21:55:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK313">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-002600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T22:00:00+02:00" EndDate="2024-08-03T22:25:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK313">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-002700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T22:35:00+02:00" EndDate="2024-08-03T23:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK313">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------GPA-002800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T23:05:00+02:00" EndDate="2024-08-03T23:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK313">
+<ItemName Language="ENG" Value="Women's Pool Round" />
+<ItemName Language="FRA" Value="Femmes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T21:30:00+02:00" EndDate="2024-08-03T21:55:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK314">
+<ItemName Language="ENG" Value="Women's Play-in Games" />
+<ItemName Language="FRA" Value="Femmes, play-in" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T22:05:00+02:00" EndDate="2024-08-03T22:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK314">
+<ItemName Language="ENG" Value="Women's Play-in Games" />
+<ItemName Language="FRA" Value="Femmes, play-in" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-002200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T21:30:00+02:00" EndDate="2024-08-04T21:55:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK315">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-002400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T22:00:00+02:00" EndDate="2024-08-04T22:25:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK315">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-002500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T22:35:00+02:00" EndDate="2024-08-04T23:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK315">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------GPA-002700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T23:05:00+02:00" EndDate="2024-08-04T23:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK315">
+<ItemName Language="ENG" Value="Men's Pool Round" />
+<ItemName Language="FRA" Value="Hommes, tour préliminaire" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T21:30:00+02:00" EndDate="2024-08-04T21:55:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK316">
+<ItemName Language="ENG" Value="Men's Play-in Games" />
+<ItemName Language="FRA" Value="Hommes, play-in" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T22:05:00+02:00" EndDate="2024-08-04T22:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK316">
+<ItemName Language="ENG" Value="Men's Play-in Games" />
+<ItemName Language="FRA" Value="Hommes, play-in" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T17:30:00+02:00" EndDate="2024-08-05T18:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK317">
+<ItemName Language="ENG" Value="Women's Semifinal" />
+<ItemName Language="FRA" Value="Femmes, demi-finale" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T18:00:00+02:00" EndDate="2024-08-05T18:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK317">
+<ItemName Language="ENG" Value="Men's Semifinal" />
+<ItemName Language="FRA" Value="Hommes, demi-finale" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T18:30:00+02:00" EndDate="2024-08-05T19:00:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK317">
+<ItemName Language="ENG" Value="Women's Semifinal" />
+<ItemName Language="FRA" Value="Femmes, demi-finale" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T19:00:00+02:00" EndDate="2024-08-05T19:30:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK317">
+<ItemName Language="ENG" Value="Men's Semifinal" />
+<ItemName Language="FRA" Value="Hommes, demi-finale" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T21:00:00+02:00" EndDate="2024-08-05T21:30:00+02:00" Medal="3" Venue="LC1" Location="LC1" SessionCode="BK318">
+<ItemName Language="ENG" Value="Women's Bronze Medal Game" />
+<ItemName Language="FRA" Value="Femmes, médaille de bronze" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T21:30:00+02:00" EndDate="2024-08-05T22:00:00+02:00" Medal="3" Venue="LC1" Location="LC1" SessionCode="BK318">
+<ItemName Language="ENG" Value="Men's Bronze Medal Game" />
+<ItemName Language="FRA" Value="Hommes, médaille de bronze" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T22:00:00+02:00" EndDate="2024-08-05T22:30:00+02:00" Medal="1" Venue="LC1" Location="LC1" SessionCode="BK318">
+<ItemName Language="ENG" Value="Women's Gold Medal Game" />
+<ItemName Language="FRA" Value="Femmes, médaille d'or" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T22:30:00+02:00" EndDate="2024-08-05T23:00:00+02:00" Medal="1" Venue="LC1" Location="LC1" SessionCode="BK318">
+<ItemName Language="ENG" Value="Men's Gold Medal Game" />
+<ItemName Language="FRA" Value="Hommes, médaille d'or" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T23:00:00+02:00" EndDate="2024-08-05T23:10:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK318">
+<ItemName Language="ENG" Value="Women's Victory Ceremony" />
+<ItemName Language="FRA" Value="Femmes, remise des médailles" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T23:10:00+02:00" EndDate="2024-08-05T23:20:00+02:00" Venue="LC1" Location="LC1" SessionCode="BK318">
+<ItemName Language="ENG" Value="Men's Victory Ceremony" />
+<ItemName Language="FRA" Value="Hommes, remise des médailles" />
+<VenueDescription VenueName="La Concorde 1" LocationName="La Concorde 1" />
+</Unit>
+<Unit Code="BK3-------------------MEET000100--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Réunion des directeurs d'équipe" />
+<ItemName Language="ENG" Value="Team Managers' Meeting" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------QFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, play-in" />
+<ItemName Language="ENG" Value="Men's Play-in Games" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BK3MTEAM3-------------QFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, play-in" />
+<ItemName Language="ENG" Value="Men's Play-in Games" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------QFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, play-in" />
+<ItemName Language="ENG" Value="Women's Play-in Games" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BK3WTEAM3-------------QFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, play-in" />
+<ItemName Language="ENG" Value="Women's Play-in Games" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

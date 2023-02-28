@@ -93,9 +93,7 @@ function generateSessionEvents(commonData, session) {
       eventBody: {
         code: session["$"]["SessionCode"],
         sportType: sportType,
-        SessionName: session["SessionName"]
-          ? session["SessionName"][0]["$"]["Value"]
-          : undefined,
+        SessionName: session["SessionName"][0]["$"]["Value"],
         Medal: session["$"]["Medal"],
         startDateTime: session["$"]["StartDate"],
         endDate: session["$"]["EndDate"],
@@ -137,9 +135,7 @@ function generateUnitEvents(commonData, units) {
         phaseType: unit["$"]["PhaseType"],
         eventStage: eventStage,
         medal: unit["$"]["Medal"],
-        itemName: unit["ItemName"]
-          ? unit["ItemName"][0]["$"]["Value"]
-          : undefined,
+        itemName: unit["ItemName"][0]["$"]["Value"],
         sessionCode: unit["$"]["SessionCode"],
         startDateTime: unit["$"]["StartDate"],
         eventStatus: {
@@ -151,12 +147,8 @@ function generateUnitEvents(commonData, units) {
         },
       },
       eventLocation: {
-        VenueName: unit["VenueDescription"]
-          ? unit["VenueDescription"][0]["$"]["VenueName"]
-          : undefined,
-        LocationName: unit["VenueDescription"]
-          ? unit["VenueDescription"][0]["$"]["VenueName"]
-          : undefined,
+        VenueName: unit["VenueDescription"][0]["$"]["VenueName"],
+        LocationName: unit["VenueDescription"][0]["$"]["VenueName"],
       },
       startDate: unit["$"]["StartDate"],
       endDate: unit["$"]["EndDate"],
@@ -170,6 +162,11 @@ function generateUnitEvents(commonData, units) {
       unit["$"]["ScheduleStatus"] === "POSTPONED"
     ) {
       unitEventBody.startDate = dateTimeForEvents.startDate;
+    }
+    if (
+      unit["$"]["ScheduleStatus"] === "UNSCHEDULED" ||
+      unit["$"]["ScheduleStatus"] === "CANCELLED"
+    ) {
       unitEventBody.endDate = dateTimeForEvents.endDate;
     }
     if (unit["$"]["HideStartDate"]) {
@@ -320,7 +317,7 @@ let xmlParsedBodyToJson = {
               PhaseType: "2",
               ScheduleStatus: "SCHEDULED",
               StartDate: "2022-02-17T12:00:00+08:00",
-              HideStartDate: "N",
+              HideStartDate: "Y",
               EndDate: "2022-02-17T13:00:00+08:00",
               HideEndDate: "N",
               Venue: "NIS",
@@ -328,6 +325,7 @@ let xmlParsedBodyToJson = {
               MediaAccess: "OPE",
               ModificationIndicator: "U",
               SessionCode: "BOB05",
+              Medal: 3,
             },
             ItemName: [
               {
@@ -374,7 +372,7 @@ let xmlParsedBodyToJson = {
 eventsGenerator(xmlParsedBodyToJson).then((res) => {
   //   console.log("unit", res.OlympicsUnit);
   for (let i = 0; i < res.OlympicsSession.length; i++) {
-    console.log(res.OlympicsSession[i]);
+    console.log(res.OlympicsUnit[i]);
   }
 });
 

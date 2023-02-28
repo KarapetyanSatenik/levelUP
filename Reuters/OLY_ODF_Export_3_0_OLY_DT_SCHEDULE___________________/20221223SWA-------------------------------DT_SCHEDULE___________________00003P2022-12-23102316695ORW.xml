@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="SWA-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="160234631" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="SWA01" StartDate="2024-08-05T19:30:00+02:00" EndDate="2024-08-05T21:00:00+02:00" Leadin="1:30" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="SWA01" Language="ENG" />
+</Session>
+<Session SessionCode="SWA02" StartDate="2024-08-06T19:30:00+02:00" EndDate="2024-08-06T21:00:00+02:00" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="SWA02" Language="ENG" />
+</Session>
+<Session SessionCode="SWA03" StartDate="2024-08-07T19:30:00+02:00" EndDate="2024-08-07T21:15:00+02:00" Medal="1" Leadin="1:45" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="SWA03" Language="ENG" />
+</Session>
+<Session SessionCode="SWA04" StartDate="2024-08-09T19:30:00+02:00" EndDate="2024-08-09T21:30:00+02:00" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="SWA04" Language="ENG" />
+</Session>
+<Session SessionCode="SWA05" StartDate="2024-08-10T19:30:00+02:00" EndDate="2024-08-10T22:00:00+02:00" Medal="1" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="SWA05" Language="ENG" />
+</Session>
+<Unit Code="SWAOTEAM8-------------FNL-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T21:00:00+02:00" EndDate="2024-08-05T22:30:00+02:00" Venue="AQC" Location="AQC" SessionCode="SWA01">
+<ItemName Language="ENG" Value="Team Technical Routine" />
+<ItemName Language="FRA" Value="Épreuve d'équipe, programme technique" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="SWAOTEAM8-------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T19:30:00+02:00" EndDate="2024-08-06T21:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="SWA02">
+<ItemName Language="ENG" Value="Team Free Routine" />
+<ItemName Language="FRA" Value="Épreuve d'équipe, programme libre" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="SWAOTEAM8-------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T21:15:00+02:00" EndDate="2024-08-07T22:45:00+02:00" Medal="1" Venue="AQC" Location="AQC" SessionCode="SWA03">
+<ItemName Language="ENG" Value="Team Acrobatic Routine" />
+<ItemName Language="FRA" Value="Épreuve d'équipe, prog. acrobatique" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="SWAOTEAM8-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T22:45:00+02:00" EndDate="2024-08-07T23:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="SWA03">
+<ItemName Language="ENG" Value="Team Victory Ceremony" />
+<ItemName Language="FRA" Value="Épreuve d'équipe, remise des médailles" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="SWAWTEAM2-------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T19:30:00+02:00" EndDate="2024-08-09T21:30:00+02:00" Venue="AQC" Location="AQC" SessionCode="SWA04">
+<ItemName Language="ENG" Value="Duet Technical Routine" />
+<ItemName Language="FRA" Value="Épreuve de duo, programme technique" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="SWAWTEAM2-------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T19:30:00+02:00" EndDate="2024-08-10T21:45:00+02:00" Medal="1" Venue="AQC" Location="AQC" SessionCode="SWA05">
+<ItemName Language="ENG" Value="Duet Free Routine" />
+<ItemName Language="FRA" Value="Épreuve de duo, programme libre" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="SWAWTEAM2-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T21:50:00+02:00" EndDate="2024-08-10T22:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="SWA05">
+<ItemName Language="ENG" Value="Duet Victory Ceremony" />
+<ItemName Language="FRA" Value="Épreuve de duo, remise des médailles" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="SWA-------------------DRAW000100--" PhaseType="7" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Artistic Swimming Draw" />
+<ItemName Language="FRA" Value="Natation artistique, tirage au sort" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="SWA-------------------DRAW000200--" PhaseType="7" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Duet Technical Routine Draw" />
+<ItemName Language="FRA" Value="Duet Technical Routine Draw" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="SWA-------------------DRAW000300--" PhaseType="7" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Duet Free Routine Draw" />
+<ItemName Language="FRA" Value="Duet Free Routine Draw" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="SWA-------------------DRAW000400--" PhaseType="7" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Team Technical Routine Draw" />
+<ItemName Language="FRA" Value="Team Technical Routine Draw" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="SWA-------------------DRAW000500--" PhaseType="7" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Team Free Routine Draw" />
+<ItemName Language="FRA" Value="Team Free Routine Draw" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="SWA-------------------DRAW000600--" PhaseType="7" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Team Acrobatic Routine Draw" />
+<ItemName Language="FRA" Value="Team Acrobatic Routine Draw" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

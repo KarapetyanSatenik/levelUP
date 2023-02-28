@@ -1,0 +1,2223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="BOX-------------------------------" DocumentType="DT_SCHEDULE" Version="4" FeedFlag="P" Date="2022-12-23" Time="101522147" LogicalDate="2022-12-23" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="2.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="BOX01" StartDate="2024-07-27T15:30:00+02:00" EndDate="2024-07-27T17:45:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="LAF">
+<SessionName Value="BOX01" Language="ENG" />
+</Session>
+<Session SessionCode="BOX02" StartDate="2024-07-27T20:00:00+02:00" EndDate="2024-07-27T22:15:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BOX02" Language="ENG" />
+</Session>
+<Session SessionCode="BOX03" StartDate="2024-07-28T11:00:00+02:00" EndDate="2024-07-28T13:00:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BOX03" Language="ENG" />
+</Session>
+<Session SessionCode="BOX04" StartDate="2024-07-28T15:30:00+02:00" EndDate="2024-07-28T17:30:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="LAF">
+<SessionName Value="BOX04" Language="ENG" />
+</Session>
+<Session SessionCode="BOX05" StartDate="2024-07-28T20:00:00+02:00" EndDate="2024-07-28T22:00:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BOX05" Language="ENG" />
+</Session>
+<Session SessionCode="BOX06" StartDate="2024-07-29T11:00:00+02:00" EndDate="2024-07-29T13:00:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BOX06" Language="ENG" />
+</Session>
+<Session SessionCode="BOX07" StartDate="2024-07-29T15:30:00+02:00" EndDate="2024-07-29T17:30:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="LAF">
+<SessionName Value="BOX07" Language="ENG" />
+</Session>
+<Session SessionCode="BOX08" StartDate="2024-07-29T20:00:00+02:00" EndDate="2024-07-29T22:00:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BOX08" Language="ENG" />
+</Session>
+<Session SessionCode="BOX09" StartDate="2024-07-30T11:00:00+02:00" EndDate="2024-07-30T13:30:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BOX09" Language="ENG" />
+</Session>
+<Session SessionCode="BOX10" StartDate="2024-07-30T15:30:00+02:00" EndDate="2024-07-30T18:00:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BOX10" Language="ENG" />
+</Session>
+<Session SessionCode="BOX11" StartDate="2024-07-30T20:00:00+02:00" EndDate="2024-07-30T22:30:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BOX11" Language="ENG" />
+</Session>
+<Session SessionCode="BOX12" StartDate="2024-07-31T11:00:00+02:00" EndDate="2024-07-31T13:15:00+02:00" Leadin="4:30" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BOX12" Language="ENG" />
+</Session>
+<Session SessionCode="BOX13" StartDate="2024-07-31T15:30:00+02:00" EndDate="2024-07-31T18:00:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BOX13" Language="ENG" />
+</Session>
+<Session SessionCode="BOX14" StartDate="2024-07-31T20:00:00+02:00" EndDate="2024-07-31T22:15:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BOX14" Language="ENG" />
+</Session>
+<Session SessionCode="BOX15" StartDate="2024-08-01T11:00:00+02:00" EndDate="2024-08-01T13:15:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BOX15" Language="ENG" />
+</Session>
+<Session SessionCode="BOX16" StartDate="2024-08-01T15:30:00+02:00" EndDate="2024-08-01T18:00:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BOX16" Language="ENG" />
+</Session>
+<Session SessionCode="BOX17" StartDate="2024-08-01T20:00:00+02:00" EndDate="2024-08-01T22:15:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BOX17" Language="ENG" />
+</Session>
+<Session SessionCode="BOX18" StartDate="2024-08-02T15:30:00+02:00" EndDate="2024-08-02T18:00:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BOX18" Language="ENG" />
+</Session>
+<Session SessionCode="BOX19" StartDate="2024-08-02T20:00:00+02:00" EndDate="2024-08-02T22:30:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BOX19" Language="ENG" />
+</Session>
+<Session SessionCode="BOX20" StartDate="2024-08-03T15:30:00+02:00" EndDate="2024-08-03T17:45:00+02:00" Leadin="4:30" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="LAF">
+<SessionName Value="BOX20" Language="ENG" />
+</Session>
+<Session SessionCode="BOX21" StartDate="2024-08-03T20:00:00+02:00" EndDate="2024-08-03T22:15:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BOX21" Language="ENG" />
+</Session>
+<Session SessionCode="BOX22" StartDate="2024-08-04T11:00:00+02:00" EndDate="2024-08-04T13:15:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BOX22" Language="ENG" />
+</Session>
+<Session SessionCode="BOX23" StartDate="2024-08-04T15:30:00+02:00" EndDate="2024-08-04T17:45:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="LAF">
+<SessionName Value="BOX23" Language="ENG" />
+</Session>
+<Session SessionCode="BOX24" StartDate="2024-08-06T21:30:00+02:00" EndDate="2024-08-06T23:30:00+02:00" Medal="1" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BOX24" Language="ENG" />
+</Session>
+<Session SessionCode="BOX25" StartDate="2024-08-07T21:30:00+02:00" EndDate="2024-08-07T23:30:00+02:00" Medal="2" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BOX25" Language="ENG" />
+</Session>
+<Session SessionCode="BOX26" StartDate="2024-08-08T21:30:00+02:00" EndDate="2024-08-08T23:30:00+02:00" Medal="2" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BOX26" Language="ENG" />
+</Session>
+<Session SessionCode="BOX27" StartDate="2024-08-09T21:30:00+02:00" EndDate="2024-08-09T23:30:00+02:00" Medal="4" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BOX27" Language="ENG" />
+</Session>
+<Session SessionCode="BOX28" StartDate="2024-08-10T21:30:00+02:00" EndDate="2024-08-10T23:30:00+02:00" Medal="4" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BOX28" Language="ENG" />
+</Session>
+<Unit Code="BOXW54KG--------------R32-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T15:30:00+02:00" EndDate="2024-07-27T15:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX01">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------R32-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T15:45:00+02:00" EndDate="2024-07-27T16:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX01">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------R32-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T16:00:00+02:00" EndDate="2024-07-27T16:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX01">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------R32-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T16:15:00+02:00" EndDate="2024-07-27T16:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX01">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------R32-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T16:30:00+02:00" EndDate="2024-07-27T16:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX01">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------R32-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T16:45:00+02:00" EndDate="2024-07-27T17:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX01">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------R32-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T17:00:00+02:00" EndDate="2024-07-27T17:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX01">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------R32-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T17:15:00+02:00" EndDate="2024-07-27T17:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX01">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------R32-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T17:30:00+02:00" EndDate="2024-07-27T17:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX01">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------R32-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T20:00:00+02:00" EndDate="2024-07-27T20:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX02">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------R32-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T20:15:00+02:00" EndDate="2024-07-27T20:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX02">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------R32-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T20:30:00+02:00" EndDate="2024-07-27T20:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX02">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------R32-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T20:45:00+02:00" EndDate="2024-07-27T21:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX02">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------R32-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T21:00:00+02:00" EndDate="2024-07-27T21:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX02">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------R32-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T21:15:00+02:00" EndDate="2024-07-27T21:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX02">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------R32-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T21:30:00+02:00" EndDate="2024-07-27T21:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX02">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------R32-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T21:45:00+02:00" EndDate="2024-07-27T22:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX02">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------R32-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T22:00:00+02:00" EndDate="2024-07-27T22:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX02">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM57KG--------------R32-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T11:00:00+02:00" EndDate="2024-07-28T11:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX03">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM71KG--------------R32-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T11:15:00+02:00" EndDate="2024-07-28T11:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX03">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM71KG--------------R32-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T11:30:00+02:00" EndDate="2024-07-28T11:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX03">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM92KG--------------R32-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T11:45:00+02:00" EndDate="2024-07-28T12:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX03">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM92KG--------------R32-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T12:00:00+02:00" EndDate="2024-07-28T12:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX03">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------R32-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T12:15:00+02:00" EndDate="2024-07-28T12:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX03">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------R32-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T12:30:00+02:00" EndDate="2024-07-28T12:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX03">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW66KG--------------R32-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T12:45:00+02:00" EndDate="2024-07-28T13:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX03">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM57KG--------------R32-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T15:30:00+02:00" EndDate="2024-07-28T15:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX04">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM71KG--------------R32-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T15:45:00+02:00" EndDate="2024-07-28T16:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX04">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM92KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T16:00:00+02:00" EndDate="2024-07-28T16:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX04">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM92KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T16:15:00+02:00" EndDate="2024-07-28T16:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX04">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM92KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T16:30:00+02:00" EndDate="2024-07-28T16:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX04">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------R32-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T16:45:00+02:00" EndDate="2024-07-28T17:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX04">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------R32-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T17:00:00+02:00" EndDate="2024-07-28T17:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX04">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW66KG--------------R32-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T17:15:00+02:00" EndDate="2024-07-28T17:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX04">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM71KG--------------R32-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T20:00:00+02:00" EndDate="2024-07-28T20:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX05">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM92KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T20:15:00+02:00" EndDate="2024-07-28T20:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX05">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM92KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T20:30:00+02:00" EndDate="2024-07-28T20:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX05">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM92KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T20:45:00+02:00" EndDate="2024-07-28T21:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX05">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------R32-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T21:00:00+02:00" EndDate="2024-07-28T21:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX05">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------R32-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T21:15:00+02:00" EndDate="2024-07-28T21:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX05">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW66KG--------------R32-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T21:30:00+02:00" EndDate="2024-07-28T21:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX05">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW66KG--------------R32-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T21:45:00+02:00" EndDate="2024-07-28T22:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX05">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T11:00:00+02:00" EndDate="2024-07-29T11:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX06">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T11:15:00+02:00" EndDate="2024-07-29T11:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX06">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T11:30:00+02:00" EndDate="2024-07-29T11:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX06">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T11:45:00+02:00" EndDate="2024-07-29T12:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX06">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T12:00:00+02:00" EndDate="2024-07-29T12:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX06">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T12:15:00+02:00" EndDate="2024-07-29T12:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX06">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM92KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T12:30:00+02:00" EndDate="2024-07-29T12:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX06">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM92KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T12:45:00+02:00" EndDate="2024-07-29T13:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX06">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T15:30:00+02:00" EndDate="2024-07-29T15:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX07">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T15:45:00+02:00" EndDate="2024-07-29T16:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX07">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T16:00:00+02:00" EndDate="2024-07-29T16:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX07">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T16:15:00+02:00" EndDate="2024-07-29T16:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX07">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T16:30:00+02:00" EndDate="2024-07-29T16:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX07">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXMO92KG-------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T16:45:00+02:00" EndDate="2024-07-29T17:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX07">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXMO92KG-------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T17:00:00+02:00" EndDate="2024-07-29T17:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX07">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXMO92KG-------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T17:15:00+02:00" EndDate="2024-07-29T17:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX07">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T20:00:00+02:00" EndDate="2024-07-29T20:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX08">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T20:15:00+02:00" EndDate="2024-07-29T20:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX08">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T20:30:00+02:00" EndDate="2024-07-29T20:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX08">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T20:45:00+02:00" EndDate="2024-07-29T21:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX08">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T21:00:00+02:00" EndDate="2024-07-29T21:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX08">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXMO92KG-------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T21:15:00+02:00" EndDate="2024-07-29T21:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX08">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXMO92KG-------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T21:30:00+02:00" EndDate="2024-07-29T21:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX08">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXMO92KG-------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T21:45:00+02:00" EndDate="2024-07-29T22:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX08">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM51KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T11:00:00+02:00" EndDate="2024-07-30T11:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX09">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM51KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T11:15:00+02:00" EndDate="2024-07-30T11:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX09">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM51KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T11:30:00+02:00" EndDate="2024-07-30T11:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX09">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T11:45:00+02:00" EndDate="2024-07-30T12:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX09">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T12:00:00+02:00" EndDate="2024-07-30T12:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX09">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T12:15:00+02:00" EndDate="2024-07-30T12:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX09">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T12:30:00+02:00" EndDate="2024-07-30T12:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX09">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T12:45:00+02:00" EndDate="2024-07-30T13:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX09">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------R32-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T13:00:00+02:00" EndDate="2024-07-30T13:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX09">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------R32-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T13:15:00+02:00" EndDate="2024-07-30T13:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX09">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM51KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T15:30:00+02:00" EndDate="2024-07-30T15:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX10">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM51KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T15:45:00+02:00" EndDate="2024-07-30T16:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX10">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM51KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T16:00:00+02:00" EndDate="2024-07-30T16:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX10">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T16:15:00+02:00" EndDate="2024-07-30T16:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX10">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T16:30:00+02:00" EndDate="2024-07-30T16:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX10">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T16:45:00+02:00" EndDate="2024-07-30T17:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX10">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T17:00:00+02:00" EndDate="2024-07-30T17:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX10">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T17:15:00+02:00" EndDate="2024-07-30T17:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX10">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------R32-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T17:30:00+02:00" EndDate="2024-07-30T17:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX10">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------R32-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T17:45:00+02:00" EndDate="2024-07-30T18:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX10">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM51KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T20:00:00+02:00" EndDate="2024-07-30T20:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX11">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM51KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T20:15:00+02:00" EndDate="2024-07-30T20:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX11">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T20:30:00+02:00" EndDate="2024-07-30T20:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX11">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T20:45:00+02:00" EndDate="2024-07-30T21:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX11">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T21:00:00+02:00" EndDate="2024-07-30T21:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX11">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T21:15:00+02:00" EndDate="2024-07-30T21:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX11">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T21:30:00+02:00" EndDate="2024-07-30T21:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX11">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T21:45:00+02:00" EndDate="2024-07-30T22:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX11">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------R32-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T22:00:00+02:00" EndDate="2024-07-30T22:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX11">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------R32-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T22:15:00+02:00" EndDate="2024-07-30T22:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX11">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM57KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T15:30:00+02:00" EndDate="2024-07-31T15:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX12">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM57KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T15:45:00+02:00" EndDate="2024-07-31T16:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX12">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM71KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T16:00:00+02:00" EndDate="2024-07-31T16:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX12">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM71KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T16:15:00+02:00" EndDate="2024-07-31T16:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX12">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW75KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T16:30:00+02:00" EndDate="2024-07-31T16:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX12">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW75KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T16:45:00+02:00" EndDate="2024-07-31T17:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX12">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW75KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T17:00:00+02:00" EndDate="2024-07-31T17:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX12">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW75KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T17:15:00+02:00" EndDate="2024-07-31T17:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX12">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T17:30:00+02:00" EndDate="2024-07-31T17:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX12">
+<ItemName Language="ENG" Value="Women's 60kg - Quarterfinal 1" />
+<ItemName Language="FRA" Value="Women's 60kg - Quarterfinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM57KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T15:30:00+02:00" EndDate="2024-07-31T15:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX13">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM57KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T15:45:00+02:00" EndDate="2024-07-31T16:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX13">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM57KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T16:00:00+02:00" EndDate="2024-07-31T16:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX13">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM71KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T16:15:00+02:00" EndDate="2024-07-31T16:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX13">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM71KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T16:30:00+02:00" EndDate="2024-07-31T16:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX13">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM71KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T16:45:00+02:00" EndDate="2024-07-31T17:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX13">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW75KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T17:00:00+02:00" EndDate="2024-07-31T17:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX13">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW75KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T17:15:00+02:00" EndDate="2024-07-31T17:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX13">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T17:30:00+02:00" EndDate="2024-07-31T17:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX13">
+<ItemName Language="ENG" Value="Women's 60kg - Quarterfinal 2" />
+<ItemName Language="FRA" Value="Women's 60kg - Quarterfinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T17:45:00+02:00" EndDate="2024-07-31T18:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX13">
+<ItemName Language="ENG" Value="Women's 60kg - Quarterfinal 3" />
+<ItemName Language="FRA" Value="Women's 60kg - Quarterfinal 3" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM57KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T20:00:00+02:00" EndDate="2024-07-31T20:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX14">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM57KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T20:15:00+02:00" EndDate="2024-07-31T20:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX14">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM57KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T20:30:00+02:00" EndDate="2024-07-31T20:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX14">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM71KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T20:45:00+02:00" EndDate="2024-07-31T21:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX14">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM71KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:00:00+02:00" EndDate="2024-07-31T21:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX14">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM71KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:15:00+02:00" EndDate="2024-07-31T21:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX14">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW75KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:30:00+02:00" EndDate="2024-07-31T21:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX14">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW75KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:45:00+02:00" EndDate="2024-07-31T22:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX14">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T22:00:00+02:00" EndDate="2024-07-31T22:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX14">
+<ItemName Language="ENG" Value="Women's 60kg - Quarterfinal 4" />
+<ItemName Language="FRA" Value="Women's 60kg - Quarterfinal 4" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T11:00:00+02:00" EndDate="2024-08-01T11:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX15">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T11:15:00+02:00" EndDate="2024-08-01T11:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX15">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T11:30:00+02:00" EndDate="2024-08-01T11:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX15">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW66KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T11:45:00+02:00" EndDate="2024-08-01T12:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX15">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW66KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:00:00+02:00" EndDate="2024-08-01T12:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX15">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW66KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:15:00+02:00" EndDate="2024-08-01T12:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX15">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:30:00+02:00" EndDate="2024-08-01T12:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX15">
+<ItemName Language="ENG" Value="Women's 54kg - Quarterfinal 1" />
+<ItemName Language="FRA" Value="Women's 54kg - Quarterfinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:45:00+02:00" EndDate="2024-08-01T13:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX15">
+<ItemName Language="ENG" Value="Men's 63.5kg - Quarterfinal 1" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Quarterfinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM92KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T13:00:00+02:00" EndDate="2024-08-01T13:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX15">
+<ItemName Language="ENG" Value="Men's 92kg - Quarterfinal 1" />
+<ItemName Language="FRA" Value="Men's 92kg - Quarterfinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T15:30:00+02:00" EndDate="2024-08-01T15:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX16">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T15:45:00+02:00" EndDate="2024-08-01T16:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX16">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T16:00:00+02:00" EndDate="2024-08-01T16:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX16">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW66KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T16:15:00+02:00" EndDate="2024-08-01T16:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX16">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW66KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T16:30:00+02:00" EndDate="2024-08-01T16:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX16">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW66KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T16:45:00+02:00" EndDate="2024-08-01T17:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX16">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T17:00:00+02:00" EndDate="2024-08-01T17:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX16">
+<ItemName Language="ENG" Value="Women's 54kg - Quarterfinal 2" />
+<ItemName Language="FRA" Value="Women's 54kg - Quarterfinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T17:15:00+02:00" EndDate="2024-08-01T17:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX16">
+<ItemName Language="ENG" Value="Women's 54kg - Quarterfinal 3" />
+<ItemName Language="FRA" Value="Women's 54kg - Quarterfinal 3" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T17:30:00+02:00" EndDate="2024-08-01T17:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX16">
+<ItemName Language="ENG" Value="Men's 63.5kg - Quarterfinal 2" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Quarterfinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM92KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T17:45:00+02:00" EndDate="2024-08-01T18:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX16">
+<ItemName Language="ENG" Value="Men's 92kg - Quarterfinal 2" />
+<ItemName Language="FRA" Value="Men's 92kg - Quarterfinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T20:00:00+02:00" EndDate="2024-08-01T20:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX17">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T20:15:00+02:00" EndDate="2024-08-01T20:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX17">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW66KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T20:30:00+02:00" EndDate="2024-08-01T20:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX17">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW66KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T20:45:00+02:00" EndDate="2024-08-01T21:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX17">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T21:00:00+02:00" EndDate="2024-08-01T21:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX17">
+<ItemName Language="ENG" Value="Women's 54kg - Quarterfinal 4" />
+<ItemName Language="FRA" Value="Women's 54kg - Quarterfinal 4" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T21:15:00+02:00" EndDate="2024-08-01T21:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX17">
+<ItemName Language="ENG" Value="Men's 63.5kg - Quarterfinal 3" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Quarterfinal 3" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T21:30:00+02:00" EndDate="2024-08-01T21:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX17">
+<ItemName Language="ENG" Value="Men's 63.5kg - Quarterfinal 4" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Quarterfinal 4" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM92KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T21:45:00+02:00" EndDate="2024-08-01T22:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX17">
+<ItemName Language="ENG" Value="Men's 92kg - Quarterfinal 3" />
+<ItemName Language="FRA" Value="Men's 92kg - Quarterfinal 3" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM92KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T22:00:00+02:00" EndDate="2024-08-01T22:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX17">
+<ItemName Language="ENG" Value="Men's 92kg - Quarterfinal 4" />
+<ItemName Language="FRA" Value="Men's 92kg - Quarterfinal 4" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T15:30:00+02:00" EndDate="2024-08-02T15:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T16:00:00+02:00" EndDate="2024-08-02T16:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T16:15:00+02:00" EndDate="2024-08-02T16:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T16:30:00+02:00" EndDate="2024-08-02T16:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM51KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T17:00:00+02:00" EndDate="2024-08-02T17:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Men's 51kg - Quarterfinal 1" />
+<ItemName Language="FRA" Value="Men's 51kg - Quarterfinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM51KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T17:15:00+02:00" EndDate="2024-08-02T17:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Men's 51kg - Quarterfinal 2" />
+<ItemName Language="FRA" Value="Men's 51kg - Quarterfinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T17:30:00+02:00" EndDate="2024-08-02T17:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T17:45:00+02:00" EndDate="2024-08-02T18:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Men's 80kg - Quarterfinal 1" />
+<ItemName Language="FRA" Value="Men's 80kg - Quarterfinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T18:00:00+02:00" EndDate="2024-08-02T18:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Men's 80kg - Quarterfinal 2" />
+<ItemName Language="FRA" Value="Men's 80kg - Quarterfinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T18:15:00+02:00" EndDate="2024-08-02T18:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXMO92KG-------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T18:30:00+02:00" EndDate="2024-08-02T18:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Men's +92kg - Quarterfinal 1" />
+<ItemName Language="FRA" Value="Men's +92kg - Quarterfinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T19:00:00+02:00" EndDate="2024-08-02T19:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Men's 80kg - Quarterfinal 1" />
+<ItemName Language="FRA" Value="Men's 80kg - Quarterfinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXMO92KG-------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T18:45:00+02:00" EndDate="2024-08-02T19:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Men's +92kg - Quarterfinal 2" />
+<ItemName Language="FRA" Value="Men's +92kg - Quarterfinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T19:15:00+02:00" EndDate="2024-08-02T19:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Men's 80kg - Quarterfinal 2" />
+<ItemName Language="FRA" Value="Men's 80kg - Quarterfinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM51KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T19:30:00+02:00" EndDate="2024-08-02T19:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Men's 51kg - Quarterfinal 2" />
+<ItemName Language="FRA" Value="Men's 51kg - Quarterfinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM51KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T19:45:00+02:00" EndDate="2024-08-02T20:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Men's 51kg - Quarterfinal 1" />
+<ItemName Language="FRA" Value="Men's 51kg - Quarterfinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXMO92KG-------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T20:00:00+02:00" EndDate="2024-08-02T20:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Men's +92kg - Quarterfinal 2" />
+<ItemName Language="FRA" Value="Men's +92kg - Quarterfinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXMO92KG-------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T20:15:00+02:00" EndDate="2024-08-02T20:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX18">
+<ItemName Language="ENG" Value="Men's +92kg - Quarterfinal 1" />
+<ItemName Language="FRA" Value="Men's +92kg - Quarterfinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T20:00:00+02:00" EndDate="2024-08-02T20:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX19">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T20:30:00+02:00" EndDate="2024-08-02T20:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX19">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T20:45:00+02:00" EndDate="2024-08-02T21:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX19">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM51KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T21:00:00+02:00" EndDate="2024-08-02T21:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX19">
+<ItemName Language="ENG" Value="Men's 51kg - Quarterfinal 3" />
+<ItemName Language="FRA" Value="Men's 51kg - Quarterfinal 3" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM51KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T21:15:00+02:00" EndDate="2024-08-02T21:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX19">
+<ItemName Language="ENG" Value="Men's 51kg - Quarterfinal 4" />
+<ItemName Language="FRA" Value="Men's 51kg - Quarterfinal 4" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T21:30:00+02:00" EndDate="2024-08-02T21:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX19">
+<ItemName Language="ENG" Value="Men's 80kg - Quarterfinal 3" />
+<ItemName Language="FRA" Value="Men's 80kg - Quarterfinal 3" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T21:45:00+02:00" EndDate="2024-08-02T22:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX19">
+<ItemName Language="ENG" Value="Men's 80kg - Quarterfinal 4" />
+<ItemName Language="FRA" Value="Men's 80kg - Quarterfinal 4" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXMO92KG-------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T22:00:00+02:00" EndDate="2024-08-02T22:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX19">
+<ItemName Language="ENG" Value="Men's +92kg - Quarterfinal 3" />
+<ItemName Language="FRA" Value="Men's +92kg - Quarterfinal 3" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXMO92KG-------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T22:15:00+02:00" EndDate="2024-08-02T22:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX19">
+<ItemName Language="ENG" Value="Men's +92kg - Quarterfinal 4" />
+<ItemName Language="FRA" Value="Men's +92kg - Quarterfinal 4" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM57KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T20:00:00+02:00" EndDate="2024-08-03T20:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX20">
+<ItemName Language="ENG" Value="Men's 57kg - Quarterfinal 1" />
+<ItemName Language="FRA" Value="Men's 57kg - Quarterfinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM57KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T20:15:00+02:00" EndDate="2024-08-03T20:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX20">
+<ItemName Language="ENG" Value="Men's 57kg - Quarterfinal 2" />
+<ItemName Language="FRA" Value="Men's 57kg - Quarterfinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM71KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T20:30:00+02:00" EndDate="2024-08-03T20:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX20">
+<ItemName Language="ENG" Value="Men's 71kg - Quarterfinal 1" />
+<ItemName Language="FRA" Value="Men's 71kg - Quarterfinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM71KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T20:45:00+02:00" EndDate="2024-08-03T21:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX20">
+<ItemName Language="ENG" Value="Men's 71kg - Quarterfinal 2" />
+<ItemName Language="FRA" Value="Men's 71kg - Quarterfinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T21:00:00+02:00" EndDate="2024-08-03T21:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX20">
+<ItemName Language="ENG" Value="Women's 50kg - Quarterfinal 1" />
+<ItemName Language="FRA" Value="Women's 50kg - Quarterfinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T21:15:00+02:00" EndDate="2024-08-03T21:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX20">
+<ItemName Language="ENG" Value="Women's 50kg - Quarterfinal 2" />
+<ItemName Language="FRA" Value="Women's 50kg - Quarterfinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW66KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T21:30:00+02:00" EndDate="2024-08-03T21:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX20">
+<ItemName Language="ENG" Value="Women's 66kg - Quarterfinal 1" />
+<ItemName Language="FRA" Value="Women's 66kg - Quarterfinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW66KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T21:45:00+02:00" EndDate="2024-08-03T22:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX20">
+<ItemName Language="ENG" Value="Women's 66kg - Quarterfinal 2" />
+<ItemName Language="FRA" Value="Women's 66kg - Quarterfinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T22:00:00+02:00" EndDate="2024-08-03T22:15:00+02:00" Medal="3" Venue="NPA" Location="NPA" SessionCode="BOX20">
+<ItemName Language="ENG" Value="Women's 60kg - Semifinal 1" />
+<ItemName Language="FRA" Value="Women's 60kg - Semifinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM57KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T20:00:00+02:00" EndDate="2024-08-03T20:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX21">
+<ItemName Language="ENG" Value="Men's 57kg - Quarterfinal 3" />
+<ItemName Language="FRA" Value="Men's 57kg - Quarterfinal 3" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM57KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T20:15:00+02:00" EndDate="2024-08-03T20:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX21">
+<ItemName Language="ENG" Value="Men's 57kg - Quarterfinal 4" />
+<ItemName Language="FRA" Value="Men's 57kg - Quarterfinal 4" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM71KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T20:30:00+02:00" EndDate="2024-08-03T20:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX21">
+<ItemName Language="ENG" Value="Men's 71kg - Quarterfinal 3" />
+<ItemName Language="FRA" Value="Men's 71kg - Quarterfinal 3" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM71KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T20:45:00+02:00" EndDate="2024-08-03T21:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX21">
+<ItemName Language="ENG" Value="Men's 71kg - Quarterfinal 4" />
+<ItemName Language="FRA" Value="Men's 71kg - Quarterfinal 4" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T21:00:00+02:00" EndDate="2024-08-03T21:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX21">
+<ItemName Language="ENG" Value="Women's 50kg - Quarterfinal 3" />
+<ItemName Language="FRA" Value="Women's 50kg - Quarterfinal 3" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW50KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T21:15:00+02:00" EndDate="2024-08-03T21:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX21">
+<ItemName Language="ENG" Value="Women's 50kg - Quarterfinal 4" />
+<ItemName Language="FRA" Value="Women's 50kg - Quarterfinal 4" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW66KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T21:30:00+02:00" EndDate="2024-08-03T21:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX21">
+<ItemName Language="ENG" Value="Women's 66kg - Quarterfinal 3" />
+<ItemName Language="FRA" Value="Women's 66kg - Quarterfinal 3" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW66KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T21:45:00+02:00" EndDate="2024-08-03T22:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX21">
+<ItemName Language="ENG" Value="Women's 66kg - Quarterfinal 4" />
+<ItemName Language="FRA" Value="Women's 66kg - Quarterfinal 4" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW60KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T22:00:00+02:00" EndDate="2024-08-03T22:15:00+02:00" Medal="3" Venue="NPA" Location="NPA" SessionCode="BOX21">
+<ItemName Language="ENG" Value="Women's 60kg - Semifinal 2" />
+<ItemName Language="FRA" Value="Women's 60kg - Semifinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T11:00:00+02:00" EndDate="2024-08-04T11:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX22">
+<ItemName Language="ENG" Value="Women's 57kg - Quarterfinal 1" />
+<ItemName Language="FRA" Value="Women's 57kg - Quarterfinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T11:15:00+02:00" EndDate="2024-08-04T11:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX22">
+<ItemName Language="ENG" Value="Women's 57kg - Quarterfinal 2" />
+<ItemName Language="FRA" Value="Women's 57kg - Quarterfinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW75KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T11:30:00+02:00" EndDate="2024-08-04T11:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX22">
+<ItemName Language="ENG" Value="Women's 75kg - Quarterfinal 1" />
+<ItemName Language="FRA" Value="Women's 75kg - Quarterfinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW75KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T11:45:00+02:00" EndDate="2024-08-04T12:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX22">
+<ItemName Language="ENG" Value="Women's 75kg - Quarterfinal 2" />
+<ItemName Language="FRA" Value="Women's 75kg - Quarterfinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T12:00:00+02:00" EndDate="2024-08-04T12:15:00+02:00" Medal="3" Venue="NPA" Location="NPA" SessionCode="BOX22">
+<ItemName Language="ENG" Value="Women's 54kg - Semifinal 1" />
+<ItemName Language="FRA" Value="Women's 54kg - Semifinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM51KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T12:15:00+02:00" EndDate="2024-08-04T12:30:00+02:00" Medal="3" Venue="NPA" Location="NPA" SessionCode="BOX22">
+<ItemName Language="ENG" Value="Men's 51kg - Semifinal 1" />
+<ItemName Language="FRA" Value="Men's 51kg - Semifinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T12:30:00+02:00" EndDate="2024-08-04T12:45:00+02:00" Medal="3" Venue="NPA" Location="NPA" SessionCode="BOX22">
+<ItemName Language="ENG" Value="Men's 63.5kg - Semifinal 1" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Semifinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T12:45:00+02:00" EndDate="2024-08-04T13:00:00+02:00" Medal="3" Venue="NPA" Location="NPA" SessionCode="BOX22">
+<ItemName Language="ENG" Value="Men's 80kg - Semifinal 1" />
+<ItemName Language="FRA" Value="Men's 80kg - Semifinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM92KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T13:00:00+02:00" EndDate="2024-08-04T13:15:00+02:00" Medal="3" Venue="NPA" Location="NPA" SessionCode="BOX22">
+<ItemName Language="ENG" Value="Men's 92kg - Semifinal 1" />
+<ItemName Language="FRA" Value="Men's 92kg - Semifinal 1" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T15:30:00+02:00" EndDate="2024-08-04T15:45:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX23">
+<ItemName Language="ENG" Value="Women's 57kg - Quarterfinal 3" />
+<ItemName Language="FRA" Value="Women's 57kg - Quarterfinal 3" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW57KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T15:45:00+02:00" EndDate="2024-08-04T16:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX23">
+<ItemName Language="ENG" Value="Women's 57kg - Quarterfinal 4" />
+<ItemName Language="FRA" Value="Women's 57kg - Quarterfinal 4" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW75KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T16:00:00+02:00" EndDate="2024-08-04T16:15:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX23">
+<ItemName Language="ENG" Value="Women's 75kg - Quarterfinal 3" />
+<ItemName Language="FRA" Value="Women's 75kg - Quarterfinal 3" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW75KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T16:15:00+02:00" EndDate="2024-08-04T16:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="BOX23">
+<ItemName Language="ENG" Value="Women's 75kg - Quarterfinal 4" />
+<ItemName Language="FRA" Value="Women's 75kg - Quarterfinal 4" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXW54KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T16:30:00+02:00" EndDate="2024-08-04T16:45:00+02:00" Medal="3" Venue="NPA" Location="NPA" SessionCode="BOX23">
+<ItemName Language="ENG" Value="Women's 54kg - Semifinal 2" />
+<ItemName Language="FRA" Value="Women's 54kg - Semifinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM51KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T16:45:00+02:00" EndDate="2024-08-04T17:00:00+02:00" Medal="3" Venue="NPA" Location="NPA" SessionCode="BOX23">
+<ItemName Language="ENG" Value="Men's 51kg - Semifinal 2" />
+<ItemName Language="FRA" Value="Men's 51kg - Semifinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM63KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T17:00:00+02:00" EndDate="2024-08-04T17:15:00+02:00" Medal="3" Venue="NPA" Location="NPA" SessionCode="BOX23">
+<ItemName Language="ENG" Value="Men's 63.5kg - Semifinal 2" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Semifinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM80KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T17:15:00+02:00" EndDate="2024-08-04T17:30:00+02:00" Medal="3" Venue="NPA" Location="NPA" SessionCode="BOX23">
+<ItemName Language="ENG" Value="Men's 80kg - Semifinal 2" />
+<ItemName Language="FRA" Value="Men's 80kg - Semifinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM92KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T17:30:00+02:00" EndDate="2024-08-04T17:45:00+02:00" Medal="3" Venue="NPA" Location="NPA" SessionCode="BOX23">
+<ItemName Language="ENG" Value="Men's 92kg - Semifinal 2" />
+<ItemName Language="FRA" Value="Men's 92kg - Semifinal 2" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="BOXM71KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T21:30:00+02:00" EndDate="2024-08-06T21:45:00+02:00" Medal="3" Venue="RGA" Location="RGA" SessionCode="BOX24">
+<ItemName Language="ENG" Value="Men's 71kg - Semifinal 1" />
+<ItemName Language="FRA" Value="Men's 71kg - Semifinal 1" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXM71KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T21:45:00+02:00" EndDate="2024-08-06T22:00:00+02:00" Medal="3" Venue="RGA" Location="RGA" SessionCode="BOX24">
+<ItemName Language="ENG" Value="Men's 71kg - Semifinal 2" />
+<ItemName Language="FRA" Value="Men's 71kg - Semifinal 2" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW50KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T22:00:00+02:00" EndDate="2024-08-06T22:15:00+02:00" Medal="3" Venue="RGA" Location="RGA" SessionCode="BOX24">
+<ItemName Language="ENG" Value="Women's 50kg - Semifinal 1" />
+<ItemName Language="FRA" Value="Women's 50kg - Semifinal 1" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW50KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T22:15:00+02:00" EndDate="2024-08-06T22:30:00+02:00" Medal="3" Venue="RGA" Location="RGA" SessionCode="BOX24">
+<ItemName Language="ENG" Value="Women's 50kg - Semifinal 2" />
+<ItemName Language="FRA" Value="Women's 50kg - Semifinal 2" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW66KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T22:30:00+02:00" EndDate="2024-08-06T22:45:00+02:00" Medal="3" Venue="RGA" Location="RGA" SessionCode="BOX24">
+<ItemName Language="ENG" Value="Women's 66kg - Semifinal 1" />
+<ItemName Language="FRA" Value="Women's 66kg - Semifinal 1" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW66KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T22:45:00+02:00" EndDate="2024-08-06T23:00:00+02:00" Medal="3" Venue="RGA" Location="RGA" SessionCode="BOX24">
+<ItemName Language="ENG" Value="Women's 66kg - Semifinal 2" />
+<ItemName Language="FRA" Value="Women's 66kg - Semifinal 2" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW60KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T23:00:00+02:00" EndDate="2024-08-06T23:15:00+02:00" Medal="1" Venue="RGA" Location="RGA" SessionCode="BOX24">
+<ItemName Language="ENG" Value="Women's 60kg - Final bout" />
+<ItemName Language="FRA" Value="Women's 60kg - Final bout" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW60KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T23:20:00+02:00" EndDate="2024-08-06T23:30:00+02:00" Venue="RGA" Location="RGA" SessionCode="BOX24">
+<ItemName Language="ENG" Value="Women's 60kg - Victory Ceremony" />
+<ItemName Language="FRA" Value="Women's 60kg - Victory Ceremony" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW57KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T21:30:00+02:00" EndDate="2024-08-07T21:45:00+02:00" Medal="3" Venue="RGA" Location="RGA" SessionCode="BOX25">
+<ItemName Language="ENG" Value="Women's 57kg - Semifinal 1" />
+<ItemName Language="FRA" Value="Women's 57kg - Semifinal 1" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW57KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T21:45:00+02:00" EndDate="2024-08-07T22:00:00+02:00" Medal="3" Venue="RGA" Location="RGA" SessionCode="BOX25">
+<ItemName Language="ENG" Value="Women's 57kg - Semifinal 2" />
+<ItemName Language="FRA" Value="Women's 57kg - Semifinal 2" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXMO92KG-------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T22:00:00+02:00" EndDate="2024-08-07T22:15:00+02:00" Medal="3" Venue="RGA" Location="RGA" SessionCode="BOX25">
+<ItemName Language="ENG" Value="Men's +92kg - Semifinal 1" />
+<ItemName Language="FRA" Value="Men's +92kg - Semifinal 1" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXMO92KG-------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T22:15:00+02:00" EndDate="2024-08-07T22:30:00+02:00" Medal="3" Venue="RGA" Location="RGA" SessionCode="BOX25">
+<ItemName Language="ENG" Value="Men's +92kg - Semifinal 2" />
+<ItemName Language="FRA" Value="Men's +92kg - Semifinal 2" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXM63KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T22:30:00+02:00" EndDate="2024-08-07T22:45:00+02:00" Medal="1" Venue="RGA" Location="RGA" SessionCode="BOX25">
+<ItemName Language="ENG" Value="Men's 63.5kg - Final bout" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Final bout" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXM80KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T22:45:00+02:00" EndDate="2024-08-07T23:00:00+02:00" Medal="1" Venue="RGA" Location="RGA" SessionCode="BOX25">
+<ItemName Language="ENG" Value="Men's 80kg - Final bout" />
+<ItemName Language="FRA" Value="Men's 80kg - Final bout" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXM63KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T23:05:00+02:00" EndDate="2024-08-07T23:15:00+02:00" Venue="RGA" Location="RGA" SessionCode="BOX25">
+<ItemName Language="ENG" Value="Men's 63.5kg - Victory Ceremony" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Victory Ceremony" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXM80KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T23:15:00+02:00" EndDate="2024-08-07T23:25:00+02:00" Venue="RGA" Location="RGA" SessionCode="BOX25">
+<ItemName Language="ENG" Value="Men's 80kg - Victory Ceremony" />
+<ItemName Language="FRA" Value="Men's 80kg - Victory Ceremony" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXM57KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T21:30:00+02:00" EndDate="2024-08-08T21:45:00+02:00" Medal="3" Venue="RGA" Location="RGA" SessionCode="BOX26">
+<ItemName Language="ENG" Value="Men's 57kg - Semifinal 1" />
+<ItemName Language="FRA" Value="Men's 57kg - Semifinal 1" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXM57KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T21:45:00+02:00" EndDate="2024-08-08T22:00:00+02:00" Medal="3" Venue="RGA" Location="RGA" SessionCode="BOX26">
+<ItemName Language="ENG" Value="Men's 57kg - Semifinal 2" />
+<ItemName Language="FRA" Value="Men's 57kg - Semifinal 2" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW75KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T22:00:00+02:00" EndDate="2024-08-08T22:15:00+02:00" Medal="3" Venue="RGA" Location="RGA" SessionCode="BOX26">
+<ItemName Language="ENG" Value="Women's 75kg - Semifinal 1" />
+<ItemName Language="FRA" Value="Women's 75kg - Semifinal 1" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW75KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T22:15:00+02:00" EndDate="2024-08-08T22:30:00+02:00" Medal="3" Venue="RGA" Location="RGA" SessionCode="BOX26">
+<ItemName Language="ENG" Value="Women's 75kg - Semifinal 2" />
+<ItemName Language="FRA" Value="Women's 75kg - Semifinal 2" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXM51KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T22:30:00+02:00" EndDate="2024-08-08T22:45:00+02:00" Medal="1" Venue="RGA" Location="RGA" SessionCode="BOX26">
+<ItemName Language="ENG" Value="Men's 51kg - Final bout" />
+<ItemName Language="FRA" Value="Men's 51kg - Final bout" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW54KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T22:45:00+02:00" EndDate="2024-08-08T23:00:00+02:00" Medal="1" Venue="RGA" Location="RGA" SessionCode="BOX26">
+<ItemName Language="ENG" Value="Women's 54kg - Final bout" />
+<ItemName Language="FRA" Value="Women's 54kg - Final bout" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXM51KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T23:05:00+02:00" EndDate="2024-08-08T23:15:00+02:00" Venue="RGA" Location="RGA" SessionCode="BOX26">
+<ItemName Language="ENG" Value="Men's 51kg - Victory Ceremony" />
+<ItemName Language="FRA" Value="Men's 51kg - Victory Ceremony" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW54KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T23:15:00+02:00" EndDate="2024-08-08T23:25:00+02:00" Venue="RGA" Location="RGA" SessionCode="BOX26">
+<ItemName Language="ENG" Value="Women's 54kg - Victory Ceremony" />
+<ItemName Language="FRA" Value="Women's 54kg - Victory Ceremony" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXM71KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T21:30:00+02:00" EndDate="2024-08-09T21:45:00+02:00" Medal="1" Venue="RGA" Location="RGA" SessionCode="BOX27">
+<ItemName Language="ENG" Value="Men's 71kg - Final bout" />
+<ItemName Language="FRA" Value="Men's 71kg - Final bout" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW50KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T21:45:00+02:00" EndDate="2024-08-09T22:00:00+02:00" Medal="1" Venue="RGA" Location="RGA" SessionCode="BOX27">
+<ItemName Language="ENG" Value="Women's 50kg - Final bout" />
+<ItemName Language="FRA" Value="Women's 50kg - Final bout" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXM71KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T22:00:00+02:00" EndDate="2024-08-09T22:10:00+02:00" Venue="RGA" Location="RGA" SessionCode="BOX27">
+<ItemName Language="ENG" Value="Men's 71kg - Victory Ceremony" />
+<ItemName Language="FRA" Value="Men's 71kg - Victory Ceremony" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXM92KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T22:10:00+02:00" EndDate="2024-08-09T22:25:00+02:00" Medal="1" Venue="RGA" Location="RGA" SessionCode="BOX27">
+<ItemName Language="ENG" Value="Men's 92kg - Final bout" />
+<ItemName Language="FRA" Value="Men's 92kg - Final bout" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW50KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T22:25:00+02:00" EndDate="2024-08-09T22:35:00+02:00" Venue="RGA" Location="RGA" SessionCode="BOX27">
+<ItemName Language="ENG" Value="Women's 50kg - Victory Ceremony" />
+<ItemName Language="FRA" Value="Women's 50kg - Victory Ceremony" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW66KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T22:35:00+02:00" EndDate="2024-08-09T22:50:00+02:00" Medal="1" Venue="RGA" Location="RGA" SessionCode="BOX27">
+<ItemName Language="ENG" Value="Women's 66kg - Final bout" />
+<ItemName Language="FRA" Value="Women's 66kg - Final bout" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXM92KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T22:50:00+02:00" EndDate="2024-08-09T23:00:00+02:00" Venue="RGA" Location="RGA" SessionCode="BOX27">
+<ItemName Language="ENG" Value="Men's 92kg - Victory Ceremony" />
+<ItemName Language="FRA" Value="Men's 92kg - Victory Ceremony" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW66KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T23:00:00+02:00" EndDate="2024-08-09T23:10:00+02:00" Venue="RGA" Location="RGA" SessionCode="BOX27">
+<ItemName Language="ENG" Value="Women's 66kg - Victory Ceremony" />
+<ItemName Language="FRA" Value="Women's 66kg - Victory Ceremony" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW57KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T21:30:00+02:00" EndDate="2024-08-10T21:45:00+02:00" Medal="1" Venue="RGA" Location="RGA" SessionCode="BOX28">
+<ItemName Language="ENG" Value="Women's 57kg - Final bout" />
+<ItemName Language="FRA" Value="Women's 57kg - Final bout" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXM57KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T21:45:00+02:00" EndDate="2024-08-10T22:00:00+02:00" Medal="1" Venue="RGA" Location="RGA" SessionCode="BOX28">
+<ItemName Language="ENG" Value="Men's 57kg - Final bout" />
+<ItemName Language="FRA" Value="Men's 57kg - Final bout" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW57KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T22:00:00+02:00" EndDate="2024-08-10T22:10:00+02:00" Venue="RGA" Location="RGA" SessionCode="BOX28">
+<ItemName Language="ENG" Value="Women's 57kg - Victory Ceremony" />
+<ItemName Language="FRA" Value="Women's 57kg - Victory Ceremony" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW75KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T22:10:00+02:00" EndDate="2024-08-10T22:25:00+02:00" Medal="1" Venue="RGA" Location="RGA" SessionCode="BOX28">
+<ItemName Language="ENG" Value="Women's 75kg - Final bout" />
+<ItemName Language="FRA" Value="Women's 75kg - Final bout" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXM57KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T22:25:00+02:00" EndDate="2024-08-10T22:35:00+02:00" Venue="RGA" Location="RGA" SessionCode="BOX28">
+<ItemName Language="ENG" Value="Men's 57kg - Victory Ceremony" />
+<ItemName Language="FRA" Value="Men's 57kg - Victory Ceremony" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXMO92KG-------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T22:35:00+02:00" EndDate="2024-08-10T22:50:00+02:00" Medal="1" Venue="RGA" Location="RGA" SessionCode="BOX28">
+<ItemName Language="ENG" Value="Men's +92kg - Final bout" />
+<ItemName Language="FRA" Value="Men's +92kg - Final bout" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXW75KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T22:50:00+02:00" EndDate="2024-08-10T23:00:00+02:00" Venue="RGA" Location="RGA" SessionCode="BOX28">
+<ItemName Language="ENG" Value="Women's 75kg - Victory Ceremony" />
+<ItemName Language="FRA" Value="Women's 75kg - Victory Ceremony" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOXMO92KG-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T23:00:00+02:00" EndDate="2024-08-10T23:10:00+02:00" Venue="RGA" Location="RGA" SessionCode="BOX28">
+<ItemName Language="ENG" Value="Men's +92kg - Victory Ceremony" />
+<ItemName Language="FRA" Value="Men's +92kg - Victory Ceremony" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros" />
+</Unit>
+<Unit Code="BOX-------------------DRAW000100--" PhaseType="7" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Boxe, tirage au sort" />
+<ItemName Language="ENG" Value="Boxing - Draw" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM51KG--------------R32-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM51KG--------------R32-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM51KG--------------R32-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM51KG--------------R32-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM51KG--------------R32-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM51KG--------------R32-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM51KG--------------R32-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM51KG--------------R32-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM51KG--------------R32-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM51KG--------------R32-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM51KG--------------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM51KG--------------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM51KG--------------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM51KG--------------R32-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM51KG--------------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM51KG--------------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 51kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 51kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM57KG--------------R32-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM57KG--------------R32-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM57KG--------------R32-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM57KG--------------R32-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM57KG--------------R32-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM57KG--------------R32-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM57KG--------------R32-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM57KG--------------R32-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM57KG--------------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM57KG--------------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM57KG--------------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM57KG--------------R32-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM57KG--------------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM57KG--------------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM63KG--------------R32-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM63KG--------------R32-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM63KG--------------R32-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM63KG--------------R32-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM63KG--------------R32-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM63KG--------------R32-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM63KG--------------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM63KG--------------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM63KG--------------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM63KG--------------R32-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM63KG--------------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM63KG--------------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 63.5kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 63.5kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM71KG--------------R32-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM71KG--------------R32-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM71KG--------------R32-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM71KG--------------R32-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM71KG--------------R32-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM71KG--------------R32-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM71KG--------------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM71KG--------------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM71KG--------------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM71KG--------------R32-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM71KG--------------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM71KG--------------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 71kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 71kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM80KG--------------R32-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM80KG--------------R32-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM80KG--------------R32-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM80KG--------------R32-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM80KG--------------R32-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM80KG--------------R32-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM80KG--------------R32-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM80KG--------------R32-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM80KG--------------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM80KG--------------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM80KG--------------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM80KG--------------R32-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM80KG--------------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM80KG--------------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 80kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 80kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM92KG--------------R32-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM92KG--------------R32-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM92KG--------------R32-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM92KG--------------R32-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM92KG--------------R32-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM92KG--------------R32-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM92KG--------------R32-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM92KG--------------R32-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM92KG--------------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM92KG--------------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM92KG--------------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM92KG--------------R32-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM92KG--------------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXM92KG--------------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's 92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's 92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOX-------------------MEET000100--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Boxe - réunion technique" />
+<ItemName Language="ENG" Value="Boxing Technical Meeting" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------8FNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 16" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------8FNL000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 16" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------R32-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------R32-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------R32-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------R32-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------R32-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------R32-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------R32-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------R32-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------R32-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------R32-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------R32-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXMO92KG-------------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's +92kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Men's +92kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW50KG--------------R32-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW50KG--------------R32-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW50KG--------------R32-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW50KG--------------R32-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW50KG--------------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW50KG--------------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW50KG--------------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW50KG--------------R32-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW50KG--------------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW50KG--------------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 50kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 50kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW54KG--------------R32-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW54KG--------------R32-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW54KG--------------R32-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW54KG--------------R32-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW54KG--------------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW54KG--------------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW54KG--------------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW54KG--------------R32-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW54KG--------------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW54KG--------------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 54kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 54kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW57KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 16" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 16" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW57KG--------------R32-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW57KG--------------R32-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW57KG--------------R32-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW57KG--------------R32-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW57KG--------------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW57KG--------------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW57KG--------------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW57KG--------------R32-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW57KG--------------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW57KG--------------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 57kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 57kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW60KG--------------R32-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW60KG--------------R32-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW60KG--------------R32-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW60KG--------------R32-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW60KG--------------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW60KG--------------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW60KG--------------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW60KG--------------R32-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW60KG--------------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW60KG--------------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 60kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 60kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW66KG--------------R32-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW66KG--------------R32-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW66KG--------------R32-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW66KG--------------R32-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW66KG--------------R32-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW66KG--------------R32-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW66KG--------------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW66KG--------------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW66KG--------------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW66KG--------------R32-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW66KG--------------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW66KG--------------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 66kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 66kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW75KG--------------R32-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW75KG--------------R32-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW75KG--------------R32-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW75KG--------------R32-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW75KG--------------R32-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW75KG--------------R32-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW75KG--------------R32-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW75KG--------------R32-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW75KG--------------R32-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW75KG--------------R32-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW75KG--------------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW75KG--------------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW75KG--------------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW75KG--------------R32-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW75KG--------------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BOXW75KG--------------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's 75kg - Prelims - Round of 32" />
+<ItemName Language="FRA" Value="Women's 75kg - Prelims - Round of 32" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

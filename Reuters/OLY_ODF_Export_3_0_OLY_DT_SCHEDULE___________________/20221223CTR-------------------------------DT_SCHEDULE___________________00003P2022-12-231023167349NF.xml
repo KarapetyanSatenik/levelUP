@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="CTR-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="160013203" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="CTR01" StartDate="2024-08-05T17:00:00+02:00" EndDate="2024-08-05T19:40:00+02:00" Medal="1" Venue="VE1" VenueName="National Velodrome" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="CTR01" Language="ENG" />
+</Session>
+<Session SessionCode="CTR02" StartDate="2024-08-06T17:30:00+02:00" EndDate="2024-08-06T19:55:00+02:00" Medal="1" Venue="VE1" VenueName="National Velodrome" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="CTR02" Language="ENG" />
+</Session>
+<Session SessionCode="CTR03" StartDate="2024-08-07T12:45:00+02:00" EndDate="2024-08-07T15:30:00+02:00" Leadin="4:45" Venue="VE1" VenueName="National Velodrome" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="CTR03" Language="ENG" />
+</Session>
+<Session SessionCode="CTR04" StartDate="2024-08-07T17:30:00+02:00" EndDate="2024-08-07T19:50:00+02:00" Medal="2" Venue="VE1" VenueName="National Velodrome" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="CTR04" Language="ENG" />
+</Session>
+<Session SessionCode="CTR05" StartDate="2024-08-08T17:00:00+02:00" EndDate="2024-08-08T19:55:00+02:00" Medal="2" Venue="VE1" VenueName="National Velodrome" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="CTR05" Language="ENG" />
+</Session>
+<Session SessionCode="CTR06" StartDate="2024-08-09T14:00:00+02:00" EndDate="2024-08-09T15:45:00+02:00" Venue="VE1" VenueName="National Velodrome" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="CTR06" Language="ENG" />
+</Session>
+<Session SessionCode="CTR07" StartDate="2024-08-09T18:00:00+02:00" EndDate="2024-08-09T19:55:00+02:00" Medal="3" Venue="VE1" VenueName="National Velodrome" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="CTR07" Language="ENG" />
+</Session>
+<Session SessionCode="CTR08" StartDate="2024-08-10T17:00:00+02:00" EndDate="2024-08-10T19:50:00+02:00" Medal="1" Venue="VE1" VenueName="National Velodrome" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="CTR08" Language="ENG" />
+</Session>
+<Session SessionCode="CTR09" StartDate="2024-08-11T11:00:00+02:00" EndDate="2024-08-11T14:15:00+02:00" Medal="4" Venue="VE1" VenueName="National Velodrome" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="CTR09" Language="ENG" />
+</Session>
+<Unit Code="CTRWSPRTEAM3----------QUAL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T17:00:00+02:00" EndDate="2024-08-05T17:24:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR01">
+<ItemName Language="ENG" Value="Women's Team Sprint Qualifying" />
+<ItemName Language="FRA" Value="Vitesse par équipes - fem., qualif." />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMPURTEAM4----------QUAL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T17:24:00+02:00" EndDate="2024-08-05T18:34:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR01">
+<ItemName Language="ENG" Value="Men's Team Pursuit Qualifying" />
+<ItemName Language="FRA" Value="Poursuite équipes - hom., qualifications" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRTEAM3----------RND1--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T18:34:00+02:00" EndDate="2024-08-05T18:46:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR01">
+<ItemName Language="ENG" Value="Women's Team Sprint First Round" />
+<ItemName Language="FRA" Value="Vitesse par équipes - femmes, 1er tour" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRTEAM3----------QUAL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T18:46:00+02:00" EndDate="2024-08-05T19:10:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR01">
+<ItemName Language="ENG" Value="Men's Team Sprint Qualifying" />
+<ItemName Language="FRA" Value="Vitesse par équipes - hom., qualif." />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRTEAM3----------FNL-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T19:12:00+02:00" EndDate="2024-08-05T19:15:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR01">
+<ItemName Language="ENG" Value="Women's Team Sprint Final for places 7-8" />
+<ItemName Language="FRA" Value="Vit. équipes - femmes, finales 7-8" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRTEAM3----------FNL-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T19:15:00+02:00" EndDate="2024-08-05T19:18:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR01">
+<ItemName Language="ENG" Value="Women's Team Sprint Final for places 5-6" />
+<ItemName Language="FRA" Value="Vit. équipes - femmes, finales 5-6" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRTEAM3----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T19:18:00+02:00" EndDate="2024-08-05T19:21:00+02:00" Medal="3" Venue="VE1" Location="VE1" SessionCode="CTR01">
+<ItemName Language="ENG" Value="Women's Team Sprint Finals - For Bronze" />
+<ItemName Language="FRA" Value="Vit. équipes - fem., finales - bronze" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRTEAM3----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T19:21:00+02:00" EndDate="2024-08-05T19:24:00+02:00" Medal="1" Venue="VE1" Location="VE1" SessionCode="CTR01">
+<ItemName Language="ENG" Value="Women's Team Sprint Finals - For Gold" />
+<ItemName Language="FRA" Value="Vitesse équipes - fem., finales - or" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRTEAM3----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T19:32:00+02:00" EndDate="2024-08-05T19:40:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR01">
+<ItemName Language="ENG" Value="Women's Team Sprint Victory Ceremony" />
+<ItemName Language="FRA" Value="Vitesse par équipes - fem., remise méd." />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWPURTEAM4----------QUAL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T17:30:00+02:00" EndDate="2024-08-06T18:40:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR02">
+<ItemName Language="ENG" Value="Women's Team Pursuit Qualifying" />
+<ItemName Language="FRA" Value="Poursuite équipes - fem., qualifications" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRTEAM3----------RND1--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T18:40:00+02:00" EndDate="2024-08-06T18:52:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR02">
+<ItemName Language="ENG" Value="Men's Team Sprint First Round" />
+<ItemName Language="FRA" Value="Vitesse par équipes - hommes, 1er tour" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMPURTEAM4----------RND1--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T18:52:00+02:00" EndDate="2024-08-06T19:20:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR02">
+<ItemName Language="ENG" Value="Men's Team Pursuit First Round" />
+<ItemName Language="FRA" Value="Poursuite par équipes - hom., 1er tour" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRTEAM3----------FNL-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T19:22:00+02:00" EndDate="2024-08-06T19:25:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR02">
+<ItemName Language="ENG" Value="Men's Team Sprint Finals for places 7-8" />
+<ItemName Language="FRA" Value="Vit. équipes - hommes, finales 7-8" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRTEAM3----------FNL-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T19:25:00+02:00" EndDate="2024-08-06T19:28:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR02">
+<ItemName Language="ENG" Value="Men's Team Sprint Finals for places 5-6" />
+<ItemName Language="FRA" Value="Vit. équipes - hommes, finales 5-6" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRTEAM3----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T19:28:00+02:00" EndDate="2024-08-06T19:31:00+02:00" Medal="3" Venue="VE1" Location="VE1" SessionCode="CTR02">
+<ItemName Language="ENG" Value="Men's Team Sprint Finals - For Bronze" />
+<ItemName Language="FRA" Value="Vit. équipes - hommes, finales - bronze" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRTEAM3----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T19:31:00+02:00" EndDate="2024-08-06T19:34:00+02:00" Medal="1" Venue="VE1" Location="VE1" SessionCode="CTR02">
+<ItemName Language="ENG" Value="Men's Team Sprint Finals - For Gold" />
+<ItemName Language="FRA" Value="Vit. équipes - hommes, finales - or" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRTEAM3----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T19:42:00+02:00" EndDate="2024-08-06T19:52:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR02">
+<ItemName Language="ENG" Value="Men's Team Sprint Victory Ceremony" />
+<ItemName Language="FRA" Value="Vitesse par équipes - hom., remise méd." />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------QUAL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T17:30:00+02:00" EndDate="2024-08-07T18:10:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR03">
+<ItemName Language="ENG" Value="Men's Sprint Qualifying" />
+<ItemName Language="FRA" Value="Vitesse - hom., qualif." />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWKEIRIN------------RND1--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T18:10:00+02:00" EndDate="2024-08-07T18:35:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR03">
+<ItemName Language="ENG" Value="Women's Keirin First Round" />
+<ItemName Language="FRA" Value="Keirin - femmes, 1er tour" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWPURTEAM4----------RND1--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T18:35:00+02:00" EndDate="2024-08-07T19:03:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR03">
+<ItemName Language="ENG" Value="Women's Team Pursuit First Round" />
+<ItemName Language="FRA" Value="Poursuite par équipes - femmes, 1er tour" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------R64---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T19:03:00+02:00" EndDate="2024-08-07T19:39:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR03">
+<ItemName Language="ENG" Value="Men's Sprint 1/32 Finals" />
+<ItemName Language="FRA" Value="Vitesse - hom., 32e finale" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWKEIRIN------------REP---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T19:39:00+02:00" EndDate="2024-08-07T19:59:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR03">
+<ItemName Language="ENG" Value="Women's Keirin Repechages" />
+<ItemName Language="FRA" Value="Keirin - femmes, repêchages" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------REP1--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T19:59:00+02:00" EndDate="2024-08-07T20:11:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR03">
+<ItemName Language="ENG" Value="Men's Sprint 1/32 Finals Repechages" />
+<ItemName Language="FRA" Value="Vitesse - hom., 32e finale - repêch." />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------R32---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T17:30:00+02:00" EndDate="2024-08-07T17:54:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR04">
+<ItemName Language="ENG" Value="Men's Sprint 1/16 Finals" />
+<ItemName Language="FRA" Value="Vitesse - hom., 16e finale" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMPURTEAM4----------FNL-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T17:56:00+02:00" EndDate="2024-08-07T18:03:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR04">
+<ItemName Language="ENG" Value="Men's Team Pursuit Finals for places 7-8" />
+<ItemName Language="FRA" Value="Men's Team Pursuit Finals for places 7-8" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMPURTEAM4----------FNL-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T18:03:00+02:00" EndDate="2024-08-07T18:10:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR04">
+<ItemName Language="ENG" Value="Men's Team Pursuit Finals for places 5-6" />
+<ItemName Language="FRA" Value="Men's Team Pursuit Finals for places 5-6" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMPURTEAM4----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T18:10:00+02:00" EndDate="2024-08-07T18:17:00+02:00" Medal="3" Venue="VE1" Location="VE1" SessionCode="CTR04">
+<ItemName Language="ENG" Value="Men's Team Pursuit Finals - For Bronze" />
+<ItemName Language="FRA" Value="Men's Team Pursuit Finals - For Bronze" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMPURTEAM4----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T18:17:00+02:00" EndDate="2024-08-07T18:24:00+02:00" Medal="1" Venue="VE1" Location="VE1" SessionCode="CTR04">
+<ItemName Language="ENG" Value="Men's Team Pursuit Finals - For Gold" />
+<ItemName Language="FRA" Value="Men's Team Pursuit Finals - For Gold" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------REP2--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T18:24:00+02:00" EndDate="2024-08-07T18:36:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR04">
+<ItemName Language="ENG" Value="Men's Sprint 1/16 Finals Repechages" />
+<ItemName Language="FRA" Value="Vitesse - hom., 16e finale - repêch." />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWPURTEAM4----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T18:38:00+02:00" EndDate="2024-08-07T19:06:00+02:00" Medal="1" Venue="VE1" Location="VE1" SessionCode="CTR04">
+<ItemName Language="ENG" Value="Women's Team Pursuit Finals - For Gold" />
+<ItemName Language="FRA" Value="Women's Team Pursuit Finals - For Gold" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------8FNL--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T19:06:00+02:00" EndDate="2024-08-07T19:24:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR04">
+<ItemName Language="ENG" Value="Men's Sprint 1/8 Finals" />
+<ItemName Language="FRA" Value="Vitesse - hom., 8e finale" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMPURTEAM4----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T19:24:00+02:00" EndDate="2024-08-07T19:34:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR04">
+<ItemName Language="ENG" Value="Men's Team Pursuit Victory Ceremony" />
+<ItemName Language="FRA" Value="Poursuite équipes - hom., remise méd." />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWPURTEAM4----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T19:34:00+02:00" EndDate="2024-08-07T19:44:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR04">
+<ItemName Language="ENG" Value="Women's Team Pursuit Victory Ceremony" />
+<ItemName Language="FRA" Value="Poursuite équipes - fem., remise méd." />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------REP3--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T19:44:00+02:00" EndDate="2024-08-07T19:50:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR04">
+<ItemName Language="ENG" Value="Men's Sprint 1/8 Finals Repechages" />
+<ItemName Language="FRA" Value="Vitesse - hom., 8e finale - repêchages" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMOMNIUM------------SCR-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T17:00:00+02:00" EndDate="2024-08-08T17:18:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR05">
+<ItemName Language="ENG" Value="Men's Omnium Scratch Race 1/4" />
+<ItemName Language="FRA" Value="Omnium - hommes, scratch 1/4" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWKEIRIN------------QFNL--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T17:18:00+02:00" EndDate="2024-08-08T17:33:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR05">
+<ItemName Language="ENG" Value="Women's Keirin Quarterfinals" />
+<ItemName Language="FRA" Value="Keirin - femmes, 1/4 finale" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMOMNIUM------------TEMP000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T17:33:00+02:00" EndDate="2024-08-08T17:51:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR05">
+<ItemName Language="ENG" Value="Men's Omnium Tempo Race 2/4" />
+<ItemName Language="FRA" Value="Omnium - hommes, course tempo 2/4" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------QFNL000001--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T17:51:00+02:00" EndDate="2024-08-08T18:03:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR05">
+<ItemName Language="ENG" Value="Men's Sprint Quarterfinals - Race 1" />
+<ItemName Language="FRA" Value="Vitesse - hom., 1/4 finale - course 1" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWKEIRIN------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T18:03:00+02:00" EndDate="2024-08-08T18:08:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR05">
+<ItemName Language="ENG" Value="Women's Keirin Semifinals - Heat 1" />
+<ItemName Language="FRA" Value="Keirin - femmes, 1/2 finales - série 1" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWKEIRIN------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T18:08:00+02:00" EndDate="2024-08-08T18:13:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR05">
+<ItemName Language="ENG" Value="Women's Keirin Semifinals - Heat 2" />
+<ItemName Language="FRA" Value="Keirin - femmes, 1/2 finales - série 2" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMOMNIUM------------ELIM000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T18:13:00+02:00" EndDate="2024-08-08T18:31:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR05">
+<ItemName Language="ENG" Value="Men's Omnium Elimination Race 3/4" />
+<ItemName Language="FRA" Value="Omnium - hommes, course éliminatoire 3/4" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------QFNL000002--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T18:31:00+02:00" EndDate="2024-08-08T18:43:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR05">
+<ItemName Language="ENG" Value="Men's Sprint Quarterfinals - Race 2" />
+<ItemName Language="FRA" Value="Vitesse - hom., 1/4 finale - course 2" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWKEIRIN------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T18:43:00+02:00" EndDate="2024-08-08T18:48:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR05">
+<ItemName Language="ENG" Value="Women's Keirin Final for places 7-12" />
+<ItemName Language="FRA" Value="Keirin - femmes, pour les places 7-12" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWKEIRIN------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T18:51:00+02:00" EndDate="2024-08-08T18:56:00+02:00" Medal="1" Venue="VE1" Location="VE1" SessionCode="CTR05">
+<ItemName Language="ENG" Value="Women's Keirin Final for Gold" />
+<ItemName Language="FRA" Value="Keirin - femmes, finale pour l'or" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------QFNL000003--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T18:56:00+02:00" EndDate="2024-08-08T18:59:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR05">
+<ItemName Language="ENG" Value="Men's Sprint Quarterfinals - Decider" />
+<ItemName Language="FRA" Value="Vitesse - hom., 1/4 finale - course 3" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMOMNIUM------------PTS-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T19:01:00+02:00" EndDate="2024-08-08T19:33:00+02:00" Medal="1" Venue="VE1" Location="VE1" SessionCode="CTR05">
+<ItemName Language="ENG" Value="Men's Omnium Points Race 4/4" />
+<ItemName Language="FRA" Value="Omnium - hommes, course aux points 4/4" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------FNL-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T19:33:00+02:00" EndDate="2024-08-08T19:36:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR05">
+<ItemName Language="ENG" Value="Men's Sprint Final for 5th-8th Places" />
+<ItemName Language="FRA" Value="Men's Sprint Final for 5th-8th Places" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T19:36:00+02:00" EndDate="2024-08-08T19:44:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR05">
+<ItemName Language="ENG" Value="Women's Sprint Victory Ceremony" />
+<ItemName Language="FRA" Value="Vitesse - fem., remise méd." />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMOMNIUM------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T19:44:00+02:00" EndDate="2024-08-08T19:52:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR05">
+<ItemName Language="ENG" Value="Men's Omnium Victory Ceremony" />
+<ItemName Language="FRA" Value="Omnium - hommes, remise des médailles" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------QUAL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T14:00:00+02:00" EndDate="2024-08-09T14:40:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR06">
+<ItemName Language="ENG" Value="Women's Sprint Qualifying" />
+<ItemName Language="FRA" Value="Vitesse - fem., qualif." />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------SFNL000001--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T14:40:00+02:00" EndDate="2024-08-09T14:46:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR06">
+<ItemName Language="ENG" Value="Men's Sprint Semifinals - Race 1" />
+<ItemName Language="FRA" Value="Vitesse - hom., 1/2 finales - course 1" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------R64---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T14:46:00+02:00" EndDate="2024-08-09T15:22:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR06">
+<ItemName Language="ENG" Value="Women's Sprint 1/32 Finals" />
+<ItemName Language="FRA" Value="Vitesse - fem., 32e finale" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------SFNL000002--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T15:22:00+02:00" EndDate="2024-08-09T15:28:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR06">
+<ItemName Language="ENG" Value="Men's Sprint Semifinals - Race 2" />
+<ItemName Language="FRA" Value="Vitesse - hom., 1/2 finales - course 2" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------REP1--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T15:28:00+02:00" EndDate="2024-08-09T15:40:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR06">
+<ItemName Language="ENG" Value="Women's Sprint 1/32 Finals Repechages" />
+<ItemName Language="FRA" Value="Vitesse - fem., 32e finale - repêch." />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------SFNL000003--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T15:40:00+02:00" EndDate="2024-08-09T15:43:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR06">
+<ItemName Language="ENG" Value="Men's Sprint Semifinals - Decider" />
+<ItemName Language="FRA" Value="Vitesse - hom., 1/2 finales - course 3" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------FNL-000001--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T18:00:00+02:00" EndDate="2024-08-09T18:06:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR07">
+<ItemName Language="ENG" Value="Men's Sprint Finals - Race 1" />
+<ItemName Language="FRA" Value="Vitesse - hom., finales - 1re course" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWMADISON-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T18:08:00+02:00" EndDate="2024-08-09T18:50:00+02:00" Medal="1" Venue="VE1" Location="VE1" SessionCode="CTR07">
+<ItemName Language="ENG" Value="Women's Madison Final" />
+<ItemName Language="FRA" Value="Madison - femmes, finale" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------FNL-000002--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T18:53:00+02:00" EndDate="2024-08-09T18:59:00+02:00" Medal="1" Venue="VE1" Location="VE1" SessionCode="CTR07">
+<ItemName Language="ENG" Value="Men's Sprint Finals - Race 2" />
+<ItemName Language="FRA" Value="Vitesse - hom., finales - 2e course" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------R32---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T18:59:00+02:00" EndDate="2024-08-09T19:23:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR07">
+<ItemName Language="ENG" Value="Women's Sprint 1/16 Finals" />
+<ItemName Language="FRA" Value="Vitesse - fem., 16e finale" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------FNL-000003--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T19:24:00+02:00" EndDate="2024-08-09T19:27:00+02:00" Medal="1" Venue="VE1" Location="VE1" SessionCode="CTR07">
+<ItemName Language="ENG" Value="Men's Sprint Finals - Decider" />
+<ItemName Language="FRA" Value="Vitesse - hom., finales - 3e course" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWMADISON-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T19:27:00+02:00" EndDate="2024-08-09T19:35:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR07">
+<ItemName Language="ENG" Value="Women's Madison Victory Ceremony" />
+<ItemName Language="FRA" Value="Madison - femmes, remise des médailles" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMSPRINT------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T19:35:00+02:00" EndDate="2024-08-09T19:43:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR07">
+<ItemName Language="ENG" Value="Men's Sprint Victory Ceremony" />
+<ItemName Language="FRA" Value="Vitesse - hom., remise méd." />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------REP2--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T19:43:00+02:00" EndDate="2024-08-09T19:55:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR07">
+<ItemName Language="ENG" Value="Women's Sprint 1/16 Finals Repechages" />
+<ItemName Language="FRA" Value="Vitesse - fem., 16e finale - repêch." />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------8FNL--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T17:00:00+02:00" EndDate="2024-08-10T17:18:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR08">
+<ItemName Language="ENG" Value="Women's Sprint 1/8 Finals" />
+<ItemName Language="FRA" Value="Vitesse - fem., 8e finale" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMKEIRIN------------RND1--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T17:18:00+02:00" EndDate="2024-08-10T17:43:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR08">
+<ItemName Language="ENG" Value="Men's Keirin First Round" />
+<ItemName Language="FRA" Value="Keirin - hommes, 1er tour" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------REP3--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T17:43:00+02:00" EndDate="2024-08-10T17:49:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR08">
+<ItemName Language="ENG" Value="Women's Sprint 1/8 Finals Repechages" />
+<ItemName Language="FRA" Value="Vitesse - fem., 8e finale - repêchages" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMMADISON-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T17:52:00+02:00" EndDate="2024-08-10T18:52:00+02:00" Medal="1" Venue="VE1" Location="VE1" SessionCode="CTR08">
+<ItemName Language="ENG" Value="Men's Madison Final" />
+<ItemName Language="FRA" Value="Madison - hommes, finale" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------QFNL000001--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T18:52:00+02:00" EndDate="2024-08-10T19:04:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR08">
+<ItemName Language="ENG" Value="Women's Sprint Quarterfinals - Race 1" />
+<ItemName Language="FRA" Value="Vitesse - fem., 1/4 finale - course 1" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMKEIRIN------------REP---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T19:04:00+02:00" EndDate="2024-08-10T19:24:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR08">
+<ItemName Language="ENG" Value="Men's Keirin Repechages" />
+<ItemName Language="FRA" Value="Keirin - hommes, repêchages" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------QFNL000002--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T19:24:00+02:00" EndDate="2024-08-10T19:36:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR08">
+<ItemName Language="ENG" Value="Women's Sprint Quarterfinals - Race 2" />
+<ItemName Language="FRA" Value="Vitesse - fem., 1/4 finale - course 2" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMMADISON-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T19:36:00+02:00" EndDate="2024-08-10T19:44:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR08">
+<ItemName Language="ENG" Value="Men's Madison Victory Ceremony" />
+<ItemName Language="FRA" Value="Madison - hommes, remise des médailles" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------QFNL000003--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T19:44:00+02:00" EndDate="2024-08-10T19:50:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR08">
+<ItemName Language="ENG" Value="Women's Sprint Quarterfinals - Decider" />
+<ItemName Language="FRA" Value="Vitesse - fem., 1/4 finale - course 3" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWOMNIUM------------SCR-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T11:00:00+02:00" EndDate="2024-08-11T11:18:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Women's Omnium Scratch Race 1/4" />
+<ItemName Language="FRA" Value="Omnium - femmes, scratch 1/4" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------SFNL000001--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T11:18:00+02:00" EndDate="2024-08-11T11:24:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Women's Sprint Semifinals - Race 1" />
+<ItemName Language="FRA" Value="Vitesse - fem., 1/2 finales - course 1" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMKEIRIN------------QFNL--------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T11:24:00+02:00" EndDate="2024-08-11T11:39:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Men's Keirin Quarterfinals" />
+<ItemName Language="FRA" Value="Keirin - hommes, 1/4 finale" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------SFNL000002--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T11:39:00+02:00" EndDate="2024-08-11T11:45:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Women's Sprint Semifinals - Race 2" />
+<ItemName Language="FRA" Value="Vitesse - fem., 1/2 finales - course 2" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWOMNIUM------------TEMP000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T11:45:00+02:00" EndDate="2024-08-11T12:03:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Women's Omnium Tempo Race 2/4" />
+<ItemName Language="FRA" Value="Omnium - femmes, course tempo 2/4" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------SFNL000003--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T12:03:00+02:00" EndDate="2024-08-11T12:06:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Women's Sprint Semifinals - Decider" />
+<ItemName Language="FRA" Value="Vitesse - fem., 1/2 finales - course 3" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------FNL-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T12:06:00+02:00" EndDate="2024-08-11T12:09:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Women's Sprint Final for 5th-8th Places" />
+<ItemName Language="FRA" Value="Women's Sprint Final for 5th-8th Places" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMKEIRIN------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T12:09:00+02:00" EndDate="2024-08-11T12:14:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Men's Keirin Semifinals - Heat 1" />
+<ItemName Language="FRA" Value="Keirin - hommes, 1/2 finales - série 1" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMKEIRIN------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T12:14:00+02:00" EndDate="2024-08-11T12:19:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Men's Keirin Semifinals - Heat 2" />
+<ItemName Language="FRA" Value="Keirin - hommes, 1/2 finales - série 2" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------FNL-000001--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T12:20:00+02:00" EndDate="2024-08-11T12:26:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Women's Sprint Finals - Race 1" />
+<ItemName Language="FRA" Value="Vitesse - fem., finales - 1re course" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWOMNIUM------------ELIM000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T12:26:00+02:00" EndDate="2024-08-11T12:44:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Women's Omnium Elimination Race 3/4" />
+<ItemName Language="FRA" Value="Omnium - femmes, course éliminatoire 3/4" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------FNL-000002--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T12:45:00+02:00" EndDate="2024-08-11T12:51:00+02:00" Medal="1" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Women's Sprint Finals - Race 2" />
+<ItemName Language="FRA" Value="Vitesse - fem., finales - 2e course" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMKEIRIN------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T12:51:00+02:00" EndDate="2024-08-11T12:56:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Men's Keirin Final for places 7-12" />
+<ItemName Language="FRA" Value="Keirin - hommes, pour les places 7-12" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMKEIRIN------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T13:00:00+02:00" EndDate="2024-08-11T13:05:00+02:00" Medal="1" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Men's Keirin Final for Gold" />
+<ItemName Language="FRA" Value="Keirin - hommes, finale pour l'or" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWSPRINT------------FNL-000003--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T13:12:00+02:00" EndDate="2024-08-11T13:15:00+02:00" Medal="1" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Women's Sprint Finals - Decider" />
+<ItemName Language="FRA" Value="Vitesse - fem., finales - 3e course" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRMKEIRIN------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T13:15:00+02:00" EndDate="2024-08-11T13:23:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Men's Keirin Victory Ceremony" />
+<ItemName Language="FRA" Value="Keirin - hommes, remise des médailles" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWOMNIUM------------PTS-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T13:25:00+02:00" EndDate="2024-08-11T13:55:00+02:00" Medal="1" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Women's Omnium Points Race 4/4" />
+<ItemName Language="FRA" Value="Omnium - femmes, course aux points 4/4" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWKEIRIN------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T13:55:00+02:00" EndDate="2024-08-11T14:03:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Women's Keirin Victory Ceremony" />
+<ItemName Language="FRA" Value="Keirin - femmes, remise des médailles" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTRWOMNIUM------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T14:05:00+02:00" EndDate="2024-08-11T14:13:00+02:00" Venue="VE1" Location="VE1" SessionCode="CTR09">
+<ItemName Language="ENG" Value="Women's Omnium Victory Ceremony" />
+<ItemName Language="FRA" Value="Omnium - femmes, remise des médailles" />
+<VenueDescription VenueName="National Velodrome" LocationName="National Velodrome" />
+</Unit>
+<Unit Code="CTR-------------------MEET000100--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Confirmation des partants cyclisme piste" />
+<ItemName Language="ENG" Value="Cycling Track Confirmation of Starters" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="CTR-------------------MEET000200--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Cycling Track Team Managers' Meeting" />
+<ItemName Language="FRA" Value="Cyclisme piste-réunion directeurs équipe" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="CTRWPURTEAM4----------FNL-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's Team Pursuit Finals - For Bronze" />
+<ItemName Language="FRA" Value="Women's Team Pursuit Finals - For Bronze" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="CTRWPURTEAM4----------FNL-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's Team Pursuit Fnls for places 5-6" />
+<ItemName Language="FRA" Value="Women's Team Pursuit Fnls for places 5-6" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="CTRWPURTEAM4----------FNL-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's Team Pursuit Fnls for places 7-8" />
+<ItemName Language="FRA" Value="Women's Team Pursuit Fnls for places 7-8" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="TKW-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="160253286" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="TKW01" StartDate="2024-08-07T09:00:00+02:00" EndDate="2024-08-07T12:30:00+02:00" Venue="GRP" VenueName="Grand Palais" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TKW01" Language="ENG" />
+</Session>
+<Session SessionCode="TKW02" StartDate="2024-08-07T14:30:00+02:00" EndDate="2024-08-07T17:30:00+02:00" Venue="GRP" VenueName="Grand Palais" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="TKW02" Language="ENG" />
+</Session>
+<Session SessionCode="TKW03" StartDate="2024-08-07T19:30:00+02:00" EndDate="2024-08-07T23:00:00+02:00" Medal="2" Leadin="0:20" Venue="GRP" VenueName="Grand Palais" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="TKW03" Language="ENG" />
+</Session>
+<Session SessionCode="TKW04" StartDate="2024-08-08T09:00:00+02:00" EndDate="2024-08-08T12:30:00+02:00" Venue="GRP" VenueName="Grand Palais" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TKW04" Language="ENG" />
+</Session>
+<Session SessionCode="TKW05" StartDate="2024-08-08T14:30:00+02:00" EndDate="2024-08-08T17:30:00+02:00" Venue="GRP" VenueName="Grand Palais" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="TKW05" Language="ENG" />
+</Session>
+<Session SessionCode="TKW06" StartDate="2024-08-08T19:30:00+02:00" EndDate="2024-08-08T23:00:00+02:00" Medal="2" Leadin="0:20" Venue="GRP" VenueName="Grand Palais" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="TKW06" Language="ENG" />
+</Session>
+<Session SessionCode="TKW07" StartDate="2024-08-09T09:00:00+02:00" EndDate="2024-08-09T12:30:00+02:00" Venue="GRP" VenueName="Grand Palais" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TKW07" Language="ENG" />
+</Session>
+<Session SessionCode="TKW08" StartDate="2024-08-09T14:30:00+02:00" EndDate="2024-08-09T17:30:00+02:00" Venue="GRP" VenueName="Grand Palais" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="TKW08" Language="ENG" />
+</Session>
+<Session SessionCode="TKW09" StartDate="2024-08-09T19:30:00+02:00" EndDate="2024-08-09T23:00:00+02:00" Medal="2" Leadin="0:20" Venue="GRP" VenueName="Grand Palais" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="TKW09" Language="ENG" />
+</Session>
+<Session SessionCode="TKW10" StartDate="2024-08-10T09:00:00+02:00" EndDate="2024-08-10T12:30:00+02:00" Venue="GRP" VenueName="Grand Palais" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TKW10" Language="ENG" />
+</Session>
+<Session SessionCode="TKW11" StartDate="2024-08-10T14:30:00+02:00" EndDate="2024-08-10T17:30:00+02:00" Venue="GRP" VenueName="Grand Palais" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="TKW11" Language="ENG" />
+</Session>
+<Session SessionCode="TKW12" StartDate="2024-08-10T19:30:00+02:00" EndDate="2024-08-10T23:00:00+02:00" Medal="2" Leadin="0:20" Venue="GRP" VenueName="Grand Palais" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="TKW12" Language="ENG" />
+</Session>
+<Unit Code="TKWW49KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T09:00:00+02:00" EndDate="2024-08-07T09:13:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW01">
+<ItemName Language="ENG" Value="Women -49kg Round of 16" />
+<ItemName Language="FRA" Value="-49 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T09:13:00+02:00" EndDate="2024-08-07T09:26:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW01">
+<ItemName Language="ENG" Value="Men -58kg Round of 16" />
+<ItemName Language="FRA" Value="-58 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T09:26:00+02:00" EndDate="2024-08-07T09:39:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW01">
+<ItemName Language="ENG" Value="Women -49kg Round of 16" />
+<ItemName Language="FRA" Value="-49 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T09:39:00+02:00" EndDate="2024-08-07T09:52:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW01">
+<ItemName Language="ENG" Value="Men -58kg Round of 16" />
+<ItemName Language="FRA" Value="-58 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T09:52:00+02:00" EndDate="2024-08-07T10:05:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW01">
+<ItemName Language="ENG" Value="Women -49kg Round of 16" />
+<ItemName Language="FRA" Value="-49 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T10:05:00+02:00" EndDate="2024-08-07T10:18:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW01">
+<ItemName Language="ENG" Value="Men -58kg Round of 16" />
+<ItemName Language="FRA" Value="-58 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T10:18:00+02:00" EndDate="2024-08-07T10:31:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW01">
+<ItemName Language="ENG" Value="Women -49kg Round of 16" />
+<ItemName Language="FRA" Value="-49 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T10:31:00+02:00" EndDate="2024-08-07T10:44:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW01">
+<ItemName Language="ENG" Value="Men -58kg Round of 16" />
+<ItemName Language="FRA" Value="-58 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T10:44:00+02:00" EndDate="2024-08-07T10:57:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW01">
+<ItemName Language="ENG" Value="Women -49kg Round of 16" />
+<ItemName Language="FRA" Value="-49 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T10:57:00+02:00" EndDate="2024-08-07T11:10:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW01">
+<ItemName Language="ENG" Value="Men -58kg Round of 16" />
+<ItemName Language="FRA" Value="-58 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T11:10:00+02:00" EndDate="2024-08-07T11:23:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW01">
+<ItemName Language="ENG" Value="Women -49kg Round of 16" />
+<ItemName Language="FRA" Value="-49 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T11:23:00+02:00" EndDate="2024-08-07T11:36:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW01">
+<ItemName Language="ENG" Value="Men -58kg Round of 16" />
+<ItemName Language="FRA" Value="-58 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T11:36:00+02:00" EndDate="2024-08-07T11:49:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW01">
+<ItemName Language="ENG" Value="Women -49kg Round of 16" />
+<ItemName Language="FRA" Value="-49 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T11:49:00+02:00" EndDate="2024-08-07T12:02:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW01">
+<ItemName Language="ENG" Value="Men -58kg Round of 16" />
+<ItemName Language="FRA" Value="-58 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T12:02:00+02:00" EndDate="2024-08-07T12:15:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW01">
+<ItemName Language="ENG" Value="Women -49kg Round of 16" />
+<ItemName Language="FRA" Value="-49 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T12:15:00+02:00" EndDate="2024-08-07T12:28:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW01">
+<ItemName Language="ENG" Value="Men -58kg Round of 16" />
+<ItemName Language="FRA" Value="-58 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T14:30:00+02:00" EndDate="2024-08-07T14:43:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW02">
+<ItemName Language="ENG" Value="Women -49kg Quarterfinal" />
+<ItemName Language="FRA" Value="-49 kg - femmes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T14:43:00+02:00" EndDate="2024-08-07T14:56:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW02">
+<ItemName Language="ENG" Value="Men -58kg Quarterfinal" />
+<ItemName Language="FRA" Value="-58 kg - hommes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T14:56:00+02:00" EndDate="2024-08-07T15:09:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW02">
+<ItemName Language="ENG" Value="Women -49kg Quarterfinal" />
+<ItemName Language="FRA" Value="-49 kg - femmes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T15:09:00+02:00" EndDate="2024-08-07T15:22:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW02">
+<ItemName Language="ENG" Value="Men -58kg Quarterfinal" />
+<ItemName Language="FRA" Value="-58 kg - hommes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T15:22:00+02:00" EndDate="2024-08-07T15:35:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW02">
+<ItemName Language="ENG" Value="Women -49kg Quarterfinal" />
+<ItemName Language="FRA" Value="-49 kg - femmes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T15:35:00+02:00" EndDate="2024-08-07T15:48:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW02">
+<ItemName Language="ENG" Value="Men -58kg Quarterfinal" />
+<ItemName Language="FRA" Value="-58 kg - hommes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T15:48:00+02:00" EndDate="2024-08-07T16:01:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW02">
+<ItemName Language="ENG" Value="Women -49kg Quarterfinal" />
+<ItemName Language="FRA" Value="-49 kg - femmes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T16:01:00+02:00" EndDate="2024-08-07T16:14:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW02">
+<ItemName Language="ENG" Value="Men -58kg Quarterfinal" />
+<ItemName Language="FRA" Value="-58 kg - hommes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T16:14:00+02:00" EndDate="2024-08-07T16:27:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW02">
+<ItemName Language="ENG" Value="Women -49kg Semifinal" />
+<ItemName Language="FRA" Value="-49 kg - femmes, demi-finales" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T16:27:00+02:00" EndDate="2024-08-07T16:40:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW02">
+<ItemName Language="ENG" Value="Men -58kg Semifinal" />
+<ItemName Language="FRA" Value="-58 kg - hommes, demi-finales" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T16:40:00+02:00" EndDate="2024-08-07T16:53:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW02">
+<ItemName Language="ENG" Value="Women -49kg Semifinal" />
+<ItemName Language="FRA" Value="-49 kg - femmes, demi-finales" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T16:53:00+02:00" EndDate="2024-08-07T17:06:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW02">
+<ItemName Language="ENG" Value="Men -58kg Semifinal" />
+<ItemName Language="FRA" Value="-58 kg - hommes, demi-finales" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------REP2000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T19:50:00+02:00" EndDate="2024-08-07T20:03:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW03">
+<ItemName Language="ENG" Value="Women -49kg Repechage" />
+<ItemName Language="FRA" Value="-49 kg - femmes, repêchage" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------REP1000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T20:03:00+02:00" EndDate="2024-08-07T20:16:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW03">
+<ItemName Language="ENG" Value="Men -58kg Repechage" />
+<ItemName Language="FRA" Value="-58 kg - hommes, repêchage" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------REP1000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T20:16:00+02:00" EndDate="2024-08-07T20:29:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW03">
+<ItemName Language="ENG" Value="Women -49kg Repechage" />
+<ItemName Language="FRA" Value="-49 kg - femmes, repêchage" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------REP1000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T20:29:00+02:00" EndDate="2024-08-07T20:42:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW03">
+<ItemName Language="ENG" Value="Men -58kg Repechage" />
+<ItemName Language="FRA" Value="-58 kg - hommes, repêchage" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------REPF000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T21:12:00+02:00" EndDate="2024-08-07T21:25:00+02:00" Medal="3" Venue="GRP" Location="GRP" SessionCode="TKW03">
+<ItemName Language="ENG" Value="Women -49kg Bronze Medal Contests" />
+<ItemName Language="FRA" Value="-49 kg - femmes, médaille de bronze" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------REPF000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T21:25:00+02:00" EndDate="2024-08-07T21:38:00+02:00" Medal="3" Venue="GRP" Location="GRP" SessionCode="TKW03">
+<ItemName Language="ENG" Value="Men -58kg Bronze Medal Contests" />
+<ItemName Language="FRA" Value="-58 kg - hommes, médaille de bronze" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------REPF000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T21:38:00+02:00" EndDate="2024-08-07T21:51:00+02:00" Medal="3" Venue="GRP" Location="GRP" SessionCode="TKW03">
+<ItemName Language="ENG" Value="Women -49kg Bronze Medal Contests" />
+<ItemName Language="FRA" Value="-49 kg - femmes, médaille de bronze" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------REPF000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T21:51:00+02:00" EndDate="2024-08-07T22:04:00+02:00" Medal="3" Venue="GRP" Location="GRP" SessionCode="TKW03">
+<ItemName Language="ENG" Value="Men -58kg Bronze Medal Contests" />
+<ItemName Language="FRA" Value="-58 kg - hommes, médaille de bronze" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T22:04:00+02:00" EndDate="2024-08-07T22:17:00+02:00" Medal="1" Venue="GRP" Location="GRP" SessionCode="TKW03">
+<ItemName Language="ENG" Value="Women -49kg Gold Medal Contest" />
+<ItemName Language="FRA" Value="-49 kg - femmes, médaille d'or" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T22:17:00+02:00" EndDate="2024-08-07T22:30:00+02:00" Medal="1" Venue="GRP" Location="GRP" SessionCode="TKW03">
+<ItemName Language="ENG" Value="Men -58kg Gold Medal Contest" />
+<ItemName Language="FRA" Value="-58 kg - hommes, médaille d'or" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW49KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T22:30:00+02:00" EndDate="2024-08-07T22:45:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW03">
+<ItemName Language="ENG" Value="Women -49kg Victory Ceremony" />
+<ItemName Language="FRA" Value="-49 kg - femmes, remise des médailles" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM58KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T22:45:00+02:00" EndDate="2024-08-07T23:00:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW03">
+<ItemName Language="ENG" Value="Men -58kg Victory Ceremony" />
+<ItemName Language="FRA" Value="-58 kg - hommes, remise des médailles" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T09:00:00+02:00" EndDate="2024-08-08T09:13:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW04">
+<ItemName Language="ENG" Value="Men -68kg Round of 16" />
+<ItemName Language="FRA" Value="-68 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T09:13:00+02:00" EndDate="2024-08-08T09:26:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW04">
+<ItemName Language="ENG" Value="Women -57kg Round of 16" />
+<ItemName Language="FRA" Value="-57 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T09:26:00+02:00" EndDate="2024-08-08T09:39:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW04">
+<ItemName Language="ENG" Value="Men -68kg Round of 16" />
+<ItemName Language="FRA" Value="-68 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T09:39:00+02:00" EndDate="2024-08-08T09:52:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW04">
+<ItemName Language="ENG" Value="Women -57kg Round of 16" />
+<ItemName Language="FRA" Value="-57 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T09:52:00+02:00" EndDate="2024-08-08T10:05:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW04">
+<ItemName Language="ENG" Value="Men -68kg Round of 16" />
+<ItemName Language="FRA" Value="-68 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T10:05:00+02:00" EndDate="2024-08-08T10:18:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW04">
+<ItemName Language="ENG" Value="Women -57kg Round of 16" />
+<ItemName Language="FRA" Value="-57 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T10:18:00+02:00" EndDate="2024-08-08T10:31:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW04">
+<ItemName Language="ENG" Value="Men -68kg Round of 16" />
+<ItemName Language="FRA" Value="-68 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T10:31:00+02:00" EndDate="2024-08-08T10:44:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW04">
+<ItemName Language="ENG" Value="Women -57kg Round of 16" />
+<ItemName Language="FRA" Value="-57 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T10:44:00+02:00" EndDate="2024-08-08T10:57:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW04">
+<ItemName Language="ENG" Value="Men -68kg Round of 16" />
+<ItemName Language="FRA" Value="-68 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T10:57:00+02:00" EndDate="2024-08-08T11:10:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW04">
+<ItemName Language="ENG" Value="Women -57kg Round of 16" />
+<ItemName Language="FRA" Value="-57 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T11:10:00+02:00" EndDate="2024-08-08T11:23:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW04">
+<ItemName Language="ENG" Value="Men -68kg Round of 16" />
+<ItemName Language="FRA" Value="-68 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T11:23:00+02:00" EndDate="2024-08-08T11:36:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW04">
+<ItemName Language="ENG" Value="Women -57kg Round of 16" />
+<ItemName Language="FRA" Value="-57 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T11:36:00+02:00" EndDate="2024-08-08T11:49:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW04">
+<ItemName Language="ENG" Value="Men -68kg Round of 16" />
+<ItemName Language="FRA" Value="-68 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T11:49:00+02:00" EndDate="2024-08-08T12:02:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW04">
+<ItemName Language="ENG" Value="Women -57kg Round of 16" />
+<ItemName Language="FRA" Value="-57 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T12:02:00+02:00" EndDate="2024-08-08T12:15:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW04">
+<ItemName Language="ENG" Value="Men -68kg Round of 16" />
+<ItemName Language="FRA" Value="-68 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T12:15:00+02:00" EndDate="2024-08-08T12:28:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW04">
+<ItemName Language="ENG" Value="Women -57kg Round of 16" />
+<ItemName Language="FRA" Value="-57 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T14:30:00+02:00" EndDate="2024-08-08T14:43:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW05">
+<ItemName Language="ENG" Value="Men -68kg Quarterfinal" />
+<ItemName Language="FRA" Value="-68 kg - hommes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T14:43:00+02:00" EndDate="2024-08-08T14:56:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW05">
+<ItemName Language="ENG" Value="Women -57kg Quarterfinal" />
+<ItemName Language="FRA" Value="-57 kg - femmes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T14:56:00+02:00" EndDate="2024-08-08T15:09:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW05">
+<ItemName Language="ENG" Value="Men -68kg Quarterfinal" />
+<ItemName Language="FRA" Value="-68 kg - hommes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T15:09:00+02:00" EndDate="2024-08-08T15:22:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW05">
+<ItemName Language="ENG" Value="Women -57kg Quarterfinal" />
+<ItemName Language="FRA" Value="-57 kg - femmes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T15:22:00+02:00" EndDate="2024-08-08T15:35:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW05">
+<ItemName Language="ENG" Value="Men -68kg Quarterfinal" />
+<ItemName Language="FRA" Value="-68 kg - hommes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T15:35:00+02:00" EndDate="2024-08-08T15:48:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW05">
+<ItemName Language="ENG" Value="Women -57kg Quarterfinal" />
+<ItemName Language="FRA" Value="-57 kg - femmes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T15:48:00+02:00" EndDate="2024-08-08T16:01:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW05">
+<ItemName Language="ENG" Value="Men -68kg Quarterfinal" />
+<ItemName Language="FRA" Value="-68 kg - hommes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T16:01:00+02:00" EndDate="2024-08-08T16:14:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW05">
+<ItemName Language="ENG" Value="Women -57kg Quarterfinal" />
+<ItemName Language="FRA" Value="-57 kg - femmes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T16:14:00+02:00" EndDate="2024-08-08T16:27:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW05">
+<ItemName Language="ENG" Value="Men -68kg Semifinal" />
+<ItemName Language="FRA" Value="-68 kg - hommes, demi-finales" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T16:27:00+02:00" EndDate="2024-08-08T16:40:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW05">
+<ItemName Language="ENG" Value="Women -57kg Semifinal" />
+<ItemName Language="FRA" Value="-57 kg - femmes, demi-finales" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T16:40:00+02:00" EndDate="2024-08-08T16:53:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW05">
+<ItemName Language="ENG" Value="Men -68kg Semifinal" />
+<ItemName Language="FRA" Value="-68 kg - hommes, demi-finales" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T16:53:00+02:00" EndDate="2024-08-08T17:06:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW05">
+<ItemName Language="ENG" Value="Women -57kg Semifinal" />
+<ItemName Language="FRA" Value="-57 kg - femmes, demi-finales" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------REP1000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T19:50:00+02:00" EndDate="2024-08-08T20:03:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW06">
+<ItemName Language="ENG" Value="Men -68kg Repechage" />
+<ItemName Language="FRA" Value="-68 kg - hommes, repêchage" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------REP1000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T20:03:00+02:00" EndDate="2024-08-08T20:16:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW06">
+<ItemName Language="ENG" Value="Women -57kg Repechage" />
+<ItemName Language="FRA" Value="-57 kg - femmes, repêchage" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------REP1000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T20:16:00+02:00" EndDate="2024-08-08T20:29:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW06">
+<ItemName Language="ENG" Value="Men -68kg Repechage" />
+<ItemName Language="FRA" Value="-68 kg - hommes, repêchage" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------REP1000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T20:29:00+02:00" EndDate="2024-08-08T20:42:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW06">
+<ItemName Language="ENG" Value="Women -57kg Repechage" />
+<ItemName Language="FRA" Value="-57 kg - femmes, repêchage" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------REPF000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T21:12:00+02:00" EndDate="2024-08-08T21:25:00+02:00" Medal="3" Venue="GRP" Location="GRP" SessionCode="TKW06">
+<ItemName Language="ENG" Value="Men -68kg Bronze Medal Contests" />
+<ItemName Language="FRA" Value="-68 kg - hommes, médaille de bronze" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------REPF000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T21:25:00+02:00" EndDate="2024-08-08T21:38:00+02:00" Medal="3" Venue="GRP" Location="GRP" SessionCode="TKW06">
+<ItemName Language="ENG" Value="Women -57kg Bronze Medal Contests" />
+<ItemName Language="FRA" Value="-57 kg - femmes, médaille de bronze" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------REPF000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T21:38:00+02:00" EndDate="2024-08-08T21:51:00+02:00" Medal="3" Venue="GRP" Location="GRP" SessionCode="TKW06">
+<ItemName Language="ENG" Value="Men -68kg Bronze Medal Contests" />
+<ItemName Language="FRA" Value="-68 kg - hommes, médaille de bronze" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------REPF000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T21:51:00+02:00" EndDate="2024-08-08T22:04:00+02:00" Medal="3" Venue="GRP" Location="GRP" SessionCode="TKW06">
+<ItemName Language="ENG" Value="Women -57kg Bronze Medal Contests" />
+<ItemName Language="FRA" Value="-57 kg - femmes, médaille de bronze" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T22:04:00+02:00" EndDate="2024-08-08T22:17:00+02:00" Medal="1" Venue="GRP" Location="GRP" SessionCode="TKW06">
+<ItemName Language="ENG" Value="Men -68kg Gold Medal Contest" />
+<ItemName Language="FRA" Value="-68 kg - hommes, médaille d'or" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T22:17:00+02:00" EndDate="2024-08-08T22:30:00+02:00" Medal="1" Venue="GRP" Location="GRP" SessionCode="TKW06">
+<ItemName Language="ENG" Value="Women -57kg Gold Medal Contest" />
+<ItemName Language="FRA" Value="-57 kg - femmes, médaille d'or" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM68KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T22:30:00+02:00" EndDate="2024-08-08T22:45:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW06">
+<ItemName Language="ENG" Value="Men -68kg Victory Ceremony" />
+<ItemName Language="FRA" Value="-68 kg - hommes, remise des médailles" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW57KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T22:45:00+02:00" EndDate="2024-08-08T23:00:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW06">
+<ItemName Language="ENG" Value="Women -57kg Victory Ceremony" />
+<ItemName Language="FRA" Value="-57 kg - femmes, remise des médailles" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T09:00:00+02:00" EndDate="2024-08-09T09:13:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW07">
+<ItemName Language="ENG" Value="Women -67kg Round of 16" />
+<ItemName Language="FRA" Value="-67 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T09:13:00+02:00" EndDate="2024-08-09T09:26:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW07">
+<ItemName Language="ENG" Value="Men -80kg Round of 16" />
+<ItemName Language="FRA" Value="-80 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T09:26:00+02:00" EndDate="2024-08-09T09:39:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW07">
+<ItemName Language="ENG" Value="Women -67kg Round of 16" />
+<ItemName Language="FRA" Value="-67 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T09:39:00+02:00" EndDate="2024-08-09T09:52:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW07">
+<ItemName Language="ENG" Value="Men -80kg Round of 16" />
+<ItemName Language="FRA" Value="-80 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T09:52:00+02:00" EndDate="2024-08-09T10:05:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW07">
+<ItemName Language="ENG" Value="Women -67kg Round of 16" />
+<ItemName Language="FRA" Value="-67 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T10:05:00+02:00" EndDate="2024-08-09T10:18:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW07">
+<ItemName Language="ENG" Value="Men -80kg Round of 16" />
+<ItemName Language="FRA" Value="-80 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T10:18:00+02:00" EndDate="2024-08-09T10:31:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW07">
+<ItemName Language="ENG" Value="Women -67kg Round of 16" />
+<ItemName Language="FRA" Value="-67 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T10:31:00+02:00" EndDate="2024-08-09T10:44:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW07">
+<ItemName Language="ENG" Value="Men -80kg Round of 16" />
+<ItemName Language="FRA" Value="-80 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T10:44:00+02:00" EndDate="2024-08-09T10:57:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW07">
+<ItemName Language="ENG" Value="Women -67kg Round of 16" />
+<ItemName Language="FRA" Value="-67 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T10:57:00+02:00" EndDate="2024-08-09T11:10:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW07">
+<ItemName Language="ENG" Value="Men -80kg Round of 16" />
+<ItemName Language="FRA" Value="-80 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T11:10:00+02:00" EndDate="2024-08-09T11:23:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW07">
+<ItemName Language="ENG" Value="Women -67kg Round of 16" />
+<ItemName Language="FRA" Value="-67 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T11:23:00+02:00" EndDate="2024-08-09T11:36:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW07">
+<ItemName Language="ENG" Value="Men -80kg Round of 16" />
+<ItemName Language="FRA" Value="-80 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T11:36:00+02:00" EndDate="2024-08-09T11:49:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW07">
+<ItemName Language="ENG" Value="Women -67kg Round of 16" />
+<ItemName Language="FRA" Value="-67 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T11:49:00+02:00" EndDate="2024-08-09T12:02:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW07">
+<ItemName Language="ENG" Value="Men -80kg Round of 16" />
+<ItemName Language="FRA" Value="-80 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T12:02:00+02:00" EndDate="2024-08-09T12:15:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW07">
+<ItemName Language="ENG" Value="Women -67kg Round of 16" />
+<ItemName Language="FRA" Value="-67 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T12:15:00+02:00" EndDate="2024-08-09T12:28:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW07">
+<ItemName Language="ENG" Value="Men -80kg Round of 16" />
+<ItemName Language="FRA" Value="-80 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T14:30:00+02:00" EndDate="2024-08-09T14:43:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW08">
+<ItemName Language="ENG" Value="Women -67kg Quarterfinal" />
+<ItemName Language="FRA" Value="-67 kg - femmes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T14:43:00+02:00" EndDate="2024-08-09T14:56:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW08">
+<ItemName Language="ENG" Value="Men -80kg Quarterfinal" />
+<ItemName Language="FRA" Value="-80 kg - hommes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T14:56:00+02:00" EndDate="2024-08-09T15:09:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW08">
+<ItemName Language="ENG" Value="Women -67kg Quarterfinal" />
+<ItemName Language="FRA" Value="-67 kg - femmes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T15:09:00+02:00" EndDate="2024-08-09T15:22:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW08">
+<ItemName Language="ENG" Value="Men -80kg Quarterfinal" />
+<ItemName Language="FRA" Value="-80 kg - hommes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T15:22:00+02:00" EndDate="2024-08-09T15:35:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW08">
+<ItemName Language="ENG" Value="Women -67kg Quarterfinal" />
+<ItemName Language="FRA" Value="-67 kg - femmes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T15:35:00+02:00" EndDate="2024-08-09T15:48:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW08">
+<ItemName Language="ENG" Value="Men -80kg Quarterfinal" />
+<ItemName Language="FRA" Value="-80 kg - hommes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T15:48:00+02:00" EndDate="2024-08-09T16:01:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW08">
+<ItemName Language="ENG" Value="Women -67kg Quarterfinal" />
+<ItemName Language="FRA" Value="-67 kg - femmes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:01:00+02:00" EndDate="2024-08-09T16:14:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW08">
+<ItemName Language="ENG" Value="Men -80kg Quarterfinal" />
+<ItemName Language="FRA" Value="-80 kg - hommes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:14:00+02:00" EndDate="2024-08-09T16:27:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW08">
+<ItemName Language="ENG" Value="Women -67kg Semifinal" />
+<ItemName Language="FRA" Value="-67 kg - femmes, demi-finales" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:27:00+02:00" EndDate="2024-08-09T16:40:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW08">
+<ItemName Language="ENG" Value="Men -80kg Semifinal" />
+<ItemName Language="FRA" Value="-80 kg - hommes, demi-finales" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:40:00+02:00" EndDate="2024-08-09T16:53:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW08">
+<ItemName Language="ENG" Value="Women -67kg Semifinal" />
+<ItemName Language="FRA" Value="-67 kg - femmes, demi-finales" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:53:00+02:00" EndDate="2024-08-09T17:06:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW08">
+<ItemName Language="ENG" Value="Men -80kg Semifinal" />
+<ItemName Language="FRA" Value="-80 kg - hommes, demi-finales" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------REP1000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T19:50:00+02:00" EndDate="2024-08-09T20:03:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW09">
+<ItemName Language="ENG" Value="Women -67kg Repechage" />
+<ItemName Language="FRA" Value="-67 kg - femmes, repêchage" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------REP1000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T20:03:00+02:00" EndDate="2024-08-09T20:16:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW09">
+<ItemName Language="ENG" Value="Men -80kg Repechage" />
+<ItemName Language="FRA" Value="-80 kg - hommes, repêchage" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------REP1000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T20:16:00+02:00" EndDate="2024-08-09T20:29:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW09">
+<ItemName Language="ENG" Value="Women -67kg Repechage" />
+<ItemName Language="FRA" Value="-67 kg - femmes, repêchage" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------REP1000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T20:29:00+02:00" EndDate="2024-08-09T20:42:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW09">
+<ItemName Language="ENG" Value="Men -80kg Repechage" />
+<ItemName Language="FRA" Value="-80 kg - hommes, repêchage" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------REPF000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T21:12:00+02:00" EndDate="2024-08-09T21:25:00+02:00" Medal="3" Venue="GRP" Location="GRP" SessionCode="TKW09">
+<ItemName Language="ENG" Value="Women -67kg Bronze Medal Contests" />
+<ItemName Language="FRA" Value="-67 kg - femmes, médaille de bronze" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------REPF000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T21:25:00+02:00" EndDate="2024-08-09T21:38:00+02:00" Medal="3" Venue="GRP" Location="GRP" SessionCode="TKW09">
+<ItemName Language="ENG" Value="Men -80kg Bronze Medal Contests" />
+<ItemName Language="FRA" Value="-80 kg - hommes, médaille de bronze" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------REPF000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T21:38:00+02:00" EndDate="2024-08-09T21:51:00+02:00" Medal="3" Venue="GRP" Location="GRP" SessionCode="TKW09">
+<ItemName Language="ENG" Value="Women -67kg Bronze Medal Contests" />
+<ItemName Language="FRA" Value="-67 kg - femmes, médaille de bronze" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------REPF000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T21:51:00+02:00" EndDate="2024-08-09T22:04:00+02:00" Medal="3" Venue="GRP" Location="GRP" SessionCode="TKW09">
+<ItemName Language="ENG" Value="Men -80kg Bronze Medal Contests" />
+<ItemName Language="FRA" Value="-80 kg - hommes, médaille de bronze" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T22:04:00+02:00" EndDate="2024-08-09T22:17:00+02:00" Medal="1" Venue="GRP" Location="GRP" SessionCode="TKW09">
+<ItemName Language="ENG" Value="Women -67kg Gold Medal Contest" />
+<ItemName Language="FRA" Value="-67 kg - femmes, médaille d'or" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T22:17:00+02:00" EndDate="2024-08-09T22:30:00+02:00" Medal="1" Venue="GRP" Location="GRP" SessionCode="TKW09">
+<ItemName Language="ENG" Value="Men -80kg Gold Medal Contest" />
+<ItemName Language="FRA" Value="-80 kg - hommes, médaille d'or" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWW67KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T22:30:00+02:00" EndDate="2024-08-09T22:45:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW09">
+<ItemName Language="ENG" Value="Women -67kg Victory Ceremony" />
+<ItemName Language="FRA" Value="-67 kg - femmes, remise des médailles" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWM80KG--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T22:45:00+02:00" EndDate="2024-08-09T23:00:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW09">
+<ItemName Language="ENG" Value="Men -80kg Victory Ceremony" />
+<ItemName Language="FRA" Value="-80 kg - hommes, remise des médailles" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T09:00:00+02:00" EndDate="2024-08-10T09:13:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW10">
+<ItemName Language="ENG" Value="Men +80kg Round of 16" />
+<ItemName Language="FRA" Value="+80 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T09:13:00+02:00" EndDate="2024-08-10T09:26:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW10">
+<ItemName Language="ENG" Value="Women +67kg Round of 16" />
+<ItemName Language="FRA" Value="+67 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T09:26:00+02:00" EndDate="2024-08-10T09:39:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW10">
+<ItemName Language="ENG" Value="Men +80kg Round of 16" />
+<ItemName Language="FRA" Value="+80 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T09:39:00+02:00" EndDate="2024-08-10T09:52:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW10">
+<ItemName Language="ENG" Value="Women +67kg Round of 16" />
+<ItemName Language="FRA" Value="+67 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T09:52:00+02:00" EndDate="2024-08-10T10:05:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW10">
+<ItemName Language="ENG" Value="Men +80kg Round of 16" />
+<ItemName Language="FRA" Value="+80 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T10:05:00+02:00" EndDate="2024-08-10T10:18:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW10">
+<ItemName Language="ENG" Value="Women +67kg Round of 16" />
+<ItemName Language="FRA" Value="+67 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T10:18:00+02:00" EndDate="2024-08-10T10:31:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW10">
+<ItemName Language="ENG" Value="Men +80kg Round of 16" />
+<ItemName Language="FRA" Value="+80 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T10:31:00+02:00" EndDate="2024-08-10T10:44:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW10">
+<ItemName Language="ENG" Value="Women +67kg Round of 16" />
+<ItemName Language="FRA" Value="+67 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T10:44:00+02:00" EndDate="2024-08-10T10:57:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW10">
+<ItemName Language="ENG" Value="Men +80kg Round of 16" />
+<ItemName Language="FRA" Value="+80 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T10:57:00+02:00" EndDate="2024-08-10T11:10:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW10">
+<ItemName Language="ENG" Value="Women +67kg Round of 16" />
+<ItemName Language="FRA" Value="+67 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T11:10:00+02:00" EndDate="2024-08-10T11:23:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW10">
+<ItemName Language="ENG" Value="Men +80kg Round of 16" />
+<ItemName Language="FRA" Value="+80 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T11:23:00+02:00" EndDate="2024-08-10T11:36:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW10">
+<ItemName Language="ENG" Value="Women +67kg Round of 16" />
+<ItemName Language="FRA" Value="+67 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T11:36:00+02:00" EndDate="2024-08-10T11:49:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW10">
+<ItemName Language="ENG" Value="Men +80kg Round of 16" />
+<ItemName Language="FRA" Value="+80 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T11:49:00+02:00" EndDate="2024-08-10T12:02:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW10">
+<ItemName Language="ENG" Value="Women +67kg Round of 16" />
+<ItemName Language="FRA" Value="+67 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T12:02:00+02:00" EndDate="2024-08-10T12:15:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW10">
+<ItemName Language="ENG" Value="Men +80kg Round of 16" />
+<ItemName Language="FRA" Value="+80 kg - hommes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T12:15:00+02:00" EndDate="2024-08-10T12:28:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW10">
+<ItemName Language="ENG" Value="Women +67kg Round of 16" />
+<ItemName Language="FRA" Value="+67 kg - femmes, 8es de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T14:30:00+02:00" EndDate="2024-08-10T14:43:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW11">
+<ItemName Language="ENG" Value="Men +80kg Quarterfinal" />
+<ItemName Language="FRA" Value="+80 kg - hommes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T14:43:00+02:00" EndDate="2024-08-10T14:56:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW11">
+<ItemName Language="ENG" Value="Women +67kg Quarterfinal" />
+<ItemName Language="FRA" Value="+67 kg - femmes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T14:56:00+02:00" EndDate="2024-08-10T15:09:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW11">
+<ItemName Language="ENG" Value="Men +80kg Quarterfinal" />
+<ItemName Language="FRA" Value="+80 kg - hommes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T15:09:00+02:00" EndDate="2024-08-10T15:22:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW11">
+<ItemName Language="ENG" Value="Women +67kg Quarterfinal" />
+<ItemName Language="FRA" Value="+67 kg - femmes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T15:22:00+02:00" EndDate="2024-08-10T15:35:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW11">
+<ItemName Language="ENG" Value="Men +80kg Quarterfinal" />
+<ItemName Language="FRA" Value="+80 kg - hommes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T15:35:00+02:00" EndDate="2024-08-10T15:48:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW11">
+<ItemName Language="ENG" Value="Women +67kg Quarterfinal" />
+<ItemName Language="FRA" Value="+67 kg - femmes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T15:48:00+02:00" EndDate="2024-08-10T16:01:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW11">
+<ItemName Language="ENG" Value="Men +80kg Quarterfinal" />
+<ItemName Language="FRA" Value="+80 kg - hommes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T16:01:00+02:00" EndDate="2024-08-10T16:14:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW11">
+<ItemName Language="ENG" Value="Women +67kg Quarterfinal" />
+<ItemName Language="FRA" Value="+67 kg - femmes, quarts de finale" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T16:14:00+02:00" EndDate="2024-08-10T16:27:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW11">
+<ItemName Language="ENG" Value="Men +80kg Semifinal" />
+<ItemName Language="FRA" Value="+80 kg - hommes, demi-finales" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T16:27:00+02:00" EndDate="2024-08-10T16:40:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW11">
+<ItemName Language="ENG" Value="Women +67kg Semifinal" />
+<ItemName Language="FRA" Value="+67 kg - femmes, demi-finales" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T16:40:00+02:00" EndDate="2024-08-10T16:53:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW11">
+<ItemName Language="ENG" Value="Men +80kg Semifinal" />
+<ItemName Language="FRA" Value="+80 kg - hommes, demi-finales" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T16:53:00+02:00" EndDate="2024-08-10T17:06:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW11">
+<ItemName Language="ENG" Value="Women +67kg Semifinal" />
+<ItemName Language="FRA" Value="+67 kg - femmes, demi-finales" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------REP1000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T19:50:00+02:00" EndDate="2024-08-10T20:03:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW12">
+<ItemName Language="ENG" Value="Men +80kg Repechage" />
+<ItemName Language="FRA" Value="+80 kg - hommes, repêchage" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------REP1000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:03:00+02:00" EndDate="2024-08-10T20:16:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW12">
+<ItemName Language="ENG" Value="Women +67kg Repechage" />
+<ItemName Language="FRA" Value="+67 kg - femmes, repêchage" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------REP1000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:16:00+02:00" EndDate="2024-08-10T20:29:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW12">
+<ItemName Language="ENG" Value="Men +80kg Repechage" />
+<ItemName Language="FRA" Value="+80 kg - hommes, repêchage" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------REP1000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:29:00+02:00" EndDate="2024-08-10T20:42:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW12">
+<ItemName Language="ENG" Value="Women +67kg Repechage" />
+<ItemName Language="FRA" Value="+67 kg - femmes, repêchage" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------REPF000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:42:00+02:00" EndDate="2024-08-10T20:55:00+02:00" Medal="3" Venue="GRP" Location="GRP" SessionCode="TKW12">
+<ItemName Language="ENG" Value="Men +80kg Bronze Medal Contests" />
+<ItemName Language="FRA" Value="+80 kg - hommes, médaille de bronze" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------REPF000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T20:55:00+02:00" EndDate="2024-08-10T21:08:00+02:00" Medal="3" Venue="GRP" Location="GRP" SessionCode="TKW12">
+<ItemName Language="ENG" Value="Women +67kg Bronze Medal Contests" />
+<ItemName Language="FRA" Value="+67 kg - femmes, médaille de bronze" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------REPF000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T21:08:00+02:00" EndDate="2024-08-10T21:21:00+02:00" Medal="3" Venue="GRP" Location="GRP" SessionCode="TKW12">
+<ItemName Language="ENG" Value="Men +80kg Bronze Medal Contests" />
+<ItemName Language="FRA" Value="+80 kg - hommes, médaille de bronze" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------REPF000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T21:21:00+02:00" EndDate="2024-08-10T21:34:00+02:00" Medal="3" Venue="GRP" Location="GRP" SessionCode="TKW12">
+<ItemName Language="ENG" Value="Women +67kg Bronze Medal Contests" />
+<ItemName Language="FRA" Value="+67 kg - femmes, médaille de bronze" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T21:34:00+02:00" EndDate="2024-08-10T21:47:00+02:00" Medal="1" Venue="GRP" Location="GRP" SessionCode="TKW12">
+<ItemName Language="ENG" Value="Men +80kg Gold Medal Contest" />
+<ItemName Language="FRA" Value="+80 kg - hommes, médaille d'or" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T21:47:00+02:00" EndDate="2024-08-10T22:00:00+02:00" Medal="1" Venue="GRP" Location="GRP" SessionCode="TKW12">
+<ItemName Language="ENG" Value="Women +67kg Gold Medal Contest" />
+<ItemName Language="FRA" Value="+67 kg - femmes, médaille d'or" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWMO80KG-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T22:00:00+02:00" EndDate="2024-08-10T22:15:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW12">
+<ItemName Language="ENG" Value="Men +80kg Victory Ceremony" />
+<ItemName Language="FRA" Value="+80 kg - hommes, remise des médailles" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKWWO67KG-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T22:15:00+02:00" EndDate="2024-08-10T22:30:00+02:00" Venue="GRP" Location="GRP" SessionCode="TKW12">
+<ItemName Language="ENG" Value="Women +67kg Victory Ceremony" />
+<ItemName Language="FRA" Value="+67 kg - femmes, remise des médailles" />
+<VenueDescription VenueName="Grand Palais" LocationName="Grand Palais" />
+</Unit>
+<Unit Code="TKW-------------------DRAW000100--" PhaseType="7" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Taekwondo Draw" />
+<ItemName Language="FRA" Value="Taekwondo, tirage au sort" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM58KG--------------R32-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-58 kg - hommes, combat de qualification" />
+<ItemName Language="ENG" Value="Men -58kg Qualification Contest" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM58KG--------------REP1000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-58 kg - hommes, repêchage" />
+<ItemName Language="ENG" Value="Men -58kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM58KG--------------REP1000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-58 kg - hommes, repêchage" />
+<ItemName Language="ENG" Value="Men -58kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM58KG--------------REP2000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-58 kg - hommes, repêchage" />
+<ItemName Language="ENG" Value="Men -58kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM58KG--------------TMRY000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men -58kg Rnd of 16, Qfinals &amp; Sfinals" />
+<ItemName Language="FRA" Value="Men -58kg Rnd of 16, Qfinals &amp; Sfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM58KG--------------TMRY000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men -58kg Repechages and Medal Contests" />
+<ItemName Language="FRA" Value="Men -58kg Repechages and Medal Contests" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM68KG--------------R32-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-68 kg - hommes, combat de qualification" />
+<ItemName Language="ENG" Value="Men -68kg Qualification Contest" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM68KG--------------REP1000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-68 kg - hommes, repêchage" />
+<ItemName Language="ENG" Value="Men -68kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM68KG--------------REP1000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-68 kg - hommes, repêchage" />
+<ItemName Language="ENG" Value="Men -68kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM68KG--------------REP2000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-68 kg - hommes, repêchage" />
+<ItemName Language="ENG" Value="Men -68kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM68KG--------------TMRY000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men -68kg Rnd of 16, Qfinals &amp; Sfinals" />
+<ItemName Language="FRA" Value="Men -68kg Rnd of 16, Qfinals &amp; Sfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM68KG--------------TMRY000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men -68kg Repechages and Medal Contests" />
+<ItemName Language="FRA" Value="Men -68kg Repechages and Medal Contests" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM80KG--------------R32-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-80 kg - hommes, combat de qualification" />
+<ItemName Language="ENG" Value="Men -80kg Qualification Contest" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM80KG--------------REP1000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-80 kg - hommes, repêchage" />
+<ItemName Language="ENG" Value="Men -80kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM80KG--------------REP1000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-80 kg - hommes, repêchage" />
+<ItemName Language="ENG" Value="Men -80kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM80KG--------------REP2000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-80 kg - hommes, repêchage" />
+<ItemName Language="ENG" Value="Men -80kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM80KG--------------TMRY000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men -80kg Rnd of 16, Qfinals &amp; Sfinals" />
+<ItemName Language="FRA" Value="Men -80kg Rnd of 16, Qfinals &amp; Sfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWM80KG--------------TMRY000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men -80kg Repechages and Medal Contests" />
+<ItemName Language="FRA" Value="Men -80kg Repechages and Medal Contests" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWMO80KG-------------R32-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="+80 kg - hommes, combat de qualification" />
+<ItemName Language="ENG" Value="Men +80kg Qualification Contest" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWMO80KG-------------REP1000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="+80 kg - hommes, repêchage" />
+<ItemName Language="ENG" Value="Men +80kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWMO80KG-------------REP1000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="+80 kg - hommes, repêchage" />
+<ItemName Language="ENG" Value="Men +80kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWMO80KG-------------REP2000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="+80 kg - hommes, repêchage" />
+<ItemName Language="ENG" Value="Men +80kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWMO80KG-------------TMRY000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men +80kg Rnd of 16, Qfinals &amp; Sfinals" />
+<ItemName Language="FRA" Value="Men +80kg Rnd of 16, Qfinals &amp; Sfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWMO80KG-------------TMRY000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men +80kg Repechages and Medal Contests" />
+<ItemName Language="FRA" Value="Men +80kg Repechages and Medal Contests" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW49KG--------------R32-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-49 kg - femmes, combat de qualification" />
+<ItemName Language="ENG" Value="Women -49kg Qualification Contest" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW49KG--------------REP1000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-49 kg - femmes, repêchage" />
+<ItemName Language="ENG" Value="Women -49kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW49KG--------------REP1000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-49 kg - femmes, repêchage" />
+<ItemName Language="ENG" Value="Women -49kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW49KG--------------REP1000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-49 kg - femmes, repêchage" />
+<ItemName Language="ENG" Value="Women -49kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW49KG--------------TMRY000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women -49kg Rnd of 16, Qfinals &amp; Sfinals" />
+<ItemName Language="FRA" Value="Women -49kg Rnd of 16, Qfinals &amp; Sfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW49KG--------------TMRY000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women -49kg Repechages &amp; Medal Contests" />
+<ItemName Language="FRA" Value="Women -49kg Repechages &amp; Medal Contests" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW57KG--------------R32-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-57 kg - femmes, combat de qualification" />
+<ItemName Language="ENG" Value="Women -57kg Qualification Contest" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW57KG--------------REP1000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-57 kg - femmes, repêchage" />
+<ItemName Language="ENG" Value="Women -57kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW57KG--------------REP1000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-57 kg - femmes, repêchage" />
+<ItemName Language="ENG" Value="Women -57kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW57KG--------------REP2000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-57 kg - femmes, repêchage" />
+<ItemName Language="ENG" Value="Women -57kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW57KG--------------TMRY000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women -57kg Rnd of 16, Qfinals &amp; Sfinals" />
+<ItemName Language="FRA" Value="Women -57kg Rnd of 16, Qfinals &amp; Sfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW57KG--------------TMRY000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women -57kg Repechages &amp; Medal Contests" />
+<ItemName Language="FRA" Value="Women -57kg Repechages &amp; Medal Contests" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW67KG--------------R32-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-67 kg - femmes, combat de qualification" />
+<ItemName Language="ENG" Value="Women -67kg Qualification Contest" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW67KG--------------REP1000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-67 kg - femmes, repêchage" />
+<ItemName Language="ENG" Value="Women -67kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW67KG--------------REP1000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-67 kg - femmes, repêchage" />
+<ItemName Language="ENG" Value="Women -67kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW67KG--------------REP2000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="-67 kg - femmes, repêchage" />
+<ItemName Language="ENG" Value="Women -67kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW67KG--------------TMRY000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women -67kg Rnd of 16, Qfinals &amp; Sfinals" />
+<ItemName Language="FRA" Value="Women -67kg Rnd of 16, Qfinals &amp; Sfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWW67KG--------------TMRY000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women -67kg Repechages &amp; Medal Contests" />
+<ItemName Language="FRA" Value="Women -67kg Repechages &amp; Medal Contests" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWWO67KG-------------R32-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="+67 kg - femmes, combat de qualification" />
+<ItemName Language="ENG" Value="Women +67kg Qualification Contest" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWWO67KG-------------REP1000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="+67 kg - femmes, repêchage" />
+<ItemName Language="ENG" Value="Women +67kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWWO67KG-------------REP1000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="+67 kg - femmes, repêchage" />
+<ItemName Language="ENG" Value="Women +67kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWWO67KG-------------REP2000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="+67 kg - femmes, repêchage" />
+<ItemName Language="ENG" Value="Women +67kg Repechage" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWWO67KG-------------TMRY000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women +67kg Rnd of 16, Qfinals &amp; Sfinals" />
+<ItemName Language="FRA" Value="Women +67kg Rnd of 16, Qfinals &amp; Sfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TKWWO67KG-------------TMRY000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women +67kg Repechages &amp; Medal Contests" />
+<ItemName Language="FRA" Value="Women +67kg Repechages &amp; Medal Contests" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

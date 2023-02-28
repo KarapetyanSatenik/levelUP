@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="ARC-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="155233529" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="ARC01" StartDate="2024-07-25T09:30:00+02:00" EndDate="2024-07-25T12:30:00+02:00" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="ARC01" Language="ENG" />
+</Session>
+<Session SessionCode="ARC02" StartDate="2024-07-25T14:15:00+02:00" EndDate="2024-07-25T17:15:00+02:00" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="ARC02" Language="ENG" />
+</Session>
+<Session SessionCode="ARC03" StartDate="2024-07-28T09:30:00+02:00" EndDate="2024-07-28T11:05:00+02:00" Leadin="4:45" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="MOR">
+<SessionName Value="ARC03" Language="ENG" />
+</Session>
+<Session SessionCode="ARC04" StartDate="2024-07-28T14:15:00+02:00" EndDate="2024-07-28T17:55:00+02:00" Medal="1" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="ARC04" Language="ENG" />
+</Session>
+<Session SessionCode="ARC05" StartDate="2024-07-29T09:30:00+02:00" EndDate="2024-07-29T11:05:00+02:00" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="MOR">
+<SessionName Value="ARC05" Language="ENG" />
+</Session>
+<Session SessionCode="ARC06" StartDate="2024-07-29T14:15:00+02:00" EndDate="2024-07-29T17:55:00+02:00" Medal="1" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="ARC06" Language="ENG" />
+</Session>
+<Session SessionCode="ARC07" StartDate="2024-07-30T12:00:00+02:00" EndDate="2024-07-30T15:55:00+02:00" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="ARC07" Language="ENG" />
+</Session>
+<Session SessionCode="ARC08" StartDate="2024-07-30T17:45:00+02:00" EndDate="2024-07-30T20:25:00+02:00" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="ARC08" Language="ENG" />
+</Session>
+<Session SessionCode="ARC09" StartDate="2024-07-31T12:00:00+02:00" EndDate="2024-07-31T15:55:00+02:00" Leadin="5:45" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="ARC09" Language="ENG" />
+</Session>
+<Session SessionCode="ARC10" StartDate="2024-07-31T17:45:00+02:00" EndDate="2024-07-31T20:25:00+02:00" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="ARC10" Language="ENG" />
+</Session>
+<Session SessionCode="ARC11" StartDate="2024-08-01T09:30:00+02:00" EndDate="2024-08-01T13:25:00+02:00" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="ARC11" Language="ENG" />
+</Session>
+<Session SessionCode="ARC12" StartDate="2024-08-01T15:30:00+02:00" EndDate="2024-08-01T19:25:00+02:00" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="ARC12" Language="ENG" />
+</Session>
+<Session SessionCode="ARC13" StartDate="2024-08-02T09:30:00+02:00" EndDate="2024-08-02T12:05:00+02:00" Leadin="4:45" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="ARC13" Language="ENG" />
+</Session>
+<Session SessionCode="ARC14" StartDate="2024-08-02T14:15:00+02:00" EndDate="2024-08-02T17:25:00+02:00" Medal="1" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="ARC14" Language="ENG" />
+</Session>
+<Session SessionCode="ARC15" StartDate="2024-08-03T09:30:00+02:00" EndDate="2024-08-03T11:15:00+02:00" Leadin="3:30" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="MOR">
+<SessionName Value="ARC15" Language="ENG" />
+</Session>
+<Session SessionCode="ARC16" StartDate="2024-08-03T13:00:00+02:00" EndDate="2024-08-03T15:20:00+02:00" Medal="1" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="ARC16" Language="ENG" />
+</Session>
+<Session SessionCode="ARC17" StartDate="2024-08-04T09:30:00+02:00" EndDate="2024-08-04T11:15:00+02:00" Leadin="3:30" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="MOR">
+<SessionName Value="ARC17" Language="ENG" />
+</Session>
+<Session SessionCode="ARC18" StartDate="2024-08-04T13:00:00+02:00" EndDate="2024-08-04T15:20:00+02:00" Medal="1" Venue="INV" VenueName="Invalides" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="ARC18" Language="ENG" />
+</Session>
+<Unit Code="ARCWINDIVID-----------QUAL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T09:30:00+02:00" EndDate="2024-07-25T12:30:00+02:00" Venue="INV" Location="INV" SessionCode="ARC01">
+<ItemName Language="ENG" Value="Women's Individual Ranking Round" />
+<ItemName Language="FRA" Value="Individuelle - fem., classement" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------QUAL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T14:15:00+02:00" EndDate="2024-07-25T17:15:00+02:00" Venue="INV" Location="INV" SessionCode="ARC02">
+<ItemName Language="ENG" Value="Men's Individual Ranking Round" />
+<ItemName Language="FRA" Value="Individuelle - hom., classement" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T14:15:00+02:00" EndDate="2024-07-28T14:38:00+02:00" Venue="INV" Location="INV" SessionCode="ARC03">
+<ItemName Language="ENG" Value="Women's Team 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Équipe - femmes, éliminatoires (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T14:38:00+02:00" EndDate="2024-07-28T15:01:00+02:00" Venue="INV" Location="INV" SessionCode="ARC03">
+<ItemName Language="ENG" Value="Women's Team 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Équipe - femmes, éliminatoires (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T15:01:00+02:00" EndDate="2024-07-28T15:24:00+02:00" Venue="INV" Location="INV" SessionCode="ARC03">
+<ItemName Language="ENG" Value="Women's Team 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Équipe - femmes, éliminatoires (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T15:24:00+02:00" EndDate="2024-07-28T15:47:00+02:00" Venue="INV" Location="INV" SessionCode="ARC03">
+<ItemName Language="ENG" Value="Women's Team 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Équipe - femmes, éliminatoires (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T14:15:00+02:00" EndDate="2024-07-28T14:38:00+02:00" Venue="INV" Location="INV" SessionCode="ARC04">
+<ItemName Language="ENG" Value="Women's Team Quarterfinal" />
+<ItemName Language="FRA" Value="Équipe - femmes, quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T14:38:00+02:00" EndDate="2024-07-28T15:01:00+02:00" Venue="INV" Location="INV" SessionCode="ARC04">
+<ItemName Language="ENG" Value="Women's Team Quarterfinal" />
+<ItemName Language="FRA" Value="Équipe - femmes, quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T15:01:00+02:00" EndDate="2024-07-28T15:24:00+02:00" Venue="INV" Location="INV" SessionCode="ARC04">
+<ItemName Language="ENG" Value="Women's Team Quarterfinal" />
+<ItemName Language="FRA" Value="Équipe - femmes, quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T15:24:00+02:00" EndDate="2024-07-28T15:47:00+02:00" Venue="INV" Location="INV" SessionCode="ARC04">
+<ItemName Language="ENG" Value="Women's Team Quarterfinal" />
+<ItemName Language="FRA" Value="Équipe - femmes, quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T15:47:00+02:00" EndDate="2024-07-28T16:10:00+02:00" Venue="INV" Location="INV" SessionCode="ARC04">
+<ItemName Language="ENG" Value="Women's Team Semifinal" />
+<ItemName Language="FRA" Value="Équipe - femmes, demi-finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T16:10:00+02:00" EndDate="2024-07-28T16:33:00+02:00" Venue="INV" Location="INV" SessionCode="ARC04">
+<ItemName Language="ENG" Value="Women's Team Semifinal" />
+<ItemName Language="FRA" Value="Équipe - femmes, demi-finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T16:48:00+02:00" EndDate="2024-07-28T17:11:00+02:00" Medal="3" Venue="INV" Location="INV" SessionCode="ARC04">
+<ItemName Language="ENG" Value="Women's Team Bronze Medal Match" />
+<ItemName Language="FRA" Value="Équipe - femmes, match bronze" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T17:11:00+02:00" EndDate="2024-07-28T17:34:00+02:00" Medal="1" Venue="INV" Location="INV" SessionCode="ARC04">
+<ItemName Language="ENG" Value="Women's Team Gold Medal Match" />
+<ItemName Language="FRA" Value="Équipe - femmes, match or" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T17:34:00+02:00" EndDate="2024-07-28T17:54:00+02:00" Venue="INV" Location="INV" SessionCode="ARC04">
+<ItemName Language="ENG" Value="Women's Team Victory Ceremony" />
+<ItemName Language="FRA" Value="Équipes - femme, remise médailles" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T09:30:00+02:00" EndDate="2024-07-29T09:53:00+02:00" Venue="INV" Location="INV" SessionCode="ARC05">
+<ItemName Language="ENG" Value="Men's Team 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Équipe - hommes, éliminatoires (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T09:53:00+02:00" EndDate="2024-07-29T10:16:00+02:00" Venue="INV" Location="INV" SessionCode="ARC05">
+<ItemName Language="ENG" Value="Men's Team 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Équipe - hommes, éliminatoires (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T10:16:00+02:00" EndDate="2024-07-29T10:39:00+02:00" Venue="INV" Location="INV" SessionCode="ARC05">
+<ItemName Language="ENG" Value="Men's Team 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Équipe - hommes, éliminatoires (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T10:39:00+02:00" EndDate="2024-07-29T11:02:00+02:00" Venue="INV" Location="INV" SessionCode="ARC05">
+<ItemName Language="ENG" Value="Men's Team 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Équipe - hommes, éliminatoires (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T14:15:00+02:00" EndDate="2024-07-29T14:38:00+02:00" Venue="INV" Location="INV" SessionCode="ARC06">
+<ItemName Language="ENG" Value="Men's Team Quarterfinal" />
+<ItemName Language="FRA" Value="Équipe - hommes, quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T14:38:00+02:00" EndDate="2024-07-29T15:01:00+02:00" Venue="INV" Location="INV" SessionCode="ARC06">
+<ItemName Language="ENG" Value="Men's Team Quarterfinal" />
+<ItemName Language="FRA" Value="Équipe - hommes, quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T15:01:00+02:00" EndDate="2024-07-29T15:24:00+02:00" Venue="INV" Location="INV" SessionCode="ARC06">
+<ItemName Language="ENG" Value="Men's Team Quarterfinal" />
+<ItemName Language="FRA" Value="Équipe - hommes, quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------TMRY000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T15:24:00+02:00" EndDate="2024-07-29T15:47:00+02:00" Venue="INV" Location="INV" SessionCode="ARC06">
+<ItemName Language="ENG" Value="Men's Team Quarterfinals" />
+<ItemName Language="FRA" Value="Équipe - hommes, quarts de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T15:47:00+02:00" EndDate="2024-07-29T16:10:00+02:00" Venue="INV" Location="INV" SessionCode="ARC06">
+<ItemName Language="ENG" Value="Men's Team Semifinal" />
+<ItemName Language="FRA" Value="Équipe - hommes, demi-finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------TMRY000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T16:10:00+02:00" EndDate="2024-07-29T16:33:00+02:00" Venue="INV" Location="INV" SessionCode="ARC06">
+<ItemName Language="ENG" Value="Men's Team Semifinals" />
+<ItemName Language="FRA" Value="Équipe - hommes, demi-finales" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T16:48:00+02:00" EndDate="2024-07-29T17:11:00+02:00" Medal="3" Venue="INV" Location="INV" SessionCode="ARC06">
+<ItemName Language="ENG" Value="Men's Team Bronze Medal Match" />
+<ItemName Language="FRA" Value="Équipe - hommes, match bronze" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T17:11:00+02:00" EndDate="2024-07-29T17:34:00+02:00" Medal="1" Venue="INV" Location="INV" SessionCode="ARC06">
+<ItemName Language="ENG" Value="Men's Team Gold Medal Match" />
+<ItemName Language="FRA" Value="Équipe - hommes, match or" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T17:34:00+02:00" EndDate="2024-07-29T17:54:00+02:00" Venue="INV" Location="INV" SessionCode="ARC06">
+<ItemName Language="ENG" Value="Men's Team Victory Ceremony" />
+<ItemName Language="FRA" Value="Équipes - homme, remise médailles" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T12:00:00+02:00" EndDate="2024-07-30T12:13:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-000900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T12:13:00+02:00" EndDate="2024-07-30T12:26:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-001400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T12:26:00+02:00" EndDate="2024-07-30T12:39:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-001500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T12:39:00+02:00" EndDate="2024-07-30T12:52:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R32-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T12:52:00+02:00" EndDate="2024-07-30T13:05:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Men's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R32-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T13:05:00+02:00" EndDate="2024-07-30T13:18:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Women's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T13:18:00+02:00" EndDate="2024-07-30T13:31:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-001000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T13:31:00+02:00" EndDate="2024-07-30T13:44:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-001600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T13:44:00+02:00" EndDate="2024-07-30T13:57:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-001700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T13:57:00+02:00" EndDate="2024-07-30T14:10:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R32-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T14:10:00+02:00" EndDate="2024-07-30T14:23:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Men's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R32-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T14:23:00+02:00" EndDate="2024-07-30T14:36:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Women's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-001100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T14:36:00+02:00" EndDate="2024-07-30T14:49:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-001200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T14:49:00+02:00" EndDate="2024-07-30T15:02:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-001900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T15:02:00+02:00" EndDate="2024-07-30T15:15:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-002200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T15:15:00+02:00" EndDate="2024-07-30T15:28:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R32-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T15:28:00+02:00" EndDate="2024-07-30T15:41:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Men's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R32-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T15:41:00+02:00" EndDate="2024-07-30T15:54:00+02:00" Venue="INV" Location="INV" SessionCode="ARC07">
+<ItemName Language="ENG" Value="Women's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-001300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T17:45:00+02:00" EndDate="2024-07-30T17:58:00+02:00" Venue="INV" Location="INV" SessionCode="ARC08">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-001400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T17:58:00+02:00" EndDate="2024-07-30T18:11:00+02:00" Venue="INV" Location="INV" SessionCode="ARC08">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-001800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T18:11:00+02:00" EndDate="2024-07-30T18:24:00+02:00" Venue="INV" Location="INV" SessionCode="ARC08">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-002100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T18:24:00+02:00" EndDate="2024-07-30T18:37:00+02:00" Venue="INV" Location="INV" SessionCode="ARC08">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R32-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T18:37:00+02:00" EndDate="2024-07-30T18:50:00+02:00" Venue="INV" Location="INV" SessionCode="ARC08">
+<ItemName Language="ENG" Value="Men's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R32-001100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T18:50:00+02:00" EndDate="2024-07-30T19:03:00+02:00" Venue="INV" Location="INV" SessionCode="ARC08">
+<ItemName Language="ENG" Value="Women's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-001500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T19:03:00+02:00" EndDate="2024-07-30T19:16:00+02:00" Venue="INV" Location="INV" SessionCode="ARC08">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-001600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T19:16:00+02:00" EndDate="2024-07-30T19:29:00+02:00" Venue="INV" Location="INV" SessionCode="ARC08">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-002400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T19:29:00+02:00" EndDate="2024-07-30T19:42:00+02:00" Venue="INV" Location="INV" SessionCode="ARC08">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-002500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T19:42:00+02:00" EndDate="2024-07-30T19:55:00+02:00" Venue="INV" Location="INV" SessionCode="ARC08">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R32-000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T19:55:00+02:00" EndDate="2024-07-30T20:08:00+02:00" Venue="INV" Location="INV" SessionCode="ARC08">
+<ItemName Language="ENG" Value="Men's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R32-000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T20:08:00+02:00" EndDate="2024-07-30T20:21:00+02:00" Venue="INV" Location="INV" SessionCode="ARC08">
+<ItemName Language="ENG" Value="Women's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-001900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T17:45:00+02:00" EndDate="2024-07-31T17:58:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-002300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T17:58:00+02:00" EndDate="2024-07-31T18:11:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-002700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T18:11:00+02:00" EndDate="2024-07-31T18:24:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-002600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T18:24:00+02:00" EndDate="2024-07-31T18:37:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R32-000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T18:37:00+02:00" EndDate="2024-07-31T18:50:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Men's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R32-000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T18:50:00+02:00" EndDate="2024-07-31T19:03:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Women's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-002700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T19:03:00+02:00" EndDate="2024-07-31T19:16:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-002600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T19:16:00+02:00" EndDate="2024-07-31T19:29:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-002800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T19:29:00+02:00" EndDate="2024-07-31T19:42:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-002900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T19:42:00+02:00" EndDate="2024-07-31T19:55:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R32-001000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T19:55:00+02:00" EndDate="2024-07-31T20:08:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Men's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R32-001000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T20:08:00+02:00" EndDate="2024-07-31T20:21:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Women's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-002900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T20:21:00+02:00" EndDate="2024-07-31T20:34:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-002800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T20:34:00+02:00" EndDate="2024-07-31T20:47:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-003100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T20:47:00+02:00" EndDate="2024-07-31T21:00:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-003200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:00:00+02:00" EndDate="2024-07-31T21:13:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R32-000900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:13:00+02:00" EndDate="2024-07-31T21:26:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Men's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R32-000900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:26:00+02:00" EndDate="2024-07-31T21:39:00+02:00" Venue="INV" Location="INV" SessionCode="ARC09">
+<ItemName Language="ENG" Value="Women's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R32-001400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T17:45:00+02:00" EndDate="2024-07-31T17:58:00+02:00" Venue="INV" Location="INV" SessionCode="ARC10">
+<ItemName Language="ENG" Value="Men's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R32-001600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T17:58:00+02:00" EndDate="2024-07-31T18:11:00+02:00" Venue="INV" Location="INV" SessionCode="ARC10">
+<ItemName Language="ENG" Value="Men's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R32-001300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T18:11:00+02:00" EndDate="2024-07-31T18:24:00+02:00" Venue="INV" Location="INV" SessionCode="ARC10">
+<ItemName Language="ENG" Value="Women's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R32-001400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T18:24:00+02:00" EndDate="2024-07-31T18:37:00+02:00" Venue="INV" Location="INV" SessionCode="ARC10">
+<ItemName Language="ENG" Value="Women's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T09:30:00+02:00" EndDate="2024-08-01T09:43:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T09:43:00+02:00" EndDate="2024-08-01T09:56:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T09:56:00+02:00" EndDate="2024-08-01T10:09:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T10:09:00+02:00" EndDate="2024-08-01T10:22:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-002000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T10:22:00+02:00" EndDate="2024-08-01T10:22:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-002200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T10:22:00+02:00" EndDate="2024-08-01T10:35:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T10:35:00+02:00" EndDate="2024-08-01T10:48:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-001700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T10:48:00+02:00" EndDate="2024-08-01T11:01:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-002100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T11:01:00+02:00" EndDate="2024-08-01T11:14:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T11:14:00+02:00" EndDate="2024-08-01T11:27:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T11:27:00+02:00" EndDate="2024-08-01T11:40:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-002400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T11:40:00+02:00" EndDate="2024-08-01T11:53:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T11:53:00+02:00" EndDate="2024-08-01T12:06:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-003100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:06:00+02:00" EndDate="2024-08-01T12:19:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-003200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:19:00+02:00" EndDate="2024-08-01T12:32:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-002300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:32:00+02:00" EndDate="2024-08-01T12:45:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-002000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:45:00+02:00" EndDate="2024-08-01T12:58:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-003000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:58:00+02:00" EndDate="2024-08-01T13:11:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T13:11:00+02:00" EndDate="2024-08-01T13:24:00+02:00" Venue="INV" Location="INV" SessionCode="ARC11">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-001800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T15:30:00+02:00" EndDate="2024-08-01T15:43:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-002500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T15:43:00+02:00" EndDate="2024-08-01T15:56:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T15:56:00+02:00" EndDate="2024-08-01T16:09:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-000900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T16:09:00+02:00" EndDate="2024-08-01T16:22:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R32-001200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T16:22:00+02:00" EndDate="2024-08-01T16:35:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Men's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R32-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T16:35:00+02:00" EndDate="2024-08-01T16:48:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Women's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T16:48:00+02:00" EndDate="2024-08-01T17:01:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T17:01:00+02:00" EndDate="2024-08-01T17:14:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-001000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T17:14:00+02:00" EndDate="2024-08-01T17:27:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-001100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T17:27:00+02:00" EndDate="2024-08-01T17:40:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R32-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T17:40:00+02:00" EndDate="2024-08-01T17:53:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Men's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R32-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T17:53:00+02:00" EndDate="2024-08-01T18:06:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Women's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T18:06:00+02:00" EndDate="2024-08-01T18:19:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R64-000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T18:19:00+02:00" EndDate="2024-08-01T18:32:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Men's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-001200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T18:32:00+02:00" EndDate="2024-08-01T18:45:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-001300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T18:45:00+02:00" EndDate="2024-08-01T18:58:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R32-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T18:58:00+02:00" EndDate="2024-08-01T19:11:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Men's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R32-000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T19:11:00+02:00" EndDate="2024-08-01T19:24:00+02:00" Venue="INV" Location="INV" SessionCode="ARC12">
+<ItemName Language="ENG" Value="Women's Individual 1/16 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/16)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T14:15:00+02:00" EndDate="2024-08-02T14:34:00+02:00" Venue="INV" Location="INV" SessionCode="ARC13">
+<ItemName Language="ENG" Value="Mixed Team 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Équipe - mixte, éliminatoires (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T14:34:00+02:00" EndDate="2024-08-02T14:53:00+02:00" Venue="INV" Location="INV" SessionCode="ARC13">
+<ItemName Language="ENG" Value="Mixed Team 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Équipe - mixte, éliminatoires (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T14:53:00+02:00" EndDate="2024-08-02T15:12:00+02:00" Venue="INV" Location="INV" SessionCode="ARC13">
+<ItemName Language="ENG" Value="Mixed Team 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Équipe - mixte, éliminatoires (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T15:12:00+02:00" EndDate="2024-08-02T15:31:00+02:00" Venue="INV" Location="INV" SessionCode="ARC13">
+<ItemName Language="ENG" Value="Mixed Team 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Équipe - mixte, éliminatoires (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T15:31:00+02:00" EndDate="2024-08-02T15:50:00+02:00" Venue="INV" Location="INV" SessionCode="ARC13">
+<ItemName Language="ENG" Value="Mixed Team 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Équipe - mixte, éliminatoires (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T15:50:00+02:00" EndDate="2024-08-02T16:09:00+02:00" Venue="INV" Location="INV" SessionCode="ARC13">
+<ItemName Language="ENG" Value="Mixed Team 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Équipe - mixte, éliminatoires (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T16:09:00+02:00" EndDate="2024-08-02T16:28:00+02:00" Venue="INV" Location="INV" SessionCode="ARC13">
+<ItemName Language="ENG" Value="Mixed Team 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Équipe - mixte, éliminatoires (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T16:28:00+02:00" EndDate="2024-08-02T16:47:00+02:00" Venue="INV" Location="INV" SessionCode="ARC13">
+<ItemName Language="ENG" Value="Mixed Team 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Équipe - mixte, éliminatoires (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T14:15:00+02:00" EndDate="2024-08-02T14:34:00+02:00" Venue="INV" Location="INV" SessionCode="ARC14">
+<ItemName Language="ENG" Value="Mixed Team Quarterfinal" />
+<ItemName Language="FRA" Value="Équipe - mixte, quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T14:34:00+02:00" EndDate="2024-08-02T14:53:00+02:00" Venue="INV" Location="INV" SessionCode="ARC14">
+<ItemName Language="ENG" Value="Mixed Team Quarterfinal" />
+<ItemName Language="FRA" Value="Équipe - mixte, quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T14:53:00+02:00" EndDate="2024-08-02T15:12:00+02:00" Venue="INV" Location="INV" SessionCode="ARC14">
+<ItemName Language="ENG" Value="Mixed Team Quarterfinal" />
+<ItemName Language="FRA" Value="Équipe - mixte, quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T15:12:00+02:00" EndDate="2024-08-02T15:31:00+02:00" Venue="INV" Location="INV" SessionCode="ARC14">
+<ItemName Language="ENG" Value="Mixed Team Quarterfinal" />
+<ItemName Language="FRA" Value="Équipe - mixte, quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T15:46:00+02:00" EndDate="2024-08-02T16:05:00+02:00" Venue="INV" Location="INV" SessionCode="ARC14">
+<ItemName Language="ENG" Value="Mixed Team Semifinal" />
+<ItemName Language="FRA" Value="Équipe - mixte, demi-finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T16:05:00+02:00" EndDate="2024-08-02T16:24:00+02:00" Venue="INV" Location="INV" SessionCode="ARC14">
+<ItemName Language="ENG" Value="Mixed Team Semifinal" />
+<ItemName Language="FRA" Value="Équipe - mixte, demi-finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T16:24:00+02:00" EndDate="2024-08-02T16:43:00+02:00" Medal="3" Venue="INV" Location="INV" SessionCode="ARC14">
+<ItemName Language="ENG" Value="Mixed Team Bronze Medal Match" />
+<ItemName Language="FRA" Value="Équipe - mixte, match bronze" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T16:43:00+02:00" EndDate="2024-08-02T17:02:00+02:00" Medal="1" Venue="INV" Location="INV" SessionCode="ARC14">
+<ItemName Language="ENG" Value="Mixed Team Gold Medal Match" />
+<ItemName Language="FRA" Value="Équipe - mixte, match or" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T17:02:00+02:00" EndDate="2024-08-02T17:22:00+02:00" Venue="INV" Location="INV" SessionCode="ARC14">
+<ItemName Language="ENG" Value="Mixed Team Victory Ceremony" />
+<ItemName Language="FRA" Value="Équipes - mixte, remise médailles" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T13:00:00+02:00" EndDate="2024-08-03T13:13:00+02:00" Venue="INV" Location="INV" SessionCode="ARC15">
+<ItemName Language="ENG" Value="Women's Individual 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T13:13:00+02:00" EndDate="2024-08-03T13:26:00+02:00" Venue="INV" Location="INV" SessionCode="ARC15">
+<ItemName Language="ENG" Value="Women's Individual 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T13:26:00+02:00" EndDate="2024-08-03T13:39:00+02:00" Venue="INV" Location="INV" SessionCode="ARC15">
+<ItemName Language="ENG" Value="Women's Individual 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T13:39:00+02:00" EndDate="2024-08-03T13:52:00+02:00" Venue="INV" Location="INV" SessionCode="ARC15">
+<ItemName Language="ENG" Value="Women's Individual 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T13:52:00+02:00" EndDate="2024-08-03T14:05:00+02:00" Venue="INV" Location="INV" SessionCode="ARC15">
+<ItemName Language="ENG" Value="Women's Individual 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T14:05:00+02:00" EndDate="2024-08-03T14:18:00+02:00" Venue="INV" Location="INV" SessionCode="ARC15">
+<ItemName Language="ENG" Value="Women's Individual 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T14:18:00+02:00" EndDate="2024-08-03T14:31:00+02:00" Venue="INV" Location="INV" SessionCode="ARC15">
+<ItemName Language="ENG" Value="Women's Individual 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T14:31:00+02:00" EndDate="2024-08-03T14:44:00+02:00" Venue="INV" Location="INV" SessionCode="ARC15">
+<ItemName Language="ENG" Value="Women's Individual 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T13:00:00+02:00" EndDate="2024-08-03T13:13:00+02:00" Venue="INV" Location="INV" SessionCode="ARC16">
+<ItemName Language="ENG" Value="Women's Individual Quarterfinal" />
+<ItemName Language="FRA" Value="Individuelle - fem., quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T13:13:00+02:00" EndDate="2024-08-03T13:26:00+02:00" Venue="INV" Location="INV" SessionCode="ARC16">
+<ItemName Language="ENG" Value="Women's Individual Quarterfinal" />
+<ItemName Language="FRA" Value="Individuelle - fem., quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T13:26:00+02:00" EndDate="2024-08-03T13:39:00+02:00" Venue="INV" Location="INV" SessionCode="ARC16">
+<ItemName Language="ENG" Value="Women's Individual Quarterfinal" />
+<ItemName Language="FRA" Value="Individuelle - fem., quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T13:39:00+02:00" EndDate="2024-08-03T13:52:00+02:00" Venue="INV" Location="INV" SessionCode="ARC16">
+<ItemName Language="ENG" Value="Women's Individual Quarterfinal" />
+<ItemName Language="FRA" Value="Individuelle - fem., quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T13:52:00+02:00" EndDate="2024-08-03T14:05:00+02:00" Venue="INV" Location="INV" SessionCode="ARC16">
+<ItemName Language="ENG" Value="Women's Individual Semifinal" />
+<ItemName Language="FRA" Value="Individuelle - fem., demi-finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T14:05:00+02:00" EndDate="2024-08-03T14:18:00+02:00" Venue="INV" Location="INV" SessionCode="ARC16">
+<ItemName Language="ENG" Value="Women's Individual Semifinal" />
+<ItemName Language="FRA" Value="Individuelle - fem., demi-finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T14:33:00+02:00" EndDate="2024-08-03T14:46:00+02:00" Medal="3" Venue="INV" Location="INV" SessionCode="ARC16">
+<ItemName Language="ENG" Value="Women's Individual Bronze Medal Match" />
+<ItemName Language="FRA" Value="Individuelle - fem., match bronze" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T14:46:00+02:00" EndDate="2024-08-03T14:59:00+02:00" Medal="1" Venue="INV" Location="INV" SessionCode="ARC16">
+<ItemName Language="ENG" Value="Women's Individual Gold Medal Match" />
+<ItemName Language="FRA" Value="Individuelle - fem., match or" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T14:59:00+02:00" EndDate="2024-08-03T15:19:00+02:00" Venue="INV" Location="INV" SessionCode="ARC16">
+<ItemName Language="ENG" Value="Women's Individual Victory Ceremony" />
+<ItemName Language="FRA" Value="Individuelle - fem., remise médailles" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------8FNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T13:00:00+02:00" EndDate="2024-08-04T13:13:00+02:00" Venue="INV" Location="INV" SessionCode="ARC17">
+<ItemName Language="ENG" Value="Men's Individual 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------8FNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T13:13:00+02:00" EndDate="2024-08-04T13:26:00+02:00" Venue="INV" Location="INV" SessionCode="ARC17">
+<ItemName Language="ENG" Value="Men's Individual 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------8FNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T13:26:00+02:00" EndDate="2024-08-04T13:39:00+02:00" Venue="INV" Location="INV" SessionCode="ARC17">
+<ItemName Language="ENG" Value="Men's Individual 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------8FNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T13:39:00+02:00" EndDate="2024-08-04T13:52:00+02:00" Venue="INV" Location="INV" SessionCode="ARC17">
+<ItemName Language="ENG" Value="Men's Individual 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------8FNL000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T13:52:00+02:00" EndDate="2024-08-04T14:05:00+02:00" Venue="INV" Location="INV" SessionCode="ARC17">
+<ItemName Language="ENG" Value="Men's Individual 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------8FNL000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T14:05:00+02:00" EndDate="2024-08-04T14:18:00+02:00" Venue="INV" Location="INV" SessionCode="ARC17">
+<ItemName Language="ENG" Value="Men's Individual 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------8FNL000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T14:18:00+02:00" EndDate="2024-08-04T14:31:00+02:00" Venue="INV" Location="INV" SessionCode="ARC17">
+<ItemName Language="ENG" Value="Men's Individual 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------8FNL000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T14:31:00+02:00" EndDate="2024-08-04T14:44:00+02:00" Venue="INV" Location="INV" SessionCode="ARC17">
+<ItemName Language="ENG" Value="Men's Individual 1/8 Eliminations" />
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/8)" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T13:00:00+02:00" EndDate="2024-08-04T13:13:00+02:00" Venue="INV" Location="INV" SessionCode="ARC18">
+<ItemName Language="ENG" Value="Men's Individual Quarterfinal" />
+<ItemName Language="FRA" Value="Individuelle - hom., quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T13:13:00+02:00" EndDate="2024-08-04T13:26:00+02:00" Venue="INV" Location="INV" SessionCode="ARC18">
+<ItemName Language="ENG" Value="Men's Individual Quarterfinal" />
+<ItemName Language="FRA" Value="Individuelle - hom., quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T13:26:00+02:00" EndDate="2024-08-04T13:39:00+02:00" Venue="INV" Location="INV" SessionCode="ARC18">
+<ItemName Language="ENG" Value="Men's Individual Quarterfinal" />
+<ItemName Language="FRA" Value="Individuelle - hom., quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T13:39:00+02:00" EndDate="2024-08-04T13:52:00+02:00" Venue="INV" Location="INV" SessionCode="ARC18">
+<ItemName Language="ENG" Value="Men's Individual Quarterfinal" />
+<ItemName Language="FRA" Value="Individuelle - hom., quart de finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T13:52:00+02:00" EndDate="2024-08-04T14:05:00+02:00" Venue="INV" Location="INV" SessionCode="ARC18">
+<ItemName Language="ENG" Value="Men's Individual Semifinal" />
+<ItemName Language="FRA" Value="Individuelle - hom., demi-finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T14:05:00+02:00" EndDate="2024-08-04T14:18:00+02:00" Venue="INV" Location="INV" SessionCode="ARC18">
+<ItemName Language="ENG" Value="Men's Individual Semifinal" />
+<ItemName Language="FRA" Value="Individuelle - hom., demi-finale" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T14:33:00+02:00" EndDate="2024-08-04T14:46:00+02:00" Medal="3" Venue="INV" Location="INV" SessionCode="ARC18">
+<ItemName Language="ENG" Value="Men's Individual Bronze Medal Match" />
+<ItemName Language="FRA" Value="Individuelle - hom., match bronze" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T14:46:00+02:00" EndDate="2024-08-04T14:59:00+02:00" Medal="1" Venue="INV" Location="INV" SessionCode="ARC18">
+<ItemName Language="ENG" Value="Men's Individual Gold Medal Match" />
+<ItemName Language="FRA" Value="Individuelle - hom., match or" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T14:59:00+02:00" EndDate="2024-08-04T15:19:00+02:00" Venue="INV" Location="INV" SessionCode="ARC18">
+<ItemName Language="ENG" Value="Men's Individual Victory Ceremony" />
+<ItemName Language="FRA" Value="Individuelle - hom., remise médailles" />
+<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+</Unit>
+<Unit Code="ARC-------------------DRAW000100--" PhaseType="7" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Archery - Draw" />
+<ItemName Language="FRA" Value="Tir à l'arc, tirage au sort" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARC-------------------MEET000100--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Archery Team Captains Meeting" />
+<ItemName Language="FRA" Value="Tir à l'arc - réunion des chefs d'équipe" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/16)" />
+<ItemName Language="ENG" Value="Men's Individual 1/16 Eliminations" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/16)" />
+<ItemName Language="ENG" Value="Men's Individual 1/16 Eliminations" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/16)" />
+<ItemName Language="ENG" Value="Men's Individual 1/16 Eliminations" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------TMRY000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/32)" />
+<ItemName Language="ENG" Value="Men's Individual 1/32 Elimination Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------TMRY000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/16)" />
+<ItemName Language="ENG" Value="Men's Individual 1/16 Elimination Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------TMRY000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Individuelle - hom., élim. (1/8)" />
+<ItemName Language="ENG" Value="Men's Individual 1/8 Elimination Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------TMRY000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Individuelle - hom., quarts de finale" />
+<ItemName Language="ENG" Value="Men's Individual Quarterfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCMINDIVID-----------TMRY000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Individuelle - hom., demi-finales" />
+<ItemName Language="ENG" Value="Men's Individual Semifinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------8FNL000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Équipe - hommes, éliminatoires (1/8)" />
+<ItemName Language="ENG" Value="Men's Team 1/8 Eliminations" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------8FNL000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Équipe - hommes, éliminatoires (1/8)" />
+<ItemName Language="ENG" Value="Men's Team 1/8 Eliminations" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------8FNL000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Équipe - hommes, éliminatoires (1/8)" />
+<ItemName Language="ENG" Value="Men's Team 1/8 Eliminations" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------8FNL000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Équipe - hommes, éliminatoires (1/8)" />
+<ItemName Language="ENG" Value="Men's Team 1/8 Eliminations" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------QFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Équipe - hommes, quart de finale" />
+<ItemName Language="ENG" Value="Men's Team Quarterfinal" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------SFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Équipe - hommes, demi-finale" />
+<ItemName Language="ENG" Value="Men's Team Semifinal" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCMTEAM3-------------TMRY000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Équipe - hommes, éliminatoires (1/8)" />
+<ItemName Language="ENG" Value="Men's Team 1/8 Elimination Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/16)" />
+<ItemName Language="ENG" Value="Women's Individual 1/16 Eliminations" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/16)" />
+<ItemName Language="ENG" Value="Women's Individual 1/16 Eliminations" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/16)" />
+<ItemName Language="ENG" Value="Women's Individual 1/16 Eliminations" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------R64-003000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<ItemName Language="ENG" Value="Women's Individual 1/32 Eliminations" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------TMRY000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/32)" />
+<ItemName Language="ENG" Value="Women's Individual 1/32 Elimination Rnd" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------TMRY000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/16)" />
+<ItemName Language="ENG" Value="Women's Individual 1/16 Elimination Rnd" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------TMRY000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Individuelle - fem., élim. (1/8)" />
+<ItemName Language="ENG" Value="Women's Individual 1/8 Elimination Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------TMRY000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Individuelle - fem., quarts de finale" />
+<ItemName Language="ENG" Value="Women's Individual Quarterfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCWINDIVID-----------TMRY000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Individuelle - fem., demi-finales" />
+<ItemName Language="ENG" Value="Women's Individual Semifinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------8FNL000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Équipe - femmes, éliminatoires (1/8)" />
+<ItemName Language="ENG" Value="Women's Team 1/8 Eliminations" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------8FNL000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Équipe - femmes, éliminatoires (1/8)" />
+<ItemName Language="ENG" Value="Women's Team 1/8 Eliminations" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------8FNL000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Équipe - femmes, éliminatoires (1/8)" />
+<ItemName Language="ENG" Value="Women's Team 1/8 Eliminations" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------8FNL000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Équipe - femmes, éliminatoires (1/8)" />
+<ItemName Language="ENG" Value="Women's Team 1/8 Eliminations" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------TMRY000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Équipe - femmes, éliminatoires (1/8)" />
+<ItemName Language="ENG" Value="Women's Team 1/8 Elimination Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------TMRY000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Équipe - femmes, quarts de finale" />
+<ItemName Language="ENG" Value="Women's Team Quarterfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCWTEAM3-------------TMRY000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Équipe - femmes, demi-finales" />
+<ItemName Language="ENG" Value="Women's Team Semifinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------TMRY000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Équipe - mixte, éliminatoires (1/8)" />
+<ItemName Language="ENG" Value="Mixed Team 1/8 Elimination Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------TMRY000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Équipe - mixte, quarts de finale" />
+<ItemName Language="ENG" Value="Mixed Team Quarterfinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="ARCXTEAM2-------------TMRY000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Équipe - mixte, demi-finales" />
+<ItemName Language="ENG" Value="Mixed Team Semifinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

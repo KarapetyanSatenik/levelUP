@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="BKB-------------------------------" DocumentType="DT_SCHEDULE" Version="4" FeedFlag="P" Date="2022-12-23" Time="101438512" LogicalDate="2022-12-23" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="2.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="BKB01" StartDate="2024-07-27T11:00:00+02:00" EndDate="2024-07-27T15:15:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB01" Language="ENG" />
+</Session>
+<Session SessionCode="BKB02" StartDate="2024-07-27T17:15:00+02:00" EndDate="2024-07-27T19:00:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB02" Language="ENG" />
+</Session>
+<Session SessionCode="BKB03" StartDate="2024-07-27T21:00:00+02:00" EndDate="2024-07-27T22:45:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BKB03" Language="ENG" />
+</Session>
+<Session SessionCode="BKB04" StartDate="2024-07-28T11:00:00+02:00" EndDate="2024-07-28T15:15:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB04" Language="ENG" />
+</Session>
+<Session SessionCode="BKB05" StartDate="2024-07-28T17:15:00+02:00" EndDate="2024-07-28T19:00:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB05" Language="ENG" />
+</Session>
+<Session SessionCode="BKB06" StartDate="2024-07-28T21:00:00+02:00" EndDate="2024-07-28T22:45:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BKB06" Language="ENG" />
+</Session>
+<Session SessionCode="BKB07" StartDate="2024-07-29T11:00:00+02:00" EndDate="2024-07-29T15:15:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB07" Language="ENG" />
+</Session>
+<Session SessionCode="BKB08" StartDate="2024-07-29T17:15:00+02:00" EndDate="2024-07-29T19:00:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB08" Language="ENG" />
+</Session>
+<Session SessionCode="BKB09" StartDate="2024-07-29T21:00:00+02:00" EndDate="2024-07-29T22:45:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BKB09" Language="ENG" />
+</Session>
+<Session SessionCode="BKB10" StartDate="2024-07-30T11:00:00+02:00" EndDate="2024-07-30T15:15:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB10" Language="ENG" />
+</Session>
+<Session SessionCode="BKB11" StartDate="2024-07-30T17:15:00+02:00" EndDate="2024-07-30T19:00:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB11" Language="ENG" />
+</Session>
+<Session SessionCode="BKB12" StartDate="2024-07-30T21:00:00+02:00" EndDate="2024-07-30T22:45:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BKB12" Language="ENG" />
+</Session>
+<Session SessionCode="BKB13" StartDate="2024-07-31T11:00:00+02:00" EndDate="2024-07-31T15:15:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="Men/Women" Language="ENG" />
+</Session>
+<Session SessionCode="BKB14" StartDate="2024-07-31T17:15:00+02:00" EndDate="2024-07-31T19:00:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="Men/Women" Language="ENG" />
+</Session>
+<Session SessionCode="BKB15" StartDate="2024-07-31T21:00:00+02:00" EndDate="2024-07-31T22:45:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BKB15" Language="ENG" />
+</Session>
+<Session SessionCode="BKB16" StartDate="2024-08-01T11:00:00+02:00" EndDate="2024-08-01T15:15:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB16" Language="ENG" />
+</Session>
+<Session SessionCode="BKB17" StartDate="2024-08-01T17:15:00+02:00" EndDate="2024-08-01T19:00:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB17" Language="ENG" />
+</Session>
+<Session SessionCode="BKB18" StartDate="2024-08-01T21:00:00+02:00" EndDate="2024-08-01T22:45:00+02:00" Leadin="-3:-45" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BKB18" Language="ENG" />
+</Session>
+<Session SessionCode="BKB19" StartDate="2024-08-02T11:00:00+02:00" EndDate="2024-08-02T15:15:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB19" Language="ENG" />
+</Session>
+<Session SessionCode="BKB20" StartDate="2024-08-02T17:15:00+02:00" EndDate="2024-08-02T19:00:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB20" Language="ENG" />
+</Session>
+<Session SessionCode="BKB21" StartDate="2024-08-02T21:00:00+02:00" EndDate="2024-08-02T22:45:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BKB21" Language="ENG" />
+</Session>
+<Session SessionCode="BKB22" StartDate="2024-08-03T11:00:00+02:00" EndDate="2024-08-03T15:15:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB22" Language="ENG" />
+</Session>
+<Session SessionCode="BKB23" StartDate="2024-08-03T17:15:00+02:00" EndDate="2024-08-03T19:00:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB23" Language="ENG" />
+</Session>
+<Session SessionCode="BKB24" StartDate="2024-08-03T21:00:00+02:00" EndDate="2024-08-03T22:45:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BKB24" Language="ENG" />
+</Session>
+<Session SessionCode="BKB25" StartDate="2024-08-04T11:00:00+02:00" EndDate="2024-08-04T15:15:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB25" Language="ENG" />
+</Session>
+<Session SessionCode="BKB26" StartDate="2024-08-04T17:15:00+02:00" EndDate="2024-08-04T19:00:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB26" Language="ENG" />
+</Session>
+<Session SessionCode="BKB27" StartDate="2024-08-04T21:00:00+02:00" EndDate="2024-08-04T22:45:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BKB27" Language="ENG" />
+</Session>
+<Session SessionCode="BKB28" StartDate="2024-08-06T11:00:00+02:00" EndDate="2024-08-06T13:00:00+02:00" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB28" Language="ENG" />
+</Session>
+<Session SessionCode="BKB29" StartDate="2024-08-06T14:30:00+02:00" EndDate="2024-08-06T16:30:00+02:00" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="BKB29" Language="ENG" />
+</Session>
+<Session SessionCode="BKB30" StartDate="2024-08-06T18:00:00+02:00" EndDate="2024-08-06T20:00:00+02:00" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB30" Language="ENG" />
+</Session>
+<Session SessionCode="BKB31" StartDate="2024-08-06T21:30:00+02:00" EndDate="2024-08-06T23:30:00+02:00" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BKB31" Language="ENG" />
+</Session>
+<Session SessionCode="BKB32" StartDate="2024-08-07T11:00:00+02:00" EndDate="2024-08-07T13:00:00+02:00" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB32" Language="ENG" />
+</Session>
+<Session SessionCode="BKB33" StartDate="2024-08-07T14:30:00+02:00" EndDate="2024-08-07T16:30:00+02:00" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="BKB33" Language="ENG" />
+</Session>
+<Session SessionCode="BKB34" StartDate="2024-08-07T18:00:00+02:00" EndDate="2024-08-07T20:00:00+02:00" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB34" Language="ENG" />
+</Session>
+<Session SessionCode="BKB35" StartDate="2024-08-07T21:30:00+02:00" EndDate="2024-08-07T23:30:00+02:00" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BKB35" Language="ENG" />
+</Session>
+<Session SessionCode="BKB36" StartDate="2024-08-08T17:30:00+02:00" EndDate="2024-08-08T19:30:00+02:00" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB36" Language="ENG" />
+</Session>
+<Session SessionCode="BKB37" StartDate="2024-08-08T21:00:00+02:00" EndDate="2024-08-08T23:00:00+02:00" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BKB37" Language="ENG" />
+</Session>
+<Session SessionCode="BKB38" StartDate="2024-08-09T17:30:00+02:00" EndDate="2024-08-09T19:30:00+02:00" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB38" Language="ENG" />
+</Session>
+<Session SessionCode="BKB39" StartDate="2024-08-09T21:00:00+02:00" EndDate="2024-08-09T23:00:00+02:00" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BKB39" Language="ENG" />
+</Session>
+<Session SessionCode="BKB40" StartDate="2024-08-10T11:00:00+02:00" EndDate="2024-08-10T13:00:00+02:00" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB40" Language="ENG" />
+</Session>
+<Session SessionCode="BKB41" StartDate="2024-08-10T21:30:00+02:00" EndDate="2024-08-11T00:00:00+02:00" Medal="1" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="BKB41" Language="ENG" />
+</Session>
+<Session SessionCode="BKB42" StartDate="2024-08-11T11:30:00+02:00" EndDate="2024-08-11T13:30:00+02:00" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB42" Language="ENG" />
+</Session>
+<Session SessionCode="BKB43" StartDate="2024-08-11T15:30:00+02:00" EndDate="2024-08-11T18:00:00+02:00" Medal="1" Venue="BCY" VenueName="Bercy Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="BKB43" Language="ENG" />
+</Session>
+<Unit Code="BKBMTEAM5-------------TMRY001500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T11:00:00+02:00" EndDate="2024-07-27T12:45:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB01">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------TMRY001600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T13:30:00+02:00" EndDate="2024-07-27T15:15:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB01">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------TMRY001700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T17:15:00+02:00" EndDate="2024-07-27T19:00:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB02">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------TMRY001800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T21:00:00+02:00" EndDate="2024-07-27T22:45:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB03">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------TMRY000900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T11:00:00+02:00" EndDate="2024-07-28T12:45:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB04">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T13:30:00+02:00" EndDate="2024-07-28T15:15:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB04">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------TMRY000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T17:15:00+02:00" EndDate="2024-07-28T19:00:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB05">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T21:00:00+02:00" EndDate="2024-07-28T22:45:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB06">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T11:00:00+02:00" EndDate="2024-07-29T12:45:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB07">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T13:30:00+02:00" EndDate="2024-07-29T15:15:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB07">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T17:15:00+02:00" EndDate="2024-07-29T19:00:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB08">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T21:00:00+02:00" EndDate="2024-07-29T22:45:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB09">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------TMRY000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T11:00:00+02:00" EndDate="2024-07-30T12:45:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB10">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------TMRY000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T13:30:00+02:00" EndDate="2024-07-30T15:15:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB10">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------TMRY000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T17:15:00+02:00" EndDate="2024-07-30T19:00:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB11">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------TMRY000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T21:00:00+02:00" EndDate="2024-07-30T22:45:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB12">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T11:00:00+02:00" EndDate="2024-07-31T12:45:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB13">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------TMRY000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T13:30:00+02:00" EndDate="2024-07-31T15:15:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB13">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T17:15:00+02:00" EndDate="2024-07-31T19:00:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB14">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------TMRY001000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:00:00+02:00" EndDate="2024-07-31T22:45:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB15">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY001200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T11:00:00+02:00" EndDate="2024-08-01T12:45:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB16">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY001100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T13:30:00+02:00" EndDate="2024-08-01T15:15:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB16">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY001000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T17:15:00+02:00" EndDate="2024-08-01T19:00:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB17">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY000900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T17:15:00+02:00" EndDate="2024-08-01T19:00:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB18">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------TMRY000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T11:00:00+02:00" EndDate="2024-08-02T12:45:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB19">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------TMRY000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T13:30:00+02:00" EndDate="2024-08-02T15:15:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB19">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------TMRY001100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T17:15:00+02:00" EndDate="2024-08-02T19:00:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB20">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------TMRY001200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T21:00:00+02:00" EndDate="2024-08-02T22:45:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB21">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------TMRY001300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T11:00:00+02:00" EndDate="2024-08-03T12:45:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB22">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY001300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T13:30:00+02:00" EndDate="2024-08-03T15:15:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB22">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------TMRY001400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T17:15:00+02:00" EndDate="2024-08-03T19:00:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB23">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY001400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T21:00:00+02:00" EndDate="2024-08-03T22:45:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB24">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY001700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T11:00:00+02:00" EndDate="2024-08-04T12:45:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB25">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY001800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T13:30:00+02:00" EndDate="2024-08-04T15:15:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB25">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY001500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T17:15:00+02:00" EndDate="2024-08-04T19:00:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB26">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------TMRY001600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T21:00:00+02:00" EndDate="2024-08-04T22:45:00+02:00" Venue="LIL" Location="LIL" SessionCode="BKB27">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T11:00:00+02:00" EndDate="2024-08-06T13:00:00+02:00" Venue="BCY" Location="BCY" SessionCode="BKB28">
+<ItemName Language="ENG" Value="Men's Quarterfinal" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T14:30:00+02:00" EndDate="2024-08-06T16:30:00+02:00" Venue="BCY" Location="BCY" SessionCode="BKB29">
+<ItemName Language="ENG" Value="Men's Quarterfinal" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T18:00:00+02:00" EndDate="2024-08-06T20:00:00+02:00" Venue="BCY" Location="BCY" SessionCode="BKB30">
+<ItemName Language="ENG" Value="Men's Quarterfinal" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T21:30:00+02:00" EndDate="2024-08-06T23:30:00+02:00" Venue="BCY" Location="BCY" SessionCode="BKB31">
+<ItemName Language="ENG" Value="Men's Quarterfinal" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T11:00:00+02:00" EndDate="2024-08-07T13:00:00+02:00" Venue="BCY" Location="BCY" SessionCode="BKB32">
+<ItemName Language="ENG" Value="Women's Quarterfinal" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T14:30:00+02:00" EndDate="2024-08-07T16:30:00+02:00" Venue="BCY" Location="BCY" SessionCode="BKB33">
+<ItemName Language="ENG" Value="Women's Quarterfinal" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T18:00:00+02:00" EndDate="2024-08-07T20:00:00+02:00" Venue="BCY" Location="BCY" SessionCode="BKB34">
+<ItemName Language="ENG" Value="Women's Quarterfinal" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T21:30:00+02:00" EndDate="2024-08-07T23:30:00+02:00" Venue="BCY" Location="BCY" SessionCode="BKB35">
+<ItemName Language="ENG" Value="Women's Quarterfinal" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T17:30:00+02:00" EndDate="2024-08-08T19:30:00+02:00" Venue="BCY" Location="BCY" SessionCode="BKB36">
+<ItemName Language="ENG" Value="Men's Semifinal" />
+<ItemName Language="FRA" Value="Hommes, demi-finale" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T21:00:00+02:00" EndDate="2024-08-08T23:00:00+02:00" Venue="BCY" Location="BCY" SessionCode="BKB37">
+<ItemName Language="ENG" Value="Men's Semifinal" />
+<ItemName Language="FRA" Value="Hommes, demi-finale" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T17:30:00+02:00" EndDate="2024-08-09T19:30:00+02:00" Venue="BCY" Location="BCY" SessionCode="BKB38">
+<ItemName Language="ENG" Value="Women's Semifinal" />
+<ItemName Language="FRA" Value="Femmes, demi-finale" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T21:00:00+02:00" EndDate="2024-08-09T23:00:00+02:00" Venue="BCY" Location="BCY" SessionCode="BKB39">
+<ItemName Language="ENG" Value="Women's Semifinal" />
+<ItemName Language="FRA" Value="Femmes, demi-finale" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T11:00:00+02:00" EndDate="2024-08-10T13:00:00+02:00" Medal="3" Venue="BCY" Location="BCY" SessionCode="BKB40">
+<ItemName Language="ENG" Value="Men's Bronze Medal Game" />
+<ItemName Language="FRA" Value="Hommes, médaille de bronze" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T21:30:00+02:00" EndDate="2024-08-10T23:30:00+02:00" Medal="1" Venue="BCY" Location="BCY" SessionCode="BKB41">
+<ItemName Language="ENG" Value="Men's Gold Medal Game" />
+<ItemName Language="FRA" Value="Hommes, médaille d'or" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T23:30:00+02:00" EndDate="2024-08-11T00:00:00+02:00" Venue="BCY" Location="BCY" SessionCode="BKB41">
+<ItemName Language="ENG" Value="Men's Victory Ceremony" />
+<ItemName Language="FRA" Value="Hommes, remise des médailles" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T11:30:00+02:00" EndDate="2024-08-11T13:30:00+02:00" Medal="3" Venue="BCY" Location="BCY" SessionCode="BKB42">
+<ItemName Language="ENG" Value="Women's Bronze Medal Game" />
+<ItemName Language="FRA" Value="Femmes, médaille de bronze" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T15:30:00+02:00" EndDate="2024-08-11T17:30:00+02:00" Medal="1" Venue="BCY" Location="BCY" SessionCode="BKB43">
+<ItemName Language="ENG" Value="Women's Gold Medal Game" />
+<ItemName Language="FRA" Value="Femmes, médaille d'or" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T17:30:00+02:00" EndDate="2024-08-11T18:00:00+02:00" Venue="BCY" Location="BCY" SessionCode="BKB43">
+<ItemName Language="ENG" Value="Women's Victory Ceremony" />
+<ItemName Language="FRA" Value="Femmes, remise des médailles" />
+<VenueDescription VenueName="Bercy Arena" LocationName="Bercy Arena" />
+</Unit>
+<Unit Code="BKB-------------------MEET000100--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Réunion des directeurs d'équipe" />
+<ItemName Language="ENG" Value="Team Managers' Meeting" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPA-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe A" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPA-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe A" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPA-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe A" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPA-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe A" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPA-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe A" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPA-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe A" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPB-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe B" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPB-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe B" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPB-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe B" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPB-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe B" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPB-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe B" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPB-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe B" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPC-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe C" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPC-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe C" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPC-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe C" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPC-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe C" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPC-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe C" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBMTEAM5-------------GPC-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, phase de groupe - groupe C" />
+<ItemName Language="ENG" Value="Men's Group Phase - Group C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPA-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe A" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPA-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe A" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPA-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe A" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPA-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe A" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPA-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe A" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPA-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe A" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPB-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe B" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPB-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe B" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPB-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe B" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPB-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe B" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPB-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe B" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPB-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe B" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPC-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe C" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPC-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe C" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPC-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe C" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPC-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe C" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPC-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe C" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="BKBWTEAM5-------------GPC-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, phase de groupe - groupe C" />
+<ItemName Language="ENG" Value="Women's Group Phase - Group C" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

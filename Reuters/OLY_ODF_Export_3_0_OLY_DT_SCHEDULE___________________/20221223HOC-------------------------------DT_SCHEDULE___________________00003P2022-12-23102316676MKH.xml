@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="HOC-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="160123214" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="HOC01" StartDate="2024-07-27T10:00:00+02:00" EndDate="2024-07-27T15:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC01" Language="ENG" />
+</Session>
+<Session SessionCode="HOC02" StartDate="2024-07-27T10:30:00+02:00" EndDate="2024-07-27T15:30:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC02" Language="ENG" />
+</Session>
+<Session SessionCode="HOC03" StartDate="2024-07-27T17:00:00+02:00" EndDate="2024-07-27T22:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC03" Language="ENG" />
+</Session>
+<Session SessionCode="HOC04" StartDate="2024-07-27T17:30:00+02:00" EndDate="2024-07-27T22:30:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC04" Language="ENG" />
+</Session>
+<Session SessionCode="HOC05" StartDate="2024-07-28T10:00:00+02:00" EndDate="2024-07-28T15:00:00+02:00" Leadin="0:30" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC05" Language="ENG" />
+</Session>
+<Session SessionCode="HOC06" StartDate="2024-07-28T10:30:00+02:00" EndDate="2024-07-28T15:30:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC06" Language="ENG" />
+</Session>
+<Session SessionCode="HOC07" StartDate="2024-07-28T17:00:00+02:00" EndDate="2024-07-28T22:00:00+02:00" Leadin="0:30" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC07" Language="ENG" />
+</Session>
+<Session SessionCode="HOC08" StartDate="2024-07-28T17:30:00+02:00" EndDate="2024-07-28T22:30:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC08" Language="ENG" />
+</Session>
+<Session SessionCode="HOC09" StartDate="2024-07-29T10:00:00+02:00" EndDate="2024-07-29T15:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC09" Language="ENG" />
+</Session>
+<Session SessionCode="HOC10" StartDate="2024-07-29T10:30:00+02:00" EndDate="2024-07-29T15:30:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC10" Language="ENG" />
+</Session>
+<Session SessionCode="HOC11" StartDate="2024-07-29T17:00:00+02:00" EndDate="2024-07-29T22:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC11" Language="ENG" />
+</Session>
+<Session SessionCode="HOC12" StartDate="2024-07-29T17:30:00+02:00" EndDate="2024-07-29T22:30:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC12" Language="ENG" />
+</Session>
+<Session SessionCode="HOC13" StartDate="2024-07-30T10:00:00+02:00" EndDate="2024-07-30T15:00:00+02:00" Leadin="0:30" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC13" Language="ENG" />
+</Session>
+<Session SessionCode="HOC14" StartDate="2024-07-30T10:30:00+02:00" EndDate="2024-07-30T15:30:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC14" Language="ENG" />
+</Session>
+<Session SessionCode="HOC15" StartDate="2024-07-30T17:00:00+02:00" EndDate="2024-07-30T22:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC15" Language="ENG" />
+</Session>
+<Session SessionCode="HOC16" StartDate="2024-07-31T10:00:00+02:00" EndDate="2024-07-31T15:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC16" Language="ENG" />
+</Session>
+<Session SessionCode="HOC17" StartDate="2024-07-31T10:30:00+02:00" EndDate="2024-07-31T15:30:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC17" Language="ENG" />
+</Session>
+<Session SessionCode="HOC18" StartDate="2024-07-31T17:00:00+02:00" EndDate="2024-07-31T22:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC18" Language="ENG" />
+</Session>
+<Session SessionCode="HOC19" StartDate="2024-07-31T17:30:00+02:00" EndDate="2024-07-31T22:30:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC19" Language="ENG" />
+</Session>
+<Session SessionCode="HOC20" StartDate="2024-08-01T10:00:00+02:00" EndDate="2024-08-01T15:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC20" Language="ENG" />
+</Session>
+<Session SessionCode="HOC21" StartDate="2024-08-01T10:30:00+02:00" EndDate="2024-08-01T15:30:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC21" Language="ENG" />
+</Session>
+<Session SessionCode="HOC22" StartDate="2024-08-01T17:00:00+02:00" EndDate="2024-08-01T22:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC22" Language="ENG" />
+</Session>
+<Session SessionCode="HOC23" StartDate="2024-08-01T17:30:00+02:00" EndDate="2024-08-01T22:30:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC23" Language="ENG" />
+</Session>
+<Session SessionCode="HOC24" StartDate="2024-08-02T10:00:00+02:00" EndDate="2024-08-02T15:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC24" Language="ENG" />
+</Session>
+<Session SessionCode="HOC25" StartDate="2024-08-02T10:30:00+02:00" EndDate="2024-08-02T15:30:00+02:00" Leadin="6:30" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC25" Language="ENG" />
+</Session>
+<Session SessionCode="HOC26" StartDate="2024-08-02T17:00:00+02:00" EndDate="2024-08-02T22:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC26" Language="ENG" />
+</Session>
+<Session SessionCode="HOC27" StartDate="2024-08-02T17:30:00+02:00" EndDate="2024-08-02T22:30:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC27" Language="ENG" />
+</Session>
+<Session SessionCode="HOC28" StartDate="2024-08-03T10:00:00+02:00" EndDate="2024-08-03T15:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC28" Language="ENG" />
+</Session>
+<Session SessionCode="HOC29" StartDate="2024-08-03T10:30:00+02:00" EndDate="2024-08-03T15:30:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC29" Language="ENG" />
+</Session>
+<Session SessionCode="HOC30" StartDate="2024-08-03T17:00:00+02:00" EndDate="2024-08-03T22:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC30" Language="ENG" />
+</Session>
+<Session SessionCode="HOC31" StartDate="2024-08-04T10:00:00+02:00" EndDate="2024-08-04T15:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC31" Language="ENG" />
+</Session>
+<Session SessionCode="HOC32" StartDate="2024-08-04T17:30:00+02:00" EndDate="2024-08-04T22:30:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC32" Language="ENG" />
+</Session>
+<Session SessionCode="HOC33" StartDate="2024-08-05T10:00:00+02:00" EndDate="2024-08-05T15:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC33" Language="ENG" />
+</Session>
+<Session SessionCode="HOC34" StartDate="2024-08-05T17:30:00+02:00" EndDate="2024-08-05T22:30:00+02:00" Leadin="-7:-30" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HOC34" Language="ENG" />
+</Session>
+<Session SessionCode="HOC35" StartDate="2024-08-06T14:00:00+02:00" EndDate="2024-08-06T16:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HOC35" Language="ENG" />
+</Session>
+<Session SessionCode="HOC36" StartDate="2024-08-06T19:00:00+02:00" EndDate="2024-08-06T21:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HOC36" Language="ENG" />
+</Session>
+<Session SessionCode="HOC37" StartDate="2024-08-07T14:00:00+02:00" EndDate="2024-08-07T16:00:00+02:00" Leadin="5:0" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HOC37" Language="ENG" />
+</Session>
+<Session SessionCode="HOC38" StartDate="2024-08-07T19:00:00+02:00" EndDate="2024-08-07T21:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HOC38" Language="ENG" />
+</Session>
+<Session SessionCode="HOC39" StartDate="2024-08-08T14:00:00+02:00" EndDate="2024-08-08T16:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HOC39" Language="ENG" />
+</Session>
+<Session SessionCode="HOC40" StartDate="2024-08-08T19:00:00+02:00" EndDate="2024-08-08T21:30:00+02:00" Medal="1" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HOC40" Language="ENG" />
+</Session>
+<Session SessionCode="HOC41" StartDate="2024-08-09T14:00:00+02:00" EndDate="2024-08-09T16:00:00+02:00" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HOC41" Language="ENG" />
+</Session>
+<Session SessionCode="HOC42" StartDate="2024-08-09T20:00:00+02:00" EndDate="2024-08-09T22:30:00+02:00" Medal="1" Venue="YDM" VenueName="Yves-du-Manoir Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HOC42" Language="ENG" />
+</Session>
+<Unit Code="HOCMTEAM11------------TMRY000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T10:00:00+02:00" EndDate="2024-07-27T11:30:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC01">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T12:45:00+02:00" EndDate="2024-07-27T14:15:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC01">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T10:30:00+02:00" EndDate="2024-07-27T12:00:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC02">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T13:15:00+02:00" EndDate="2024-07-27T14:45:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC02">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T17:00:00+02:00" EndDate="2024-07-27T18:30:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC03">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T19:45:00+02:00" EndDate="2024-07-27T21:15:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC03">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T17:30:00+02:00" EndDate="2024-07-27T19:00:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC04">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T19:30:00+02:00" EndDate="2024-07-27T21:00:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC04">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T10:30:00+02:00" EndDate="2024-07-28T12:00:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC05">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T13:15:00+02:00" EndDate="2024-07-28T14:45:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC05">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T10:30:00+02:00" EndDate="2024-07-28T12:00:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC06">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T13:15:00+02:00" EndDate="2024-07-28T14:45:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC06">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T17:30:00+02:00" EndDate="2024-07-28T19:00:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC07">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T20:15:00+02:00" EndDate="2024-07-28T21:45:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC07">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY001000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T17:30:00+02:00" EndDate="2024-07-28T19:00:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC08">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY000900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T20:15:00+02:00" EndDate="2024-07-28T21:45:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC08">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY001100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T10:00:00+02:00" EndDate="2024-07-29T11:30:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC09">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY001200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T12:45:00+02:00" EndDate="2024-07-29T14:15:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC09">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T10:30:00+02:00" EndDate="2024-07-29T12:00:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC10">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T13:15:00+02:00" EndDate="2024-07-29T14:45:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC10">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY000900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T17:00:00+02:00" EndDate="2024-07-29T18:30:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC11">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY001000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T19:45:00+02:00" EndDate="2024-07-29T21:15:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC11">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY001100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T17:30:00+02:00" EndDate="2024-07-29T19:00:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC12">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY001200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T20:15:00+02:00" EndDate="2024-07-29T21:45:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC12">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY001700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T10:30:00+02:00" EndDate="2024-07-30T12:00:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC13">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY001400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T13:15:00+02:00" EndDate="2024-07-30T14:45:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC13">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY001300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T10:30:00+02:00" EndDate="2024-07-30T12:00:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC14">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY001500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T13:15:00+02:00" EndDate="2024-07-30T14:45:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC14">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY001600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T17:00:00+02:00" EndDate="2024-07-30T18:30:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC15">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY001800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T19:45:00+02:00" EndDate="2024-07-30T21:15:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC15">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY001300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T10:00:00+02:00" EndDate="2024-07-31T11:30:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC16">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY001400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T12:45:00+02:00" EndDate="2024-07-31T14:15:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC16">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY001500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T10:30:00+02:00" EndDate="2024-07-31T12:00:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC17">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY001600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T13:15:00+02:00" EndDate="2024-07-31T14:45:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC17">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY001900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T17:00:00+02:00" EndDate="2024-07-31T18:30:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC18">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY001700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T19:45:00+02:00" EndDate="2024-07-31T21:15:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC18">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY002000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T17:30:00+02:00" EndDate="2024-07-31T19:00:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC19">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY001800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T20:15:00+02:00" EndDate="2024-07-31T21:45:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC19">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY002100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T10:00:00+02:00" EndDate="2024-08-01T11:30:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC20">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY002200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:45:00+02:00" EndDate="2024-08-01T14:15:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC20">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY002300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T10:30:00+02:00" EndDate="2024-08-01T12:00:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC21">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY002400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T13:15:00+02:00" EndDate="2024-08-01T14:45:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC21">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY001900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T17:00:00+02:00" EndDate="2024-08-01T18:30:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC22">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY002000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T19:45:00+02:00" EndDate="2024-08-01T21:15:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC22">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY002100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T17:30:00+02:00" EndDate="2024-08-01T19:00:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC23">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY002200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T20:15:00+02:00" EndDate="2024-08-01T21:45:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC23">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY002300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T10:00:00+02:00" EndDate="2024-08-02T11:30:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC24">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY002400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T12:45:00+02:00" EndDate="2024-08-02T14:15:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC24">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY002500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T17:00:00+02:00" EndDate="2024-08-02T18:30:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC25">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY002600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T19:45:00+02:00" EndDate="2024-08-02T21:15:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC25">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY002700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T17:00:00+02:00" EndDate="2024-08-02T18:30:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC26">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY002800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T19:45:00+02:00" EndDate="2024-08-02T21:15:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC26">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY002900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T17:30:00+02:00" EndDate="2024-08-02T19:00:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC27">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCMTEAM11------------TMRY003000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T20:15:00+02:00" EndDate="2024-08-02T21:45:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC27">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY002500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T10:00:00+02:00" EndDate="2024-08-03T11:30:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC28">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY002600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T12:45:00+02:00" EndDate="2024-08-03T14:15:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC28">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY002700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T10:30:00+02:00" EndDate="2024-08-03T12:00:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC29">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY002800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T13:15:00+02:00" EndDate="2024-08-03T14:45:00+02:00" Venue="YDM" Location="HO2" SessionCode="HOC29">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 2" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY002900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T17:00:00+02:00" EndDate="2024-08-03T18:30:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC30">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------TMRY003000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T19:45:00+02:00" EndDate="2024-08-03T21:15:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC30">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T10:00:00+02:00" EndDate="2024-08-04T11:45:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC31">
+<ItemName Language="ENG" Value="Men's Quarter-final" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T12:30:00+02:00" EndDate="2024-08-04T14:15:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC31">
+<ItemName Language="ENG" Value="Men's Quarter-final" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T17:30:00+02:00" EndDate="2024-08-04T19:15:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC32">
+<ItemName Language="ENG" Value="Men's Quarter-final" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T20:00:00+02:00" EndDate="2024-08-04T21:45:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC32">
+<ItemName Language="ENG" Value="Men's Quarter-final" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T10:00:00+02:00" EndDate="2024-08-05T11:45:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC33">
+<ItemName Language="ENG" Value="Women's Quarter-final" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T12:30:00+02:00" EndDate="2024-08-05T14:15:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC33">
+<ItemName Language="ENG" Value="Women's Quarter-final" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T10:00:00+02:00" EndDate="2024-08-05T11:45:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC34">
+<ItemName Language="ENG" Value="Women's Quarter-final" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T12:30:00+02:00" EndDate="2024-08-05T14:15:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC34">
+<ItemName Language="ENG" Value="Women's Quarter-final" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T14:00:00+02:00" EndDate="2024-08-06T15:45:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC35">
+<ItemName Language="ENG" Value="Men's Semi-final" />
+<ItemName Language="FRA" Value="Hommes, demi-finale" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T19:00:00+02:00" EndDate="2024-08-06T20:45:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC36">
+<ItemName Language="ENG" Value="Men's Semi-final" />
+<ItemName Language="FRA" Value="Hommes, demi-finale" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T19:00:00+02:00" EndDate="2024-08-07T20:45:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC37">
+<ItemName Language="ENG" Value="Women's Semi-final" />
+<ItemName Language="FRA" Value="Femmes, demi-finale" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T19:00:00+02:00" EndDate="2024-08-07T20:45:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC38">
+<ItemName Language="ENG" Value="Women's Semi-final" />
+<ItemName Language="FRA" Value="Femmes, demi-finale" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T14:00:00+02:00" EndDate="2024-08-08T15:45:00+02:00" Medal="3" Venue="YDM" Location="HO1" SessionCode="HOC39">
+<ItemName Language="ENG" Value="Men's Bronze Medal Match" />
+<ItemName Language="FRA" Value="Hommes, médaille de bronze" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T19:00:00+02:00" EndDate="2024-08-08T20:45:00+02:00" Medal="1" Venue="YDM" Location="HO1" SessionCode="HOC40">
+<ItemName Language="ENG" Value="Men's Gold Medal Match" />
+<ItemName Language="FRA" Value="Hommes, médaille d'or" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T20:55:00+02:00" EndDate="2024-08-08T21:10:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC40">
+<ItemName Language="ENG" Value="Men's Victory Ceremony" />
+<ItemName Language="FRA" Value="Hommes, remise des médailles" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T14:00:00+02:00" EndDate="2024-08-09T15:45:00+02:00" Medal="3" Venue="YDM" Location="HO1" SessionCode="HOC41">
+<ItemName Language="ENG" Value="Women's Bronze Medal Match" />
+<ItemName Language="FRA" Value="Femmes, médaille de bronze" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T20:00:00+02:00" EndDate="2024-08-09T21:45:00+02:00" Medal="1" Venue="YDM" Location="HO1" SessionCode="HOC42">
+<ItemName Language="ENG" Value="Women's Gold Medal Match" />
+<ItemName Language="FRA" Value="Femmes, médaille d'or" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCWTEAM11------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T21:55:00+02:00" EndDate="2024-08-09T22:10:00+02:00" Venue="YDM" Location="HO1" SessionCode="HOC42">
+<ItemName Language="ENG" Value="Women's Victory Ceremony" />
+<ItemName Language="FRA" Value="Femmes, remise des médailles" />
+<VenueDescription VenueName="Yves-du-Manoir Stadium" LocationName="Yves-du-Manoir Stadium - 1" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPA-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPA-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPA-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPA-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPA-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPA-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPA-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPA-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPA-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPA-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPA-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPA-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPA-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPA-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPA-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Men's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPB-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPB-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPB-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPB-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPB-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPB-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPB-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPB-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPB-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPB-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPB-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPB-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPB-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPB-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCMTEAM11------------GPB-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Men's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPA-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPA-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPA-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPA-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPA-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPA-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPA-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPA-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPA-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPA-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPA-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPA-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPA-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPA-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPA-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe A" />
+<ItemName Language="ENG" Value="Women's Pool A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPB-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPB-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPB-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPB-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPB-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPB-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPB-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPB-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPB-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPB-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPB-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPB-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPB-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPB-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HOCWTEAM11------------GPB-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, éliminatoires - groupe B" />
+<ItemName Language="ENG" Value="Women's Pool B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

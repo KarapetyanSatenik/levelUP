@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="OWS-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="160153826" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="OWS01" StartDate="2024-08-08T07:30:00+02:00" EndDate="2024-08-08T10:30:00+02:00" Medal="1" Venue="ALX" VenueName="Pont Alexandre III" SessionStatus="SCHEDULED" SessionType="MOR">
+<SessionName Value="OWS01" Language="ENG" />
+</Session>
+<Session SessionCode="OWS02" StartDate="2024-08-09T07:30:00+02:00" EndDate="2024-08-09T10:30:00+02:00" Medal="1" Venue="ALX" VenueName="Pont Alexandre III" SessionStatus="SCHEDULED" SessionType="MOR">
+<SessionName Value="OWS02" Language="ENG" />
+</Session>
+<Unit Code="OWSW10KM--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T07:30:00+02:00" EndDate="2024-08-08T10:00:00+02:00" Medal="1" Venue="ALX" Location="ALX" SessionCode="OWS01">
+<ItemName Language="ENG" Value="Women's 10km" />
+<ItemName Language="FRA" Value="10 km - femmes" />
+<VenueDescription VenueName="Pont Alexandre III" LocationName="Pont Alexandre III" />
+</Unit>
+<Unit Code="OWSW10KM--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T10:10:00+02:00" EndDate="2024-08-08T10:20:00+02:00" Venue="ALX" Location="ALX" SessionCode="OWS01">
+<ItemName Language="ENG" Value="Women's 10km Victory Ceremony" />
+<ItemName Language="FRA" Value="10 km - femmes, remise des médailles" />
+<VenueDescription VenueName="Pont Alexandre III" LocationName="Pont Alexandre III" />
+</Unit>
+<Unit Code="OWSM10KM--------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T07:30:00+02:00" EndDate="2024-08-09T10:00:00+02:00" Medal="1" Venue="ALX" Location="ALX" SessionCode="OWS02">
+<ItemName Language="ENG" Value="Men's 10km" />
+<ItemName Language="FRA" Value="10 km - hommes" />
+<VenueDescription VenueName="Pont Alexandre III" LocationName="Pont Alexandre III" />
+</Unit>
+<Unit Code="OWSM10KM--------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T10:10:00+02:00" EndDate="2024-08-09T10:20:00+02:00" Venue="ALX" Location="ALX" SessionCode="OWS02">
+<ItemName Language="ENG" Value="Men's 10km Victory Ceremony" />
+<ItemName Language="FRA" Value="10 km - hommes, remise des médailles" />
+<VenueDescription VenueName="Pont Alexandre III" LocationName="Pont Alexandre III" />
+</Unit>
+<Unit Code="OWS-------------------MEET000100--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Marathon Swimming technical meeting" />
+<ItemName Language="FRA" Value="Natation de marathon - réunion technique" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

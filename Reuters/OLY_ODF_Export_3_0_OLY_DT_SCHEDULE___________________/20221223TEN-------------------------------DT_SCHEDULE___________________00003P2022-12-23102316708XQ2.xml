@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="TEN-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="160245304" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="TEN01" StartDate="2024-07-27T12:00:00+02:00" EndDate="2024-07-27T17:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN01" Language="ENG" />
+</Session>
+<Session SessionCode="TEN02" StartDate="2024-07-27T12:00:00+02:00" EndDate="2024-07-27T19:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN02" Language="ENG" />
+</Session>
+<Session SessionCode="TEN03" StartDate="2024-07-27T12:00:00+02:00" EndDate="2024-07-27T19:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN03" Language="ENG" />
+</Session>
+<Session SessionCode="TEN04" StartDate="2024-07-27T12:00:00+02:00" EndDate="2024-07-27T19:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN04" Language="ENG" />
+</Session>
+<Session SessionCode="TEN05" StartDate="2024-07-27T19:00:00+02:00" EndDate="2024-07-27T23:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="TEN05" Language="ENG" />
+</Session>
+<Session SessionCode="TEN06" StartDate="2024-07-28T12:00:00+02:00" EndDate="2024-07-28T17:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN06" Language="ENG" />
+</Session>
+<Session SessionCode="TEN07" StartDate="2024-07-28T12:00:00+02:00" EndDate="2024-07-28T19:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN07" Language="ENG" />
+</Session>
+<Session SessionCode="TEN08" StartDate="2024-07-28T12:00:00+02:00" EndDate="2024-07-28T19:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN08" Language="ENG" />
+</Session>
+<Session SessionCode="TEN09" StartDate="2024-07-28T12:00:00+02:00" EndDate="2024-07-28T19:00:00+02:00" Leadin="7:0" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN09" Language="ENG" />
+</Session>
+<Session SessionCode="TEN10" StartDate="2024-07-28T19:00:00+02:00" EndDate="2024-07-28T23:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="TEN10" Language="ENG" />
+</Session>
+<Session SessionCode="TEN11" StartDate="2024-07-29T12:00:00+02:00" EndDate="2024-07-29T17:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN11" Language="ENG" />
+</Session>
+<Session SessionCode="TEN12" StartDate="2024-07-29T12:00:00+02:00" EndDate="2024-07-29T19:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN12" Language="ENG" />
+</Session>
+<Session SessionCode="TEN13" StartDate="2024-07-29T12:00:00+02:00" EndDate="2024-07-29T19:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN13" Language="ENG" />
+</Session>
+<Session SessionCode="TEN14" StartDate="2024-07-29T12:00:00+02:00" EndDate="2024-07-29T19:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN14" Language="ENG" />
+</Session>
+<Session SessionCode="TEN15" StartDate="2024-07-29T19:00:00+02:00" EndDate="2024-07-29T23:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="TEN15" Language="ENG" />
+</Session>
+<Session SessionCode="TEN16" StartDate="2024-07-30T12:00:00+02:00" EndDate="2024-07-30T17:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN16" Language="ENG" />
+</Session>
+<Session SessionCode="TEN17" StartDate="2024-07-30T12:00:00+02:00" EndDate="2024-07-30T19:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN17" Language="ENG" />
+</Session>
+<Session SessionCode="TEN18" StartDate="2024-07-30T12:00:00+02:00" EndDate="2024-07-30T19:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN18" Language="ENG" />
+</Session>
+<Session SessionCode="TEN19" StartDate="2024-07-30T12:00:00+02:00" EndDate="2024-07-30T19:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN19" Language="ENG" />
+</Session>
+<Session SessionCode="TEN20" StartDate="2024-07-30T19:00:00+02:00" EndDate="2024-07-30T23:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="TEN20" Language="ENG" />
+</Session>
+<Session SessionCode="TEN21" StartDate="2024-07-31T12:00:00+02:00" EndDate="2024-07-31T17:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN21" Language="ENG" />
+</Session>
+<Session SessionCode="TEN22" StartDate="2024-07-31T12:00:00+02:00" EndDate="2024-07-31T19:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN22" Language="ENG" />
+</Session>
+<Session SessionCode="TEN23" StartDate="2024-07-31T12:00:00+02:00" EndDate="2024-07-31T19:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN23" Language="ENG" />
+</Session>
+<Session SessionCode="TEN24" StartDate="2024-07-31T12:00:00+02:00" EndDate="2024-07-31T19:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN24" Language="ENG" />
+</Session>
+<Session SessionCode="TEN25" StartDate="2024-07-31T19:00:00+02:00" EndDate="2024-07-31T23:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="TEN25" Language="ENG" />
+</Session>
+<Session SessionCode="TEN26" StartDate="2024-08-01T12:00:00+02:00" EndDate="2024-08-01T17:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN26" Language="ENG" />
+</Session>
+<Session SessionCode="TEN27" StartDate="2024-08-01T12:00:00+02:00" EndDate="2024-08-01T19:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN27" Language="ENG" />
+</Session>
+<Session SessionCode="TEN28" StartDate="2024-08-01T12:00:00+02:00" EndDate="2024-08-01T19:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN28" Language="ENG" />
+</Session>
+<Session SessionCode="TEN29" StartDate="2024-08-01T19:00:00+02:00" EndDate="2024-08-01T23:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="TEN29" Language="ENG" />
+</Session>
+<Session SessionCode="TEN30" StartDate="2024-08-02T12:00:00+02:00" EndDate="2024-08-02T17:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN30" Language="ENG" />
+</Session>
+<Session SessionCode="TEN31" StartDate="2024-08-02T12:00:00+02:00" EndDate="2024-08-02T17:00:00+02:00" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN31" Language="ENG" />
+</Session>
+<Session SessionCode="TEN32" StartDate="2024-08-02T19:00:00+02:00" EndDate="2024-08-02T23:30:00+02:00" Medal="1" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="TEN32" Language="ENG" />
+</Session>
+<Session SessionCode="TEN33" StartDate="2024-08-03T12:00:00+02:00" EndDate="2024-08-03T19:00:00+02:00" Medal="2" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN33" Language="ENG" />
+</Session>
+<Session SessionCode="TEN34" StartDate="2024-08-04T12:00:00+02:00" EndDate="2024-08-04T19:00:00+02:00" Medal="2" Venue="RGA" VenueName="Roland-Garros" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="TEN34" Language="ENG" />
+</Session>
+<Unit Code="TEN-------------------TMRY002500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T12:00:00+02:00" EndDate="2024-07-27T17:00:00+02:00" Venue="RGA" Location="TPC" SessionCode="TEN01">
+<ItemName Language="ENG" Value="MS First Rnd/WS First Rnd" />
+<ItemName Language="FRA" Value="MS First Rnd/WS First Rnd" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TEN-------------------TMRY002600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T12:00:00+02:00" EndDate="2024-07-27T19:00:00+02:00" Venue="RGA" Location="TSL" SessionCode="TEN02">
+<ItemName Language="ENG" Value="MS &amp; WS First Rnd/MD &amp; WD First Rnd" />
+<ItemName Language="FRA" Value="MS &amp; WS First Rnd/MD &amp; WD First Rnd" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Suzanne Lenglen" />
+</Unit>
+<Unit Code="TEN-------------------TMRY002700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T12:00:00+02:00" EndDate="2024-07-27T19:00:00+02:00" Venue="RGA" Location="TSM" SessionCode="TEN03">
+<ItemName Language="ENG" Value="MS &amp; WS First Rnd/MD &amp; WD First Rnd" />
+<ItemName Language="FRA" Value="MS &amp; WS First Rnd/MD &amp; WD First Rnd" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Simonne Mathieu" />
+</Unit>
+<Unit Code="TEN-------------------TMRY002800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T12:00:00+02:00" EndDate="2024-07-27T19:00:00+02:00" Venue="RGA" Location="T20" SessionCode="TEN04">
+<ItemName Language="ENG" Value="MS &amp; WS First Rnd/MD &amp; WD First Rnd" />
+<ItemName Language="FRA" Value="MS &amp; WS First Rnd/MD &amp; WD First Rnd" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros Outside Crts" />
+</Unit>
+<Unit Code="TEN-------------------TMRY002900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T19:00:00+02:00" EndDate="2024-07-27T23:00:00+02:00" Venue="RGA" Location="TPC" SessionCode="TEN05">
+<ItemName Language="ENG" Value="MS First Rnd/WS First Rnd" />
+<ItemName Language="FRA" Value="MS First Rnd/WS First Rnd" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TEN-------------------TMRY002000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T12:00:00+02:00" EndDate="2024-07-28T17:00:00+02:00" Venue="RGA" Location="TPC" SessionCode="TEN06">
+<ItemName Language="ENG" Value="MS First Rnd/WS First Rnd" />
+<ItemName Language="FRA" Value="MS First Rnd/WS First Rnd" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TEN-------------------TMRY002100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T12:00:00+02:00" EndDate="2024-07-28T19:00:00+02:00" Venue="RGA" Location="TSL" SessionCode="TEN07">
+<ItemName Language="ENG" Value="MS &amp; WS First Rnd/MD &amp; WD First Rnd" />
+<ItemName Language="FRA" Value="MS &amp; WS First Rnd/MD &amp; WD First Rnd" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Suzanne Lenglen" />
+</Unit>
+<Unit Code="TEN-------------------TMRY002200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T12:00:00+02:00" EndDate="2024-07-28T19:00:00+02:00" Venue="RGA" Location="TSM" SessionCode="TEN08">
+<ItemName Language="ENG" Value="MS &amp; WS First Rnd/MD &amp; WD First Rnd" />
+<ItemName Language="FRA" Value="MS &amp; WS First Rnd/MD &amp; WD First Rnd" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Simonne Mathieu" />
+</Unit>
+<Unit Code="TEN-------------------TMRY002300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T19:00:00+02:00" EndDate="2024-07-28T19:00:00+02:00" Venue="RGA" Location="T20" SessionCode="TEN09">
+<ItemName Language="ENG" Value="MS &amp; WS First Rnd/MD &amp; WD First Rnd" />
+<ItemName Language="FRA" Value="MS &amp; WS First Rnd/MD &amp; WD First Rnd" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros Outside Crts" />
+</Unit>
+<Unit Code="TEN-------------------TMRY002400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T19:00:00+02:00" EndDate="2024-07-28T23:00:00+02:00" Venue="RGA" Location="TPC" SessionCode="TEN10">
+<ItemName Language="ENG" Value="MS First Rnd/WS First Rnd" />
+<ItemName Language="FRA" Value="MS First Rnd/WS First Rnd" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TEN-------------------TMRY003000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T12:00:00+02:00" EndDate="2024-07-29T17:00:00+02:00" Venue="RGA" Location="TPC" SessionCode="TEN11">
+<ItemName Language="ENG" Value="MS Second Rnd/WS Second Rnd" />
+<ItemName Language="FRA" Value="MS Second Rnd/WS Second Rnd" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TEN-------------------TMRY003200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T12:00:00+02:00" EndDate="2024-07-29T19:00:00+02:00" Venue="RGA" Location="TSL" SessionCode="TEN12">
+<ItemName Language="ENG" Value="MS &amp; WS 2nd Rnd/MD &amp; WD 2nd Rnd/XD 1st R" />
+<ItemName Language="FRA" Value="MS &amp; WS 2nd Rnd/MD &amp; WD 2nd Rnd/XD 1st R" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Suzanne Lenglen" />
+</Unit>
+<Unit Code="TEN-------------------TMRY003300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T12:00:00+02:00" EndDate="2024-07-29T19:00:00+02:00" Venue="RGA" Location="TSM" SessionCode="TEN13">
+<ItemName Language="ENG" Value="MS &amp; WS 2nd Rnd/MD &amp; WD 2nd Rnd/XD 1st R" />
+<ItemName Language="FRA" Value="MS &amp; WS 2nd Rnd/MD &amp; WD 2nd Rnd/XD 1st R" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Simonne Mathieu" />
+</Unit>
+<Unit Code="TEN-------------------TMRY003400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T12:00:00+02:00" EndDate="2024-07-29T19:00:00+02:00" Venue="RGA" Location="T20" SessionCode="TEN14">
+<ItemName Language="ENG" Value="MS &amp; WS 2nd Rnd/MD &amp; WD 2nd Rnd/XD 1st R" />
+<ItemName Language="FRA" Value="MS &amp; WS 2nd Rnd/MD &amp; WD 2nd Rnd/XD 1st R" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros Outside Crts" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R32-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T19:00:00+02:00" HideStartDate="Y" Order="1" EndDate="2024-07-29T19:00:00+02:00" HideEndDate="Y" Venue="RGA" Location="TPC" SessionCode="TEN15">
+<ItemName Language="ENG" Value="Men's Singles Second Round" />
+<ItemName Language="FRA" Value="Simple hommes, 2e tour" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R32-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T19:00:00+02:00" HideStartDate="Y" Order="2" EndDate="2024-07-29T19:00:00+02:00" HideEndDate="Y" Venue="RGA" Location="TPC" SessionCode="TEN15">
+<ItemName Language="ENG" Value="Women's Singles Second Round" />
+<ItemName Language="FRA" Value="Simple femmes, 2e tour" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TEN-------------------TMRY003600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T12:00:00+02:00" EndDate="2024-07-30T17:00:00+02:00" Venue="RGA" Location="TPC" SessionCode="TEN16">
+<ItemName Language="ENG" Value="MS Second Rnd/WS Third Rnd" />
+<ItemName Language="FRA" Value="MS Second Rnd/WS Third Rnd" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TEN-------------------TMRY003700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T12:00:00+02:00" EndDate="2024-07-30T19:00:00+02:00" Venue="RGA" Location="TSL" SessionCode="TEN17">
+<ItemName Language="ENG" Value="MS R2/WS R3/MD R3/WD R2/XD R1" />
+<ItemName Language="FRA" Value="MS R2/WS R3/MD R3/WD R2/XD R1" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Suzanne Lenglen" />
+</Unit>
+<Unit Code="TEN-------------------TMRY003800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T12:00:00+02:00" EndDate="2024-07-30T19:00:00+02:00" Venue="RGA" Location="TSM" SessionCode="TEN18">
+<ItemName Language="ENG" Value="MS R2/WS R3/MD R3/WD R2/XD R2" />
+<ItemName Language="FRA" Value="MS R2/WS R3/MD R3/WD R2/XD R2" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Simonne Mathieu" />
+</Unit>
+<Unit Code="TEN-------------------TMRY003900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T12:00:00+02:00" EndDate="2024-07-30T19:00:00+02:00" Venue="RGA" Location="T20" SessionCode="TEN19">
+<ItemName Language="ENG" Value="MS R2/WS R3/MD R3/WD R2/XD R3" />
+<ItemName Language="FRA" Value="MS R2/WS R3/MD R3/WD R2/XD R3" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros Outside Crts" />
+</Unit>
+<Unit Code="TEN-------------------TMRY004000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T19:00:00+02:00" EndDate="2024-07-30T23:00:00+02:00" Venue="RGA" Location="TPC" SessionCode="TEN20">
+<ItemName Language="ENG" Value="MS Second Rnd/WS Third Rnd" />
+<ItemName Language="FRA" Value="MS Second Rnd/WS Third Rnd" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TEN-------------------TMRY004500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T12:00:00+02:00" EndDate="2024-07-31T17:00:00+02:00" Venue="RGA" Location="TPC" SessionCode="TEN21">
+<ItemName Language="ENG" Value="MS Third Rnd/WS Quarterfinals" />
+<ItemName Language="FRA" Value="MS Third Rnd/WS Quarterfinals" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TEN-------------------TMRY004200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T12:00:00+02:00" EndDate="2024-07-31T19:00:00+02:00" Venue="RGA" Location="TSL" SessionCode="TEN22">
+<ItemName Language="ENG" Value="MS Third Rnd/WS QF/MD SF/WD QF/XD QF" />
+<ItemName Language="FRA" Value="MS Third Rnd/WS QF/MD SF/WD QF/XD QF" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Suzanne Lenglen" />
+</Unit>
+<Unit Code="TEN-------------------TMRY004300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T12:00:00+02:00" EndDate="2024-07-31T19:00:00+02:00" Venue="RGA" Location="TSM" SessionCode="TEN23">
+<ItemName Language="ENG" Value="MS Third Rnd/MD SF/WD QF/XD QF" />
+<ItemName Language="FRA" Value="MS Third Rnd/MD SF/WD QF/XD QF" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Simonne Mathieu" />
+</Unit>
+<Unit Code="TEN-------------------TMRY004400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T12:00:00+02:00" EndDate="2024-07-31T19:00:00+02:00" Venue="RGA" Location="T20" SessionCode="TEN24">
+<ItemName Language="ENG" Value="MS Third Rnd/WD QF/XD QF" />
+<ItemName Language="FRA" Value="MS Third Rnd/WD QF/XD QF" />
+<VenueDescription VenueName="Roland-Garros" LocationName="Roland-Garros Outside Crts" />
+</Unit>
+<Unit Code="TEN-------------------TMRY004100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T19:00:00+02:00" EndDate="2024-07-31T23:00:00+02:00" Venue="RGA" Location="TPC" SessionCode="TEN25">
+<ItemName Language="ENG" Value="MS Third Rnd/WS Quarterfinals" />
+<ItemName Language="FRA" Value="MS Third Rnd/WS Quarterfinals" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TEN-------------------TMRY004600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:00:00+02:00" EndDate="2024-08-01T17:00:00+02:00" Venue="RGA" Location="TPC" SessionCode="TEN26">
+<ItemName Language="ENG" Value="MS Quarterfinals/WS Semifinals" />
+<ItemName Language="FRA" Value="MS Quarterfinals/WS Semifinals" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TEN-------------------TMRY004700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:00:00+02:00" EndDate="2024-08-01T19:00:00+02:00" Venue="RGA" Location="TSL" SessionCode="TEN27">
+<ItemName Language="ENG" Value="MS QF/WD Semifinals/XD Semifinals" />
+<ItemName Language="FRA" Value="MS QF/WD Semifinals/XD Semifinals" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Suzanne Lenglen" />
+</Unit>
+<Unit Code="TEN-------------------TMRY004800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T12:00:00+02:00" EndDate="2024-08-01T19:00:00+02:00" Venue="RGA" Location="TSM" SessionCode="TEN28">
+<ItemName Language="ENG" Value="WD Semifinals/XD Semifinals" />
+<ItemName Language="FRA" Value="WD Semifinals/XD Semifinals" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Simonne Mathieu" />
+</Unit>
+<Unit Code="TEN-------------------TMRY004900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T19:00:00+02:00" EndDate="2024-08-01T23:00:00+02:00" Venue="RGA" Location="TPC" SessionCode="TEN29">
+<ItemName Language="ENG" Value="MS Quarterfinals/WS Semifinals" />
+<ItemName Language="FRA" Value="MS Quarterfinals/WS Semifinals" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TEN-------------------TMRY005000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T12:00:00+02:00" EndDate="2024-08-02T17:00:00+02:00" Venue="RGA" Location="TPC" SessionCode="TEN30">
+<ItemName Language="ENG" Value="MS Semifinals/WS Bronze Medal Match" />
+<ItemName Language="FRA" Value="MS Semifinals/WS Bronze Medal Match" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T12:00:00+02:00" EndDate="2024-08-02T12:00:00+02:00" Medal="3" Venue="RGA" Location="TSL" SessionCode="TEN31">
+<ItemName Language="ENG" Value="Men's Doubles Bronze Medal Match" />
+<ItemName Language="FRA" Value="Double hommes, match bronze" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Suzanne Lenglen" />
+</Unit>
+<Unit Code="TENXDOUBLES-----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T12:00:00+02:00" EndDate="2024-08-02T12:00:00+02:00" Medal="3" Venue="RGA" Location="TSL" SessionCode="TEN31">
+<ItemName Language="ENG" Value="Mixed Doubles Bronze Medal Match" />
+<ItemName Language="FRA" Value="Double mixte, match bronze" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Suzanne Lenglen" />
+</Unit>
+<Unit Code="TENMSINGLES-----------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T19:00:00+02:00" EndDate="2024-08-02T19:00:00+02:00" Venue="RGA" Location="TPC" SessionCode="TEN32">
+<ItemName Language="ENG" Value="Men's Singles Semi-final" />
+<ItemName Language="FRA" Value="Simple hommes, demi-finale" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TENXDOUBLES-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T19:00:00+02:00" EndDate="2024-08-02T19:00:00+02:00" Medal="1" Venue="RGA" Location="TPC" SessionCode="TEN32">
+<ItemName Language="ENG" Value="Mixed Doubles Gold Medal Match" />
+<ItemName Language="FRA" Value="Double mixte, match or" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TENXDOUBLES-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T19:00:00+02:00" EndDate="2024-08-02T19:00:00+02:00" Venue="RGA" Location="TPC" SessionCode="TEN32">
+<ItemName Language="ENG" Value="Mixed Doubles Victory Ceremony" />
+<ItemName Language="FRA" Value="Double mixte, remise des médailles" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TENMSINGLES-----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T12:00:00+02:00" HideStartDate="Y" Order="1" EndDate="2024-08-03T12:00:00+02:00" HideEndDate="Y" Medal="3" Venue="RGA" Location="TPC" SessionCode="TEN33">
+<ItemName Language="ENG" Value="Men's Singles Bronze Medal Match" />
+<ItemName Language="FRA" Value="Simple hommes, match bronze" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TENWSINGLES-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T12:00:00+02:00" HideStartDate="Y" Order="2" EndDate="2024-08-03T12:00:00+02:00" HideEndDate="Y" Medal="1" Venue="RGA" Location="TPC" SessionCode="TEN33">
+<ItemName Language="ENG" Value="Women's Singles Gold Medal Match" />
+<ItemName Language="FRA" Value="Simple femmes, match or" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TENWSINGLES-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T12:00:00+02:00" HideStartDate="Y" Order="3" EndDate="2024-08-03T12:00:00+02:00" HideEndDate="Y" Venue="RGA" Location="TPC" SessionCode="TEN33">
+<ItemName Language="ENG" Value="Women's Singles Victory Ceremony" />
+<ItemName Language="FRA" Value="Simple femmes, remise des médailles" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T12:00:00+02:00" HideStartDate="Y" Order="4" EndDate="2024-08-03T12:00:00+02:00" HideEndDate="Y" Medal="1" Venue="RGA" Location="TPC" SessionCode="TEN33">
+<ItemName Language="ENG" Value="Men's Doubles Gold Medal Match" />
+<ItemName Language="FRA" Value="Double hommes, match or" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T12:00:00+02:00" HideStartDate="Y" Order="5" EndDate="2024-08-03T12:00:00+02:00" HideEndDate="Y" Venue="RGA" Location="TPC" SessionCode="TEN33">
+<ItemName Language="ENG" Value="Men's Doubles Victory Ceremony" />
+<ItemName Language="FRA" Value="Double hommes, remise des médailles" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T12:00:00+02:00" HideStartDate="Y" Order="1" EndDate="2024-08-04T12:00:00+02:00" HideEndDate="Y" Medal="3" Venue="RGA" Location="TPC" SessionCode="TEN34">
+<ItemName Language="ENG" Value="Women's Doubles Bronze Medal Match" />
+<ItemName Language="FRA" Value="Double femmes, match bronze" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TENMSINGLES-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T12:00:00+02:00" HideStartDate="Y" Order="2" EndDate="2024-08-04T12:00:00+02:00" HideEndDate="Y" Medal="1" Venue="RGA" Location="TPC" SessionCode="TEN34">
+<ItemName Language="ENG" Value="Men's Singles Gold Medal Match" />
+<ItemName Language="FRA" Value="Simple hommes, match or" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TENMSINGLES-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T12:00:00+02:00" HideStartDate="Y" Order="3" EndDate="2024-08-04T12:00:00+02:00" HideEndDate="Y" Venue="RGA" Location="TPC" SessionCode="TEN34">
+<ItemName Language="ENG" Value="Men's Singles Victory Ceremony" />
+<ItemName Language="FRA" Value="Simple hommes, remise des médailles" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T12:00:00+02:00" HideStartDate="Y" Order="4" EndDate="2024-08-04T12:00:00+02:00" HideEndDate="Y" Venue="RGA" Location="TPC" SessionCode="TEN34">
+<ItemName Language="ENG" Value="Women's Doubles Victory Ceremony" />
+<ItemName Language="FRA" Value="Double femmes, remise des médailles" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T12:00:00+02:00" HideStartDate="Y" Order="5" EndDate="2024-08-04T12:00:00+02:00" HideEndDate="Y" Medal="1" Venue="RGA" Location="TPC" SessionCode="TEN34">
+<ItemName Language="ENG" Value="Women's Doubles Gold Medal Match" />
+<ItemName Language="FRA" Value="Double femmes, match or" />
+<VenueDescription VenueName="Roland-Garros" LocationName="RG - Philippe Chatrier" />
+</Unit>
+<Unit Code="TEN-------------------DRAW000100--" PhaseType="7" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Tennis Draw" />
+<ItemName Language="FRA" Value="Tennis, tirage au sort" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------8FNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 2e tour" />
+<ItemName Language="ENG" Value="Men's Doubles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------8FNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 2e tour" />
+<ItemName Language="ENG" Value="Men's Doubles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------8FNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 2e tour" />
+<ItemName Language="ENG" Value="Men's Doubles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------8FNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 2e tour" />
+<ItemName Language="ENG" Value="Men's Doubles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------8FNL000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 2e tour" />
+<ItemName Language="ENG" Value="Men's Doubles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------8FNL000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 2e tour" />
+<ItemName Language="ENG" Value="Men's Doubles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------8FNL000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 2e tour" />
+<ItemName Language="ENG" Value="Men's Doubles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------8FNL000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 2e tour" />
+<ItemName Language="ENG" Value="Men's Doubles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------QFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, quart de finale" />
+<ItemName Language="ENG" Value="Men's Doubles Quarter-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------QFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, quart de finale" />
+<ItemName Language="ENG" Value="Men's Doubles Quarter-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------QFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, quart de finale" />
+<ItemName Language="ENG" Value="Men's Doubles Quarter-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------QFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, quart de finale" />
+<ItemName Language="ENG" Value="Men's Doubles Quarter-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------R32-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 1er tour" />
+<ItemName Language="ENG" Value="Men's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------R32-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 1er tour" />
+<ItemName Language="ENG" Value="Men's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------R32-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 1er tour" />
+<ItemName Language="ENG" Value="Men's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------R32-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 1er tour" />
+<ItemName Language="ENG" Value="Men's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------R32-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 1er tour" />
+<ItemName Language="ENG" Value="Men's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------R32-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 1er tour" />
+<ItemName Language="ENG" Value="Men's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------R32-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 1er tour" />
+<ItemName Language="ENG" Value="Men's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------R32-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 1er tour" />
+<ItemName Language="ENG" Value="Men's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------R32-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 1er tour" />
+<ItemName Language="ENG" Value="Men's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------R32-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 1er tour" />
+<ItemName Language="ENG" Value="Men's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 1er tour" />
+<ItemName Language="ENG" Value="Men's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 1er tour" />
+<ItemName Language="ENG" Value="Men's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 1er tour" />
+<ItemName Language="ENG" Value="Men's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------R32-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 1er tour" />
+<ItemName Language="ENG" Value="Men's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 1er tour" />
+<ItemName Language="ENG" Value="Men's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, 1er tour" />
+<ItemName Language="ENG" Value="Men's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------SFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, demi-finale" />
+<ItemName Language="ENG" Value="Men's Doubles Semi-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMDOUBLES-----------SFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double hommes, demi-finale" />
+<ItemName Language="ENG" Value="Men's Doubles Semi-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------8FNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Third Round" />
+<ItemName Language="FRA" Value="Simple hommes, 3e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------8FNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Third Round" />
+<ItemName Language="FRA" Value="Simple hommes, 3e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------8FNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Third Round" />
+<ItemName Language="FRA" Value="Simple hommes, 3e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------8FNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Third Round" />
+<ItemName Language="FRA" Value="Simple hommes, 3e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------8FNL000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Third Round" />
+<ItemName Language="FRA" Value="Simple hommes, 3e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------8FNL000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Third Round" />
+<ItemName Language="FRA" Value="Simple hommes, 3e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------8FNL000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Third Round" />
+<ItemName Language="FRA" Value="Simple hommes, 3e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------8FNL000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Third Round" />
+<ItemName Language="FRA" Value="Simple hommes, 3e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------QFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Quarter-final" />
+<ItemName Language="FRA" Value="Simple hommes, quart de finale" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------QFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Quarter-final" />
+<ItemName Language="FRA" Value="Simple hommes, quart de finale" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------QFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Quarter-final" />
+<ItemName Language="FRA" Value="Simple hommes, quart de finale" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------QFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Quarter-final" />
+<ItemName Language="FRA" Value="Simple hommes, quart de finale" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R32-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Second Round" />
+<ItemName Language="FRA" Value="Simple hommes, 2e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R32-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Second Round" />
+<ItemName Language="FRA" Value="Simple hommes, 2e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R32-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Second Round" />
+<ItemName Language="FRA" Value="Simple hommes, 2e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R32-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Second Round" />
+<ItemName Language="FRA" Value="Simple hommes, 2e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R32-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Second Round" />
+<ItemName Language="FRA" Value="Simple hommes, 2e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R32-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Second Round" />
+<ItemName Language="FRA" Value="Simple hommes, 2e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R32-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Second Round" />
+<ItemName Language="FRA" Value="Simple hommes, 2e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R32-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Second Round" />
+<ItemName Language="FRA" Value="Simple hommes, 2e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R32-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Second Round" />
+<ItemName Language="FRA" Value="Simple hommes, 2e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Second Round" />
+<ItemName Language="FRA" Value="Simple hommes, 2e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Second Round" />
+<ItemName Language="FRA" Value="Simple hommes, 2e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Second Round" />
+<ItemName Language="FRA" Value="Simple hommes, 2e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R32-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Second Round" />
+<ItemName Language="FRA" Value="Simple hommes, 2e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Second Round" />
+<ItemName Language="FRA" Value="Simple hommes, 2e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Second Round" />
+<ItemName Language="FRA" Value="Simple hommes, 2e tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-001700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-001800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-001900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-002000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-002100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-002200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-002300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-002400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-002500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-002600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-002700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-002800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-002900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-003000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-003100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------R64-003200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles First Round" />
+<ItemName Language="FRA" Value="Simple hommes, 1er tour" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENMSINGLES-----------SFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Singles Semi-final" />
+<ItemName Language="FRA" Value="Simple hommes, demi-finale" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TEN-------------------TMRY000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Order of play available evening before" />
+<ItemName Language="FRA" Value="Programme affiché la veille au soir" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TEN-------------------TMRY000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Order of play available evening before" />
+<ItemName Language="FRA" Value="Programme affiché la veille au soir" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TEN-------------------TMRY000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Order of play available evening before" />
+<ItemName Language="FRA" Value="Programme affiché la veille au soir" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TEN-------------------TMRY000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Order of play available evening before" />
+<ItemName Language="FRA" Value="Programme affiché la veille au soir" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TEN-------------------TMRY000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Order of play available evening before" />
+<ItemName Language="FRA" Value="Programme affiché la veille au soir" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TEN-------------------TMRY000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Order of play available evening before" />
+<ItemName Language="FRA" Value="Programme affiché la veille au soir" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TEN-------------------TMRY000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Order of play available evening before" />
+<ItemName Language="FRA" Value="Programme affiché la veille au soir" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TEN-------------------TMRY000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Order of play available evening before" />
+<ItemName Language="FRA" Value="Programme affiché la veille au soir" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TEN-------------------TMRY000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Order of play available evening before" />
+<ItemName Language="FRA" Value="Programme affiché la veille au soir" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TEN-------------------TMRY001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Order of play available evening before" />
+<ItemName Language="FRA" Value="Programme affiché la veille au soir" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TEN-------------------TMRY001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Order of play available evening before" />
+<ItemName Language="FRA" Value="Programme affiché la veille au soir" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TEN-------------------TMRY001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Order of play available evening before" />
+<ItemName Language="FRA" Value="Programme affiché la veille au soir" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TEN-------------------TMRY003100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="MS First Rnd/WS First Rnd" />
+<ItemName Language="FRA" Value="MS First Rnd/WS First Rnd" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TEN-------------------TMRY003500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="MS First Rnd/WS First Rnd" />
+<ItemName Language="FRA" Value="MS First Rnd/WS First Rnd" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TEN-------------------TMRY005100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="MS Semifinals" />
+<ItemName Language="FRA" Value="MS Semifinals" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------8FNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Doubles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------8FNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Doubles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------8FNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Doubles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------8FNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Doubles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------8FNL000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Doubles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------8FNL000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Doubles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------8FNL000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Doubles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------8FNL000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Doubles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------QFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, quart de finale" />
+<ItemName Language="ENG" Value="Women's Doubles Quarter-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------QFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, quart de finale" />
+<ItemName Language="ENG" Value="Women's Doubles Quarter-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------QFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, quart de finale" />
+<ItemName Language="ENG" Value="Women's Doubles Quarter-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------QFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, quart de finale" />
+<ItemName Language="ENG" Value="Women's Doubles Quarter-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------R32-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------R32-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------R32-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------R32-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------R32-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------R32-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------R32-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------R32-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------R32-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------R32-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------R32-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------SFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, demi-finale" />
+<ItemName Language="ENG" Value="Women's Doubles Semi-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWDOUBLES-----------SFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double femmes, demi-finale" />
+<ItemName Language="ENG" Value="Women's Doubles Semi-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------8FNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 3e tour" />
+<ItemName Language="ENG" Value="Women's Singles Third Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------8FNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 3e tour" />
+<ItemName Language="ENG" Value="Women's Singles Third Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------8FNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 3e tour" />
+<ItemName Language="ENG" Value="Women's Singles Third Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------8FNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 3e tour" />
+<ItemName Language="ENG" Value="Women's Singles Third Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------8FNL000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 3e tour" />
+<ItemName Language="ENG" Value="Women's Singles Third Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------8FNL000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 3e tour" />
+<ItemName Language="ENG" Value="Women's Singles Third Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------8FNL000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 3e tour" />
+<ItemName Language="ENG" Value="Women's Singles Third Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------8FNL000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 3e tour" />
+<ItemName Language="ENG" Value="Women's Singles Third Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------FNL-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, match bronze" />
+<ItemName Language="ENG" Value="Women's Singles Bronze Medal Match" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------QFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, quart de finale" />
+<ItemName Language="ENG" Value="Women's Singles Quarter-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------QFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, quart de finale" />
+<ItemName Language="ENG" Value="Women's Singles Quarter-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------QFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, quart de finale" />
+<ItemName Language="ENG" Value="Women's Singles Quarter-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------QFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, quart de finale" />
+<ItemName Language="ENG" Value="Women's Singles Quarter-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R32-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Singles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R32-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Singles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R32-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Singles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R32-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Singles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R32-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Singles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R32-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Singles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R32-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Singles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R32-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Singles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R32-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Singles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R32-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Singles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R32-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Singles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R32-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Singles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R32-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Singles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R32-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Singles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R32-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 2e tour" />
+<ItemName Language="ENG" Value="Women's Singles Second Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-001600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-001700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-001800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-001900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-002000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-002100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-002200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-002300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-002400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-002500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-002600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-002700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-002800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-002900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-003000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-003100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------R64-003200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, 1er tour" />
+<ItemName Language="ENG" Value="Women's Singles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------SFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, demi-finale" />
+<ItemName Language="ENG" Value="Women's Singles Semi-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENWSINGLES-----------SFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Simple femmes, demi-finale" />
+<ItemName Language="ENG" Value="Women's Singles Semi-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENXDOUBLES-----------8FNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, 1er tour" />
+<ItemName Language="ENG" Value="Mixed Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENXDOUBLES-----------8FNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, 1er tour" />
+<ItemName Language="ENG" Value="Mixed Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENXDOUBLES-----------8FNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, 1er tour" />
+<ItemName Language="ENG" Value="Mixed Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENXDOUBLES-----------8FNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, 1er tour" />
+<ItemName Language="ENG" Value="Mixed Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENXDOUBLES-----------8FNL000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, 1er tour" />
+<ItemName Language="ENG" Value="Mixed Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENXDOUBLES-----------8FNL000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, 1er tour" />
+<ItemName Language="ENG" Value="Mixed Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENXDOUBLES-----------8FNL000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, 1er tour" />
+<ItemName Language="ENG" Value="Mixed Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENXDOUBLES-----------8FNL000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, 1er tour" />
+<ItemName Language="ENG" Value="Mixed Doubles First Round" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENXDOUBLES-----------QFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, quart de finale" />
+<ItemName Language="ENG" Value="Mixed Doubles Quarter-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENXDOUBLES-----------QFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, quart de finale" />
+<ItemName Language="ENG" Value="Mixed Doubles Quarter-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENXDOUBLES-----------QFNL000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, quart de finale" />
+<ItemName Language="ENG" Value="Mixed Doubles Quarter-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENXDOUBLES-----------QFNL000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, quart de finale" />
+<ItemName Language="ENG" Value="Mixed Doubles Quarter-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENXDOUBLES-----------SFNL000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, demi-finale" />
+<ItemName Language="ENG" Value="Mixed Doubles Semi-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="TENXDOUBLES-----------SFNL000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Double mixte, demi-finale" />
+<ItemName Language="ENG" Value="Mixed Doubles Semi-final" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

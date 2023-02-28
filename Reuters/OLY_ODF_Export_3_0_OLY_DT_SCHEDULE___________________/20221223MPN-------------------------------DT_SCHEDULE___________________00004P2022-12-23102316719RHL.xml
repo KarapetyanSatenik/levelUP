@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="MPN-------------------------------" DocumentType="DT_SCHEDULE" Version="4" FeedFlag="P" Date="2022-12-23" Time="101615592" LogicalDate="2022-12-23" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="2.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="MPN01" StartDate="2024-08-08T11:00:00+02:00" EndDate="2024-08-08T17:30:00+02:00" Venue="NPA" VenueName="North Paris Arena" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="MPN01" Language="ENG" />
+</Session>
+<Session SessionCode="MPN02" StartDate="2024-08-09T13:00:00+02:00" EndDate="2024-08-09T19:00:00+02:00" Medal="2" Venue="VER" VenueName="Château de Versailles" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="MPN02" Language="ENG" />
+</Session>
+<Session SessionCode="MPN03" StartDate="2024-08-10T09:30:00+02:00" EndDate="2024-08-10T15:30:00+02:00" Medal="2" Venue="VER" VenueName="Château de Versailles" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="MPN03" Language="ENG" />
+</Session>
+<Session SessionCode="MPN04" StartDate="2024-08-10T17:30:00+02:00" EndDate="2024-08-10T20:00:00+02:00" Medal="1" Venue="VER" VenueName="Château de Versailles" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="MPN04" Language="ENG" />
+</Session>
+<Session SessionCode="MPN05" StartDate="2024-08-11T11:00:00+02:00" EndDate="2024-08-11T13:30:00+02:00" Medal="1" Venue="VER" VenueName="Château de Versailles" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="MPN05" Language="ENG" />
+</Session>
+<Unit Code="MPNMINDIVID-----------RANK0001FE--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T11:00:00+02:00" EndDate="2024-08-08T14:00:00+02:00" Venue="NPA" Location="NPA" SessionCode="MPN01">
+<ItemName Language="ENG" Value="Men's Fencing Ranking Round" />
+<ItemName Language="FRA" Value="Épreuve d'escrime - hom, tour classement" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="MPNWINDIVID-----------RANK0001FE--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T14:30:00+02:00" EndDate="2024-08-08T17:30:00+02:00" Venue="NPA" Location="NPA" SessionCode="MPN01">
+<ItemName Language="ENG" Value="Women's Fencing Ranking Round" />
+<ItemName Language="FRA" Value="Épreuve d'escrime - fem, tour classement" />
+<VenueDescription VenueName="North Paris Arena" LocationName="North Paris Arena" />
+</Unit>
+<Unit Code="MPNMINDIVID-----------SFNL0001EQ--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T13:00:00+02:00" EndDate="2024-08-09T13:35:00+02:00" Venue="VER" Location="VER" SessionCode="MPN02">
+<ItemName Language="ENG" Value="Men's SF A Riding Show Jumping" />
+<ItemName Language="FRA" Value="Men's SF A Riding Show Jumping" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNMINDIVID-----------SFNL0001FE--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T13:40:00+02:00" EndDate="2024-08-09T14:00:00+02:00" Venue="VER" Location="VER" SessionCode="MPN02">
+<ItemName Language="ENG" Value="Men's SF A Fencing Bonus Round" />
+<ItemName Language="FRA" Value="Men's SF A Fencing Bonus Round" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNMINDIVID-----------SFNL0001SW--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T14:10:00+02:00" EndDate="2024-08-09T14:25:00+02:00" Venue="VER" Location="VER" SessionCode="MPN02">
+<ItemName Language="ENG" Value="Men's SF A Swimming 200m Freestyle" />
+<ItemName Language="FRA" Value="Men's SF A Swimming 200m Freestyle" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNMINDIVID-----------SFNL0001LR--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T14:40:00+02:00" EndDate="2024-08-09T15:00:00+02:00" Medal="1" Venue="VER" Location="VER" SessionCode="MPN02">
+<ItemName Language="ENG" Value="Men's SF A Laser Run" />
+<ItemName Language="FRA" Value="Men's SF A Laser Run" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNMINDIVID-----------DRAW000100--" PhaseType="7" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T15:35:00+02:00" EndDate="2024-08-09T15:40:00+02:00" Venue="VER" Location="VER" SessionCode="MPN02">
+<ItemName Language="ENG" Value="Men's Individual - Riding Draw" />
+<ItemName Language="FRA" Value="Ind - hom, équitation de tirage au sort" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNMINDIVID-----------SFNL0002EQ--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T17:00:00+02:00" EndDate="2024-08-09T17:35:00+02:00" Venue="VER" Location="VER" SessionCode="MPN02">
+<ItemName Language="ENG" Value="Men's SF B Riding Show Jumping" />
+<ItemName Language="FRA" Value="Men's SF B Riding Show Jumping" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNMINDIVID-----------SFNL0002FE--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T17:40:00+02:00" EndDate="2024-08-09T18:00:00+02:00" Venue="VER" Location="VER" SessionCode="MPN02">
+<ItemName Language="ENG" Value="Men's SF B Fencing Bonus Round" />
+<ItemName Language="FRA" Value="Men's SF B Fencing Bonus Round" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNMINDIVID-----------SFNL0002SW--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T18:10:00+02:00" EndDate="2024-08-09T18:25:00+02:00" Venue="VER" Location="VER" SessionCode="MPN02">
+<ItemName Language="ENG" Value="Men's SF B Swimming 200m Freestyle" />
+<ItemName Language="FRA" Value="Men's SF B Swimming 200m Freestyle" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNMINDIVID-----------SFNL0002LR--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T18:40:00+02:00" EndDate="2024-08-09T19:00:00+02:00" Medal="1" Venue="VER" Location="VER" SessionCode="MPN02">
+<ItemName Language="ENG" Value="Men's SF B Laser Run" />
+<ItemName Language="FRA" Value="Men's SF B Laser Run" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNWINDIVID-----------SFNL0001EQ--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T09:30:00+02:00" EndDate="2024-08-10T10:05:00+02:00" Venue="VER" Location="VER" SessionCode="MPN03">
+<ItemName Language="ENG" Value="Women's SF A Riding Show Jumping" />
+<ItemName Language="FRA" Value="Women's SF A Riding Show Jumping" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNWINDIVID-----------SFNL0001FE--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T10:10:00+02:00" EndDate="2024-08-10T10:30:00+02:00" Venue="VER" Location="VER" SessionCode="MPN03">
+<ItemName Language="ENG" Value="Women's SF A Fencing Bonus Round" />
+<ItemName Language="FRA" Value="Women's SF A Fencing Bonus Round" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNWINDIVID-----------SFNL0001SW--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T10:30:00+02:00" EndDate="2024-08-10T10:45:00+02:00" Venue="VER" Location="VER" SessionCode="MPN03">
+<ItemName Language="ENG" Value="Women's SF A Swimming 200m Freestyle" />
+<ItemName Language="FRA" Value="Women's SF A Swimming 200m Freestyle" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNWINDIVID-----------SFNL0001LR--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T11:00:00+02:00" EndDate="2024-08-10T11:20:00+02:00" Medal="1" Venue="VER" Location="VER" SessionCode="MPN03">
+<ItemName Language="ENG" Value="Women's SF A Laser Run" />
+<ItemName Language="FRA" Value="Women's SF A Laser Run" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNWINDIVID-----------DRAW000100--" PhaseType="7" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T11:55:00+02:00" EndDate="2024-08-10T12:00:00+02:00" Venue="VER" Location="VER" SessionCode="MPN03">
+<ItemName Language="ENG" Value="Women's Individual - Riding Draw" />
+<ItemName Language="FRA" Value="Ind - fem, équitation de tirage au sort" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNWINDIVID-----------SFNL0002EQ--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T13:20:00+02:00" EndDate="2024-08-10T13:55:00+02:00" Venue="VER" Location="VER" SessionCode="MPN03">
+<ItemName Language="ENG" Value="Women's SF B Riding Show Jumping" />
+<ItemName Language="FRA" Value="Women's SF B Riding Show Jumping" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNWINDIVID-----------SFNL0002FE--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T14:00:00+02:00" EndDate="2024-08-10T14:20:00+02:00" Venue="VER" Location="VER" SessionCode="MPN03">
+<ItemName Language="ENG" Value="Women's SF B Fencing Bonus Round" />
+<ItemName Language="FRA" Value="Women's SF B Fencing Bonus Round" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNWINDIVID-----------SFNL0002SW--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T14:30:00+02:00" EndDate="2024-08-10T14:45:00+02:00" Venue="VER" Location="VER" SessionCode="MPN03">
+<ItemName Language="ENG" Value="Women's SF B Swimming 200m Freestyle" />
+<ItemName Language="FRA" Value="Women's SF B Swimming 200m Freestyle" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNWINDIVID-----------SFNL0002LR--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T15:00:00+02:00" EndDate="2024-08-10T15:20:00+02:00" Medal="1" Venue="VER" Location="VER" SessionCode="MPN03">
+<ItemName Language="ENG" Value="Women's SF B Laser Run" />
+<ItemName Language="FRA" Value="Women's SF B Laser Run" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNMINDIVID-----------FNL-0001EQ--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T17:30:00+02:00" EndDate="2024-08-10T18:05:00+02:00" Venue="VER" Location="VER" SessionCode="MPN04">
+<ItemName Language="ENG" Value="Men's Final Riding Show Jumping" />
+<ItemName Language="FRA" Value="Men's Final Riding Show Jumping" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNMINDIVID-----------FNL-0001FE--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T18:10:00+02:00" EndDate="2024-08-10T18:30:00+02:00" Venue="VER" Location="VER" SessionCode="MPN04">
+<ItemName Language="ENG" Value="Men's Final Fencing Bonus Round" />
+<ItemName Language="FRA" Value="Men's Final Fencing Bonus Round" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNMINDIVID-----------FNL-0001SW--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T18:40:00+02:00" EndDate="2024-08-10T18:55:00+02:00" Venue="VER" Location="VER" SessionCode="MPN04">
+<ItemName Language="ENG" Value="Men's Final Swimming 200m Freestyle" />
+<ItemName Language="FRA" Value="Men's Final Swimming 200m Freestyle" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNMINDIVID-----------FNL-0001LR--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T19:10:00+02:00" EndDate="2024-08-10T19:30:00+02:00" Medal="1" Venue="VER" Location="VER" SessionCode="MPN04">
+<ItemName Language="ENG" Value="Men's Final Laser Run" />
+<ItemName Language="FRA" Value="Men's Final Laser Run" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNMINDIVID-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T19:30:00+02:00" EndDate="2024-08-10T20:00:00+02:00" Venue="VER" Location="VER" SessionCode="MPN04">
+<ItemName Language="ENG" Value="Men's Victory Ceremony" />
+<ItemName Language="FRA" Value="Hommes, remise des médailles" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNWINDIVID-----------FNL-0001EQ--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T11:00:00+02:00" EndDate="2024-08-11T11:35:00+02:00" Venue="VER" Location="VER" SessionCode="MPN05">
+<ItemName Language="ENG" Value="Women's Final Riding Show Jumping" />
+<ItemName Language="FRA" Value="Women's Final Riding Show Jumping" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNWINDIVID-----------FNL-0001FE--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T11:40:00+02:00" EndDate="2024-08-11T12:00:00+02:00" Venue="VER" Location="VER" SessionCode="MPN05">
+<ItemName Language="ENG" Value="Women's Final Fencing Bonus Round" />
+<ItemName Language="FRA" Value="Women's Final Fencing Bonus Round" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNWINDIVID-----------FNL-0001SW--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T12:10:00+02:00" EndDate="2024-08-11T12:25:00+02:00" Venue="VER" Location="VER" SessionCode="MPN05">
+<ItemName Language="ENG" Value="Women's Final Swimming 200m Freestyle" />
+<ItemName Language="FRA" Value="Women's Final Swimming 200m Freestyle" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNWINDIVID-----------FNL-0001LR--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T12:40:00+02:00" EndDate="2024-08-11T13:00:00+02:00" Medal="1" Venue="VER" Location="VER" SessionCode="MPN05">
+<ItemName Language="ENG" Value="Women's Final Laser Run" />
+<ItemName Language="FRA" Value="Women's Final Laser Run" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPNWINDIVID-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T13:00:00+02:00" EndDate="2024-08-11T13:30:00+02:00" Venue="VER" Location="VER" SessionCode="MPN05">
+<ItemName Language="ENG" Value="Women's Victory Ceremony" />
+<ItemName Language="FRA" Value="Femmes, remise des médailles" />
+<VenueDescription VenueName="Château de Versailles" LocationName="Château de Versailles" />
+</Unit>
+<Unit Code="MPN-------------------MEET000100--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Modern Pentathlon Technical Meeting" />
+<ItemName Language="FRA" Value="Pentathlon moderne - réunion technique" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="MPN-------------------MEET000200--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Modern Pentathlon Technical Meeting" />
+<ItemName Language="FRA" Value="Pentathlon moderne - réunion technique" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

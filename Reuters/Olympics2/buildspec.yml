@@ -1,0 +1,18 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: 14
+    commands:
+      - /bin/bash infrastructure/helpers/fetch-git-metadata.sh
+      - githubWebhookToken=$(cat .github_token)
+      - echo "//npm.pkg.github.com/:_authToken=${githubWebhookToken}" >> resources/odf-processor/src/.npmrc
+
+  build:
+    commands:
+      - ls -lah
+      - cd resources/odf-processor
+      - ls -lah
+      - chmod +x deploy.sh
+      - /bin/bash deploy.sh

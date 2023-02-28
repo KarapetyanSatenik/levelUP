@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="HBL-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="160116607" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="HBL01" StartDate="2024-07-25T09:00:00+02:00" EndDate="2024-07-25T12:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HBL01" Language="ENG" />
+</Session>
+<Session SessionCode="HBL02" StartDate="2024-07-25T14:00:00+02:00" EndDate="2024-07-25T17:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HBL02" Language="ENG" />
+</Session>
+<Session SessionCode="HBL03" StartDate="2024-07-25T19:00:00+02:00" EndDate="2024-07-25T22:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HBL03" Language="ENG" />
+</Session>
+<Session SessionCode="HBL04" StartDate="2024-07-27T09:00:00+02:00" EndDate="2024-07-27T12:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HBL04" Language="ENG" />
+</Session>
+<Session SessionCode="HBL05" StartDate="2024-07-27T14:00:00+02:00" EndDate="2024-07-27T17:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HBL05" Language="ENG" />
+</Session>
+<Session SessionCode="HBL06" StartDate="2024-07-27T19:00:00+02:00" EndDate="2024-07-27T22:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HBL06" Language="ENG" />
+</Session>
+<Session SessionCode="HBL07" StartDate="2024-07-28T09:00:00+02:00" EndDate="2024-07-28T12:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HBL07" Language="ENG" />
+</Session>
+<Session SessionCode="HBL08" StartDate="2024-07-28T14:00:00+02:00" EndDate="2024-07-28T17:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HBL08" Language="ENG" />
+</Session>
+<Session SessionCode="HBL09" StartDate="2024-07-28T19:00:00+02:00" EndDate="2024-07-28T22:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HBL09" Language="ENG" />
+</Session>
+<Session SessionCode="HBL10" StartDate="2024-07-29T09:00:00+02:00" EndDate="2024-07-29T12:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HBL10" Language="ENG" />
+</Session>
+<Session SessionCode="HBL11" StartDate="2024-07-29T14:00:00+02:00" EndDate="2024-07-29T17:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HBL11" Language="ENG" />
+</Session>
+<Session SessionCode="HBL12" StartDate="2024-07-29T19:00:00+02:00" EndDate="2024-07-29T22:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HBL12" Language="ENG" />
+</Session>
+<Session SessionCode="HBL13" StartDate="2024-07-30T09:00:00+02:00" EndDate="2024-07-30T12:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HBL13" Language="ENG" />
+</Session>
+<Session SessionCode="HBL14" StartDate="2024-07-30T14:00:00+02:00" EndDate="2024-07-30T17:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HBL14" Language="ENG" />
+</Session>
+<Session SessionCode="HBL15" StartDate="2024-07-30T19:00:00+02:00" EndDate="2024-07-30T22:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HBL15" Language="ENG" />
+</Session>
+<Session SessionCode="HBL16" StartDate="2024-07-31T09:00:00+02:00" EndDate="2024-07-31T12:30:00+02:00" Leadin="5:0" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HBL16" Language="ENG" />
+</Session>
+<Session SessionCode="HBL17" StartDate="2024-07-31T14:00:00+02:00" EndDate="2024-07-31T17:30:00+02:00" Leadin="5:0" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HBL17" Language="ENG" />
+</Session>
+<Session SessionCode="HBL18" StartDate="2024-07-31T19:00:00+02:00" EndDate="2024-07-31T22:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HBL18" Language="ENG" />
+</Session>
+<Session SessionCode="HBL19" StartDate="2024-08-01T09:00:00+02:00" EndDate="2024-08-01T12:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HBL19" Language="ENG" />
+</Session>
+<Session SessionCode="HBL20" StartDate="2024-08-01T14:00:00+02:00" EndDate="2024-08-01T17:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HBL20" Language="ENG" />
+</Session>
+<Session SessionCode="HBL21" StartDate="2024-08-01T19:00:00+02:00" EndDate="2024-08-01T22:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HBL21" Language="ENG" />
+</Session>
+<Session SessionCode="HBL22" StartDate="2024-08-02T09:00:00+02:00" EndDate="2024-08-02T12:30:00+02:00" Leadin="5:0" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HBL22" Language="ENG" />
+</Session>
+<Session SessionCode="HBL23" StartDate="2024-08-02T14:00:00+02:00" EndDate="2024-08-02T17:30:00+02:00" Leadin="5:0" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HBL23" Language="ENG" />
+</Session>
+<Session SessionCode="HBL24" StartDate="2024-08-02T19:00:00+02:00" EndDate="2024-08-02T22:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HBL24" Language="ENG" />
+</Session>
+<Session SessionCode="HBL25" StartDate="2024-08-03T09:00:00+02:00" EndDate="2024-08-03T12:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HBL25" Language="ENG" />
+</Session>
+<Session SessionCode="HBL26" StartDate="2024-08-03T14:00:00+02:00" EndDate="2024-08-03T17:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HBL26" Language="ENG" />
+</Session>
+<Session SessionCode="HBL27" StartDate="2024-08-03T19:00:00+02:00" EndDate="2024-08-03T22:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HBL27" Language="ENG" />
+</Session>
+<Session SessionCode="HBL28" StartDate="2024-08-04T09:00:00+02:00" EndDate="2024-08-04T12:30:00+02:00" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HBL28" Language="ENG" />
+</Session>
+<Session SessionCode="HBL29" StartDate="2024-08-04T14:00:00+02:00" EndDate="2024-08-04T17:30:00+02:00" Leadin="-5:0" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HBL29" Language="ENG" />
+</Session>
+<Session SessionCode="HBL30" StartDate="2024-08-04T19:00:00+02:00" EndDate="2024-08-04T22:30:00+02:00" Leadin="-5:0" Venue="SP6" VenueName="South Paris Arena 6" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HBL30" Language="ENG" />
+</Session>
+<Session SessionCode="HBL31" StartDate="2024-08-06T09:30:00+02:00" EndDate="2024-08-06T11:30:00+02:00" Leadin="4:0" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="MOR">
+<SessionName Value="HBL31" Language="ENG" />
+</Session>
+<Session SessionCode="HBL32" StartDate="2024-08-06T13:30:00+02:00" EndDate="2024-08-06T15:30:00+02:00" Leadin="4:0" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HBL32" Language="ENG" />
+</Session>
+<Session SessionCode="HBL33" StartDate="2024-08-06T17:30:00+02:00" EndDate="2024-08-06T19:30:00+02:00" Leadin="4:0" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HBL33" Language="ENG" />
+</Session>
+<Session SessionCode="HBL34" StartDate="2024-08-06T21:30:00+02:00" EndDate="2024-08-06T23:30:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HBL34" Language="ENG" />
+</Session>
+<Session SessionCode="HBL35" StartDate="2024-08-07T09:30:00+02:00" EndDate="2024-08-07T11:30:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="MOR">
+<SessionName Value="HBL35" Language="ENG" />
+</Session>
+<Session SessionCode="HBL36" StartDate="2024-08-07T13:30:00+02:00" EndDate="2024-08-07T15:30:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HBL36" Language="ENG" />
+</Session>
+<Session SessionCode="HBL37" StartDate="2024-08-07T17:30:00+02:00" EndDate="2024-08-07T19:30:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HBL37" Language="ENG" />
+</Session>
+<Session SessionCode="HBL38" StartDate="2024-08-07T21:30:00+02:00" EndDate="2024-08-07T23:30:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HBL38" Language="ENG" />
+</Session>
+<Session SessionCode="HBL39" StartDate="2024-08-08T16:30:00+02:00" EndDate="2024-08-08T18:30:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HBL39" Language="ENG" />
+</Session>
+<Session SessionCode="HBL40" StartDate="2024-08-08T21:30:00+02:00" EndDate="2024-08-08T23:30:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HBL40" Language="ENG" />
+</Session>
+<Session SessionCode="HBL41" StartDate="2024-08-09T16:30:00+02:00" EndDate="2024-08-09T18:30:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HBL41" Language="ENG" />
+</Session>
+<Session SessionCode="HBL42" StartDate="2024-08-09T21:30:00+02:00" EndDate="2024-08-09T23:30:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="EVE">
+<SessionName Value="HBL42" Language="ENG" />
+</Session>
+<Session SessionCode="HBL43" StartDate="2024-08-10T10:00:00+02:00" EndDate="2024-08-10T12:00:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="HBL43" Language="ENG" />
+</Session>
+<Session SessionCode="HBL44" StartDate="2024-08-10T15:00:00+02:00" EndDate="2024-08-10T17:30:00+02:00" Medal="1" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HBL44" Language="ENG" />
+</Session>
+<Session SessionCode="HBL45" StartDate="2024-08-11T09:00:00+02:00" EndDate="2024-08-11T11:00:00+02:00" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="MOR">
+<SessionName Value="HBL45" Language="ENG" />
+</Session>
+<Session SessionCode="HBL46" StartDate="2024-08-11T13:30:00+02:00" EndDate="2024-08-11T16:00:00+02:00" Medal="1" Venue="LIL" VenueName="Pierre Mauroy Stadium" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="HBL46" Language="ENG" />
+</Session>
+<Unit Code="HBLWTEAM7-------------TMRY000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T09:00:00+02:00" EndDate="2024-07-25T10:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL01">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T11:00:00+02:00" EndDate="2024-07-25T12:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL01">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T14:00:00+02:00" EndDate="2024-07-25T15:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL02">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T16:00:00+02:00" EndDate="2024-07-25T17:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL02">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T19:00:00+02:00" EndDate="2024-07-25T20:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL03">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-25T21:00:00+02:00" EndDate="2024-07-25T22:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL03">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T09:00:00+02:00" EndDate="2024-07-27T10:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL04">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T11:00:00+02:00" EndDate="2024-07-27T12:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL04">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T14:00:00+02:00" EndDate="2024-07-27T15:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL05">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T16:00:00+02:00" EndDate="2024-07-27T17:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL05">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY000500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T19:00:00+02:00" EndDate="2024-07-27T20:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL06">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T21:00:00+02:00" EndDate="2024-07-27T22:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL06">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY002900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T09:00:00+02:00" EndDate="2024-07-28T10:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL07">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY003000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T11:00:00+02:00" EndDate="2024-07-28T12:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL07">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY000600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T14:00:00+02:00" EndDate="2024-07-28T15:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL08">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T16:00:00+02:00" EndDate="2024-07-28T17:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL08">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY000900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T19:00:00+02:00" EndDate="2024-07-28T20:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL09">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY001000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-28T21:00:00+02:00" EndDate="2024-07-28T22:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL09">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY000700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T09:00:00+02:00" EndDate="2024-07-29T10:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL10">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY000800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T11:00:00+02:00" EndDate="2024-07-29T12:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL10">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY000900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T14:00:00+02:00" EndDate="2024-07-29T15:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL11">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY001000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T16:00:00+02:00" EndDate="2024-07-29T17:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL11">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY001200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T19:00:00+02:00" EndDate="2024-07-29T20:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL12">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY001100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T21:00:00+02:00" EndDate="2024-07-29T22:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL12">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY001100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T09:00:00+02:00" EndDate="2024-07-30T10:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL13">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY001200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T11:00:00+02:00" EndDate="2024-07-30T12:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL13">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY001300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T14:00:00+02:00" EndDate="2024-07-30T15:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL14">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY001400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T16:00:00+02:00" EndDate="2024-07-30T17:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL14">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY001500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T19:00:00+02:00" EndDate="2024-07-30T20:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL15">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY001600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-30T21:00:00+02:00" EndDate="2024-07-30T22:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL15">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY001300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T14:00:00+02:00" EndDate="2024-07-31T15:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL16">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY001400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T16:00:00+02:00" EndDate="2024-07-31T17:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL16">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY001500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T19:00:00+02:00" EndDate="2024-07-31T20:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL17">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY001600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:00:00+02:00" EndDate="2024-07-31T22:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL17">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY001700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T19:00:00+02:00" EndDate="2024-07-31T20:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL18">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY001800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T21:00:00+02:00" EndDate="2024-07-31T22:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL18">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY001700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T09:00:00+02:00" EndDate="2024-08-01T10:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL19">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY001800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T11:00:00+02:00" EndDate="2024-08-01T12:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL19">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY001900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T14:00:00+02:00" EndDate="2024-08-01T15:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL20">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY002000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T16:00:00+02:00" EndDate="2024-08-01T17:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL20">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY002200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T19:00:00+02:00" EndDate="2024-08-01T20:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL21">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY002100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-01T21:00:00+02:00" EndDate="2024-08-01T22:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL21">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY001900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T14:00:00+02:00" EndDate="2024-08-02T15:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL22">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY002000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T16:00:00+02:00" EndDate="2024-08-02T17:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL22">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY002100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T19:00:00+02:00" EndDate="2024-08-02T20:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL23">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY002200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T21:00:00+02:00" EndDate="2024-08-02T22:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL23">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY002300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T19:00:00+02:00" EndDate="2024-08-02T20:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL24">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY002400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T21:00:00+02:00" EndDate="2024-08-02T22:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL24">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY002300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T09:00:00+02:00" EndDate="2024-08-03T10:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL25">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY002400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T11:00:00+02:00" EndDate="2024-08-03T12:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL25">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY002500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T14:00:00+02:00" EndDate="2024-08-03T15:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL26">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY002600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T16:00:00+02:00" EndDate="2024-08-03T17:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL26">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY002700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T19:00:00+02:00" EndDate="2024-08-03T20:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL27">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------TMRY002800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-03T21:00:00+02:00" EndDate="2024-08-03T22:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL27">
+<ItemName Language="ENG" Value="Women's Preliminary Phase" />
+<ItemName Language="FRA" Value="Women's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY002500--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T09:00:00+02:00" EndDate="2024-08-04T10:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL28">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY002600--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T11:00:00+02:00" EndDate="2024-08-04T12:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL28">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY002700--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T09:00:00+02:00" EndDate="2024-08-04T10:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL29">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY002800--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T11:00:00+02:00" EndDate="2024-08-04T12:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL29">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY002900--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T14:00:00+02:00" EndDate="2024-08-04T15:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL30">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------TMRY003000--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-04T16:00:00+02:00" EndDate="2024-08-04T17:30:00+02:00" Venue="SP6" Location="SP6" SessionCode="HBL30">
+<ItemName Language="ENG" Value="Men's Preliminary Phase" />
+<ItemName Language="FRA" Value="Men's Preliminary Phase" />
+<VenueDescription VenueName="South Paris Arena 6" LocationName="South Paris Arena 6" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T13:30:00+02:00" EndDate="2024-08-06T15:30:00+02:00" Venue="LIL" Location="LIL" SessionCode="HBL31">
+<ItemName Language="ENG" Value="Women's Quarterfinal" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T17:30:00+02:00" EndDate="2024-08-06T19:30:00+02:00" Venue="LIL" Location="LIL" SessionCode="HBL32">
+<ItemName Language="ENG" Value="Women's Quarterfinal" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T21:30:00+02:00" EndDate="2024-08-06T23:30:00+02:00" Venue="LIL" Location="LIL" SessionCode="HBL33">
+<ItemName Language="ENG" Value="Women's Quarterfinal" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T21:30:00+02:00" EndDate="2024-08-06T23:30:00+02:00" Venue="LIL" Location="LIL" SessionCode="HBL34">
+<ItemName Language="ENG" Value="Women's Quarterfinal" />
+<ItemName Language="FRA" Value="Femmes, quart de finale" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------QFNL000400--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T09:30:00+02:00" EndDate="2024-08-07T11:30:00+02:00" Venue="LIL" Location="LIL" SessionCode="HBL35">
+<ItemName Language="ENG" Value="Men's Quarterfinal" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------QFNL000300--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T13:30:00+02:00" EndDate="2024-08-07T15:30:00+02:00" Venue="LIL" Location="LIL" SessionCode="HBL36">
+<ItemName Language="ENG" Value="Men's Quarterfinal" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------QFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T17:30:00+02:00" EndDate="2024-08-07T19:30:00+02:00" Venue="LIL" Location="LIL" SessionCode="HBL37">
+<ItemName Language="ENG" Value="Men's Quarterfinal" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------QFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T21:30:00+02:00" EndDate="2024-08-07T23:30:00+02:00" Venue="LIL" Location="LIL" SessionCode="HBL38">
+<ItemName Language="ENG" Value="Men's Quarterfinal" />
+<ItemName Language="FRA" Value="Hommes, quart de finale" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T16:30:00+02:00" EndDate="2024-08-08T18:30:00+02:00" Venue="LIL" Location="LIL" SessionCode="HBL39">
+<ItemName Language="ENG" Value="Women's Semifinal" />
+<ItemName Language="FRA" Value="Femmes, demi-finale" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T21:30:00+02:00" EndDate="2024-08-08T23:30:00+02:00" Venue="LIL" Location="LIL" SessionCode="HBL40">
+<ItemName Language="ENG" Value="Women's Semifinal" />
+<ItemName Language="FRA" Value="Femmes, demi-finale" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:30:00+02:00" EndDate="2024-08-09T18:30:00+02:00" Venue="LIL" Location="LIL" SessionCode="HBL41">
+<ItemName Language="ENG" Value="Men's Semifinal" />
+<ItemName Language="FRA" Value="Hommes, demi-finale" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T21:30:00+02:00" EndDate="2024-08-09T23:30:00+02:00" Venue="LIL" Location="LIL" SessionCode="HBL42">
+<ItemName Language="ENG" Value="Men's Semifinal" />
+<ItemName Language="FRA" Value="Hommes, demi-finale" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T10:00:00+02:00" EndDate="2024-08-10T12:00:00+02:00" Medal="3" Venue="LIL" Location="LIL" SessionCode="HBL43">
+<ItemName Language="ENG" Value="Women's Bronze Medal Match" />
+<ItemName Language="FRA" Value="Femmes, médaille de bronze" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T15:00:00+02:00" EndDate="2024-08-10T17:00:00+02:00" Medal="1" Venue="LIL" Location="LIL" SessionCode="HBL44">
+<ItemName Language="ENG" Value="Women's Gold Medal Match" />
+<ItemName Language="FRA" Value="Femmes, médaille d'or" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T17:00:00+02:00" EndDate="2024-08-10T17:30:00+02:00" Venue="LIL" Location="LIL" SessionCode="HBL44">
+<ItemName Language="ENG" Value="Women's Victory Ceremony" />
+<ItemName Language="FRA" Value="Femmes, remise des médailles" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T09:00:00+02:00" EndDate="2024-08-11T11:00:00+02:00" Medal="3" Venue="LIL" Location="LIL" SessionCode="HBL45">
+<ItemName Language="ENG" Value="Men's Bronze Medal Match" />
+<ItemName Language="FRA" Value="Hommes, médaille de bronze" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T13:30:00+02:00" EndDate="2024-08-11T15:30:00+02:00" Medal="1" Venue="LIL" Location="LIL" SessionCode="HBL46">
+<ItemName Language="ENG" Value="Men's Gold Medal Match" />
+<ItemName Language="FRA" Value="Hommes, médaille d'or" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-11T15:30:00+02:00" EndDate="2024-08-11T16:00:00+02:00" Venue="LIL" Location="LIL" SessionCode="HBL46">
+<ItemName Language="ENG" Value="Men's Victory Ceremony" />
+<ItemName Language="FRA" Value="Hommes, remise des médailles" />
+<VenueDescription VenueName="Pierre Mauroy Stadium" LocationName="Pierre Mauroy Stadium" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPA-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPA-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPA-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPA-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPA-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPA-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPA-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPA-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPA-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPA-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPA-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPA-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPA-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPA-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPA-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPB-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPB-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPB-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPB-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPB-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPB-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPB-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPB-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPB-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPB-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPB-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPB-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPB-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPB-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLMTEAM7-------------GPB-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Hommes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Men's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPA-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPA-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPA-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPA-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPA-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPA-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPA-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPA-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPA-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPA-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPA-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPA-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPA-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPA-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPA-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe A" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group A" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPB-000100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPB-000200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPB-000300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPB-000400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPB-000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPB-000600--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPB-000700--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPB-000800--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPB-000900--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPB-001000--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPB-001100--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPB-001200--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPB-001300--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPB-001400--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="HBLWTEAM7-------------GPB-001500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Femmes, tour préliminaire - groupe B" />
+<ItemName Language="ENG" Value="Women's Preliminary Round Group B" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

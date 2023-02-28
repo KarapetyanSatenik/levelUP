@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="CLB-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="155938824" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="CLB01" StartDate="2024-08-05T10:00:00+02:00" EndDate="2024-08-05T14:00:00+02:00" Venue="LBO" VenueName="Le Bourget Climbing Venue" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="CLB01" Language="ENG" />
+</Session>
+<Session SessionCode="CLB02" StartDate="2024-08-06T10:00:00+02:00" EndDate="2024-08-06T14:00:00+02:00" Venue="LBO" VenueName="Le Bourget Climbing Venue" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="CLB02" Language="ENG" />
+</Session>
+<Session SessionCode="CLB03" StartDate="2024-08-07T10:00:00+02:00" EndDate="2024-08-07T13:15:00+02:00" Venue="LBO" VenueName="Le Bourget Climbing Venue" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="CLB03" Language="ENG" />
+</Session>
+<Session SessionCode="CLB04" StartDate="2024-08-08T10:00:00+02:00" EndDate="2024-08-08T13:15:00+02:00" Venue="LBO" VenueName="Le Bourget Climbing Venue" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="CLB04" Language="ENG" />
+</Session>
+<Session SessionCode="CLB05" StartDate="2024-08-09T10:15:00+02:00" EndDate="2024-08-09T13:20:00+02:00" Medal="1" Venue="LBO" VenueName="Le Bourget Climbing Venue" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="CLB05" Language="ENG" />
+</Session>
+<Session SessionCode="CLB06" StartDate="2024-08-10T10:15:00+02:00" EndDate="2024-08-10T13:20:00+02:00" Medal="1" Venue="LBO" VenueName="Le Bourget Climbing Venue" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="CLB06" Language="ENG" />
+</Session>
+<Unit Code="CLBMBLCOMB------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T10:00:00+02:00" EndDate="2024-08-05T12:20:00+02:00" Venue="LBO" Location="LBO" SessionCode="CLB01">
+<ItemName Language="ENG" Value="Men's Boulder &amp; Lead, Boulder Semifinal" />
+<ItemName Language="FRA" Value="Men's Boulder &amp; Lead, Boulder Semifinal" />
+<VenueDescription VenueName="Le Bourget Climbing Venue" LocationName="Le Bourget Sport Climbing" />
+</Unit>
+<Unit Code="CLBWSPEED-------------QUAL0001SD--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T13:00:00+02:00" EndDate="2024-08-05T14:00:00+02:00" Venue="LBO" Location="LBO" SessionCode="CLB01">
+<ItemName Language="ENG" Value="Women's Speed, Qualification Seeding" />
+<ItemName Language="FRA" Value="Women's Speed, Qualification Seeding" />
+<VenueDescription VenueName="Le Bourget Climbing Venue" LocationName="Le Bourget Sport Climbing" />
+</Unit>
+<Unit Code="CLBWBLCOMB------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T10:00:00+02:00" EndDate="2024-08-06T12:20:00+02:00" Venue="LBO" Location="LBO" SessionCode="CLB02">
+<ItemName Language="ENG" Value="Women's Boulder &amp; Lead, Boulder Semi" />
+<ItemName Language="FRA" Value="Women's Boulder &amp; Lead, Boulder Semi" />
+<VenueDescription VenueName="Le Bourget Climbing Venue" LocationName="Le Bourget Sport Climbing" />
+</Unit>
+<Unit Code="CLBMSPEED-------------QUAL0002EL00" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T13:00:00+02:00" EndDate="2024-08-06T14:00:00+02:00" Venue="LBO" Location="LBO" SessionCode="CLB02">
+<ItemName Language="ENG" Value="Men's Speed, Qualification Elimination" />
+<ItemName Language="FRA" Value="Men's Speed, Qualification Elimination" />
+<VenueDescription VenueName="Le Bourget Climbing Venue" LocationName="Le Bourget Sport Climbing" />
+</Unit>
+<Unit Code="CLBMBLCOMB------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T10:00:00+02:00" EndDate="2024-08-07T12:00:00+02:00" Venue="LBO" Location="LBO" SessionCode="CLB03">
+<ItemName Language="ENG" Value="Men's Boulder &amp; Lead, Lead Semifinal" />
+<ItemName Language="FRA" Value="Men's Boulder &amp; Lead, Lead Semifinal" />
+<VenueDescription VenueName="Le Bourget Climbing Venue" LocationName="Le Bourget Sport Climbing" />
+</Unit>
+<Unit Code="CLBWSPEED-------------FNL---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T12:30:00+02:00" EndDate="2024-08-07T12:50:00+02:00" Venue="LBO" Location="LBO" SessionCode="CLB03">
+<ItemName Language="ENG" Value="Women's Speed Final" />
+<ItemName Language="FRA" Value="Women's Speed Final" />
+<VenueDescription VenueName="Le Bourget Climbing Venue" LocationName="Le Bourget Sport Climbing" />
+</Unit>
+<Unit Code="CLBWSPEED-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T13:05:00+02:00" EndDate="2024-08-07T13:15:00+02:00" Venue="LBO" Location="LBO" SessionCode="CLB03">
+<ItemName Language="ENG" Value="Women's Speed Victory Ceremony" />
+<ItemName Language="FRA" Value="Women's Speed Victory Ceremony" />
+<VenueDescription VenueName="Le Bourget Climbing Venue" LocationName="Le Bourget Sport Climbing" />
+</Unit>
+<Unit Code="CLBWBLCOMB------------SFNL000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T10:00:00+02:00" EndDate="2024-08-08T12:00:00+02:00" Venue="LBO" Location="LBO" SessionCode="CLB04">
+<ItemName Language="ENG" Value="Women's Boulder &amp; Lead, Lead Semifinal" />
+<ItemName Language="FRA" Value="Women's Boulder &amp; Lead, Lead Semifinal" />
+<VenueDescription VenueName="Le Bourget Climbing Venue" LocationName="Le Bourget Sport Climbing" />
+</Unit>
+<Unit Code="CLBMSPEED-------------FNL---------" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T12:30:00+02:00" EndDate="2024-08-08T12:50:00+02:00" Venue="LBO" Location="LBO" SessionCode="CLB04">
+<ItemName Language="ENG" Value="Men's Speed Final" />
+<ItemName Language="FRA" Value="Men's Speed Final" />
+<VenueDescription VenueName="Le Bourget Climbing Venue" LocationName="Le Bourget Sport Climbing" />
+</Unit>
+<Unit Code="CLBMSPEED-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T13:05:00+02:00" EndDate="2024-08-08T13:15:00+02:00" Venue="LBO" Location="LBO" SessionCode="CLB04">
+<ItemName Language="ENG" Value="Men's Speed Victory Ceremony" />
+<ItemName Language="FRA" Value="Men's Speed Victory Ceremony" />
+<VenueDescription VenueName="Le Bourget Climbing Venue" LocationName="Le Bourget Sport Climbing" />
+</Unit>
+<Unit Code="CLBMBLCOMB------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T10:15:00+02:00" EndDate="2024-08-09T11:45:00+02:00" Venue="LBO" Location="LBO" SessionCode="CLB05">
+<ItemName Language="ENG" Value="Men's Boulder &amp; Lead, Boulder Final" />
+<ItemName Language="FRA" Value="Men's Boulder &amp; Lead, Boulder Final" />
+<VenueDescription VenueName="Le Bourget Climbing Venue" LocationName="Le Bourget Sport Climbing" />
+</Unit>
+<Unit Code="CLBMBLCOMB------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T12:10:00+02:00" EndDate="2024-08-09T12:55:00+02:00" Medal="1" Venue="LBO" Location="LBO" SessionCode="CLB05">
+<ItemName Language="ENG" Value="Men's Boulder &amp; Lead, Lead Final" />
+<ItemName Language="FRA" Value="Men's Boulder &amp; Lead, Lead Final" />
+<VenueDescription VenueName="Le Bourget Climbing Venue" LocationName="Le Bourget Sport Climbing" />
+</Unit>
+<Unit Code="CLBMBLCOMB------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T13:10:00+02:00" EndDate="2024-08-09T13:20:00+02:00" Venue="LBO" Location="LBO" SessionCode="CLB05">
+<ItemName Language="ENG" Value="Men's Boulder &amp; Lead Victory Ceremony" />
+<ItemName Language="FRA" Value="Men's Boulder &amp; Lead Victory Ceremony" />
+<VenueDescription VenueName="Le Bourget Climbing Venue" LocationName="Le Bourget Sport Climbing" />
+</Unit>
+<Unit Code="CLBWBLCOMB------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T10:15:00+02:00" EndDate="2024-08-10T11:45:00+02:00" Venue="LBO" Location="LBO" SessionCode="CLB06">
+<ItemName Language="ENG" Value="Women's Boulder &amp; Lead, Boulder Final" />
+<ItemName Language="FRA" Value="Women's Boulder &amp; Lead, Boulder Final" />
+<VenueDescription VenueName="Le Bourget Climbing Venue" LocationName="Le Bourget Sport Climbing" />
+</Unit>
+<Unit Code="CLBWBLCOMB------------FNL-000200--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T12:10:00+02:00" EndDate="2024-08-10T12:55:00+02:00" Medal="1" Venue="LBO" Location="LBO" SessionCode="CLB06">
+<ItemName Language="ENG" Value="Women's Boulder &amp; Lead, Lead Final" />
+<ItemName Language="FRA" Value="Women's Boulder &amp; Lead, Lead Final" />
+<VenueDescription VenueName="Le Bourget Climbing Venue" LocationName="Le Bourget Sport Climbing" />
+</Unit>
+<Unit Code="CLBWBLCOMB------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T13:10:00+02:00" EndDate="2024-08-10T13:20:00+02:00" Venue="LBO" Location="LBO" SessionCode="CLB06">
+<ItemName Language="ENG" Value="Women's Boulder &amp; Lead Victory Ceremony" />
+<ItemName Language="FRA" Value="Women's Boulder &amp; Lead Victory Ceremony" />
+<VenueDescription VenueName="Le Bourget Climbing Venue" LocationName="Le Bourget Sport Climbing" />
+</Unit>
+<Unit Code="CLB-------------------MEET000100--" PhaseType="4" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="FRA" Value="Escalade - réunion capitaines d'équipe" />
+<ItemName Language="ENG" Value="Sport Climbing Team Captains Meeting" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="CLBMSPEED-------------QUAL0001SD--" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Men's Speed, Qualification Seeding" />
+<ItemName Language="FRA" Value="Men's Speed, Qualification Seeding" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+<Unit Code="CLBWSPEED-------------QUAL0002EL00" PhaseType="3" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Women's Speed, Qualification Elimination" />
+<ItemName Language="FRA" Value="Women's Speed, Qualification Elimination" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>

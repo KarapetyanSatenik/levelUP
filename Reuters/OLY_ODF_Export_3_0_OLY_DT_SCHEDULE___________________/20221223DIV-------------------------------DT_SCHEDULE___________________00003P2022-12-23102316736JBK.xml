@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdfBody CompetitionCode="OG2024" DocumentCode="DIV-------------------------------" DocumentType="DT_SCHEDULE" Version="3" FeedFlag="P" Date="2022-12-19" Time="160019366" LogicalDate="2022-12-19" Source="OMS">
+<Competition>
+<ExtendedInfos>
+<ExtendedInfo Type="CS" Code="VERSION" Value="1.01" />
+<ExtendedInfo Type="CS" Code="STATUS" Value="APPROVED" />
+</ExtendedInfos>
+<Session SessionCode="DIV01" StartDate="2024-07-27T11:00:00+02:00" EndDate="2024-07-27T12:00:00+02:00" Medal="1" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="DIV01" Language="ENG" />
+</Session>
+<Session SessionCode="DIV02" StartDate="2024-07-29T11:00:00+02:00" EndDate="2024-07-29T12:00:00+02:00" Medal="1" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="DIV02" Language="ENG" />
+</Session>
+<Session SessionCode="DIV03" StartDate="2024-07-31T11:00:00+02:00" EndDate="2024-07-31T12:00:00+02:00" Medal="1" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="DIV03" Language="ENG" />
+</Session>
+<Session SessionCode="DIV04" StartDate="2024-08-02T11:00:00+02:00" EndDate="2024-08-02T12:00:00+02:00" Medal="1" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="DIV04" Language="ENG" />
+</Session>
+<Session SessionCode="DIV05" StartDate="2024-08-05T09:45:00+02:00" EndDate="2024-08-05T12:00:00+02:00" Leadin="5:15" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="DIV05" Language="ENG" />
+</Session>
+<Session SessionCode="DIV06" StartDate="2024-08-05T15:00:00+02:00" EndDate="2024-08-05T17:00:00+02:00" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="DIV06" Language="ENG" />
+</Session>
+<Session SessionCode="DIV07" StartDate="2024-08-06T10:00:00+02:00" EndDate="2024-08-06T12:00:00+02:00" Leadin="5:0" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="DIV07" Language="ENG" />
+</Session>
+<Session SessionCode="DIV08" StartDate="2024-08-06T15:00:00+02:00" EndDate="2024-08-06T17:00:00+02:00" Medal="1" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="DIV08" Language="ENG" />
+</Session>
+<Session SessionCode="DIV09" StartDate="2024-08-07T10:00:00+02:00" EndDate="2024-08-07T12:00:00+02:00" Leadin="5:0" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="DIV09" Language="ENG" />
+</Session>
+<Session SessionCode="DIV10" StartDate="2024-08-07T15:00:00+02:00" EndDate="2024-08-07T17:00:00+02:00" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="DIV10" Language="ENG" />
+</Session>
+<Session SessionCode="DIV11" StartDate="2024-08-08T10:00:00+02:00" EndDate="2024-08-08T12:00:00+02:00" Leadin="5:0" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="DIV11" Language="ENG" />
+</Session>
+<Session SessionCode="DIV12" StartDate="2024-08-08T15:00:00+02:00" EndDate="2024-08-08T17:00:00+02:00" Medal="1" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="DIV12" Language="ENG" />
+</Session>
+<Session SessionCode="DIV13" StartDate="2024-08-09T10:00:00+02:00" EndDate="2024-08-09T12:00:00+02:00" Leadin="5:0" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="DIV13" Language="ENG" />
+</Session>
+<Session SessionCode="DIV14" StartDate="2024-08-09T15:00:00+02:00" EndDate="2024-08-09T17:00:00+02:00" Medal="1" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="DIV14" Language="ENG" />
+</Session>
+<Session SessionCode="DIV15" StartDate="2024-08-10T10:00:00+02:00" EndDate="2024-08-10T12:00:00+02:00" Leadin="5:0" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="ALL">
+<SessionName Value="DIV15" Language="ENG" />
+</Session>
+<Session SessionCode="DIV16" StartDate="2024-08-10T15:00:00+02:00" EndDate="2024-08-10T17:00:00+02:00" Medal="1" Venue="AQC" VenueName="Aquatics Centre" SessionStatus="SCHEDULED" SessionType="AFT">
+<SessionName Value="DIV16" Language="ENG" />
+</Session>
+<Unit Code="DIVW3MTEAM2-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T11:00:00+02:00" EndDate="2024-07-27T11:50:00+02:00" Medal="1" Venue="AQC" Location="AQC" SessionCode="DIV01">
+<ItemName Language="ENG" Value="Women's Synchronised 3m Springboard Fnl" />
+<ItemName Language="FRA" Value="Tremplin 3m synchronisé - femmes" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVW3MTEAM2-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-07-27T11:50:00+02:00" EndDate="2024-07-27T12:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="DIV01">
+<ItemName Language="ENG" Value="Women's Sync 3m Springboard VC" />
+<ItemName Language="FRA" Value="Tremplin 3m synchro. fem., remise méd." />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVM10MTEAM2----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T11:00:00+02:00" EndDate="2024-07-29T11:50:00+02:00" Medal="1" Venue="AQC" Location="AQC" SessionCode="DIV02">
+<ItemName Language="ENG" Value="Men's Synchronised 10m Platform Final" />
+<ItemName Language="FRA" Value="Haut vol 10m synchronisé - hommes" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVM10MTEAM2----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-07-29T11:50:00+02:00" EndDate="2024-07-29T12:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="DIV02">
+<ItemName Language="ENG" Value="Men's Sync. 10m Platform VC" />
+<ItemName Language="FRA" Value="Haut vol 10m synchro. hom., remise méd." />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVW10MTEAM2----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T11:00:00+02:00" EndDate="2024-07-31T11:50:00+02:00" Medal="1" Venue="AQC" Location="AQC" SessionCode="DIV03">
+<ItemName Language="ENG" Value="Women's Synchronised 10m Platform Final" />
+<ItemName Language="FRA" Value="Haut vol 10m synchronisé - femmes" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVW10MTEAM2----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-07-31T11:50:00+02:00" EndDate="2024-07-31T12:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="DIV03">
+<ItemName Language="ENG" Value="Women's Sync 10m Platform VC" />
+<ItemName Language="FRA" Value="Haut vol 10m synchro. fem., remise méd." />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVM3MTEAM2-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T11:00:00+02:00" EndDate="2024-08-02T11:50:00+02:00" Medal="1" Venue="AQC" Location="AQC" SessionCode="DIV04">
+<ItemName Language="ENG" Value="Men's Synchronised 3m Springboard Final" />
+<ItemName Language="FRA" Value="Tremplin 3m synchronisé - hommes" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVM3MTEAM2-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-02T11:50:00+02:00" EndDate="2024-08-02T12:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="DIV04">
+<ItemName Language="ENG" Value="Men's Sync 3m Springboard VC" />
+<ItemName Language="FRA" Value="Tremplin 3m synchro. hom., remise méd." />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVW10M---------------PREL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T15:00:00+02:00" EndDate="2024-08-05T17:15:00+02:00" Venue="AQC" Location="AQC" SessionCode="DIV05">
+<ItemName Language="ENG" Value="Women's 10m Platform Preliminary" />
+<ItemName Language="FRA" Value="Haut vol 10m - femmes, éliminatoires" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVW10M---------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-05T15:00:00+02:00" EndDate="2024-08-05T17:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="DIV06">
+<ItemName Language="ENG" Value="Women's 10m Platform Semifinal" />
+<ItemName Language="FRA" Value="Haut vol 10m - femmes, demi-finale" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVM3M----------------PREL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T15:00:00+02:00" EndDate="2024-08-06T17:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="DIV07">
+<ItemName Language="ENG" Value="Men's 3m Springboard Preliminary" />
+<ItemName Language="FRA" Value="Tremplin 3m - hommes, éliminatoires" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVW10M---------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T15:00:00+02:00" EndDate="2024-08-06T16:40:00+02:00" Medal="1" Venue="AQC" Location="AQC" SessionCode="DIV08">
+<ItemName Language="ENG" Value="Women's 10m Platform Final" />
+<ItemName Language="FRA" Value="Haut vol 10m - femmes, finale" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVW10M---------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-06T16:50:00+02:00" EndDate="2024-08-06T17:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="DIV08">
+<ItemName Language="ENG" Value="Women's 10m Platform Victory Ceremony" />
+<ItemName Language="FRA" Value="Haut vol 10m - femmes, remise médailles" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVM3M----------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T15:00:00+02:00" EndDate="2024-08-07T17:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="DIV09">
+<ItemName Language="ENG" Value="Men's 3m Springboard Semifinal" />
+<ItemName Language="FRA" Value="Tremplin 3m - hommes, demi-finale" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVW3M----------------PREL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-07T15:00:00+02:00" EndDate="2024-08-07T17:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="DIV10">
+<ItemName Language="ENG" Value="Women's 3m Springboard Preliminary" />
+<ItemName Language="FRA" Value="Tremplin 3m - femmes, éliminatoires" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVW3M----------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T15:00:00+02:00" EndDate="2024-08-08T17:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="DIV11">
+<ItemName Language="ENG" Value="Women's 3m Springboard Semifinal" />
+<ItemName Language="FRA" Value="Tremplin 3m - femmes, demi-finale" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVM3M----------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T15:00:00+02:00" EndDate="2024-08-08T16:40:00+02:00" Medal="1" Venue="AQC" Location="AQC" SessionCode="DIV12">
+<ItemName Language="ENG" Value="Men's 3m Springboard Final" />
+<ItemName Language="FRA" Value="Tremplin 3m - hommes, finale" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVM3M----------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-08T16:50:00+02:00" EndDate="2024-08-08T17:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="DIV12">
+<ItemName Language="ENG" Value="Men's 3m Springboard Victory Ceremony" />
+<ItemName Language="FRA" Value="Tremplin 3m - hommes, remise médailles" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVM10M---------------PREL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T15:00:00+02:00" EndDate="2024-08-09T17:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="DIV13">
+<ItemName Language="ENG" Value="Men's 10m Platform Preliminary" />
+<ItemName Language="FRA" Value="Haut vol 10m - hommes, éliminatoires" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVW3M----------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T15:00:00+02:00" EndDate="2024-08-09T16:40:00+02:00" Medal="1" Venue="AQC" Location="AQC" SessionCode="DIV14">
+<ItemName Language="ENG" Value="Women's 3m Springboard Final" />
+<ItemName Language="FRA" Value="Tremplin 3m - femmes, finale" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVW3M----------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-09T16:50:00+02:00" EndDate="2024-08-09T17:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="DIV14">
+<ItemName Language="ENG" Value="Women's 3m Springboard Victory Ceremony" />
+<ItemName Language="FRA" Value="Tremplin 3m - femmes, remise médailles" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVM10M---------------SFNL000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T15:00:00+02:00" EndDate="2024-08-10T17:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="DIV15">
+<ItemName Language="ENG" Value="Men's 10m Platform Semifinal" />
+<ItemName Language="FRA" Value="Haut vol 10m - hommes, demi-finale" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVM10M---------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T15:00:00+02:00" EndDate="2024-08-10T16:40:00+02:00" Medal="1" Venue="AQC" Location="AQC" SessionCode="DIV16">
+<ItemName Language="ENG" Value="Men's 10m Platform Final" />
+<ItemName Language="FRA" Value="Haut vol 10m - hommes, finale" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIVM10M---------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" StartDate="2024-08-10T16:50:00+02:00" EndDate="2024-08-10T17:00:00+02:00" Venue="AQC" Location="AQC" SessionCode="DIV16">
+<ItemName Language="ENG" Value="Men's 10m Platform Victory Ceremony" />
+<ItemName Language="FRA" Value="Haut vol 10m - hommes, remise médailles" />
+<VenueDescription VenueName="Aquatics Centre" LocationName="Aquatics Centre" />
+</Unit>
+<Unit Code="DIV-------------------DRAW000100--" PhaseType="7" ScheduleStatus="UNSCHEDULED" Venue="TBD" Location="TBD">
+<ItemName Language="ENG" Value="Diving Draw" />
+<ItemName Language="FRA" Value="Plongeon, tirage au sort" />
+<VenueDescription VenueName="TBD" LocationName="TBD" />
+</Unit>
+</Competition>
+</OdfBody>
