@@ -28,16 +28,8 @@
         "description": "Preliminary Round - Group A"
     },
     {
-        "code": "HEAT",
-        "description": "Heats"
-    },
-    {
         "code": "MEET",
-        "description": "Team Captains' Meeting"
-    },
-    {
-        "code": "PREL",
-        "description": "Round Robin"
+        "description": "Meeting"
     },
     {
         "code": "QFNL",
@@ -49,7 +41,7 @@
     },
     {
         "code": "TRNO",
-        "description": "Official Training"
+        "description": "Training"
     },
     {
         "code": "ZERO",
@@ -80,7 +72,259 @@
         "description": "Official Training"
     },
     {
+        "code": "BRN",
+        "description": "Bronze"
+    },
+    {
+        "code": "BYE",
+        "description": "BYE"
+    },
+    {
+        "code": "CDL",
+        "description": "Competition delayed"
+    },
+    {
+        "code": "CDLW",
+        "description": "Competition delayed - Weather conditions"
+    },
+    {
+        "code": "100-",
+        "description": "100m"
+    },
+    {
+        "code": "100H",
+        "description": "100m Hurdles"
+    },
+    {
+        "code": "110H",
+        "description": "110m Hurdles"
+    },
+    {
+        "code": "1500",
+        "description": "1500M"
+    },
+    {
+        "code": "200-",
+        "description": "200M"
+    },
+    {
+        "code": "400-",
+        "description": "400M"
+    },
+    {
+        "code": "800-",
+        "description": "800M"
+    },
+    {
+        "code": "COMP",
+        "description": "Jumping"
+    },
+    {
+        "code": "DRSS",
+        "description": "Dressage"
+    },
+    {
+        "code": "DT--",
+        "description": "Discus Throw"
+    },
+    {
+        "code": "ELIM",
+        "description": "Elimination Race 3/4"
+    },
+    {
+        "code": "GP--",
+        "description": "Group play stage"
+    },
+    {
+        "code": "GPA-",
+        "description": "Group play stage - Group A"
+    },
+    {
+        "code": "GPB-",
+        "description": "Group play stage - Group B"
+    },
+    {
+        "code": "GPC-",
+        "description": "Group play stage - Group C"
+    },
+    {
+        "code": "GPD-",
+        "description": "Group play stage - Group D"
+    },
+    {
+        "code": "GPE-",
+        "description": "Group play stage - Group E"
+    },
+    {
+        "code": "GPF-",
+        "description": "Group play stage - Group F"
+    },
+    {
+        "code": "GPFR",
+        "description": "Grand Prix Freestyle"
+    },
+    {
+        "code": "GPG-",
+        "description": "Group play stage - Group G"
+    },
+    {
+        "code": "GPH-",
+        "description": "Group play stage - Group H"
+    },
+    {
+        "code": "GPI-",
+        "description": "Group play stage - Group I"
+    },
+    {
+        "code": "GPJ-",
+        "description": "Group play stage - Group J"
+    },
+    {
+        "code": "GPK-",
+        "description": "Group play stage - Group K"
+    },
+    {
+        "code": "GPL-",
+        "description": "Group play stage - Group L"
+    },
+    {
+        "code": "GPM-",
+        "description": "Group play stage - Group M"
+    },
+    {
+        "code": "GPN-",
+        "description": "Group play stage - Group N"
+    },
+    {
+        "code": "GPO-",
+        "description": "Group play stage - Group O"
+    },
+    {
+        "code": "GPP-",
+        "description": "Group play stage - Group P"
+    },
+    {
+        "code": "GPSP",
+        "description": "Grand Prix Special"
+    },
+    {
         "code": "HEAT",
         "description": "Heats"
+    },
+    {
+        "code": "HJ--",
+        "description": "High Jump"
+    },
+    {
+        "code": "HTST",
+        "description": "Jumping Test"
+    },
+    {
+        "code": "INSP",
+        "description": "Horse Inspection"
+    },
+    {
+        "code": "JT--",
+        "description": "Javelin Throw"
+    },
+    {
+        "code": "JUMP",
+        "description": "Jumping"
+    },
+    {
+        "code": "LJ--",
+        "description": "Long Jump"
+    },
+    {
+        "code": "LL--",
+        "description": "Lucky Loser"
+    },
+    {
+        "code": "PREL",
+        "description": "Preliminary Round"
+    },
+    {
+        "code": "PTS-",
+        "description": "Points Race 4/4"
+    },
+    {
+        "code": "PV--",
+        "description": "Pole Vault"
+    },
+    {
+        "code": "R128",
+        "description": "Preliminary Round"
+    },
+    {
+        "code": "R32-",
+        "description": "Elimination Round of 32"
+    },
+    {
+        "code": "R64-",
+        "description": "Elimination Round of 64"
+    },
+    {
+        "code": "RANK",
+        "description": "Fencing Ranking Round"
+    },
+    {
+        "code": "REP-",
+        "description": "Repechage"
+    },
+    {
+        "code": "REP1",
+        "description": "Repechage 1"
+    },
+    {
+        "code": "REP2",
+        "description": "Repechage 2"
+    },
+    {
+        "code": "REP3",
+        "description": "1/8 Finals Repechages"
+    },
+    {
+        "code": "REPF",
+        "description": "Contests for Bronze Medals"
+    },
+    {
+        "code": "RESV",
+        "description": "Reserve"
+    },
+    {
+        "code": "RND1",
+        "description": "Round 1"
+    },
+    {
+        "code": "SCR-",
+        "description": "Scratch Race 1/4"
+    },
+    {
+        "code": "SESS",
+        "description": "Session"
+    },
+    {
+        "code": "SF5-",
+        "description": "Classifications 5-8"
+    },
+    {
+        "code": "SF9-",
+        "description": "Placing 9-12"
+    },
+    {
+        "code": "SP--",
+        "description": "Shot Put"
+    },
+    {
+        "code": "TEMP",
+        "description": "Tempo Race 2/4"
+    },
+    {
+        "code": "TMRY",
+        "description": "Schedule"
+    },
+    {
+        "code": "XC--",
+        "description": "Cross Country"
     }
 ]
