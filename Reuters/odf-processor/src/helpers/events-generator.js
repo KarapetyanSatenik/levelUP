@@ -162,11 +162,6 @@ function generateUnitEvents(commonData, units) {
       unit["$"]["ScheduleStatus"] === "POSTPONED"
     ) {
       unitEventBody.startDate = dateTimeForEvents.startDate;
-    }
-    if (
-      unit["$"]["ScheduleStatus"] === "UNSCHEDULED" ||
-      unit["$"]["ScheduleStatus"] === "CANCELLED"
-    ) {
       unitEventBody.endDate = dateTimeForEvents.endDate;
     }
     if (unit["$"]["HideStartDate"]) {
@@ -178,6 +173,8 @@ function generateUnitEvents(commonData, units) {
     return unitEventBody;
   });
 }
+
+
 
 let xmlParsedBodyToJson = {
   OdfBody: {
@@ -200,6 +197,44 @@ let xmlParsedBodyToJson = {
           Codes: "WOG-2022-3.10",
         },
         Session: [
+          {
+            $: {
+              SessionCode: "ARC01",
+              StartDate: "2022-03-05T10:00:00+08:00",
+              EndDate: "2022-03-05T15:05:00+08:00",
+              Venue: "ZBT",
+              VenueName: "Zhangjiakou National Biathlon Centre",
+              Medal: "Y",
+              SessionType: "MOR",
+            },
+            SessionName: [
+              {
+                $: {
+                  Language: "ENG",
+                  Value: "Athletics Session 1",
+                },
+              },
+            ],
+          },
+          {
+            $: {
+              SessionCode: "ARC01",
+              StartDate: "2022-03-05T10:00:00+08:00",
+              EndDate: "2022-03-05T15:05:00+08:00",
+              Venue: "ZBT",
+              VenueName: "Zhangjiakou National Biathlon Centre",
+              Medal: "Y",
+              SessionType: "MOR",
+            },
+            SessionName: [
+              {
+                $: {
+                  Language: "ENG",
+                  Value: "Athletics Session 1",
+                },
+              },
+            ],
+          },
           {
             $: {
               SessionCode: "ARC01",
@@ -370,10 +405,10 @@ let xmlParsedBodyToJson = {
   },
 };
 eventsGenerator(xmlParsedBodyToJson).then((res) => {
-  //   console.log("unit", res.OlympicsUnit);
-  for (let i = 0; i < res.OlympicsSession.length; i++) {
-    console.log(res.OlympicsUnit[i]);
-  }
+    console.log("SESSION", res.OlympicsSession.length);
+  // for (let i = 0; i < res.OlympicsSession.length; i++) {
+  //   console.log(res.OlympicsUnit[i]);
+  // }
 });
 
 module.exports = {
