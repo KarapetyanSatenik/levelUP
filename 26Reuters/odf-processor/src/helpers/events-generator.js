@@ -79,6 +79,9 @@ function getSessionType(commonData, typeId) {
   return sessionType;
 }
 
+const getItemName = (arr) =>
+  arr.find((el) => el["$"]["Language"] === "ENG")["$"]["Value"];
+
 function generateSessionEvents(commonData, session) {
   return session.map((session) => {
     const sportType = getSportType(
@@ -135,7 +138,8 @@ function generateUnitEvents(commonData, units) {
         phaseType: unit["$"]["PhaseType"],
         eventStage: eventStage,
         medal: unit["$"]["Medal"],
-        itemName: unit["ItemName"][0]["$"]["Value"],
+        itemName: getItemName(unit["ItemName"]),
+    
         sessionCode: unit["$"]["SessionCode"],
         startDateTime: unit["$"]["StartDate"],
         eventStatus: {
@@ -153,9 +157,6 @@ function generateUnitEvents(commonData, units) {
       startDate: unit["$"]["StartDate"],
       endDate: unit["$"]["EndDate"],
     };
-    if (unit["ItemName"] && eventStage) {
-      unitEventBody.eventBody.eventName = `${sportType} - ${unit["ItemName"][0]["$"]["Value"]} - ${eventStage}`;
-    }
     if (
       unit["$"]["ScheduleStatus"] === "UNSCHEDULED" ||
       unit["$"]["ScheduleStatus"] === "CANCELLED" ||
@@ -167,14 +168,17 @@ function generateUnitEvents(commonData, units) {
     if (unit["$"]["HideStartDate"]) {
       unitEventBody.eventBody.hideStartDate = unit["$"]["HideStartDate"];
     }
+    console.log(
+      `${sportType} - ${getItemName(unit['ItemName'])}`,);
     if (unit["$"]["HideEndDate"]) {
       unitEventBody.eventBody.hideEndDate = unit["$"]["HideEndDate"];
     }
+
+    unitEventBody.eventBody.eventName = `${unitEventBody.eventBody.sportType} -
+     ${unitEventBody.eventBody.itemName}`;
     return unitEventBody;
   });
 }
-
-
 
 let xmlParsedBodyToJson = {
   OdfBody: {
@@ -405,7 +409,7 @@ let xmlParsedBodyToJson = {
   },
 };
 eventsGenerator(xmlParsedBodyToJson).then((res) => {
-    console.log("SESSION", res.OlympicsSession.length);
+  console.log("SESSION", res.OlympicsUnit);
   // for (let i = 0; i < res.OlympicsSession.length; i++) {
   //   console.log(res.OlympicsUnit[i]);
   // }
