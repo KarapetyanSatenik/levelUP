@@ -63,10 +63,15 @@ function getSportType(commonData, sportCodeId) {
   return sportType;
 }
 
-function getEventStage(commonData, stageId) {
+function getEventStage(commonData, sportType, stageId, gender) {
   let eventStage;
   commonData.sportsSpecificCodes.find((sport) => {
-    if (stageId === sport.code) eventStage = sport.description;
+    if (
+      stageId === sport.code &&
+      sportType === sport.sport &&
+      gender === sport.gender
+    )
+      eventStage = sport.description;
   });
   return eventStage;
 }
@@ -81,6 +86,11 @@ function getSessionType(commonData, typeId) {
 
 const getItemName = (arr) =>
   arr.find((el) => el["$"]["Language"] === "ENG")["$"]["Value"];
+
+function generateEventName(sportType, itemName) {
+  const lastItem = sportType.split(" ");
+  return `${lastItem[lastItem.length - 1]} - ${itemName}`;
+}
 
 function generateSessionEvents(commonData, session) {
   return session.map((session) => {
@@ -118,12 +128,14 @@ function generateSessionEvents(commonData, session) {
 
 function generateUnitEvents(commonData, units) {
   return units.map((unit) => {
-    const eventStage = getEventStage(
-      commonData,
-      unit["$"]["Code"].substr(22, 4)
-    );
     const sportType = getSportType(commonData, unit["$"]["Code"].substr(0, 3));
     const gender = getValueOfGender(commonData, unit["$"]["Code"][3]);
+    const eventStage = getEventStage(
+      commonData,
+      unit["$"]["Code"].substr(0, 3),
+      unit["$"]["Code"].substr(22, 4),
+      unit["$"]["Code"][3]
+    );
     const unitEventBody = {
       publisherId: "d90972a3-65a5-447d-ae7b-084b8df9786d",
       clientEventId: unit["$"]["Code"],
@@ -136,10 +148,10 @@ function generateUnitEvents(commonData, units) {
         sportType: sportType,
         gender: gender,
         phaseType: unit["$"]["PhaseType"],
+        eventName: generateEventName(sportType, getItemName(unit["ItemName"])),
         eventStage: eventStage,
         medal: unit["$"]["Medal"],
         itemName: getItemName(unit["ItemName"]),
-    
         sessionCode: unit["$"]["SessionCode"],
         startDateTime: unit["$"]["StartDate"],
         eventStatus: {
@@ -168,14 +180,10 @@ function generateUnitEvents(commonData, units) {
     if (unit["$"]["HideStartDate"]) {
       unitEventBody.eventBody.hideStartDate = unit["$"]["HideStartDate"];
     }
-    console.log(
-      `${sportType} - ${getItemName(unit['ItemName'])}`,);
     if (unit["$"]["HideEndDate"]) {
       unitEventBody.eventBody.hideEndDate = unit["$"]["HideEndDate"];
     }
 
-    unitEventBody.eventBody.eventName = `${unitEventBody.eventBody.sportType} -
-     ${unitEventBody.eventBody.itemName}`;
     return unitEventBody;
   });
 }
@@ -183,10 +191,10 @@ function generateUnitEvents(commonData, units) {
 let xmlParsedBodyToJson = {
   OdfBody: {
     $: {
-      CompetitionCode: "OWG2022",
-      DocumentCode: "TRU-------------------------------",
+      CompetitionCode: "OG2024",
+      DocumentCode: "GAR-------------------------------",
       DocumentType: "DT_SCHEDULE_UPDATE",
-      Version: "2688",
+      Version: "3",
       Language: "ENG",
       FeedFlag: "P",
       Date: "2022-02-17",
@@ -300,8 +308,8 @@ let xmlParsedBodyToJson = {
         Unit: [
           {
             $: {
-              Code: "FBL-IHO-------------------3D------",
-              PhaseType: "2",
+              Code: "GARM1APPH-------------FNL-000001--",
+              PhaseType: "3",
               ScheduleStatus: "SCHEDULED",
               StartDate: "2022-02-17T12:00:00+08:00",
               HideStartDate: "N",
@@ -317,7 +325,7 @@ let xmlParsedBodyToJson = {
               {
                 $: {
                   Language: "ENG",
-                  Value: "Men's Practice Men's Pre-Game SVK",
+                  Value: "Men's Pommel Horse Final",
                 },
               },
               {
@@ -352,7 +360,7 @@ let xmlParsedBodyToJson = {
           },
           {
             $: {
-              Code: "BDMMSINGLES-----------FNL-0001----",
+              Code: "GAR-------------------MEET000001--",
               PhaseType: "2",
               ScheduleStatus: "SCHEDULED",
               StartDate: "2022-02-17T12:00:00+08:00",
@@ -370,7 +378,7 @@ let xmlParsedBodyToJson = {
               {
                 $: {
                   Language: "ENG",
-                  Value: "Men's Practice Men's Pre-Game SVK",
+                  Value: "Artistic Gymnastics - Orientation Meeting",
                 },
               },
               {
@@ -410,9 +418,6 @@ let xmlParsedBodyToJson = {
 };
 eventsGenerator(xmlParsedBodyToJson).then((res) => {
   console.log("SESSION", res.OlympicsUnit);
-  // for (let i = 0; i < res.OlympicsSession.length; i++) {
-  //   console.log(res.OlympicsUnit[i]);
-  // }
 });
 
 module.exports = {
