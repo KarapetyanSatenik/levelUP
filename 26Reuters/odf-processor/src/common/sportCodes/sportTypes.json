@@ -161,10 +161,6 @@
       "sportCode": "BOX"
     },
     {
-      "sport": "BMX Racing",
-      "sportCode": "BMX"
-    },
-    {
       "sport": "Trampoline",
       "sportCode": "GTR"
     },
@@ -281,16 +277,8 @@
       "sportCode": "WRE"
     },
     {
-      "sport": "Olympic Arts Festival",
-      "sportCode": "ART"
-    },
-    {
       "sport": "Training (Unofficial)",
       "sportCode": "TRU"
-    },
-    {
-      "sport": "Olympic Village",
-      "sportCode": "OLV"
     },
     {
       "sport": "GEN",
@@ -301,10 +289,6 @@
       "sportCode": "AQU"
     },
     {
-      "sport": "3x3 Basketball",
-      "sportCode": "BK3"
-    },
-    {
       "sport": "Basketball Sport",
       "sportCode": "BSK"
     },
@@ -313,36 +297,12 @@
       "sportCode": "BMF"
     },
     {
-      "sport": "Cycling BMX Racing",
-      "sportCode": "BMX"
-    },
-    {
       "sport": "Baseball/Softball",
       "sportCode": "BSB"
     },
     {
       "sport": "Canoe Sport",
       "sportCode": "CAS"
-    },
-    {
-      "sport": "Sport Climbing",
-      "sportCode": "CLB"
-    },
-    {
-      "sport": "Cycling Road",
-      "sportCode": "CRD"
-    },
-    {
-      "sport": "Canoe Slalom",
-      "sportCode": "CSL"
-    },
-    {
-      "sport": "Canoe Sprint",
-      "sportCode": "CSP"
-    },
-    {
-      "sport": "Cycling Track",
-      "sportCode": "CTR"
     },
     {
       "sport": "Cycling Sport",
@@ -361,20 +321,12 @@
       "sportCode": "EVE"
     },
     {
-      "sport": "Trampoline Gymnastics",
-      "sportCode": "GTR"
-    },
-    {
       "sport": "Gymnastics Sport",
       "sportCode": "GYM"
     },
     {
       "sport": "Karate",
       "sportCode": "KTE"
-    },
-    {
-      "sport": "Cycling Mountain Bike",
-      "sportCode": "MTB"
     },
     {
       "sport": "Rugby",
@@ -431,10 +383,6 @@
     {
       "sport": "Nordic Skiing",
       "sportCode": "NSK"
-    },
-    {
-      "sport": "Wheelchair Curling",
-      "sportCode": "CUR"
     },
     {
       "sport": "Aikido",
