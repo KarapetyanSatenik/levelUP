@@ -87,6 +87,16 @@ function getSessionType(commonData, typeId) {
 const getItemName = (arr) =>
   arr.find((el) => el['$']['Language'] === 'ENG')['$']['Value'];
 
+const generateEventSlug = (eventTypeCode, sportType, { eventBody }) => {
+  let competitionCode = eventBody.competition.code;
+  const year = competitionCode.slice(competitionCode.indexOf('2'));
+  if (eventTypeCode === 'OlympicsUnit') {
+    return `OLYMPICS-${year}-${sportType}/${eventBody.itemName}-${eventBody.phaseType}`.toUpperCase();
+  } else {
+    return `OLYMPICS-${year}-${sportType}`.toUpperCase();
+  }
+};
+
 function generateSessionEvents(commonData, session) {
   return session.map((session) => {
     const sportType = getSportType(
@@ -94,7 +104,7 @@ function generateSessionEvents(commonData, session) {
       session['$']['SessionCode'].substr(0, 3)
     );
     const sessionType = getSessionType(commonData, session['$']['SessionType']);
-    return {
+    const sessionEventBody = {
       publisherId: 'd90972a3-65a5-447d-ae7b-084b8df9786d',
       clientEventId: session['$']['SessionCode'],
       eventTypeCode: 'OlympicsSession',
@@ -118,6 +128,12 @@ function generateSessionEvents(commonData, session) {
       startDate: session['$']['StartDate'],
       endDate: session['$']['EndDate'],
     };
+    sessionEventBody.eventSlug = generateEventSlug(
+      'OlympicsSession',
+      sportType,
+      sessionEventBody
+    );
+    return sessionEventBody;
   });
 }
 
@@ -164,6 +180,9 @@ function generateUnitEvents(commonData, units) {
       startDate: unit['$']['StartDate'],
       endDate: unit['$']['EndDate'],
     };
+
+    unitEventBody.eventSlug = generateEventSlug('OlympicsUnit', sportType, unitEventBody);
+
     if (
       unit['$']['ScheduleStatus'] === 'UNSCHEDULED' ||
       unit['$']['ScheduleStatus'] === 'CANCELLED' ||
@@ -182,6 +201,7 @@ function generateUnitEvents(commonData, units) {
     return unitEventBody;
   });
 }
+
 
 let xmlParsedBodyToJson = {
   OdfBody: {
