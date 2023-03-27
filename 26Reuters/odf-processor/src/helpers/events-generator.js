@@ -184,9 +184,7 @@ function generateUnitEvents(commonData, units) {
     unitEventBody.eventSlug = generateEventSlug('OlympicsUnit', sportType, unitEventBody);
 
     if (
-      unit['$']['ScheduleStatus'] === 'UNSCHEDULED' ||
-      unit['$']['ScheduleStatus'] === 'CANCELLED' ||
-      unit['$']['ScheduleStatus'] === 'POSTPONED'
+      unit['$']['ScheduleStatus'] === 'UNSCHEDULED'
     ) {
       unitEventBody.startDate = dateTimeForEvents.startDate;
       unitEventBody.endDate = dateTimeForEvents.endDate;
