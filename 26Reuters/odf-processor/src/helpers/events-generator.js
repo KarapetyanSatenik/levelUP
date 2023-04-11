@@ -122,7 +122,7 @@ function generateSessionEvents(commonData, session) {
         },
       },
       eventLocation: {
-        venue: session['$']['Venue'],
+        Venue: session['$']['Venue'],
         VenueName: session['$']['VenueName'],
       },
       startDate: session['$']['StartDate'],
