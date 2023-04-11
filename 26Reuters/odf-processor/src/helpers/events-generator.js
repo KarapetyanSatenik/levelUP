@@ -90,16 +90,13 @@ const getItemName = (arr) =>
   const generateEventSlug = (eventTypeCode, sportType, { eventBody }) => {
     let competitionCode = eventBody.competition.code;
     const year = competitionCode.slice(2, 6);
+    const competitionType = competitionCode.startsWith('PG') ? 'PARALYMPICS' : 'OLYMPICS'
     if (eventTypeCode === 'OlympicsUnit') {
-      return `${
-        competitionCode.startsWith('PG') ? 'PARALYMPICS' : 'OLYMPICS'
-      }-${year}-${sportType}/${eventBody.itemName}-${
+      return `${competitionType}-${year}-${sportType}/${eventBody.itemName}-${
         eventBody.phaseType
       }`.toUpperCase();
     } else {
-      return `${
-        competitionCode.startsWith('PG') ? 'PARALYMPICS' : 'OLYMPICS'
-      }-${year}-${sportType}`.toUpperCase();
+      return `${competitionType}-${year}-${sportType}`.toUpperCase();
     }
   };
 
