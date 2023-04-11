@@ -87,15 +87,21 @@ function getSessionType(commonData, typeId) {
 const getItemName = (arr) =>
   arr.find((el) => el['$']['Language'] === 'ENG')['$']['Value'];
 
-const generateEventSlug = (eventTypeCode, sportType, { eventBody }) => {
-  let competitionCode = eventBody.competition.code;
-  const year = competitionCode.slice(competitionCode.indexOf('2'));
-  if (eventTypeCode === 'OlympicsUnit') {
-    return `OLYMPICS-${year}-${sportType}/${eventBody.itemName}-${eventBody.phaseType}`.toUpperCase();
-  } else {
-    return `OLYMPICS-${year}-${sportType}`.toUpperCase();
-  }
-};
+  const generateEventSlug = (eventTypeCode, sportType, { eventBody }) => {
+    let competitionCode = eventBody.competition.code;
+    const year = competitionCode.slice(2, 6);
+    if (eventTypeCode === 'OlympicsUnit') {
+      return `${
+        competitionCode.startsWith('PG') ? 'PARALYMPICS' : 'OLYMPICS'
+      }-${year}-${sportType}/${eventBody.itemName}-${
+        eventBody.phaseType
+      }`.toUpperCase();
+    } else {
+      return `${
+        competitionCode.startsWith('PG') ? 'PARALYMPICS' : 'OLYMPICS'
+      }-${year}-${sportType}`.toUpperCase();
+    }
+  };
 
 function generateSessionEvents(commonData, session) {
   return session.map((session) => {
