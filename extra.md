@@ -143,3 +143,5 @@ Otherwise, the operation with the property is carried on, the object gets the te
 This example clearly shows that primitives are not objects.
 
 They can’t store additional data.
+
+console.log is a function, that returns undefined.
