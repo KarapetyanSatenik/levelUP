@@ -20,6 +20,15 @@ Promise.resolve().then(() => {
 });
 Promise.resolve().then(() => console.log("this is Promise.resolve 3"));
 
+// ex 2. 1
+
+const f = () => {
+  process.nextTick(() => console.log(1));
+  Promise.resolve().then(() => console.log(2));
+};
+f();
+Promise.resolve().then(f);
+
 /** Experiment 3 - microtask queues are executed before timer queue */
 
 setTimeout(() => console.log("this is setTimeout 1"), 0);
@@ -192,3 +201,33 @@ setImmediate(() => console.log("this is setImmediate 1"));
 setTimeout(() => console.log("this is setTimeout 1"), 0);
 Promise.resolve().then(() => console.log("this is Promise.resolve 1"));
 process.nextTick(() => console.log("this is process.nextTick 1"));
+
+
+// ex 15
+
+
+const fs = require("fs");
+fs.readFile("./file.txt", (err,data) => {
+    console.log(2);
+    console.log(data);
+    setImmediate(() => {
+        console.log(3);
+    });
+});
+
+setImmediate(() => {
+    console.log(1);
+});
+
+fs.readFile("./file.txt", (err,data) => {
+    console.log(5);
+    console.log(data);
+    setImmediate(() => {
+        console.log(6);
+    });
+
+});
+
+setImmediate(() => {
+    console.log(8);
+});
