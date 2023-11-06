@@ -1,0 +1,2 @@
+You can log into AWS and spin up a virtual server, called an instance.
+This service is called Amazon Elastic Compute Cloud, or EC2, and it's one of the most widely used services in the AWS. Amazon EC2 allows you to launch applications and servers when you need them without upfront financial commitments. It's integrated with many other AWS services, is reliable and secure, and allows you or your company to quickly and inexpensively spin up instances of virtual servers for all of your different needs.
