@@ -4,7 +4,7 @@ Authentication is the process of verifying the identity of a user, system, or en
 ## Authorization:
 Authorization is the process of determining whether an authenticated user has the necessary permissions to access a particular resource or perform a specific action. Once a user's identity is verified through authentication, authorization comes into play to control what that user can do within the system. Authorization involves defining access control rules, such as what actions (read, write, delete, etc.) a user is allowed to perform on specific resources.
 
-In simpler terms:
+In simpler terms: 
 
 - Authentication answers the question, "Who are you?"
 - Authorization answers the question, "What are you allowed to do?"
