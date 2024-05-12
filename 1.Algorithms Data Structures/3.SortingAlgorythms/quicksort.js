@@ -1,40 +1,26 @@
-const sortArrayByParity = function (nums = [14, 6, 7, 83]) {
-  const evens = [];
-  const odds = [];
-  nums
-    .sort((a, b) => a - b)
-    .forEach((el) => {
-      el % 2 === 0 ? evens.push(el) : odds.push(el);
-    });
-  evens.push(...odds);
-  return evens;
-};
-
-console.log(sortArrayByParity());
-
-const sortArrayByParity1 = function (nums = [14, 6, 7, 83]) {
-  const result = [];
-  nums
-    .sort((a, b) => a - b)
-    .forEach((el) => {
-      el % 2 === 0 ? result.push(el) : result.unshift(el);
-    });
-  return evens;
-};
-
-console.log(sortArrayByParity1());
-
-const sortArrayByParity2 = function (nums) {
-  let oddIdx = 0;
-
-  for (let i = 0; i < nums.length; i++) {
-    if (nums[i] % 2 === 0) {
-      [nums[i], nums[oddIdx]] = [nums[oddIdx], nums[i]];
-      oddIdx++;
-    }
+function quickSort(arr) {
+  if (arr.length <= 1) {
+      return arr;
   }
+  
+  // Choose a pivot element (e.g., the last element)
+  const pivot = arr[arr.length - 1];
+  const left = [];
+  const right = [];
+  
+  // Partition the array into two sub-arrays around the pivot
+  for (let i = 0; i < arr.length - 1; i++) {
+      if (arr[i] < pivot) {
+          left.push(arr[i]);
+      } else {
+          right.push(arr[i]);
+      }
+  }
+  
+  // Recursively sort the left and right sub-arrays and concatenate them with the pivot
+  return [...quickSort(left), pivot, ...quickSort(right)];
+}
 
-  return nums;
-};
-
-console.log(sortArrayByParity2([14, 6, 7, 83]));
+// Example usage:
+const myArray = [4, 2, 7, 1, 3];
+console.log(quickSort(myArray)); // Output: [1, 2, 3, 4, 7]
