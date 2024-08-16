@@ -11,6 +11,17 @@ In simpler terms:
 
 Together, these concepts ensure that only legitimate users gain access to resources they are entitled to use, enhancing security and privacy within a system.
 
+Authentication can be done in several ways, including:
+
+- Multi-factor authentication (MFA)
+- Password-based authentication
+- Token-based authentication
+- Single sign-on (SSO)
+
+Authorization
+- Role-based access control
+- Permission-based access control
+- Access control lists (ACLs)
 
 
 
