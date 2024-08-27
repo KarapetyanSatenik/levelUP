@@ -1,13 +1,13 @@
-const a = new Promise((r, j) => {
-  r(3);
-});
+// const a = Promise.all([Promise.resolve(3), Promise.resolve(4)]);
 
-const b = Promise.all([
-  new Promise((resolve) => setTimeout(() => resolve(1), 3000)), // 1
-  new Promise((resolve) => setTimeout(() => resolve(2), 2000)), // 2
-  new Promise((resolve) => setTimeout(() => resolve(3), 1000)), // 3
-]);
+// console.log(a);
+// a.then(console.log);
 
-b.then((a) => {
-  console.log(a);
-});
+class Person {
+  constructor() {
+    this.a = 45;
+    console.log(45);
+  }
+}
+
+console.log(new Person.constructor());
