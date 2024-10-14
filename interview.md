@@ -201,3 +201,32 @@ Examples: Observer, Strategy, Command.
 
 In essence, design patterns help you write code in a cleaner and more efficient way, solving common problems with proven method
  
+
+ Polymorphism
+param/method overriding - child overrides parent method
+. One is the method and parameter overriding, where the child overrides a parent method.
+ 
+2. method overloading - same name methods, js doesn't supprt this
+Polymorphism - TypeScript: Object-Oriented Programming Video Tutorial | LinkedIn Learning, formerly Lynda.com
+Polymorphism is one of those big CS-heavy words most people don't know. You actually have already covered it without you knowing.
+ 
+Private means it's quite literally only accessible in the class itself. It doesn't matter if it's a child.
+ 
+class User {
+  private age:number
+  constructor(age) {
+    this.age = age;
+  }
+ 
+  getAge() {
+    return this.age;
+  }
+}
+ 
+}
+ 
+Public vs. private - TypeScript: Object-Oriented Programming Video Tutorial | LinkedIn Learning, formerly Lynda.com
+In this video, dive deep into how you can protect your objects with the private keyword and open up and make them accessible with the public keyword.
+ 
+if we have protected method in one class we can't write implements in another class
+ 
