@@ -230,3 +230,12 @@ In this video, dive deep into how you can protect your objects with the private 
  
 if we have protected method in one class we can't write implements in another class
  
+ ## Join
+
+ With the help of join we can select multiple fields from different tables.
+ But here we can join not only tables from the same db but also from different tables.
+ Also we can join table with itself but here using aliases is important otherwise it won't work.
+
+ ```js
+SELECT * FROM employees e JOIN employees m ON e.reports_to = m.employee_id
+ ```
